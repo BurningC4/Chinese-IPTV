@@ -1,0 +1,988 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="cctv1">
+    <display-name lang="zh">CCTV-1 综合</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="cctv2">
+    <display-name lang="zh">CCTV-2 财经</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="cctv3">
+    <display-name lang="zh">CCTV-3 文艺</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="cctv4">
+    <display-name lang="zh">CCTV-4 中文国际</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="cctv5">
+    <display-name lang="zh">CCTV-5 体育</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="cctv5plus">
+    <display-name lang="zh">CCTV体育赛事</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="cctv6">
+    <display-name lang="zh">CCTV-6 电影</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="cctv7">
+    <display-name lang="zh">CCTV-7 军事农业</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="cctv8">
+    <display-name lang="zh">CCTV-8 电视剧</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="cctvjilu">
+    <display-name lang="zh">CCTV-9 纪录</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="cctv10">
+    <display-name lang="zh">CCTV-10 科教</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="cctv11">
+    <display-name lang="zh">CCTV-11 戏曲</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="cctv12">
+    <display-name lang="zh">CCTV-12 社会与法</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="cctv13">
+    <display-name lang="zh">CCTV-13 新闻</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="cctvchild">
+    <display-name lang="zh">CCTV-14 少儿</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="cctv15">
+    <display-name lang="zh">CCTV-15 音乐</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="cctvfxzl">
+    <display-name lang="zh">CCTV发现之旅</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="cctvlaogushi">
+    <display-name lang="zh">CCTV老故事</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="cetv1">
+    <display-name lang="zh">CETV-1</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="cetv2">
+    <display-name lang="zh">CETV-2</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="cetv3">
+    <display-name lang="zh">CETV-3</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="cetv4">
+    <display-name lang="zh">CETV-4</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="btv1">
+    <display-name lang="zh">北京卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="dongfang">
+    <display-name lang="zh">东方卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="hunan">
+    <display-name lang="zh">湖南卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="shandong">
+    <display-name lang="zh">山东卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="zhejiang">
+    <display-name lang="zh">浙江卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="jiangsu">
+    <display-name lang="zh">江苏卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="guangdong">
+    <display-name lang="zh">广东卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="dongnan">
+    <display-name lang="zh">东南卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="anhui">
+    <display-name lang="zh">安徽卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="gansu">
+    <display-name lang="zh">甘肃卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="liaoning">
+    <display-name lang="zh">辽宁卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="travel">
+    <display-name lang="zh">旅游卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="neimenggu">
+    <display-name lang="zh">内蒙古卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="ningxia">
+    <display-name lang="zh">宁夏卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="qinghai">
+    <display-name lang="zh">青海卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="xiamen">
+    <display-name lang="zh">厦门卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="yunnan">
+    <display-name lang="zh">云南卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="chongqing">
+    <display-name lang="zh">重庆卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="jiangxi">
+    <display-name lang="zh">江西卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="shan1xi">
+    <display-name lang="zh">山西卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="shenzhen">
+    <display-name lang="zh">深圳卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="sichuan">
+    <display-name lang="zh">四川卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="tianjin">
+    <display-name lang="zh">天津卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="guangxi">
+    <display-name lang="zh">广西卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="guizhou">
+    <display-name lang="zh">贵州卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="hebei">
+    <display-name lang="zh">河北卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="henan">
+    <display-name lang="zh">河南卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="heilongjiang">
+    <display-name lang="zh">黑龙江卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="hubei">
+    <display-name lang="zh">湖北卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="jilin">
+    <display-name lang="zh">吉林卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="yanbian">
+    <display-name lang="zh">延边卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="xizang">
+    <display-name lang="zh">西藏卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="xinjiang">
+    <display-name lang="zh">新疆卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="bingtuan">
+    <display-name lang="zh">兵团卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="btvchild">
+    <display-name lang="zh">卡酷少儿</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="gaoerfu">
+    <display-name lang="zh">高尔夫</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <programme start="20190924212700 +0000" stop="20190924220000 +0000" channel="cctv1">
+    <title lang="zh">人与自然-2019-269</title>
+  </programme>
+  <programme start="20190924220000 +0000" stop="20190925003800 +0000" channel="cctv1">
+    <title lang="zh">朝闻天下</title>
+  </programme>
+  <programme start="20190924214100 +0000" stop="20190924221500 +0000" channel="cctv2">
+    <title lang="zh">生财有道-2019-9-24</title>
+  </programme>
+  <programme start="20190924221500 +0000" stop="20190924230000 +0000" channel="cctv2">
+    <title lang="zh">经济信息联播</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190925010000 +0000" channel="cctv2">
+    <title lang="zh">第一时间</title>
+  </programme>
+  <programme start="20190924214600 +0000" stop="20190924232600 +0000" channel="cctv3">
+    <title lang="zh">综艺喜乐汇-2019-2106</title>
+  </programme>
+  <programme start="20190924232600 +0000" stop="20190924233000 +0000" channel="cctv3">
+    <title lang="zh">精彩一刻-2019-138《不忘初心》4分25秒（新）</title>
+  </programme>
+  <programme start="20190924233000 +0000" stop="20190924233500 +0000" channel="cctv3">
+    <title lang="zh">庆祝中华人民共和国成立70周年优秀歌曲MV-这条路</title>
+  </programme>
+  <programme start="20190924233500 +0000" stop="20190924233900 +0000" channel="cctv3">
+    <title lang="zh">庆祝中华人民共和国成立70周年优秀歌曲MV-乡愁</title>
+  </programme>
+  <programme start="20190924233900 +0000" stop="20190924235200 +0000" channel="cctv3">
+    <title lang="zh">文化十分-2019-191</title>
+  </programme>
+  <programme start="20190924235200 +0000" stop="20190925011700 +0000" channel="cctv3">
+    <title lang="zh">综艺喜乐汇-2019-621</title>
+  </programme>
+  <programme start="20190924215500 +0000" stop="20190924220300 +0000" channel="cctv4">
+    <title lang="zh">精彩一刻-2019-97《我爱你中国》7分40秒</title>
+  </programme>
+  <programme start="20190924220300 +0000" stop="20190924223000 +0000" channel="cctv4">
+    <title lang="zh">海峡两岸-2019-267</title>
+  </programme>
+  <programme start="20190924223000 +0000" stop="20190924230000 +0000" channel="cctv4">
+    <title lang="zh">今日亚洲</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190924233000 +0000" channel="cctv4">
+    <title lang="zh">中国新闻</title>
+  </programme>
+  <programme start="20190924233000 +0000" stop="20190925000000 +0000" channel="cctv4">
+    <title lang="zh">今日关注</title>
+  </programme>
+  <programme start="20190924210500 +0000" stop="20190924220000 +0000" channel="cctv5">
+    <title lang="zh">实况录像-2019年光州国际泳联世锦赛 游泳精选1</title>
+  </programme>
+  <programme start="20190924220000 +0000" stop="20190924223000 +0000" channel="cctv5">
+    <title lang="zh">欧冠开场哨</title>
+  </programme>
+  <programme start="20190924223000 +0000" stop="20190924230000 +0000" channel="cctv5">
+    <title lang="zh">健身动起来</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190925000300 +0000" channel="cctv5">
+    <title lang="zh">体育晨报</title>
+  </programme>
+  <programme start="20190924213000 +0000" stop="20190924230000 +0000" channel="cctv5plus">
+    <title lang="zh">实况录像-2019/2020英格兰足球超级联赛第6轮 曼城-沃特福德</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190925003000 +0000" channel="cctv5plus">
+    <title lang="zh">实况录像-2019年乒乓球亚锦赛 女子团体决赛</title>
+  </programme>
+  <programme start="20190924212700 +0000" stop="20190924220900 +0000" channel="cctv6">
+    <title lang="zh">旋风女队</title>
+  </programme>
+  <programme start="20190924220900 +0000" stop="20190924235200 +0000" channel="cctv6">
+    <title lang="zh">房子房子我爱你</title>
+  </programme>
+  <programme start="20190924235200 +0000" stop="20190925015300 +0000" channel="cctv6">
+    <title lang="zh">我的长征</title>
+  </programme>
+  <programme start="20190924220300 +0000" stop="20190924223100 +0000" channel="cctv7">
+    <title lang="zh">兵器面面观-2019-54</title>
+  </programme>
+  <programme start="20190924223100 +0000" stop="20190924225800 +0000" channel="cctv7">
+    <title lang="zh">2019军工记忆第二季-1</title>
+  </programme>
+  <programme start="20190924225800 +0000" stop="20190924233000 +0000" channel="cctv7">
+    <title lang="zh">军事纪实(国防军事)-2019-39</title>
+  </programme>
+  <programme start="20190924233000 +0000" stop="20190925000000 +0000" channel="cctv7">
+    <title lang="zh">国防军事早报</title>
+  </programme>
+  <programme start="20190924215900 +0000" stop="20190924224600 +0000" channel="cctv8">
+    <title lang="zh">黄土高天第6集</title>
+  </programme>
+  <programme start="20190924224600 +0000" stop="20190924233200 +0000" channel="cctv8">
+    <title lang="zh">黄土高天第7集</title>
+  </programme>
+  <programme start="20190924233200 +0000" stop="20190924234200 +0000" channel="cctv8">
+    <title lang="zh">星推荐-2019年9月-24</title>
+  </programme>
+  <programme start="20190924234200 +0000" stop="20190925003700 +0000" channel="cctv8">
+    <title lang="zh">五星红旗迎风飘扬第12集</title>
+  </programme>
+  <programme start="20190924210500 +0000" stop="20190924220400 +0000" channel="cctvjilu">
+    <title lang="zh">特别呈现2019-238 城市24小时﹒深圳</title>
+  </programme>
+  <programme start="20190924220400 +0000" stop="20190924223300 +0000" channel="cctvjilu">
+    <title lang="zh">时代2019-212</title>
+  </programme>
+  <programme start="20190924223300 +0000" stop="20190924230400 +0000" channel="cctvjilu">
+    <title lang="zh">真相2019-212</title>
+  </programme>
+  <programme start="20190924230400 +0000" stop="20190924235900 +0000" channel="cctvjilu">
+    <title lang="zh">自然2019-246</title>
+  </programme>
+  <programme start="20190924235900 +0000" stop="20190925005500 +0000" channel="cctvjilu">
+    <title lang="zh">万象2019-247</title>
+  </programme>
+  <programme start="20190924220000 +0000" stop="20190924222700 +0000" channel="cctv10">
+    <title lang="zh">地理·中国-2019-267</title>
+  </programme>
+  <programme start="20190924222700 +0000" stop="20190924222900 +0000" channel="cctv10">
+    <title lang="zh">欣赏-2019-4</title>
+  </programme>
+  <programme start="20190924222900 +0000" stop="20190924232400 +0000" channel="cctv10">
+    <title lang="zh">我爱发明-2019-190</title>
+  </programme>
+  <programme start="20190924232400 +0000" stop="20190925002200 +0000" channel="cctv10">
+    <title lang="zh">2019真相特别节目-253</title>
+  </programme>
+  <programme start="20190924170200 +0000" stop="20190924220600 +0000" channel="cctv11">
+    <title lang="zh">再见</title>
+  </programme>
+  <programme start="20190924220600 +0000" stop="20190924231600 +0000" channel="cctv11">
+    <title lang="zh">九州大戏台-2017-57好戏连连看 豫剧电影《草根秀才》选场</title>
+  </programme>
+  <programme start="20190924231600 +0000" stop="20190924235900 +0000" channel="cctv11">
+    <title lang="zh">名段欣赏-2019-240王玥波《隋唐演义》第41回</title>
+  </programme>
+  <programme start="20190924235900 +0000" stop="20190925005000 +0000" channel="cctv11">
+    <title lang="zh">跟我学-2019-65郭霄珍教黄梅戏《天仙配》选段2</title>
+  </programme>
+  <programme start="20190924181600 +0000" stop="20190924220000 +0000" channel="cctv12">
+    <title lang="zh">再见</title>
+  </programme>
+  <programme start="20190924220000 +0000" stop="20190924222400 +0000" channel="cctv12">
+    <title lang="zh">夕阳红-2019-267</title>
+  </programme>
+  <programme start="20190924222400 +0000" stop="20190924224600 +0000" channel="cctv12">
+    <title lang="zh">道德观察(日播版)-2019-267</title>
+  </programme>
+  <programme start="20190924224600 +0000" stop="20190924232000 +0000" channel="cctv12">
+    <title lang="zh">法律讲堂（文史版）-2019-267</title>
+  </programme>
+  <programme start="20190924232000 +0000" stop="20190924234400 +0000" channel="cctv12">
+    <title lang="zh">平安365-2019-267</title>
+  </programme>
+  <programme start="20190924234400 +0000" stop="20190925000700 +0000" channel="cctv12">
+    <title lang="zh">夕阳红-2019-267</title>
+  </programme>
+  <programme start="20190924220000 +0000" stop="20190925010000 +0000" channel="cctv13">
+    <title lang="zh">朝闻天下</title>
+  </programme>
+  <programme start="20190924220000 +0000" stop="20190924221500 +0000" channel="cctvchild">
+    <title lang="zh">动画片15分钟-2017-14</title>
+  </programme>
+  <programme start="20190924221500 +0000" stop="20190924230000 +0000" channel="cctvchild">
+    <title lang="zh">绿野寻踪-2019-31</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190924233000 +0000" channel="cctvchild">
+    <title lang="zh">智慧树-2019-184</title>
+  </programme>
+  <programme start="20190924233000 +0000" stop="20190925000000 +0000" channel="cctvchild">
+    <title lang="zh">大风车-2019-184</title>
+  </programme>
+  <programme start="20190924220000 +0000" stop="20190924223300 +0000" channel="cctv15">
+    <title lang="zh">百年歌声-广场舞金曲2019-97</title>
+  </programme>
+  <programme start="20190924223300 +0000" stop="20190924230600 +0000" channel="cctv15">
+    <title lang="zh">中国音乐电视-2019-268</title>
+  </programme>
+  <programme start="20190924230600 +0000" stop="20190924233200 +0000" channel="cctv15">
+    <title lang="zh">今乐坛-2019-176</title>
+  </programme>
+  <programme start="20190924233200 +0000" stop="20190925000900 +0000" channel="cctv15">
+    <title lang="zh">风华国乐-2019-225</title>
+  </programme>
+  <programme start="20190924220100 +0000" stop="20190924223300 +0000" channel="cctvlaogushi">
+    <title lang="zh">亲历\t《那些古人教我的事》（十）</title>
+  </programme>
+  <programme start="20190924223300 +0000" stop="20190924231400 +0000" channel="cctvlaogushi">
+    <title lang="zh">重访\t《前门大碗茶和叩门鸭子》</title>
+  </programme>
+  <programme start="20190924231400 +0000" stop="20190924234700 +0000" channel="cctvlaogushi">
+    <title lang="zh">往事钩沉\t《正阳门外之字号》（四）</title>
+  </programme>
+  <programme start="20190924234700 +0000" stop="20190925002100 +0000" channel="cctvlaogushi">
+    <title lang="zh">人文地图\t《中南半岛风情录之大城故事》（下）</title>
+  </programme>
+  <programme start="20190924220000 +0000" stop="20190924224000 +0000" channel="cetv1">
+    <title lang="zh">于成龙-第035集</title>
+  </programme>
+  <programme start="20190924224000 +0000" stop="20190924225200 +0000" channel="cetv1">
+    <title lang="zh">0640广告专题2019</title>
+  </programme>
+  <programme start="20190924225200 +0000" stop="20190924225600 +0000" channel="cetv1">
+    <title lang="zh">CETV1导视（壮阔东方潮 中国高铁）</title>
+  </programme>
+  <programme start="20190924225600 +0000" stop="20190924230000 +0000" channel="cetv1">
+    <title lang="zh">CETV1导视（中国梦歌曲之加油干）</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190924234000 +0000" channel="cetv1">
+    <title lang="zh">于成龙-第036集</title>
+  </programme>
+  <programme start="20190924234000 +0000" stop="20190924235200 +0000" channel="cetv1">
+    <title lang="zh">0740广告专题2019</title>
+  </programme>
+  <programme start="20190924235200 +0000" stop="20190924235300 +0000" channel="cetv1">
+    <title lang="zh">CETV1导视（读书修葺心灵 陈数）</title>
+  </programme>
+  <programme start="20190924235300 +0000" stop="20190925003300 +0000" channel="cetv1">
+    <title lang="zh">大秦帝国之纵横-第039集</title>
+  </programme>
+  <programme start="20190924214300 +0000" stop="20190924223500 +0000" channel="cetv2">
+    <title lang="zh">初级会计-第003集</title>
+  </programme>
+  <programme start="20190924223500 +0000" stop="20190924224000 +0000" channel="cetv2">
+    <title lang="zh">CETV2导视10</title>
+  </programme>
+  <programme start="20190924224000 +0000" stop="20190924233200 +0000" channel="cetv2">
+    <title lang="zh">数据结构-第023集</title>
+  </programme>
+  <programme start="20190924233200 +0000" stop="20190925002400 +0000" channel="cetv2">
+    <title lang="zh">操作系统-第003集</title>
+  </programme>
+  <programme start="20190924220000 +0000" stop="20190924230300 +0000" channel="cetv3">
+    <title lang="zh">寰宇地理</title>
+  </programme>
+  <programme start="20190924230300 +0000" stop="20190924234800 +0000" channel="cetv3">
+    <title lang="zh">加油吧考生（2019）艺考直播精编版-第004集</title>
+  </programme>
+  <programme start="20190924234800 +0000" stop="20190925003200 +0000" channel="cetv3">
+    <title lang="zh">中国纪录片</title>
+  </programme>
+  <programme start="20190924213300 +0000" stop="20190924220500 +0000" channel="cetv4">
+    <title lang="zh">特级教师-第021集</title>
+  </programme>
+  <programme start="20190924220500 +0000" stop="20190924223200 +0000" channel="cetv4">
+    <title lang="zh">国开大讲堂-第090集</title>
+  </programme>
+  <programme start="20190924223200 +0000" stop="20190924230000 +0000" channel="cetv4">
+    <title lang="zh">特级教师-第022集</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190924233000 +0000" channel="cetv4">
+    <title lang="zh">中华经典-第040集</title>
+  </programme>
+  <programme start="20190924233000 +0000" stop="20190925000000 +0000" channel="cetv4">
+    <title lang="zh">中华经典-第018集</title>
+  </programme>
+  <programme start="20190924220100 +0000" stop="20190924222000 +0000" channel="btv1">
+    <title lang="zh">法治进行时</title>
+  </programme>
+  <programme start="20190924222000 +0000" stop="20190924225400 +0000" channel="btv1">
+    <title lang="zh">养生堂精编版</title>
+  </programme>
+  <programme start="20190924225400 +0000" stop="20190924230000 +0000" channel="btv1">
+    <title lang="zh">早间气象服务</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190925010800 +0000" channel="btv1">
+    <title lang="zh">北京您早</title>
+  </programme>
+  <programme start="20190924220200 +0000" stop="20190924221900 +0000" channel="dongfang">
+    <title lang="zh">急诊室故事</title>
+  </programme>
+  <programme start="20190924221900 +0000" stop="20190924230000 +0000" channel="dongfang">
+    <title lang="zh">纪录片:生门</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190924230100 +0000" channel="dongfang">
+    <title lang="zh">中华人民共和国国歌</title>
+  </programme>
+  <programme start="20190924230100 +0000" stop="20190925005900 +0000" channel="dongfang">
+    <title lang="zh">看东方</title>
+  </programme>
+  <programme start="20190924215700 +0000" stop="20190924230000 +0000" channel="hunan">
+    <title lang="zh">重播电视剧</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190924233200 +0000" channel="hunan">
+    <title lang="zh">湖南新闻联播</title>
+  </programme>
+  <programme start="20190924233200 +0000" stop="20190925002300 +0000" channel="hunan">
+    <title lang="zh">重播电视剧</title>
+  </programme>
+  <programme start="20190924214200 +0000" stop="20190924222000 +0000" channel="shandong">
+    <title lang="zh">纪录片:记住乡愁</title>
+  </programme>
+  <programme start="20190924222000 +0000" stop="20190924225700 +0000" channel="shandong">
+    <title lang="zh">纪录片:记住乡愁</title>
+  </programme>
+  <programme start="20190924225700 +0000" stop="20190924230000 +0000" channel="shandong">
+    <title lang="zh">天气预报</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190924233700 +0000" channel="shandong">
+    <title lang="zh">早安山东</title>
+  </programme>
+  <programme start="20190924233700 +0000" stop="20190925002400 +0000" channel="shandong">
+    <title lang="zh">电视剧:海棠依旧</title>
+  </programme>
+  <programme start="20190924212100 +0000" stop="20190924222000 +0000" channel="zhejiang">
+    <title lang="zh">纪录片:记住乡愁</title>
+  </programme>
+  <programme start="20190924222000 +0000" stop="20190924222500 +0000" channel="zhejiang">
+    <title lang="zh">今日聚焦</title>
+  </programme>
+  <programme start="20190924222500 +0000" stop="20190924225500 +0000" channel="zhejiang">
+    <title lang="zh">新闻深一度</title>
+  </programme>
+  <programme start="20190924225500 +0000" stop="20190924231700 +0000" channel="zhejiang">
+    <title lang="zh">浙江新闻联播</title>
+  </programme>
+  <programme start="20190924231700 +0000" stop="20190924231900 +0000" channel="zhejiang">
+    <title lang="zh">天气预报</title>
+  </programme>
+  <programme start="20190924231900 +0000" stop="20190924235000 +0000" channel="zhejiang">
+    <title lang="zh">喜剧总动员</title>
+  </programme>
+  <programme start="20190924235000 +0000" stop="20190925001500 +0000" channel="zhejiang">
+    <title lang="zh">电视剧:新大头儿子和小头爸爸</title>
+  </programme>
+  <programme start="20190924215300 +0000" stop="20190924222700 +0000" channel="jiangsu">
+    <title lang="zh">万家灯火</title>
+  </programme>
+  <programme start="20190924222700 +0000" stop="20190924230000 +0000" channel="jiangsu">
+    <title lang="zh">纪录片:寻味顺德</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190924232200 +0000" channel="jiangsu">
+    <title lang="zh">江苏新时空</title>
+  </programme>
+  <programme start="20190924232200 +0000" stop="20190925000500 +0000" channel="jiangsu">
+    <title lang="zh">早间剧场:山月不知心底事(25)</title>
+  </programme>
+  <programme start="20190924213800 +0000" stop="20190924223200 +0000" channel="guangdong">
+    <title lang="zh">纪录片</title>
+  </programme>
+  <programme start="20190924223200 +0000" stop="20190924225700 +0000" channel="guangdong">
+    <title lang="zh">纪录片</title>
+  </programme>
+  <programme start="20190924225700 +0000" stop="20190924230000 +0000" channel="guangdong">
+    <title lang="zh">早间天气预报</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190924233100 +0000" channel="guangdong">
+    <title lang="zh">重播广东新闻联播</title>
+  </programme>
+  <programme start="20190924233100 +0000" stop="20190925001400 +0000" channel="guangdong">
+    <title lang="zh">电视剧</title>
+  </programme>
+  <programme start="20190924213800 +0000" stop="20190924220700 +0000" channel="dongnan">
+    <title lang="zh">电视剧</title>
+  </programme>
+  <programme start="20190924220700 +0000" stop="20190924223700 +0000" channel="dongnan">
+    <title lang="zh">生活服务</title>
+  </programme>
+  <programme start="20190924223700 +0000" stop="20190924230000 +0000" channel="dongnan">
+    <title lang="zh">中国梦纪录片展播</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190924233000 +0000" channel="dongnan">
+    <title lang="zh">早安福建</title>
+  </programme>
+  <programme start="20190924233000 +0000" stop="20190924234000 +0000" channel="dongnan">
+    <title lang="zh">东南早间气象</title>
+  </programme>
+  <programme start="20190924234000 +0000" stop="20190925002500 +0000" channel="dongnan">
+    <title lang="zh">海峡新干线</title>
+  </programme>
+  <programme start="20190924213000 +0000" stop="20190924223000 +0000" channel="anhui">
+    <title lang="zh">超级新闻场</title>
+  </programme>
+  <programme start="20190924223000 +0000" stop="20190924233700 +0000" channel="anhui">
+    <title lang="zh">超级新闻场</title>
+  </programme>
+  <programme start="20190924233700 +0000" stop="20190925001000 +0000" channel="anhui">
+    <title lang="zh">健康大问诊</title>
+  </programme>
+  <programme start="20190924213800 +0000" stop="20190924223400 +0000" channel="gansu">
+    <title lang="zh">电视剧:剃刀边缘(35)</title>
+  </programme>
+  <programme start="20190924223400 +0000" stop="20190924230000 +0000" channel="gansu">
+    <title lang="zh">农村三变改革在甘肃</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190924232100 +0000" channel="gansu">
+    <title lang="zh">甘肃新闻</title>
+  </programme>
+  <programme start="20190924232100 +0000" stop="20190925001400 +0000" channel="gansu">
+    <title lang="zh">电视剧</title>
+  </programme>
+  <programme start="20190924214000 +0000" stop="20190924223000 +0000" channel="liaoning">
+    <title lang="zh">黑土地</title>
+  </programme>
+  <programme start="20190924223000 +0000" stop="20190924233000 +0000" channel="liaoning">
+    <title lang="zh">第一时间</title>
+  </programme>
+  <programme start="20190924233000 +0000" stop="20190925000300 +0000" channel="liaoning">
+    <title lang="zh">辽宁新闻</title>
+  </programme>
+  <programme start="20190924214900 +0000" stop="20190924221900 +0000" channel="travel">
+    <title lang="zh">电视剧</title>
+  </programme>
+  <programme start="20190924221900 +0000" stop="20190924224000 +0000" channel="travel">
+    <title lang="zh">电视剧</title>
+  </programme>
+  <programme start="20190924224000 +0000" stop="20190924230000 +0000" channel="travel">
+    <title lang="zh">生活服务</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190924230100 +0000" channel="travel">
+    <title lang="zh">中华人民共和国国歌</title>
+  </programme>
+  <programme start="20190924230100 +0000" stop="20190924232600 +0000" channel="travel">
+    <title lang="zh">海南新闻联播</title>
+  </programme>
+  <programme start="20190924232600 +0000" stop="20190924233500 +0000" channel="travel">
+    <title lang="zh">天气行程单</title>
+  </programme>
+  <programme start="20190924233500 +0000" stop="20190925000200 +0000" channel="travel">
+    <title lang="zh">动画片</title>
+  </programme>
+  <programme start="20190924212400 +0000" stop="20190924221500 +0000" channel="neimenggu">
+    <title lang="zh">电视剧:正阳门下(29)</title>
+  </programme>
+  <programme start="20190924221500 +0000" stop="20190924231000 +0000" channel="neimenggu">
+    <title lang="zh">电视剧:正阳门下(30)</title>
+  </programme>
+  <programme start="20190924231000 +0000" stop="20190924233000 +0000" channel="neimenggu">
+    <title lang="zh">草原音画</title>
+  </programme>
+  <programme start="20190924233000 +0000" stop="20190925000000 +0000" channel="neimenggu">
+    <title lang="zh">内蒙古新闻联播</title>
+  </programme>
+  <programme start="20190924215000 +0000" stop="20190924230100 +0000" channel="ningxia">
+    <title lang="zh">纪录片</title>
+  </programme>
+  <programme start="20190924230100 +0000" stop="20190924233600 +0000" channel="ningxia">
+    <title lang="zh">宁夏新闻</title>
+  </programme>
+  <programme start="20190924233600 +0000" stop="20190924235600 +0000" channel="ningxia">
+    <title lang="zh">说宋朝</title>
+  </programme>
+  <programme start="20190924235600 +0000" stop="20190925004500 +0000" channel="ningxia">
+    <title lang="zh">电视剧:林海雪原(26)</title>
+  </programme>
+  <programme start="20190924215600 +0000" stop="20190924230000 +0000" channel="qinghai">
+    <title lang="zh">电视剧</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190924233000 +0000" channel="qinghai">
+    <title lang="zh">青海新闻联播</title>
+  </programme>
+  <programme start="20190924233000 +0000" stop="20190924234900 +0000" channel="qinghai">
+    <title lang="zh">江源扫描</title>
+  </programme>
+  <programme start="20190924234900 +0000" stop="20190925001900 +0000" channel="qinghai">
+    <title lang="zh">纪录时间</title>
+  </programme>
+  <programme start="20190924220000 +0000" stop="20190924230000 +0000" channel="xiamen">
+    <title lang="zh">斗阵来看戏（重）</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190924230100 +0000" channel="xiamen">
+    <title lang="zh">国歌</title>
+  </programme>
+  <programme start="20190924230100 +0000" stop="20190924233000 +0000" channel="xiamen">
+    <title lang="zh">两岸新新闻（重）</title>
+  </programme>
+  <programme start="20190924233000 +0000" stop="20190925000000 +0000" channel="xiamen">
+    <title lang="zh">两岸直航（重）</title>
+  </programme>
+  <programme start="20190924212200 +0000" stop="20190924222800 +0000" channel="yunnan">
+    <title lang="zh">电视剧</title>
+  </programme>
+  <programme start="20190924222800 +0000" stop="20190924230000 +0000" channel="yunnan">
+    <title lang="zh">记住乡愁</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190924230100 +0000" channel="yunnan">
+    <title lang="zh">中华人民共和国国歌</title>
+  </programme>
+  <programme start="20190924230100 +0000" stop="20190924232600 +0000" channel="yunnan">
+    <title lang="zh">云南新闻联播</title>
+  </programme>
+  <programme start="20190924232600 +0000" stop="20190925002000 +0000" channel="yunnan">
+    <title lang="zh">电视剧</title>
+  </programme>
+  <programme start="20190924214500 +0000" stop="20190924224200 +0000" channel="chongqing">
+    <title lang="zh">电视剧</title>
+  </programme>
+  <programme start="20190924224200 +0000" stop="20190924230000 +0000" channel="chongqing">
+    <title lang="zh">环球视界</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190924231500 +0000" channel="chongqing">
+    <title lang="zh">第一眼新闻</title>
+  </programme>
+  <programme start="20190924231500 +0000" stop="20190924233000 +0000" channel="chongqing">
+    <title lang="zh">财经壹资讯</title>
+  </programme>
+  <programme start="20190924233000 +0000" stop="20190925000100 +0000" channel="chongqing">
+    <title lang="zh">中国故事</title>
+  </programme>
+  <programme start="20190924220000 +0000" stop="20190924224000 +0000" channel="jiangxi">
+    <title lang="zh">电视剧:东风破(16)</title>
+  </programme>
+  <programme start="20190924224000 +0000" stop="20190924230000 +0000" channel="jiangxi">
+    <title lang="zh">江西新闻联播</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190924233000 +0000" channel="jiangxi">
+    <title lang="zh">晨光新视界</title>
+  </programme>
+  <programme start="20190924233000 +0000" stop="20190924233300 +0000" channel="jiangxi">
+    <title lang="zh">江西天气预报</title>
+  </programme>
+  <programme start="20190924233300 +0000" stop="20190924235000 +0000" channel="jiangxi">
+    <title lang="zh">财经新风向</title>
+  </programme>
+  <programme start="20190924235000 +0000" stop="20190925003300 +0000" channel="jiangxi">
+    <title lang="zh">动画片剧场</title>
+  </programme>
+  <programme start="20190924220000 +0000" stop="20190924222300 +0000" channel="shan1xi">
+    <title lang="zh">主题微电影</title>
+  </programme>
+  <programme start="20190924222300 +0000" stop="20190924230000 +0000" channel="shan1xi">
+    <title lang="zh">纪录片:记住乡愁第二季</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190924232300 +0000" channel="shan1xi">
+    <title lang="zh">山西新闻联播</title>
+  </programme>
+  <programme start="20190924232300 +0000" stop="20190924233600 +0000" channel="shan1xi">
+    <title lang="zh">山西天气预报</title>
+  </programme>
+  <programme start="20190924233600 +0000" stop="20190925003100 +0000" channel="shan1xi">
+    <title lang="zh">电视剧</title>
+  </programme>
+  <programme start="20190924215600 +0000" stop="20190924222000 +0000" channel="shenzhen">
+    <title lang="zh">不夜场</title>
+  </programme>
+  <programme start="20190924222000 +0000" stop="20190924230000 +0000" channel="shenzhen">
+    <title lang="zh">探秘时刻</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190924234900 +0000" channel="shenzhen">
+    <title lang="zh">直播港澳台</title>
+  </programme>
+  <programme start="20190924234900 +0000" stop="20190925005500 +0000" channel="shenzhen">
+    <title lang="zh">电视剧:彩虹宝宝(30)</title>
+  </programme>
+  <programme start="20190924214300 +0000" stop="20190924223100 +0000" channel="sichuan">
+    <title lang="zh">电视剧</title>
+  </programme>
+  <programme start="20190924223100 +0000" stop="20190924230100 +0000" channel="sichuan">
+    <title lang="zh">纪录时间</title>
+  </programme>
+  <programme start="20190924230100 +0000" stop="20190924233000 +0000" channel="sichuan">
+    <title lang="zh">早安四川</title>
+  </programme>
+  <programme start="20190924233000 +0000" stop="20190924233700 +0000" channel="sichuan">
+    <title lang="zh">世界遗产5A旅游区气象信息</title>
+  </programme>
+  <programme start="20190924233700 +0000" stop="20190925000300 +0000" channel="sichuan">
+    <title lang="zh">喜剧班的春天</title>
+  </programme>
+  <programme start="20190924211800 +0000" stop="20190924221900 +0000" channel="tianjin">
+    <title lang="zh">电视剧:娘道(68)</title>
+  </programme>
+  <programme start="20190924221900 +0000" stop="20190924223000 +0000" channel="tianjin">
+    <title lang="zh">拾遗保护</title>
+  </programme>
+  <programme start="20190924223000 +0000" stop="20190924230000 +0000" channel="tianjin">
+    <title lang="zh">纪录片:记住乡愁</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190924232800 +0000" channel="tianjin">
+    <title lang="zh">津晨播报</title>
+  </programme>
+  <programme start="20190924232800 +0000" stop="20190924233100 +0000" channel="tianjin">
+    <title lang="zh">津晨天气</title>
+  </programme>
+  <programme start="20190924233100 +0000" stop="20190925000000 +0000" channel="tianjin">
+    <title lang="zh">电视剧:苍狼(33)</title>
+  </programme>
+  <programme start="20190924214000 +0000" stop="20190924220500 +0000" channel="guangxi">
+    <title lang="zh">海丝路</title>
+  </programme>
+  <programme start="20190924220500 +0000" stop="20190924221700 +0000" channel="guangxi">
+    <title lang="zh">壮语新闻</title>
+  </programme>
+  <programme start="20190924221700 +0000" stop="20190924224100 +0000" channel="guangxi">
+    <title lang="zh">广西新闻</title>
+  </programme>
+  <programme start="20190924224100 +0000" stop="20190924224200 +0000" channel="guangxi">
+    <title lang="zh">广西旅游天气预报</title>
+  </programme>
+  <programme start="20190924224200 +0000" stop="20190924224800 +0000" channel="guangxi">
+    <title lang="zh">广西海洋天气预报</title>
+  </programme>
+  <programme start="20190924224800 +0000" stop="20190924233500 +0000" channel="guangxi">
+    <title lang="zh">纪录片</title>
+  </programme>
+  <programme start="20190924233500 +0000" stop="20190925001400 +0000" channel="guangxi">
+    <title lang="zh">百寿探秘</title>
+  </programme>
+  <programme start="20190924212000 +0000" stop="20190924220700 +0000" channel="guizhou">
+    <title lang="zh">电视剧</title>
+  </programme>
+  <programme start="20190924220700 +0000" stop="20190924223400 +0000" channel="guizhou">
+    <title lang="zh">纪录片:记住乡愁</title>
+  </programme>
+  <programme start="20190924223400 +0000" stop="20190924230000 +0000" channel="guizhou">
+    <title lang="zh">贵州新闻联播</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190924230300 +0000" channel="guizhou">
+    <title lang="zh">中华人民共和国国歌</title>
+  </programme>
+  <programme start="20190924230300 +0000" stop="20190925001000 +0000" channel="guizhou">
+    <title lang="zh">纪录片:记住乡愁</title>
+  </programme>
+  <programme start="20190924212600 +0000" stop="20190924222800 +0000" channel="hebei">
+    <title lang="zh">电视剧</title>
+  </programme>
+  <programme start="20190924222800 +0000" stop="20190924225800 +0000" channel="hebei">
+    <title lang="zh">穿越经典</title>
+  </programme>
+  <programme start="20190924225800 +0000" stop="20190924230000 +0000" channel="hebei">
+    <title lang="zh">河北天气预报</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190925000500 +0000" channel="hebei">
+    <title lang="zh">你早京津冀</title>
+  </programme>
+  <programme start="20190924220000 +0000" stop="20190924223000 +0000" channel="henan">
+    <title lang="zh">纪录片:记住乡愁</title>
+  </programme>
+  <programme start="20190924223000 +0000" stop="20190924230600 +0000" channel="henan">
+    <title lang="zh">新闻60分</title>
+  </programme>
+  <programme start="20190924230600 +0000" stop="20190924233300 +0000" channel="henan">
+    <title lang="zh">闻达天下</title>
+  </programme>
+  <programme start="20190924233300 +0000" stop="20190925000600 +0000" channel="henan">
+    <title lang="zh">河南新闻联播</title>
+  </programme>
+  <programme start="20190924212900 +0000" stop="20190924221800 +0000" channel="heilongjiang">
+    <title lang="zh">电视剧:父母爱情(11)</title>
+  </programme>
+  <programme start="20190924221800 +0000" stop="20190924222500 +0000" channel="heilongjiang">
+    <title lang="zh">品牌龙江</title>
+  </programme>
+  <programme start="20190924222500 +0000" stop="20190924231900 +0000" channel="heilongjiang">
+    <title lang="zh">共度晨光</title>
+  </programme>
+  <programme start="20190924231900 +0000" stop="20190924235500 +0000" channel="heilongjiang">
+    <title lang="zh">开课啦</title>
+  </programme>
+  <programme start="20190924235500 +0000" stop="20190925003900 +0000" channel="heilongjiang">
+    <title lang="zh">中国龙动画剧场</title>
+  </programme>
+  <programme start="20190924220000 +0000" stop="20190924230000 +0000" channel="hubei">
+    <title lang="zh">电视剧:飞虎队大营救(28)</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190924232300 +0000" channel="hubei">
+    <title lang="zh">湖北新闻</title>
+  </programme>
+  <programme start="20190924232300 +0000" stop="20190924235000 +0000" channel="hubei">
+    <title lang="zh">长江新闻号</title>
+  </programme>
+  <programme start="20190924235000 +0000" stop="20190925003500 +0000" channel="hubei">
+    <title lang="zh">天生我财</title>
+  </programme>
+  <programme start="20190924220000 +0000" stop="20190924223000 +0000" channel="jilin">
+    <title lang="zh">吉林新闻联播</title>
+  </programme>
+  <programme start="20190924223000 +0000" stop="20190924232100 +0000" channel="jilin">
+    <title lang="zh">新闻早报</title>
+  </programme>
+  <programme start="20190924232100 +0000" stop="20190925001300 +0000" channel="jilin">
+    <title lang="zh">电视剧</title>
+  </programme>
+  <programme start="20190924220000 +0000" stop="20190924222000 +0000" channel="yanbian">
+    <title lang="zh">연변위성뉴스(조)</title>
+  </programme>
+  <programme start="20190924222000 +0000" stop="20190924222500 +0000" channel="yanbian">
+    <title lang="zh">일기예보</title>
+  </programme>
+  <programme start="20190924222500 +0000" stop="20190924224500 +0000" channel="yanbian">
+    <title lang="zh">법으로 보는 세상</title>
+  </programme>
+  <programme start="20190924224500 +0000" stop="20190924230000 +0000" channel="yanbian">
+    <title lang="zh">매주일가</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190924233000 +0000" channel="yanbian">
+    <title lang="zh">연변위성뉴스(한)</title>
+  </programme>
+  <programme start="20190924233000 +0000" stop="20190925001000 +0000" channel="yanbian">
+    <title lang="zh">신주 어제 그리고 오늘</title>
+  </programme>
+  <programme start="20190924213700 +0000" stop="20190924222500 +0000" channel="xizang">
+    <title lang="zh">红楼梦</title>
+  </programme>
+  <programme start="20190924222500 +0000" stop="20190924230000 +0000" channel="xizang">
+    <title lang="zh">西藏诱惑</title>
+  </programme>
+  <programme start="20190924230000 +0000" stop="20190924230300 +0000" channel="xizang">
+    <title lang="zh">中华人民共和国国歌</title>
+  </programme>
+  <programme start="20190924230300 +0000" stop="20190924235300 +0000" channel="xizang">
+    <title lang="zh">红楼梦</title>
+  </programme>
+  <programme start="20190924235300 +0000" stop="20190925001500 +0000" channel="xizang">
+    <title lang="zh">七色风汇编</title>
+  </programme>
+  <programme start="20190924212000 +0000" stop="20190924220600 +0000" channel="xinjiang">
+    <title lang="zh">电视剧</title>
+  </programme>
+  <programme start="20190924220600 +0000" stop="20190924225300 +0000" channel="xinjiang">
+    <title lang="zh">电视剧</title>
+  </programme>
+  <programme start="20190924225300 +0000" stop="20190924232000 +0000" channel="xinjiang">
+    <title lang="zh">电视剧</title>
+  </programme>
+  <programme start="20190924232000 +0000" stop="20190925000000 +0000" channel="xinjiang">
+    <title lang="zh">雪莲花动漫城</title>
+  </programme>
+  <programme start="20190924203400 +0000" stop="20190924221700 +0000" channel="bingtuan">
+    <title lang="zh">电视剧</title>
+  </programme>
+  <programme start="20190924221700 +0000" stop="20190925000000 +0000" channel="bingtuan">
+    <title lang="zh">电视剧:大掌门(11)</title>
+  </programme>
+  <programme start="20190924220000 +0000" stop="20190924230800 +0000" channel="btvchild">
+    <title lang="zh">蹦蹦跳跳</title>
+  </programme>
+  <programme start="20190924230800 +0000" stop="20190924232500 +0000" channel="btvchild">
+    <title lang="zh">卡酷幼儿园</title>
+  </programme>
+  <programme start="20190924232500 +0000" stop="20190925001600 +0000" channel="btvchild">
+    <title lang="zh">超级大连播</title>
+  </programme>
+  <programme start="20190924215500 +0000" stop="20190924225000 +0000" channel="gaoerfu">
+    <title lang="zh">美巡精选:2019年绿蔷薇赛</title>
+  </programme>
+  <programme start="20190924225000 +0000" stop="20190924230200 +0000" channel="gaoerfu">
+    <title lang="zh">走进美巡赛系列</title>
+  </programme>
+  <programme start="20190924230200 +0000" stop="20190924230400 +0000" channel="gaoerfu">
+    <title lang="zh">2019自然高尔夫敦煌站招募片(3)</title>
+  </programme>
+  <programme start="20190924230400 +0000" stop="20190924230600 +0000" channel="gaoerfu">
+    <title lang="zh">自然高尔夫丝绸之路探索赛2019敦煌站宣传片(2)</title>
+  </programme>
+  <programme start="20190924230600 +0000" stop="20190924232900 +0000" channel="gaoerfu">
+    <title lang="zh">寻觅高尔夫</title>
+  </programme>
+  <programme start="20190924232900 +0000" stop="20190924233200 +0000" channel="gaoerfu">
+    <title lang="zh">我和我的祖国-给祖国献礼（新）</title>
+  </programme>
+  <programme start="20190924233200 +0000" stop="20190925000200 +0000" channel="gaoerfu">
+    <title lang="zh">高谈阔论</title>
+  </programme>
+</tv>
