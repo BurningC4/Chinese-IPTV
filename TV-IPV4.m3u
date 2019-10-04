@@ -1,25 +1,25 @@
 #EXTM3U url-logos="https://raw.githubusercontent.com/BurningC4/tvg-logo/master/"
 
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1.png",CCTV-1 综合
-http://223.110.241.204:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
+http://39.135.36.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
 
 #EXTINF:-1 tvg-id="cctv2" tvg-logo="cctv2.png",CCTV-2 财经
-http://223.110.241.204:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
+http://39.135.36.150:18890/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000012442&owchid=ystenlive&owsid=1106497909461775063&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRknGE%2fO0VC9Co37x%2f7gMjaWYjatUfTQlAa15Ksg%2fXe8sQo%2fi5btdpzeV%2b1v4UwuHf
 
 #EXTINF:-1 tvg-id="cctv3" tvg-logo="cctv3.png",CCTV-3 综艺
-http://223.110.241.204:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/
+http://39.135.36.141:18890/000000001000/1000000001000011218/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000011218&owchid=ystenlive&owsid=1106497909461779572&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRrAyJU4rR1Dadw9ISEYm5oBbA9lSzNfT0W7kMLAWHUBTbBAjpiIN0Pdi%2fTRm3zPoh
 
 #EXTINF:-1 tvg-id="cctv4" tvg-logo="cctv4.png",CCTV-4 中文国际
-http://223.110.241.204:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/
+http://39.135.36.150:18890/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000031664&owchid=ystenlive&owsid=1106497909461056460&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhSaNRr4LzI3YsXQPQcGzS6VSIZXSs858JtCAdvl%2fg%2f2u5lawXOBSX%2fqESSB5FmTXS
 
 #EXTINF:-1 tvg-id="cctv5" tvg-logo="cctv5.png",CCTV-5 体育
-http://223.110.241.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
+http://39.135.36.146:18890/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000004794&owchid=ystenlive&owsid=1106497909461092492&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRFIaTOfcD93c7ACh3puyaR1v%2bioI39cfseenlxp5u9UfADU6BCDl7v7CTGKuGZw1d
 
 #EXTINF:-1 tvg-id="cctv5plus" tvg-logo="cctv5+.png",CCTV-5+ 体育赛事
 http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
 
 #EXTINF:-1 tvg-id="cctv6" tvg-logo="cctv6.png",CCTV-6 电影
-http://223.110.241.204:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/
+http://39.135.36.140:18890/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000016466&owchid=ystenlive&owsid=1106497909461115566&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRPL4aTeGJNlZwIkZROfGAKEC3iG4uOUkYNIdPRliCqBi8AjSQtKTBHB8b3LPXJcIA
 
 #EXTINF:-1 tvg-id="cctv7" tvg-logo="cctv7.png",CCTV-7 军事 农业
 http://223.110.241.204:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/
@@ -85,22 +85,22 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 http://223.110.241.204:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
 
 #EXTINF:-1 tvg-id="dongfang" tvg-logo="dongfang.png",东方卫视
-http://223.110.241.204:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/
+http://39.135.36.143:18890/000000001000/1000000001000030202/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000030202&owchid=ystenlive&owsid=1106497909461236159&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaR5IXgk%2b6a%2bY1Viivj30IkCl065X8GSWgqnbGOJH69GYNl9jXWqt3b3Vkm63dGSY%2b5
 
 #EXTINF:-1 tvg-id="hunan" tvg-logo="hunan.png",湖南卫视
-http://223.110.241.204:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/
+http://39.135.36.153:18890/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009115&owchid=ystenlive&owsid=1106497909461209970&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRJ1HPTMtmQf%2bVwcp8RojByB2Rhtn7waHVWUQ9gcJ0mHLEp3xuYtoWp3K%2bdNVn%2bMR4
 
 #EXTINF:-1 tvg-id="shandong" tvg-logo="shandong.png",山东卫视
 http://223.110.241.204:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/
 
 #EXTINF:-1 tvg-id="zhejiang" tvg-logo="zhejiang.png",浙江卫视
-http://223.110.241.204:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/
+http://39.135.36.146:18890/000000001000/1000000001000009806/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009806&owchid=ystenlive&owsid=1106497909461218392&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRt6tuEx40ruFSJnrbh2BVWwXsEFuvV04XsE9ZOm50Z8cpDzo0JrXSxYrVj73IVRt9
 
 #EXTINF:-1 tvg-id="jiangsu" tvg-logo="jiangsu.png",江苏卫视
 http://223.110.241.204:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/
 
 #EXTINF:-1 tvg-id="guangdong" tvg-logo="guangdong.png",广东卫视
-http://223.110.241.204:6610/gitv/live1/G_GUANGDONG/G_GUANGDONG/
+http://39.135.36.155:18890/000000001000/1000000001000028357/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000028357&owchid=ystenlive&owsid=1106497909461262352&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaROVzE3kgfqbxbWUefjzmwWM6UWM1tPF3fcVILxO8TukKPE2BY%2fTje83gAnl%2fZNkb%2b
 
 #EXTINF:-1 tvg-id="dongnan" tvg-logo="dongnan.png",东南卫视
 http://223.110.241.204:6610/gitv/live1/DNWS/DNWS/
@@ -229,22 +229,20 @@ http://223.110.241.204:6610/gitv/live1/G_YITANCQ/G_YITANCQ/
 http://223.110.241.204:6610/cntv/live1/donghuawg/donghuawg
 
 #EXTINF:-1 tvg-id="newtvdz" tvg-logo="newtvdz.png",NewTV动作电影
-http://223.110.241.204:6610/cntv/live1/dongzuody/dongzuody
+http://39.135.36.146:18890/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=8103864434730665389&owchid=ystenlive&owsid=1106497909461651262&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6gc5lrV9LORe1gi%2brvWfZqjqWg5r9sHf%2bhUiRSDpBuWg5lRQBeU9YctiSzPH6gfVkWNbz7C4olsbRCQkf1hNrZ
 
 #EXTINF:-1 tvg-id="newtvjt" tvg-logo="newtvjt.png",NewTV家庭剧场
 http://223.110.241.204:6610/cntv/live1/jiatingjc/jiatingjc
 
 #EXTINF:-1 tvg-id="newtvjs" tvg-logo="newtvjs.png",NewTV惊悚电影
-http://223.110.241.204:6610/cntv/live1/jingsongxy/jingsongxy
+http://39.135.36.153:18890/000000001000/7151256057701199617/1.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=7151256057701199617&owchid=ystenlive&owsid=1106497909461673183&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7WcU4uUemDr%2bvU%2bvnnf3N5iO4bkU4W0ueDoorDr5ibxhAm%2f7T1v8XBQNX%2bapKXQ2%2fK9yjYdVWnw2Bihh8x%2bgGK
 
 #EXTINF:-1 tvg-id="newtvmx" tvg-logo="newtvmx.png",NewTV明星大片
-http://223.110.241.204:6610/cntv/live1/mingxingdp/mingxingdp
-
+http://39.135.36.143:18890/000000001000/5595720619887440144/1.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=5595720619887440144&owchid=ystenlive&owsid=1106497909461695855&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6YXxE0nCCxd3dck4q0SwSBlg2o%2fvyI82ry5doiaWJPH9u%2fHCOos%2ffJGJ56Qg2QVr1cCX3bbMrMBnTh%2bHCkuVIP
 #EXTINF:-1 tvg-id="newtvjd" tvg-logo="newtvjd.png",NewTV经典电影
 http://223.110.241.204:6610/cntv/live1/jdianying/jdianying
 
 #EXTINF:-1 tvg-id="newtvjp" tvg-logo="newtvjp.png",NewTV精品大剧
-http://223.110.241.204:6610/cntv/live1/jdaju/jdaju
-
+http://39.135.36.147:18890/000000001000/7882297361445410858/1.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=7882297361445410858&owchid=ystenlive&owsid=1106497909461708013&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4G3gHhbopAXv1%2bwSMC13LXLIuhzr0myUm7odTYlfUIkKrQcNEkHc7TnPLGe1r4%2bIX7AhIXtKagjAfjVTqFHQE4
 #EXTINF:-1 tvg-id="newtvjl" tvg-logo="newtvjl.png",NewTV精品纪录
-http://223.110.241.204:6610/cntv/live1/jingpinjl/jingpinjl
+http://39.135.36.156:18890/000000001000/6298506997017621594/1.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6298506997017621594&owchid=ystenlive&owsid=1106497909461739335&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5Z%2fEzyUAZDVIPoiwNPLYgjJvkohoXFTsC5VYOGHUU7RlueMvRrGKmSZC%2bNKYW4Mlhq%2bt9ZsVsg39%2bFutggbU%2f7
