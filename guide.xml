@@ -232,21 +232,6 @@
     <display-name lang="zh">高尔夫</display-name>
     <url>http://www.tv.cntv.cn</url>
   </channel>
-  <programme start="20191006062800 +0000" stop="20191006071800 +0000" channel="cctv1">
-    <title lang="zh">特赦1959第17集</title>
-  </programme>
-  <programme start="20191006071800 +0000" stop="20191006080700 +0000" channel="cctv1">
-    <title lang="zh">特赦1959第18集</title>
-  </programme>
-  <programme start="20191006080700 +0000" stop="20191006085700 +0000" channel="cctv1">
-    <title lang="zh">特赦1959第19集</title>
-  </programme>
-  <programme start="20191006085700 +0000" stop="20191006090100 +0000" channel="cctv1">
-    <title lang="zh">中国2019-美丽中国-辽远篇</title>
-  </programme>
-  <programme start="20191006090100 +0000" stop="20191006090700 +0000" channel="cctv1">
-    <title lang="zh">第七批中国梦主题新创作歌曲-复兴的力量</title>
-  </programme>
   <programme start="20191006090700 +0000" stop="20191006104600 +0000" channel="cctv1">
     <title lang="zh">中国歌曲大会国庆盛典-1</title>
   </programme>
@@ -322,15 +307,6 @@
   <programme start="20191006220000 +0000" stop="20191007003600 +0000" channel="cctv1">
     <title lang="zh">朝闻天下</title>
   </programme>
-  <programme start="20191006065300 +0000" stop="20191006071900 +0000" channel="cctv2">
-    <title lang="zh">生财有道-2019国庆特辑9</title>
-  </programme>
-  <programme start="20191006071900 +0000" stop="20191006074600 +0000" channel="cctv2">
-    <title lang="zh">生财有道-2019国庆特辑10</title>
-  </programme>
-  <programme start="20191006074600 +0000" stop="20191006083700 +0000" channel="cctv2">
-    <title lang="zh">特别呈现2018-112 舌尖上的中国II 7</title>
-  </programme>
   <programme start="20191006083700 +0000" stop="20191006113000 +0000" channel="cctv2">
     <title lang="zh">新闻直播间</title>
   </programme>
@@ -381,18 +357,6 @@
   </programme>
   <programme start="20191006230000 +0000" stop="20191007010000 +0000" channel="cctv2">
     <title lang="zh">第一时间</title>
-  </programme>
-  <programme start="20191006070000 +0000" stop="20191006070300 +0000" channel="cctv3">
-    <title lang="zh">庆祝中华人民共和国成立70周年优秀歌曲MV-我们的生活充满阳光</title>
-  </programme>
-  <programme start="20191006070300 +0000" stop="20191006070900 +0000" channel="cctv3">
-    <title lang="zh">庆祝中华人民共和国成立70周年优秀歌曲MV-社会主义好</title>
-  </programme>
-  <programme start="20191006070900 +0000" stop="20191006081900 +0000" channel="cctv3">
-    <title lang="zh">音乐公开课-与新时代同行（四）</title>
-  </programme>
-  <programme start="20191006081900 +0000" stop="20191006094900 +0000" channel="cctv3">
-    <title lang="zh">向幸福出发-2019-42</title>
   </programme>
   <programme start="20191006094900 +0000" stop="20191006102000 +0000" channel="cctv3">
     <title lang="zh">天天把歌唱-2019-182</title>
@@ -469,11 +433,14 @@
   <programme start="20191006215700 +0000" stop="20191006231600 +0000" channel="cctv3">
     <title lang="zh">综艺喜乐汇-2019-2164</title>
   </programme>
-  <programme start="20191006231600 +0000" stop="20191006234900 +0000" channel="cctv3">
+  <programme start="20191006231600 +0000" stop="20191006234700 +0000" channel="cctv3">
     <title lang="zh">综艺头条-2019-6</title>
   </programme>
-  <programme start="20191006234900 +0000" stop="20191006235200 +0000" channel="cctv3">
-    <title lang="zh">第七批中国梦主题新创作歌曲-祖国在我心中</title>
+  <programme start="20191006234700 +0000" stop="20191006235000 +0000" channel="cctv3">
+    <title lang="zh">第七批中国梦主题新创作歌曲-时代号子</title>
+  </programme>
+  <programme start="20191006235000 +0000" stop="20191006235200 +0000" channel="cctv3">
+    <title lang="zh">庆祝中华人民共和国成立70周年优秀歌曲MV-少年，少年，祖国的春天</title>
   </programme>
   <programme start="20191006235200 +0000" stop="20191006235400 +0000" channel="cctv3">
     <title lang="zh">庆祝中华人民共和国成立70周年优秀歌曲MV-我们是共产主义接班人</title>
@@ -483,21 +450,6 @@
   </programme>
   <programme start="20191006235500 +0000" stop="20191007000000 +0000" channel="cctv3">
     <title lang="zh">庆祝中华人民共和国成立70周年优秀歌曲MV-七子之歌——澳门</title>
-  </programme>
-  <programme start="20191006062000 +0000" stop="20191006070400 +0000" channel="cctv4">
-    <title lang="zh">东方29/39</title>
-  </programme>
-  <programme start="20191006070400 +0000" stop="20191006074600 +0000" channel="cctv4">
-    <title lang="zh">东方30/39</title>
-  </programme>
-  <programme start="20191006074600 +0000" stop="20191006082800 +0000" channel="cctv4">
-    <title lang="zh">东方31/39</title>
-  </programme>
-  <programme start="20191006082800 +0000" stop="20191006091600 +0000" channel="cctv4">
-    <title lang="zh">东方32/39</title>
-  </programme>
-  <programme start="20191006091600 +0000" stop="20191006100000 +0000" channel="cctv4">
-    <title lang="zh">记住乡愁第五季国际版-2</title>
   </programme>
   <programme start="20191006100000 +0000" stop="20191006110000 +0000" channel="cctv4">
     <title lang="zh">中华情-2019-40</title>
@@ -571,12 +523,6 @@
   <programme start="20191006233000 +0000" stop="20191007000000 +0000" channel="cctv4">
     <title lang="zh">今日关注</title>
   </programme>
-  <programme start="20191006050000 +0000" stop="20191006070500 +0000" channel="cctv5">
-    <title lang="zh">2019年中国网球公开赛-男女双打决赛</title>
-  </programme>
-  <programme start="20191006070500 +0000" stop="20191006083000 +0000" channel="cctv5">
-    <title lang="zh">实况录像-2019年国际乒联世界巡回赛瑞典公开赛 男女双打、混双决赛（录播）</title>
-  </programme>
   <programme start="20191006083000 +0000" stop="20191006103000 +0000" channel="cctv5">
     <title lang="zh">2019年中国网球公开赛-女单决赛 巴蒂VS大阪直美</title>
   </programme>
@@ -610,12 +556,6 @@
   <programme start="20191006230000 +0000" stop="20191007000000 +0000" channel="cctv5">
     <title lang="zh">实况录像-2019年光州国际泳联世锦赛跳水 男子双人3米板决赛</title>
   </programme>
-  <programme start="20191006070300 +0000" stop="20191006073000 +0000" channel="cctv5plus">
-    <title lang="zh">赛事集锦-2019/2020赛季英超世界8</title>
-  </programme>
-  <programme start="20191006073000 +0000" stop="20191006080000 +0000" channel="cctv5plus">
-    <title lang="zh">赛事集锦-ATP周刊33</title>
-  </programme>
   <programme start="20191006080000 +0000" stop="20191006120000 +0000" channel="cctv5plus">
     <title lang="zh">2019年国际乒联世界巡回赛-瑞典公开赛 男女单打半决赛</title>
   </programme>
@@ -645,27 +585,6 @@
   </programme>
   <programme start="20191006230500 +0000" stop="20191007003000 +0000" channel="cctv5plus">
     <title lang="zh">实况录像-2019年国际篮联篮球世界杯 三四名决赛</title>
-  </programme>
-  <programme start="20191006065800 +0000" stop="20191006071200 +0000" channel="cctv6">
-    <title lang="zh">大人物2019</title>
-  </programme>
-  <programme start="20191006071200 +0000" stop="20191006085800 +0000" channel="cctv6">
-    <title lang="zh">大人物2019</title>
-  </programme>
-  <programme start="20191006085800 +0000" stop="20191006090400 +0000" channel="cctv6">
-    <title lang="zh">世界电影之旅周日版2019-040</title>
-  </programme>
-  <programme start="20191006090400 +0000" stop="20191006091600 +0000" channel="cctv6">
-    <title lang="zh">世界电影之旅周日版2019-040</title>
-  </programme>
-  <programme start="20191006091600 +0000" stop="20191006092000 +0000" channel="cctv6">
-    <title lang="zh">中国电影报道2019-279</title>
-  </programme>
-  <programme start="20191006092000 +0000" stop="20191006095000 +0000" channel="cctv6">
-    <title lang="zh">中国电影报道2019-279</title>
-  </programme>
-  <programme start="20191006095000 +0000" stop="20191006095400 +0000" channel="cctv6">
-    <title lang="zh">一吻定情</title>
   </programme>
   <programme start="20191006095400 +0000" stop="20191006121500 +0000" channel="cctv6">
     <title lang="zh">一吻定情</title>
@@ -714,12 +633,6 @@
   </programme>
   <programme start="20191006222200 +0000" stop="20191007003000 +0000" channel="cctv6">
     <title lang="zh">叶问外传张天志</title>
-  </programme>
-  <programme start="20191006055000 +0000" stop="20191006084700 +0000" channel="cctv7">
-    <title lang="zh">新闻直播间</title>
-  </programme>
-  <programme start="20191006084700 +0000" stop="20191006095200 +0000" channel="cctv7">
-    <title lang="zh">祖国在召唤-2019-5</title>
   </programme>
   <programme start="20191006095200 +0000" stop="20191006110000 +0000" channel="cctv7">
     <title lang="zh">讲武堂(国防军事)-2019-10</title>
@@ -771,21 +684,6 @@
   </programme>
   <programme start="20191006233000 +0000" stop="20191007000000 +0000" channel="cctv7">
     <title lang="zh">国防军事早报</title>
-  </programme>
-  <programme start="20191006061900 +0000" stop="20191006071600 +0000" channel="cctv8">
-    <title lang="zh">最美的青春第27集</title>
-  </programme>
-  <programme start="20191006071600 +0000" stop="20191006080200 +0000" channel="cctv8">
-    <title lang="zh">最美的青春第28集</title>
-  </programme>
-  <programme start="20191006080200 +0000" stop="20191006081700 +0000" channel="cctv8">
-    <title lang="zh">星推荐-2019年10月-5</title>
-  </programme>
-  <programme start="20191006081700 +0000" stop="20191006082700 +0000" channel="cctv8">
-    <title lang="zh">星推荐-2019年10月-5</title>
-  </programme>
-  <programme start="20191006082700 +0000" stop="20191006092900 +0000" channel="cctv8">
-    <title lang="zh">正阳门下小女人第32集</title>
   </programme>
   <programme start="20191006092900 +0000" stop="20191006102300 +0000" channel="cctv8">
     <title lang="zh">正阳门下小女人第33集</title>
@@ -877,18 +775,6 @@
   <programme start="20191006233700 +0000" stop="20191007003300 +0000" channel="cctv8">
     <title lang="zh">无名卫士第4集</title>
   </programme>
-  <programme start="20191006062500 +0000" stop="20191006072600 +0000" channel="cctvjilu">
-    <title lang="zh">自然2019-263</title>
-  </programme>
-  <programme start="20191006072600 +0000" stop="20191006082600 +0000" channel="cctvjilu">
-    <title lang="zh">自然2019-250</title>
-  </programme>
-  <programme start="20191006082600 +0000" stop="20191006093000 +0000" channel="cctvjilu">
-    <title lang="zh">自然2019-251</title>
-  </programme>
-  <programme start="20191006093000 +0000" stop="20191006100300 +0000" channel="cctvjilu">
-    <title lang="zh">人文地理2019-273</title>
-  </programme>
   <programme start="20191006100300 +0000" stop="20191006110300 +0000" channel="cctvjilu">
     <title lang="zh">自然2019-272</title>
   </programme>
@@ -942,24 +828,6 @@
   </programme>
   <programme start="20191006235900 +0000" stop="20191007005500 +0000" channel="cctvjilu">
     <title lang="zh">万象2019-272</title>
-  </programme>
-  <programme start="20191006064100 +0000" stop="20191006073000 +0000" channel="cctv10">
-    <title lang="zh">探索·发现-2019-125</title>
-  </programme>
-  <programme start="20191006073000 +0000" stop="20191006082500 +0000" channel="cctv10">
-    <title lang="zh">百年地理大发现-4</title>
-  </programme>
-  <programme start="20191006082500 +0000" stop="20191006084000 +0000" channel="cctv10">
-    <title lang="zh">读书-2019-234</title>
-  </programme>
-  <programme start="20191006084000 +0000" stop="20191006092600 +0000" channel="cctv10">
-    <title lang="zh">2019中国影像方志-193</title>
-  </programme>
-  <programme start="20191006092600 +0000" stop="20191006092700 +0000" channel="cctv10">
-    <title lang="zh">欣赏-2019-4</title>
-  </programme>
-  <programme start="20191006092700 +0000" stop="20191006092900 +0000" channel="cctv10">
-    <title lang="zh">欣赏-2019-2</title>
   </programme>
   <programme start="20191006092900 +0000" stop="20191006102700 +0000" channel="cctv10">
     <title lang="zh">我爱发明-2019-119</title>
@@ -1021,12 +889,6 @@
   <programme start="20191006233500 +0000" stop="20191007002300 +0000" channel="cctv10">
     <title lang="zh">探索·发现-2019-125</title>
   </programme>
-  <programme start="20191006060200 +0000" stop="20191006070700 +0000" channel="cctv11">
-    <title lang="zh">青春戏苑-2019-42京韵芬芳特辑（三）</title>
-  </programme>
-  <programme start="20191006070700 +0000" stop="20191006092400 +0000" channel="cctv11">
-    <title lang="zh">CCTV空中剧院-2019-124 京剧《碧波仙子》</title>
-  </programme>
   <programme start="20191006092400 +0000" stop="20191006111000 +0000" channel="cctv11">
     <title lang="zh">角儿来了-梨园传奇（上）（4K）</title>
   </programme>
@@ -1056,21 +918,6 @@
   </programme>
   <programme start="20191006231600 +0000" stop="20191007002800 +0000" channel="cctv11">
     <title lang="zh">过把瘾-2019-35最佳拍档11</title>
-  </programme>
-  <programme start="20191006070300 +0000" stop="20191006074800 +0000" channel="cctv12">
-    <title lang="zh">社会与法电视剧精选（2018）-家有公婆-20/38</title>
-  </programme>
-  <programme start="20191006074800 +0000" stop="20191006080800 +0000" channel="cctv12">
-    <title lang="zh">夕阳红-2019-279</title>
-  </programme>
-  <programme start="20191006080800 +0000" stop="20191006083000 +0000" channel="cctv12">
-    <title lang="zh">道德观察(日播版)-2019-279</title>
-  </programme>
-  <programme start="20191006083000 +0000" stop="20191006091000 +0000" channel="cctv12">
-    <title lang="zh">热线12-2019-277</title>
-  </programme>
-  <programme start="20191006091000 +0000" stop="20191006100000 +0000" channel="cctv12">
-    <title lang="zh">律师来了（第三季）-2019-17</title>
   </programme>
   <programme start="20191006100000 +0000" stop="20191006105200 +0000" channel="cctv12">
     <title lang="zh">律师来了（第三季）-2019-18</title>
@@ -1128,18 +975,6 @@
   </programme>
   <programme start="20191006234400 +0000" stop="20191007000700 +0000" channel="cctv12">
     <title lang="zh">夕阳红-2019-279</title>
-  </programme>
-  <programme start="20191006070000 +0000" stop="20191006080000 +0000" channel="cctv13">
-    <title lang="zh">新闻直播间</title>
-  </programme>
-  <programme start="20191006080000 +0000" stop="20191006081000 +0000" channel="cctv13">
-    <title lang="zh">新闻直播间</title>
-  </programme>
-  <programme start="20191006081000 +0000" stop="20191006090000 +0000" channel="cctv13">
-    <title lang="zh">为了可爱的中国-4</title>
-  </programme>
-  <programme start="20191006090000 +0000" stop="20191006100000 +0000" channel="cctv13">
-    <title lang="zh">新闻直播间</title>
   </programme>
   <programme start="20191006100000 +0000" stop="20191006110000 +0000" channel="cctv13">
     <title lang="zh">共同关注2019年10月</title>
@@ -1210,9 +1045,6 @@
   <programme start="20191006220000 +0000" stop="20191007010000 +0000" channel="cctv13">
     <title lang="zh">朝闻天下</title>
   </programme>
-  <programme start="20191006060000 +0000" stop="20191006090000 +0000" channel="cctvchild">
-    <title lang="zh">2019动画大放映（周末下午版）-222</title>
-  </programme>
   <programme start="20191006090000 +0000" stop="20191006120000 +0000" channel="cctvchild">
     <title lang="zh">2019动画大放映（周末晚间版）-120</title>
   </programme>
@@ -1245,21 +1077,6 @@
   </programme>
   <programme start="20191006233000 +0000" stop="20191007000000 +0000" channel="cctvchild">
     <title lang="zh">大风车-2019-192</title>
-  </programme>
-  <programme start="20191006062700 +0000" stop="20191006074300 +0000" channel="cctv15">
-    <title lang="zh">合唱先锋2019-4-乐动中华</title>
-  </programme>
-  <programme start="20191006074300 +0000" stop="20191006081600 +0000" channel="cctv15">
-    <title lang="zh">音乐传奇2019-164-岁月金曲第三集</title>
-  </programme>
-  <programme start="20191006081600 +0000" stop="20191006085000 +0000" channel="cctv15">
-    <title lang="zh">音乐传奇2019-165-岁月金曲第四集</title>
-  </programme>
-  <programme start="20191006085000 +0000" stop="20191006085300 +0000" channel="cctv15">
-    <title lang="zh">第七批中国梦主题新创作歌曲-时代号子</title>
-  </programme>
-  <programme start="20191006085300 +0000" stop="20191006090300 +0000" channel="cctv15">
-    <title lang="zh">第七批中国梦主题新创作歌曲-脱贫宣言</title>
   </programme>
   <programme start="20191006090300 +0000" stop="20191006101900 +0000" channel="cctv15">
     <title lang="zh">音乐公开课-与新时代同行（六）</title>
@@ -1296,33 +1113,6 @@
   </programme>
   <programme start="20191006234600 +0000" stop="20191007001900 +0000" channel="cctv15">
     <title lang="zh">中国音乐电视-2019-280</title>
-  </programme>
-  <programme start="20191006063000 +0000" stop="20191006071000 +0000" channel="cctvfxzl">
-    <title lang="zh">你要倾听的大地（2-002）</title>
-  </programme>
-  <programme start="20191006071000 +0000" stop="20191006072000 +0000" channel="cctvfxzl">
-    <title lang="zh">你要倾听的大地（007）</title>
-  </programme>
-  <programme start="20191006072000 +0000" stop="20191006074000 +0000" channel="cctvfxzl">
-    <title lang="zh">童声发现（1-003）</title>
-  </programme>
-  <programme start="20191006074000 +0000" stop="20191006075000 +0000" channel="cctvfxzl">
-    <title lang="zh">你要倾听的大地（001）</title>
-  </programme>
-  <programme start="20191006075000 +0000" stop="20191006083000 +0000" channel="cctvfxzl">
-    <title lang="zh">探索·发现（318）</title>
-  </programme>
-  <programme start="20191006083000 +0000" stop="20191006090000 +0000" channel="cctvfxzl">
-    <title lang="zh">空姐新发现（040）</title>
-  </programme>
-  <programme start="20191006090000 +0000" stop="20191006093000 +0000" channel="cctvfxzl">
-    <title lang="zh">发现汇（30-006）</title>
-  </programme>
-  <programme start="20191006093000 +0000" stop="20191006094500 +0000" channel="cctvfxzl">
-    <title lang="zh">发现汇（15-011）</title>
-  </programme>
-  <programme start="20191006094500 +0000" stop="20191006100000 +0000" channel="cctvfxzl">
-    <title lang="zh">发现汇（15-012）</title>
   </programme>
   <programme start="20191006100000 +0000" stop="20191006102500 +0000" channel="cctvfxzl">
     <title lang="zh">江湖宝典（010）</title>
@@ -1396,21 +1186,6 @@
   <programme start="20191006233000 +0000" stop="20191007000000 +0000" channel="cctvfxzl">
     <title lang="zh">你要倾听的大地（2-005）</title>
   </programme>
-  <programme start="20191006070100 +0000" stop="20191006080000 +0000" channel="cctvlaogushi">
-    <title lang="zh">特别节目\t《东方主战场》（七）</title>
-  </programme>
-  <programme start="20191006080000 +0000" stop="20191006084400 +0000" channel="cctvlaogushi">
-    <title lang="zh">中华文明\t《考古中国》（7）</title>
-  </programme>
-  <programme start="20191006084400 +0000" stop="20191006090100 +0000" channel="cctvlaogushi">
-    <title lang="zh">故乡\t《爱的选择》（下）</title>
-  </programme>
-  <programme start="20191006090100 +0000" stop="20191006093200 +0000" channel="cctvlaogushi">
-    <title lang="zh">亲历\t《国货的前世今生》（三）</title>
-  </programme>
-  <programme start="20191006093200 +0000" stop="20191006094300 +0000" channel="cctvlaogushi">
-    <title lang="zh">印记\t《科技为桨 扬帆起航》</title>
-  </programme>
   <programme start="20191006094300 +0000" stop="20191006103800 +0000" channel="cctvlaogushi">
     <title lang="zh">特别节目\t《东方主战场》（八）</title>
   </programme>
@@ -1452,33 +1227,6 @@
   </programme>
   <programme start="20191006233800 +0000" stop="20191007002400 +0000" channel="cctvlaogushi">
     <title lang="zh">中华文明\t《考古中国》（8）</title>
-  </programme>
-  <programme start="20191006065500 +0000" stop="20191006073500 +0000" channel="cetv1">
-    <title lang="zh">刀光枪影-第004集</title>
-  </programme>
-  <programme start="20191006073500 +0000" stop="20191006074700 +0000" channel="cetv1">
-    <title lang="zh">1535广告专题2019</title>
-  </programme>
-  <programme start="20191006074700 +0000" stop="20191006074800 +0000" channel="cetv1">
-    <title lang="zh">CETV1导视（远离非法筹资 理财篇）</title>
-  </programme>
-  <programme start="20191006074800 +0000" stop="20191006082800 +0000" channel="cetv1">
-    <title lang="zh">刀光枪影-第005集</title>
-  </programme>
-  <programme start="20191006082800 +0000" stop="20191006084000 +0000" channel="cetv1">
-    <title lang="zh">1628广告专题2019</title>
-  </programme>
-  <programme start="20191006084000 +0000" stop="20191006084100 +0000" channel="cetv1">
-    <title lang="zh">CETV1导视（在阅读中发现世界 赵又廷）</title>
-  </programme>
-  <programme start="20191006084100 +0000" stop="20191006092100 +0000" channel="cetv1">
-    <title lang="zh">刀光枪影-第006集</title>
-  </programme>
-  <programme start="20191006092100 +0000" stop="20191006093300 +0000" channel="cetv1">
-    <title lang="zh">1721广告专题2019</title>
-  </programme>
-  <programme start="20191006093300 +0000" stop="20191006093500 +0000" channel="cetv1">
-    <title lang="zh">CETV1导视2（2019年3月3日）</title>
   </programme>
   <programme start="20191006093500 +0000" stop="20191006102000 +0000" channel="cetv1">
     <title lang="zh">请教请教（2018高清）-第034集</title>
@@ -1630,21 +1378,6 @@
   <programme start="20191006235300 +0000" stop="20191007003300 +0000" channel="cetv1">
     <title lang="zh">大秦帝国之纵横-第031集</title>
   </programme>
-  <programme start="20191006063900 +0000" stop="20191006073100 +0000" channel="cetv2">
-    <title lang="zh">行草章法学-第001集</title>
-  </programme>
-  <programme start="20191006073100 +0000" stop="20191006073300 +0000" channel="cetv2">
-    <title lang="zh">二套宣传2</title>
-  </programme>
-  <programme start="20191006073300 +0000" stop="20191006083500 +0000" channel="cetv2">
-    <title lang="zh">跟我学汉语-第140集</title>
-  </programme>
-  <programme start="20191006083500 +0000" stop="20191006092000 +0000" channel="cetv2">
-    <title lang="zh">小小演说家-第013集</title>
-  </programme>
-  <programme start="20191006092000 +0000" stop="20191006094400 +0000" channel="cetv2">
-    <title lang="zh">法治天下（2017标清）-第207集</title>
-  </programme>
   <programme start="20191006094400 +0000" stop="20191006100800 +0000" channel="cetv2">
     <title lang="zh">法治天下（2017标清）-第208集</title>
   </programme>
@@ -1714,27 +1447,6 @@
   <programme start="20191006233200 +0000" stop="20191007002400 +0000" channel="cetv2">
     <title lang="zh">操作系统-第001集</title>
   </programme>
-  <programme start="20191006062600 +0000" stop="20191006070800 +0000" channel="cetv3">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006070800 +0000" stop="20191006080800 +0000" channel="cetv3">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006080800 +0000" stop="20191006083200 +0000" channel="cetv3">
-    <title lang="zh">国史演义</title>
-  </programme>
-  <programme start="20191006083200 +0000" stop="20191006085900 +0000" channel="cetv3">
-    <title lang="zh">中国纪录片</title>
-  </programme>
-  <programme start="20191006085900 +0000" stop="20191006094900 +0000" channel="cetv3">
-    <title lang="zh">动物星球</title>
-  </programme>
-  <programme start="20191006094900 +0000" stop="20191006095400 +0000" channel="cetv3">
-    <title lang="zh">歌唱祖国</title>
-  </programme>
-  <programme start="20191006095400 +0000" stop="20191006100000 +0000" channel="cetv3">
-    <title lang="zh">歌唱祖国</title>
-  </programme>
   <programme start="20191006100000 +0000" stop="20191006110000 +0000" channel="cetv3">
     <title lang="zh">寰宇地理</title>
   </programme>
@@ -1782,21 +1494,6 @@
   </programme>
   <programme start="20191006235700 +0000" stop="20191007003900 +0000" channel="cetv3">
     <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006063000 +0000" stop="20191006072200 +0000" channel="cetv4">
-    <title lang="zh">寰宇地理-第350集</title>
-  </programme>
-  <programme start="20191006072200 +0000" stop="20191006081200 +0000" channel="cetv4">
-    <title lang="zh">动物星球-第350集</title>
-  </programme>
-  <programme start="20191006081200 +0000" stop="20191006084500 +0000" channel="cetv4">
-    <title lang="zh">健康新食代-第001集</title>
-  </programme>
-  <programme start="20191006084500 +0000" stop="20191006093000 +0000" channel="cetv4">
-    <title lang="zh">请教请教-第024集</title>
-  </programme>
-  <programme start="20191006093000 +0000" stop="20191006100000 +0000" channel="cetv4">
-    <title lang="zh">中国纪录片-第350集</title>
   </programme>
   <programme start="20191006100000 +0000" stop="20191006103000 +0000" channel="cetv4">
     <title lang="zh">健康新食代-第001集</title>
@@ -1867,15 +1564,6 @@
   <programme start="20191006233000 +0000" stop="20191007000000 +0000" channel="cetv4">
     <title lang="zh">中华经典-第016集</title>
   </programme>
-  <programme start="20191006065100 +0000" stop="20191006074300 +0000" channel="btv1">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006074300 +0000" stop="20191006083500 +0000" channel="btv1">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006083500 +0000" stop="20191006092500 +0000" channel="btv1">
-    <title lang="zh">暖暖的味道精华版</title>
-  </programme>
   <programme start="20191006092500 +0000" stop="20191006103000 +0000" channel="btv1">
     <title lang="zh">养生堂</title>
   </programme>
@@ -1920,18 +1608,6 @@
   </programme>
   <programme start="20191006230000 +0000" stop="20191007010500 +0000" channel="btv1">
     <title lang="zh">北京您早</title>
-  </programme>
-  <programme start="20191006062200 +0000" stop="20191006075000 +0000" channel="dongfang">
-    <title lang="zh">中国新相亲第一季</title>
-  </programme>
-  <programme start="20191006075000 +0000" stop="20191006091900 +0000" channel="dongfang">
-    <title lang="zh">中国新相亲第二季</title>
-  </programme>
-  <programme start="20191006091900 +0000" stop="20191006094800 +0000" channel="dongfang">
-    <title lang="zh">文娱新天地</title>
-  </programme>
-  <programme start="20191006094800 +0000" stop="20191006100000 +0000" channel="dongfang">
-    <title lang="zh">诗书画</title>
   </programme>
   <programme start="20191006100000 +0000" stop="20191006105700 +0000" channel="dongfang">
     <title lang="zh">东方新闻</title>
@@ -1987,18 +1663,6 @@
   <programme start="20191006230100 +0000" stop="20191007005900 +0000" channel="dongfang">
     <title lang="zh">看东方</title>
   </programme>
-  <programme start="20191006064000 +0000" stop="20191006072200 +0000" channel="hunan">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006072200 +0000" stop="20191006081200 +0000" channel="hunan">
-    <title lang="zh">电视剧:你是我的答案</title>
-  </programme>
-  <programme start="20191006081200 +0000" stop="20191006092100 +0000" channel="hunan">
-    <title lang="zh">电视剧:你是我的答案</title>
-  </programme>
-  <programme start="20191006092100 +0000" stop="20191006095600 +0000" channel="hunan">
-    <title lang="zh">乡村合伙人</title>
-  </programme>
   <programme start="20191006095600 +0000" stop="20191006103000 +0000" channel="hunan">
     <title lang="zh">新闻大求真</title>
   </programme>
@@ -2037,15 +1701,6 @@
   </programme>
   <programme start="20191006233400 +0000" stop="20191007002700 +0000" channel="hunan">
     <title lang="zh">重播电视剧</title>
-  </programme>
-  <programme start="20191006062200 +0000" stop="20191006071800 +0000" channel="shandong">
-    <title lang="zh">电视剧:湄公河大案</title>
-  </programme>
-  <programme start="20191006071800 +0000" stop="20191006081300 +0000" channel="shandong">
-    <title lang="zh">电视剧:湄公河大案</title>
-  </programme>
-  <programme start="20191006081300 +0000" stop="20191006091300 +0000" channel="shandong">
-    <title lang="zh">电视剧:湄公河大案</title>
   </programme>
   <programme start="20191006091300 +0000" stop="20191006101800 +0000" channel="shandong">
     <title lang="zh">电视剧:湄公河大案</title>
@@ -2094,15 +1749,6 @@
   </programme>
   <programme start="20191006233700 +0000" stop="20191007002400 +0000" channel="shandong">
     <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006063000 +0000" stop="20191006083000 +0000" channel="zhejiang">
-    <title lang="zh">奔跑吧兄弟</title>
-  </programme>
-  <programme start="20191006083000 +0000" stop="20191006095200 +0000" channel="zhejiang">
-    <title lang="zh">王牌对王牌</title>
-  </programme>
-  <programme start="20191006095200 +0000" stop="20191006095500 +0000" channel="zhejiang">
-    <title lang="zh">气象预报</title>
   </programme>
   <programme start="20191006095500 +0000" stop="20191006101700 +0000" channel="zhejiang">
     <title lang="zh">华商启示录</title>
@@ -2161,15 +1807,6 @@
   <programme start="20191006235000 +0000" stop="20191007000000 +0000" channel="zhejiang">
     <title lang="zh">电视剧</title>
   </programme>
-  <programme start="20191006062800 +0000" stop="20191006075300 +0000" channel="jiangsu">
-    <title lang="zh">非诚勿扰</title>
-  </programme>
-  <programme start="20191006075300 +0000" stop="20191006080600 +0000" channel="jiangsu">
-    <title lang="zh">非诚勿扰精华版</title>
-  </programme>
-  <programme start="20191006080600 +0000" stop="20191006095900 +0000" channel="jiangsu">
-    <title lang="zh">新相亲时代</title>
-  </programme>
   <programme start="20191006095900 +0000" stop="20191006103000 +0000" channel="jiangsu">
     <title lang="zh">新闻眼</title>
   </programme>
@@ -2211,18 +1848,6 @@
   </programme>
   <programme start="20191006232200 +0000" stop="20191007000500 +0000" channel="jiangsu">
     <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006064100 +0000" stop="20191006072000 +0000" channel="guangdong">
-    <title lang="zh">电视剧:特种兵之火凤凰(30)</title>
-  </programme>
-  <programme start="20191006072000 +0000" stop="20191006080300 +0000" channel="guangdong">
-    <title lang="zh">电视剧:特种兵之火凤凰(31)</title>
-  </programme>
-  <programme start="20191006080300 +0000" stop="20191006084700 +0000" channel="guangdong">
-    <title lang="zh">电视剧:特种兵之火凤凰(32)</title>
-  </programme>
-  <programme start="20191006084700 +0000" stop="20191006094200 +0000" channel="guangdong">
-    <title lang="zh">电视剧:特种兵之火凤凰(33)</title>
   </programme>
   <programme start="20191006094200 +0000" stop="20191006102600 +0000" channel="guangdong">
     <title lang="zh">电视剧:特种兵之火凤凰(34)</title>
@@ -2271,12 +1896,6 @@
   </programme>
   <programme start="20191006233300 +0000" stop="20191007001400 +0000" channel="guangdong">
     <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006061700 +0000" stop="20191006070800 +0000" channel="dongnan">
-    <title lang="zh">电视剧:正阳门下</title>
-  </programme>
-  <programme start="20191006070800 +0000" stop="20191006100000 +0000" channel="dongnan">
-    <title lang="zh">电影</title>
   </programme>
   <programme start="20191006100000 +0000" stop="20191006103000 +0000" channel="dongnan">
     <title lang="zh">食来运转</title>
@@ -2341,18 +1960,6 @@
   <programme start="20191006234000 +0000" stop="20191007002500 +0000" channel="dongnan">
     <title lang="zh">海峡新干线</title>
   </programme>
-  <programme start="20191006063100 +0000" stop="20191006072800 +0000" channel="anhui">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006072800 +0000" stop="20191006082100 +0000" channel="anhui">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006082100 +0000" stop="20191006091500 +0000" channel="anhui">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006091500 +0000" stop="20191006100000 +0000" channel="anhui">
-    <title lang="zh">电视剧</title>
-  </programme>
   <programme start="20191006100000 +0000" stop="20191006103000 +0000" channel="anhui">
     <title lang="zh">每日新闻报</title>
   </programme>
@@ -2394,18 +2001,6 @@
   </programme>
   <programme start="20191006233400 +0000" stop="20191007001000 +0000" channel="anhui">
     <title lang="zh">纪录片</title>
-  </programme>
-  <programme start="20191006065200 +0000" stop="20191006074600 +0000" channel="gansu">
-    <title lang="zh">电视剧:飞哥大英雄(39)</title>
-  </programme>
-  <programme start="20191006074600 +0000" stop="20191006084300 +0000" channel="gansu">
-    <title lang="zh">电视剧:飞哥大英雄(40)</title>
-  </programme>
-  <programme start="20191006084300 +0000" stop="20191006093700 +0000" channel="gansu">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006093700 +0000" stop="20191006100000 +0000" channel="gansu">
-    <title lang="zh">纪录30分</title>
   </programme>
   <programme start="20191006100000 +0000" stop="20191006101000 +0000" channel="gansu">
     <title lang="zh">好人在身边</title>
@@ -2464,18 +2059,6 @@
   <programme start="20191006232500 +0000" stop="20191007001400 +0000" channel="gansu">
     <title lang="zh">电视剧</title>
   </programme>
-  <programme start="20191006061800 +0000" stop="20191006071400 +0000" channel="liaoning">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006071400 +0000" stop="20191006080000 +0000" channel="liaoning">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006080000 +0000" stop="20191006090100 +0000" channel="liaoning">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006090100 +0000" stop="20191006100000 +0000" channel="liaoning">
-    <title lang="zh">欢乐集结号</title>
-  </programme>
   <programme start="20191006100000 +0000" stop="20191006102000 +0000" channel="liaoning">
     <title lang="zh">风物辽宁</title>
   </programme>
@@ -2520,15 +2103,6 @@
   </programme>
   <programme start="20191006233000 +0000" stop="20191007000000 +0000" channel="liaoning">
     <title lang="zh">辽宁新闻</title>
-  </programme>
-  <programme start="20191006065200 +0000" stop="20191006074300 +0000" channel="travel">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006074300 +0000" stop="20191006083500 +0000" channel="travel">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006083500 +0000" stop="20191006092600 +0000" channel="travel">
-    <title lang="zh">电视剧</title>
   </programme>
   <programme start="20191006092600 +0000" stop="20191006101600 +0000" channel="travel">
     <title lang="zh">电视剧</title>
@@ -2632,18 +2206,6 @@
   <programme start="20191006233500 +0000" stop="20191007000200 +0000" channel="travel">
     <title lang="zh">动画片</title>
   </programme>
-  <programme start="20191006063000 +0000" stop="20191006072500 +0000" channel="neimenggu">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006072500 +0000" stop="20191006082000 +0000" channel="neimenggu">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006082000 +0000" stop="20191006090100 +0000" channel="neimenggu">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006090100 +0000" stop="20191006095500 +0000" channel="neimenggu">
-    <title lang="zh">电视剧</title>
-  </programme>
   <programme start="20191006095500 +0000" stop="20191006103000 +0000" channel="neimenggu">
     <title lang="zh">欢乐驿站</title>
   </programme>
@@ -2694,18 +2256,6 @@
   </programme>
   <programme start="20191006233000 +0000" stop="20191007000000 +0000" channel="neimenggu">
     <title lang="zh">内蒙古新闻联播</title>
-  </programme>
-  <programme start="20191006064700 +0000" stop="20191006074500 +0000" channel="ningxia">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006074500 +0000" stop="20191006081000 +0000" channel="ningxia">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006081000 +0000" stop="20191006090000 +0000" channel="ningxia">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006090000 +0000" stop="20191006093500 +0000" channel="ningxia">
-    <title lang="zh">电视剧</title>
   </programme>
   <programme start="20191006093500 +0000" stop="20191006100800 +0000" channel="ningxia">
     <title lang="zh">动画片剧场:翻开这一页</title>
@@ -2761,18 +2311,6 @@
   <programme start="20191006235600 +0000" stop="20191007004500 +0000" channel="ningxia">
     <title lang="zh">电视剧</title>
   </programme>
-  <programme start="20191006063500 +0000" stop="20191006071200 +0000" channel="qinghai">
-    <title lang="zh">电视剧:父母爱情(43)</title>
-  </programme>
-  <programme start="20191006071200 +0000" stop="20191006075400 +0000" channel="qinghai">
-    <title lang="zh">电视剧:父母爱情(44)</title>
-  </programme>
-  <programme start="20191006075400 +0000" stop="20191006085500 +0000" channel="qinghai">
-    <title lang="zh">电视剧:父母爱情(45)</title>
-  </programme>
-  <programme start="20191006085500 +0000" stop="20191006093500 +0000" channel="qinghai">
-    <title lang="zh">电视剧:可爱的中国</title>
-  </programme>
   <programme start="20191006093500 +0000" stop="20191006103000 +0000" channel="qinghai">
     <title lang="zh">男生女生上高原5</title>
   </programme>
@@ -2826,15 +2364,6 @@
   </programme>
   <programme start="20191006234900 +0000" stop="20191007001900 +0000" channel="qinghai">
     <title lang="zh">纪录时间</title>
-  </programme>
-  <programme start="20191006061500 +0000" stop="20191006090000 +0000" channel="xiamen">
-    <title lang="zh">温州一家人31-33</title>
-  </programme>
-  <programme start="20191006090000 +0000" stop="20191006095500 +0000" channel="xiamen">
-    <title lang="zh">航拍中国第二季6(重）</title>
-  </programme>
-  <programme start="20191006095500 +0000" stop="20191006100000 +0000" channel="xiamen">
-    <title lang="zh">第五场：厦门机场</title>
   </programme>
   <programme start="20191006100000 +0000" stop="20191006103000 +0000" channel="xiamen">
     <title lang="zh">军情全球眼（首）</title>
@@ -2890,18 +2419,6 @@
   <programme start="20191006233000 +0000" stop="20191007000000 +0000" channel="xiamen">
     <title lang="zh">军情全球眼（重）</title>
   </programme>
-  <programme start="20191006061900 +0000" stop="20191006071700 +0000" channel="yunnan">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006071700 +0000" stop="20191006081400 +0000" channel="yunnan">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006081400 +0000" stop="20191006091300 +0000" channel="yunnan">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006091300 +0000" stop="20191006094700 +0000" channel="yunnan">
-    <title lang="zh">电视剧</title>
-  </programme>
   <programme start="20191006094700 +0000" stop="20191006103000 +0000" channel="yunnan">
     <title lang="zh">好在了我的家</title>
   </programme>
@@ -2950,18 +2467,6 @@
   <programme start="20191006232600 +0000" stop="20191007002000 +0000" channel="yunnan">
     <title lang="zh">电视剧</title>
   </programme>
-  <programme start="20191006065200 +0000" stop="20191006074800 +0000" channel="chongqing">
-    <title lang="zh">电视剧:大秧歌(53)</title>
-  </programme>
-  <programme start="20191006074800 +0000" stop="20191006084100 +0000" channel="chongqing">
-    <title lang="zh">电视剧:大秧歌(54)</title>
-  </programme>
-  <programme start="20191006084100 +0000" stop="20191006094900 +0000" channel="chongqing">
-    <title lang="zh">电视剧:大秧歌(55)</title>
-  </programme>
-  <programme start="20191006094900 +0000" stop="20191006100100 +0000" channel="chongqing">
-    <title lang="zh">环球视界</title>
-  </programme>
   <programme start="20191006100100 +0000" stop="20191006102300 +0000" channel="chongqing">
     <title lang="zh">财经壹资讯</title>
   </programme>
@@ -3009,15 +2514,6 @@
   </programme>
   <programme start="20191006233000 +0000" stop="20191007000000 +0000" channel="chongqing">
     <title lang="zh">中国故事</title>
-  </programme>
-  <programme start="20191006063700 +0000" stop="20191006073700 +0000" channel="jiangxi">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006073700 +0000" stop="20191006083700 +0000" channel="jiangxi">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006083700 +0000" stop="20191006093300 +0000" channel="jiangxi">
-    <title lang="zh">电视剧</title>
   </programme>
   <programme start="20191006093300 +0000" stop="20191006101700 +0000" channel="jiangxi">
     <title lang="zh">电视剧</title>
@@ -3073,15 +2569,6 @@
   <programme start="20191006235000 +0000" stop="20191007002700 +0000" channel="jiangxi">
     <title lang="zh">动画片剧场</title>
   </programme>
-  <programme start="20191006064300 +0000" stop="20191006073800 +0000" channel="shan1xi">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006073800 +0000" stop="20191006083300 +0000" channel="shan1xi">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006083300 +0000" stop="20191006093100 +0000" channel="shan1xi">
-    <title lang="zh">电视剧</title>
-  </programme>
   <programme start="20191006093100 +0000" stop="20191006103000 +0000" channel="shan1xi">
     <title lang="zh">电视剧</title>
   </programme>
@@ -3136,15 +2623,6 @@
   <programme start="20191006233600 +0000" stop="20191007003100 +0000" channel="shan1xi">
     <title lang="zh">电视剧</title>
   </programme>
-  <programme start="20191006062300 +0000" stop="20191006072400 +0000" channel="shenzhen">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006072400 +0000" stop="20191006082400 +0000" channel="shenzhen">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006082400 +0000" stop="20191006093000 +0000" channel="shenzhen">
-    <title lang="zh">勇士的荣耀</title>
-  </programme>
   <programme start="20191006093000 +0000" stop="20191006103000 +0000" channel="shenzhen">
     <title lang="zh">辣妈学院</title>
   </programme>
@@ -3180,18 +2658,6 @@
   </programme>
   <programme start="20191006230000 +0000" stop="20191007000000 +0000" channel="shenzhen">
     <title lang="zh">直播港澳台</title>
-  </programme>
-  <programme start="20191006062400 +0000" stop="20191006070800 +0000" channel="sichuan">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006070800 +0000" stop="20191006082000 +0000" channel="sichuan">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006082000 +0000" stop="20191006090200 +0000" channel="sichuan">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006090200 +0000" stop="20191006100000 +0000" channel="sichuan">
-    <title lang="zh">电视剧</title>
   </programme>
   <programme start="20191006100000 +0000" stop="20191006103000 +0000" channel="sichuan">
     <title lang="zh">今日视点</title>
@@ -3237,15 +2703,6 @@
   </programme>
   <programme start="20191006233700 +0000" stop="20191007000300 +0000" channel="sichuan">
     <title lang="zh">喜剧班的春天</title>
-  </programme>
-  <programme start="20191006061000 +0000" stop="20191006070800 +0000" channel="tianjin">
-    <title lang="zh">电视剧:父母爱情</title>
-  </programme>
-  <programme start="20191006070800 +0000" stop="20191006080500 +0000" channel="tianjin">
-    <title lang="zh">电视剧:父母爱情</title>
-  </programme>
-  <programme start="20191006080500 +0000" stop="20191006090300 +0000" channel="tianjin">
-    <title lang="zh">电视剧:父母爱情</title>
   </programme>
   <programme start="20191006090300 +0000" stop="20191006100500 +0000" channel="tianjin">
     <title lang="zh">电视剧:父母爱情</title>
@@ -3299,18 +2756,6 @@
     <title lang="zh">津晨天气</title>
   </programme>
   <programme start="20191006233100 +0000" stop="20191007000000 +0000" channel="tianjin">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006061300 +0000" stop="20191006071000 +0000" channel="guangxi">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006071000 +0000" stop="20191006081200 +0000" channel="guangxi">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006081200 +0000" stop="20191006090500 +0000" channel="guangxi">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006090500 +0000" stop="20191006100000 +0000" channel="guangxi">
     <title lang="zh">电视剧</title>
   </programme>
   <programme start="20191006100000 +0000" stop="20191006102400 +0000" channel="guangxi">
@@ -3373,21 +2818,6 @@
   <programme start="20191006233500 +0000" stop="20191007001400 +0000" channel="guangxi">
     <title lang="zh">百寿探秘</title>
   </programme>
-  <programme start="20191006062500 +0000" stop="20191006071100 +0000" channel="guizhou">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006071100 +0000" stop="20191006075600 +0000" channel="guizhou">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006075600 +0000" stop="20191006083900 +0000" channel="guizhou">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006083900 +0000" stop="20191006092000 +0000" channel="guizhou">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006092000 +0000" stop="20191006100000 +0000" channel="guizhou">
-    <title lang="zh">汽车评中评</title>
-  </programme>
   <programme start="20191006100000 +0000" stop="20191006103000 +0000" channel="guizhou">
     <title lang="zh">品牌</title>
   </programme>
@@ -3436,18 +2866,6 @@
   <programme start="20191006233200 +0000" stop="20191007000500 +0000" channel="guizhou">
     <title lang="zh">电视剧</title>
   </programme>
-  <programme start="20191006064800 +0000" stop="20191006072800 +0000" channel="hebei">
-    <title lang="zh">电视剧:都挺好(41)</title>
-  </programme>
-  <programme start="20191006072800 +0000" stop="20191006081700 +0000" channel="hebei">
-    <title lang="zh">电视剧:都挺好(42)</title>
-  </programme>
-  <programme start="20191006081700 +0000" stop="20191006085800 +0000" channel="hebei">
-    <title lang="zh">电视剧:都挺好(43)</title>
-  </programme>
-  <programme start="20191006085800 +0000" stop="20191006095300 +0000" channel="hebei">
-    <title lang="zh">电视剧:都挺好(44)</title>
-  </programme>
   <programme start="20191006095300 +0000" stop="20191006103000 +0000" channel="hebei">
     <title lang="zh">家政女皇</title>
   </programme>
@@ -3490,18 +2908,6 @@
   <programme start="20191006230000 +0000" stop="20191007000500 +0000" channel="hebei">
     <title lang="zh">你早京津冀</title>
   </programme>
-  <programme start="20191006064700 +0000" stop="20191006072700 +0000" channel="henan">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006072700 +0000" stop="20191006080700 +0000" channel="henan">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006080700 +0000" stop="20191006091500 +0000" channel="henan">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006091500 +0000" stop="20191006095500 +0000" channel="henan">
-    <title lang="zh">动画片剧场:最可爱的人</title>
-  </programme>
   <programme start="20191006095500 +0000" stop="20191006102400 +0000" channel="henan">
     <title lang="zh">聚焦中原</title>
   </programme>
@@ -3543,15 +2949,6 @@
   </programme>
   <programme start="20191006233300 +0000" stop="20191007000000 +0000" channel="henan">
     <title lang="zh">河南新闻联播</title>
-  </programme>
-  <programme start="20191006070200 +0000" stop="20191006074600 +0000" channel="heilongjiang">
-    <title lang="zh">电视剧:铁核桃之无间风云</title>
-  </programme>
-  <programme start="20191006074600 +0000" stop="20191006085300 +0000" channel="heilongjiang">
-    <title lang="zh">电视剧:铁核桃之无间风云</title>
-  </programme>
-  <programme start="20191006085300 +0000" stop="20191006100000 +0000" channel="heilongjiang">
-    <title lang="zh">电视剧:铁核桃之无间风云</title>
   </programme>
   <programme start="20191006100000 +0000" stop="20191006102600 +0000" channel="heilongjiang">
     <title lang="zh">新华视点</title>
@@ -3613,18 +3010,6 @@
   <programme start="20191006235700 +0000" stop="20191007003900 +0000" channel="heilongjiang">
     <title lang="zh">中国龙动画剧场:最可爱的人</title>
   </programme>
-  <programme start="20191006061800 +0000" stop="20191006070500 +0000" channel="hubei">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006070500 +0000" stop="20191006080100 +0000" channel="hubei">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006080100 +0000" stop="20191006090100 +0000" channel="hubei">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006090100 +0000" stop="20191006095000 +0000" channel="hubei">
-    <title lang="zh">天生我财之吾股丰登</title>
-  </programme>
   <programme start="20191006095000 +0000" stop="20191006103000 +0000" channel="hubei">
     <title lang="zh">饮食养生汇</title>
   </programme>
@@ -3672,18 +3057,6 @@
   </programme>
   <programme start="20191006235500 +0000" stop="20191007003500 +0000" channel="hubei">
     <title lang="zh">天生我财</title>
-  </programme>
-  <programme start="20191006063500 +0000" stop="20191006072700 +0000" channel="jilin">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006072700 +0000" stop="20191006082100 +0000" channel="jilin">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006082100 +0000" stop="20191006083100 +0000" channel="jilin">
-    <title lang="zh">花儿朵朵</title>
-  </programme>
-  <programme start="20191006083100 +0000" stop="20191006085100 +0000" channel="jilin">
-    <title lang="zh">嘿我知道了</title>
   </programme>
   <programme start="20191006085100 +0000" stop="20191006100400 +0000" channel="jilin">
     <title lang="zh">欢乐送</title>
@@ -3739,15 +3112,6 @@
   <programme start="20191006232100 +0000" stop="20191007001300 +0000" channel="jilin">
     <title lang="zh">电视剧</title>
   </programme>
-  <programme start="20191006053000 +0000" stop="20191006072000 +0000" channel="yanbian">
-    <title lang="zh">드라마</title>
-  </programme>
-  <programme start="20191006072000 +0000" stop="20191006093500 +0000" channel="yanbian">
-    <title lang="zh">드라마</title>
-  </programme>
-  <programme start="20191006093500 +0000" stop="20191006100000 +0000" channel="yanbian">
-    <title lang="zh">동물세계</title>
-  </programme>
   <programme start="20191006100000 +0000" stop="20191006103500 +0000" channel="yanbian">
     <title lang="zh">그림영화</title>
   </programme>
@@ -3798,15 +3162,6 @@
   </programme>
   <programme start="20191006233000 +0000" stop="20191007001000 +0000" channel="yanbian">
     <title lang="zh">신주 어제 그리고 오늘</title>
-  </programme>
-  <programme start="20191006070000 +0000" stop="20191006071700 +0000" channel="xizang">
-    <title lang="zh">午间新闻</title>
-  </programme>
-  <programme start="20191006071700 +0000" stop="20191006081500 +0000" channel="xizang">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006081500 +0000" stop="20191006091300 +0000" channel="xizang">
-    <title lang="zh">电视剧</title>
   </programme>
   <programme start="20191006091300 +0000" stop="20191006101000 +0000" channel="xizang">
     <title lang="zh">电视剧</title>
@@ -3880,15 +3235,6 @@
   <programme start="20191006235300 +0000" stop="20191007001500 +0000" channel="xizang">
     <title lang="zh">七色风汇编</title>
   </programme>
-  <programme start="20191006062500 +0000" stop="20191006073000 +0000" channel="xinjiang">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006073000 +0000" stop="20191006083400 +0000" channel="xinjiang">
-    <title lang="zh">电视剧</title>
-  </programme>
-  <programme start="20191006083400 +0000" stop="20191006094900 +0000" channel="xinjiang">
-    <title lang="zh">电视剧</title>
-  </programme>
   <programme start="20191006094900 +0000" stop="20191006101200 +0000" channel="xinjiang">
     <title lang="zh">我们都是追梦人</title>
   </programme>
@@ -3940,12 +3286,6 @@
   <programme start="20191006234200 +0000" stop="20191007000000 +0000" channel="xinjiang">
     <title lang="zh">雪莲花动漫城</title>
   </programme>
-  <programme start="20191006070100 +0000" stop="20191006082000 +0000" channel="bingtuan">
-    <title lang="zh">电视剧:历史转折中的邓小平(31)</title>
-  </programme>
-  <programme start="20191006082000 +0000" stop="20191006094000 +0000" channel="bingtuan">
-    <title lang="zh">电视剧:历史转折中的邓小平(32)</title>
-  </programme>
   <programme start="20191006094000 +0000" stop="20191006110000 +0000" channel="bingtuan">
     <title lang="zh">电视剧:历史转折中的邓小平(33)</title>
   </programme>
@@ -3990,24 +3330,6 @@
   </programme>
   <programme start="20191006235800 +0000" stop="20191007003400 +0000" channel="bingtuan">
     <title lang="zh">时空:中国梦纪录片展播</title>
-  </programme>
-  <programme start="20191006070300 +0000" stop="20191006080800 +0000" channel="btvchild">
-    <title lang="zh">超级大连播</title>
-  </programme>
-  <programme start="20191006080800 +0000" stop="20191006083000 +0000" channel="btvchild">
-    <title lang="zh">超级大连播</title>
-  </programme>
-  <programme start="20191006083000 +0000" stop="20191006085000 +0000" channel="btvchild">
-    <title lang="zh">小神龙</title>
-  </programme>
-  <programme start="20191006085000 +0000" stop="20191006091200 +0000" channel="btvchild">
-    <title lang="zh">超级大连播</title>
-  </programme>
-  <programme start="20191006091200 +0000" stop="20191006092400 +0000" channel="btvchild">
-    <title lang="zh">大玩家</title>
-  </programme>
-  <programme start="20191006092400 +0000" stop="20191006095200 +0000" channel="btvchild">
-    <title lang="zh">卡酷动物园</title>
   </programme>
   <programme start="20191006095200 +0000" stop="20191006101500 +0000" channel="btvchild">
     <title lang="zh">酷片酷映</title>
@@ -4059,48 +3381,6 @@
   </programme>
   <programme start="20191006232500 +0000" stop="20191007001600 +0000" channel="btvchild">
     <title lang="zh">超级大连播</title>
-  </programme>
-  <programme start="20191006063700 +0000" stop="20191006070900 +0000" channel="gaoerfu">
-    <title lang="zh">高谈阔论</title>
-  </programme>
-  <programme start="20191006070900 +0000" stop="20191006071100 +0000" channel="gaoerfu">
-    <title lang="zh">自然高尔夫丝绸之路探索赛2019敦煌站宣传片(2)</title>
-  </programme>
-  <programme start="20191006071100 +0000" stop="20191006072100 +0000" channel="gaoerfu">
-    <title lang="zh">自然高尔夫（3）</title>
-  </programme>
-  <programme start="20191006072100 +0000" stop="20191006072500 +0000" channel="gaoerfu">
-    <title lang="zh">航拍球场——佛山保利云东海高尔夫球会</title>
-  </programme>
-  <programme start="20191006072500 +0000" stop="20191006072700 +0000" channel="gaoerfu">
-    <title lang="zh">时代的声音</title>
-  </programme>
-  <programme start="20191006072700 +0000" stop="20191006072800 +0000" channel="gaoerfu">
-    <title lang="zh">2019全国业余高尔夫冠军队挑战赛宣传片（2）</title>
-  </programme>
-  <programme start="20191006072800 +0000" stop="20191006073500 +0000" channel="gaoerfu">
-    <title lang="zh">2019年铁杆会:南部赛区  复赛</title>
-  </programme>
-  <programme start="20191006073500 +0000" stop="20191006074500 +0000" channel="gaoerfu">
-    <title lang="zh">自然高尔夫（3）</title>
-  </programme>
-  <programme start="20191006074500 +0000" stop="20191006080700 +0000" channel="gaoerfu">
-    <title lang="zh">走进美巡赛</title>
-  </programme>
-  <programme start="20191006080700 +0000" stop="20191006080900 +0000" channel="gaoerfu">
-    <title lang="zh">自然高尔夫丝绸之路探索赛2019敦煌站宣传片(2)</title>
-  </programme>
-  <programme start="20191006080900 +0000" stop="20191006081300 +0000" channel="gaoerfu">
-    <title lang="zh">精彩一刻</title>
-  </programme>
-  <programme start="20191006081300 +0000" stop="20191006081600 +0000" channel="gaoerfu">
-    <title lang="zh">我和我的祖国-给祖国献礼（新）</title>
-  </programme>
-  <programme start="20191006081600 +0000" stop="20191006082100 +0000" channel="gaoerfu">
-    <title lang="zh">总统杯人物特辑（1）马克·利什曼</title>
-  </programme>
-  <programme start="20191006082100 +0000" stop="20191006082400 +0000" channel="gaoerfu">
-    <title lang="zh">2019自然高尔夫敦煌站招募片(3)</title>
   </programme>
   <programme start="20191006082400 +0000" stop="20191006104600 +0000" channel="gaoerfu">
     <title lang="zh">美巡赛:2019年圣地兄弟会儿童医院公开赛第三天</title>
