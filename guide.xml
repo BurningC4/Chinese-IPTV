@@ -307,16 +307,19 @@
     <programme start="20191230200600" stop="20191230212500" channel="cctv1">
         <title lang="zh">支部建在连上-1</title>
     </programme>
-    <programme start="20191230212500" stop="20191230215200" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+    <programme start="20191230212500" stop="20191230214000" channel="cctv1">
+        <title lang="zh">精彩一刻-2020-11绝境铸剑1</title>
+    </programme>
+    <programme start="20191230214000" stop="20191230215200" channel="cctv1">
+        <title lang="zh">时代楷模发布厅-2019-14</title>
     </programme>
     <programme start="20191230215200" stop="20191230220000" channel="cctv1">
         <title lang="zh">2019秘境之眼-188</title>
     </programme>
-    <programme start="20191230220000" stop="20191230223800" channel="cctv1">
+    <programme start="20191230220000" stop="20191230224200" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20191230223800" stop="20191230235900" channel="cctv1">
+    <programme start="20191230224200" stop="20191230235900" channel="cctv1">
         <title lang="zh">中央广播电视总台2019主持人大赛-8</title>
     </programme>
     <programme start="20191230000600" stop="20191230013800" channel="cctv2">
@@ -896,7 +899,7 @@
         <title lang="zh">军事纪实(国防军事)-2019-110</title>
     </programme>
     <programme start="20191230212000" stop="20191230214700" channel="cctv7">
-        <title lang="zh">2019威武之师-11</title>
+        <title lang="zh">国防故事-2020-1</title>
     </programme>
     <programme start="20191230214700" stop="20191230215600" channel="cctv7">
         <title lang="zh">国防微视频-军歌嘹亮-寸土不让（内蒙古）</title>
@@ -1096,11 +1099,11 @@
     <programme start="20191230192200" stop="20191230200000" channel="cctvjilu">
         <title lang="zh">活力·源2019-71</title>
     </programme>
-    <programme start="20191230200000" stop="20191230210000" channel="cctvjilu">
+    <programme start="20191230200000" stop="20191230210200" channel="cctvjilu">
         <title lang="zh">特别呈现2019-340</title>
     </programme>
-    <programme start="20191230210000" stop="20191230220000" channel="cctvjilu">
-        <title lang="zh">寰宇视野2019-362</title>
+    <programme start="20191230210200" stop="20191230220000" channel="cctvjilu">
+        <title lang="zh">特别呈现2019-379 盛典4</title>
     </programme>
     <programme start="20191230220000" stop="20191230230500" channel="cctvjilu">
         <title lang="zh">故事中国2019-61</title>
@@ -1426,26 +1429,23 @@
     <programme start="20191230034000" stop="20191230040000" channel="cctv13">
         <title lang="zh">每周质量报告</title>
     </programme>
-    <programme start="20191230040000" stop="20191230041500" channel="cctv13">
+    <programme start="20191230040000" stop="20191230041200" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20191230041500" stop="20191230050000" channel="cctv13">
-        <title lang="zh">世界周刊</title>
+    <programme start="20191230041200" stop="20191230050000" channel="cctv13">
+        <title lang="zh">新闻调查-黄河大合唱1</title>
     </programme>
-    <programme start="20191230050000" stop="20191230051200" channel="cctv13">
+    <programme start="20191230050000" stop="20191230050900" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20191230051200" stop="20191230060000" channel="cctv13">
-        <title lang="zh">面对面</title>
+    <programme start="20191230050900" stop="20191230060000" channel="cctv13">
+        <title lang="zh">新闻调查-黄河大合唱1</title>
     </programme>
     <programme start="20191230060000" stop="20191230090000" channel="cctv13">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme start="20191230090000" stop="20191230091200" channel="cctv13">
+    <programme start="20191230090000" stop="20191230100000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme start="20191230091200" stop="20191230100000" channel="cctv13">
-        <title lang="zh">世界周刊</title>
     </programme>
     <programme start="20191230100000" stop="20191230110000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
@@ -1462,11 +1462,8 @@
     <programme start="20191230130000" stop="20191230140000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20191230140000" stop="20191230141200" channel="cctv13">
+    <programme start="20191230140000" stop="20191230150000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme start="20191230141200" stop="20191230150000" channel="cctv13">
-        <title lang="zh">面对面</title>
     </programme>
     <programme start="20191230150000" stop="20191230160000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
@@ -1480,10 +1477,10 @@
     <programme start="20191230180000" stop="20191230190000" channel="cctv13">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme start="20191230190000" stop="20191230194000" channel="cctv13">
+    <programme start="20191230190000" stop="20191230194100" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20191230194000" stop="20191230200000" channel="cctv13">
+    <programme start="20191230194100" stop="20191230200000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20191230200000" stop="20191230210000" channel="cctv13">
@@ -1492,16 +1489,13 @@
     <programme start="20191230210000" stop="20191230213000" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20191230213000" stop="20191230220000" channel="cctv13">
-        <title lang="zh">新闻1+1</title>
+    <programme start="20191230213000" stop="20191230222000" channel="cctv13">
+        <title lang="zh">盛典-5</title>
     </programme>
-    <programme start="20191230220000" stop="20191230223000" channel="cctv13">
-        <title lang="zh">国际时讯</title>
+    <programme start="20191230222000" stop="20191230230800" channel="cctv13">
+        <title lang="zh">新闻调查-黄河大合唱2</title>
     </programme>
-    <programme start="20191230223000" stop="20191230230000" channel="cctv13">
-        <title lang="zh">环球视线</title>
-    </programme>
-    <programme start="20191230230000" stop="20191230235900" channel="cctv13">
+    <programme start="20191230230800" stop="20191230235900" channel="cctv13">
         <title lang="zh">24小时</title>
     </programme>
     <programme start="20191230002800" stop="20191230011800" channel="cctvchild">
