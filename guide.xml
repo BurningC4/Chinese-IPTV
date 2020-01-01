@@ -271,11 +271,14 @@
     <programme start="20200101095900" stop="20200101101000" channel="cctv1">
         <title lang="zh">精彩一刻-2020-11绝境铸剑1</title>
     </programme>
-    <programme start="20200101101000" stop="20200101115100" channel="cctv1">
+    <programme start="20200101101000" stop="20200101115000" channel="cctv1">
         <title lang="zh">中央广播电视总台2019主持人大赛-8</title>
     </programme>
-    <programme start="20200101115100" stop="20200101120000" channel="cctv1">
+    <programme start="20200101115000" stop="20200101115200" channel="cctv1">
         <title lang="zh">2019秘境之眼-191</title>
+    </programme>
+    <programme start="20200101115200" stop="20200101120000" channel="cctv1">
+        <title lang="zh">一套导视-四分钟</title>
     </programme>
     <programme start="20200101120000" stop="20200101123700" channel="cctv1">
         <title lang="zh">新闻30分</title>
@@ -301,10 +304,13 @@
     <programme start="20200101193900" stop="20200101200600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20200101200600" stop="20200101215300" channel="cctv1">
+    <programme start="20200101200600" stop="20200101213200" channel="cctv1">
         <title lang="zh">2020新年戏曲晚会-1</title>
     </programme>
-    <programme start="20200101215300" stop="20200101220000" channel="cctv1">
+    <programme start="20200101213200" stop="20200101215100" channel="cctv1">
+        <title lang="zh">精彩一刻-2020-11绝境铸剑1</title>
+    </programme>
+    <programme start="20200101215100" stop="20200101220000" channel="cctv1">
         <title lang="zh">2019秘境之眼-192</title>
     </programme>
     <programme start="20200101220000" stop="20200101223700" channel="cctv1">
@@ -586,13 +592,13 @@
     <programme start="20200101220000" stop="20200101223000" channel="cctv4">
         <title lang="zh">国宝发现-2020-1</title>
     </programme>
-    <programme start="20200101223000" stop="20200101230800" channel="cctv4">
+    <programme start="20200101223000" stop="20200101230700" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20200101230800" stop="20200101235000" channel="cctv4">
+    <programme start="20200101230700" stop="20200101235400" channel="cctv4">
         <title lang="zh">铁血红安-（四套）-11/38</title>
     </programme>
-    <programme start="20200101235000" stop="20200101235900" channel="cctv4">
+    <programme start="20200101235400" stop="20200101235900" channel="cctv4">
         <title lang="zh">铁血红安-（四套）-12/38</title>
     </programme>
     <programme start="20200101003500" stop="20200101013500" channel="cctv5">
@@ -1378,26 +1384,23 @@
     <programme start="20200101234800" stop="20200101235900" channel="cctv12">
         <title lang="zh">平安中国2019-2</title>
     </programme>
-    <programme start="20200101010000" stop="20200101012000" channel="cctv13">
+    <programme start="20200101010000" stop="20200101013600" channel="cctv13">
         <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme start="20200101012000" stop="20200101013600" channel="cctv13">
-        <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20200101013600" stop="20200101020000" channel="cctv13">
         <title lang="zh">法治在线</title>
     </programme>
-    <programme start="20200101020000" stop="20200101024400" channel="cctv13">
+    <programme start="20200101020000" stop="20200101023700" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20200101024400" stop="20200101030000" channel="cctv13">
-        <title lang="zh">焦点访谈</title>
+    <programme start="20200101023700" stop="20200101030000" channel="cctv13">
+        <title lang="zh">法治在线</title>
     </programme>
-    <programme start="20200101030000" stop="20200101034400" channel="cctv13">
+    <programme start="20200101030000" stop="20200101033700" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20200101034400" stop="20200101040000" channel="cctv13">
-        <title lang="zh">焦点访谈</title>
+    <programme start="20200101033700" stop="20200101040000" channel="cctv13">
+        <title lang="zh">法治在线</title>
     </programme>
     <programme start="20200101040000" stop="20200101043700" channel="cctv13">
         <title lang="zh">新闻直播间</title>
@@ -1405,11 +1408,8 @@
     <programme start="20200101043700" stop="20200101050000" channel="cctv13">
         <title lang="zh">法治在线</title>
     </programme>
-    <programme start="20200101050000" stop="20200101051700" channel="cctv13">
+    <programme start="20200101050000" stop="20200101053300" channel="cctv13">
         <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme start="20200101051700" stop="20200101053300" channel="cctv13">
-        <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20200101053300" stop="20200101060000" channel="cctv13">
         <title lang="zh">法治在线</title>
@@ -1450,10 +1450,10 @@
     <programme start="20200101180000" stop="20200101190000" channel="cctv13">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme start="20200101190000" stop="20200101194000" channel="cctv13">
+    <programme start="20200101190000" stop="20200101193900" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20200101194000" stop="20200101200000" channel="cctv13">
+    <programme start="20200101193900" stop="20200101200000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20200101200000" stop="20200101210000" channel="cctv13">
