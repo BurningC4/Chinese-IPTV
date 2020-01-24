@@ -220,29 +220,20 @@
         <display-name lang="zh">山东教育台</display-name>
         <url>https://tv.cntv.cn</url>
     </channel>
-    <programme start="20200125005900" stop="20200125024000" channel="cctv1">
-        <title lang="zh">中央广播电视总台2020央视网络春晚-重播</title>
+    <programme start="20200125004900" stop="20200125021900" channel="cctv1">
+        <title lang="zh">故事里的中国（第一季）-11</title>
     </programme>
-    <programme start="20200125024000" stop="20200125024100" channel="cctv1">
+    <programme start="20200125021900" stop="20200125022700" channel="cctv1">
         <title lang="zh">精彩一刻-2019-46航拍中国第二季福建山</title>
     </programme>
-    <programme start="20200125024100" stop="20200125024100" channel="cctv1">
-        <title lang="zh">精彩一刻-2020-3《我的祖国》MV4分</title>
-    </programme>
-    <programme start="20200125024100" stop="20200125024200" channel="cctv1">
+    <programme start="20200125022700" stop="20200125023900" channel="cctv1">
         <title lang="zh">精彩一刻-2019-16航拍中国第二季四川城</title>
     </programme>
-    <programme start="20200125024200" stop="20200125024200" channel="cctv1">
+    <programme start="20200125023900" stop="20200125025000" channel="cctv1">
         <title lang="zh">精彩一刻-2019-21航拍中国第二季内蒙古河湖</title>
     </programme>
-    <programme start="20200125024200" stop="20200125025400" channel="cctv1">
-        <title lang="zh">精彩一刻-2019-19航拍中国第二季四川35分版</title>
-    </programme>
-    <programme start="20200125025400" stop="20200125030000" channel="cctv1">
-        <title lang="zh">精彩一刻-2019-23航拍中国第二季内蒙古城建</title>
-    </programme>
-    <programme start="20200125030000" stop="20200125042900" channel="cctv1">
-        <title lang="zh">故事里的中国（第一季）-11</title>
+    <programme start="20200125025000" stop="20200125042900" channel="cctv1">
+        <title lang="zh">中央广播电视总台2020央视网络春晚-重播</title>
     </programme>
     <programme start="20200125042900" stop="20200125044000" channel="cctv1">
         <title lang="zh">精彩一刻-2019-22航拍中国第二季内蒙古林</title>
@@ -268,11 +259,11 @@
     <programme start="20200125123000" stop="20200125140900" channel="cctv1">
         <title lang="zh">2020年春节联欢晚会-直送（初一）</title>
     </programme>
-    <programme start="20200125140900" stop="20200125152500" channel="cctv1">
+    <programme start="20200125140900" stop="20200125163800" channel="cctv1">
         <title lang="zh">挑战不可能第五季-2020新春盛典1</title>
     </programme>
-    <programme start="20200125152500" stop="20200125164500" channel="cctv1">
-        <title lang="zh">挑战不可能第五季-2020新春盛典2</title>
+    <programme start="20200125163800" stop="20200125164500" channel="cctv1">
+        <title lang="zh">精彩一刻-2020-3《我的祖国》MV4分</title>
     </programme>
     <programme start="20200125164500" stop="20200125185400" channel="cctv1">
         <title lang="zh">2020年春节联欢晚会-语言节目集锦-直送（初一）</title>
@@ -286,16 +277,13 @@
     <programme start="20200125193900" stop="20200125200600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20200125200600" stop="20200125215400" channel="cctv1">
+    <programme start="20200125200600" stop="20200125220000" channel="cctv1">
         <title lang="zh">特别节目</title>
     </programme>
-    <programme start="20200125215400" stop="20200125220000" channel="cctv1">
-        <title lang="zh">2019秘境之眼-243</title>
-    </programme>
-    <programme start="20200125220000" stop="20200125222700" channel="cctv1">
+    <programme start="20200125220000" stop="20200125223700" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20200125222700" stop="20200125235900" channel="cctv1">
+    <programme start="20200125223700" stop="20200125235900" channel="cctv1">
         <title lang="zh">2020年春节联欢晚会-直送（初一）</title>
     </programme>
     <programme start="20200125004100" stop="20200125014500" channel="cctv2">
@@ -376,8 +364,17 @@
     <programme start="20200125193000" stop="20200125235900" channel="cctv2">
         <title lang="zh">2020年春节联欢晚会-直送（初一）</title>
     </programme>
-    <programme start="20200125010400" stop="20200125055500" channel="cctv3">
+    <programme start="20200125005400" stop="20200125053400" channel="cctv3">
         <title lang="zh">2020年春节联欢晚会-直播</title>
+    </programme>
+    <programme start="20200125053400" stop="20200125054400" channel="cctv3">
+        <title lang="zh">文化十分-2020-11</title>
+    </programme>
+    <programme start="20200125054400" stop="20200125055000" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2019-2444我的祖国MV（湖南台送播）</title>
+    </programme>
+    <programme start="20200125055000" stop="20200125055500" channel="cctv3">
+        <title lang="zh">国宝音乐会-预告片</title>
     </programme>
     <programme start="20200125055500" stop="20200125071300" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2020-91</title>
@@ -397,20 +394,32 @@
     <programme start="20200125073900" stop="20200125090200" channel="cctv3">
         <title lang="zh">开门大吉-2020-3</title>
     </programme>
-    <programme start="20200125090200" stop="20200125112400" channel="cctv3">
-        <title lang="zh">2020年春节联欢晚会-语言节目集锦-直送（初一）</title>
+    <programme start="20200125090200" stop="20200125111400" channel="cctv3">
+        <title lang="zh">2020年春节联欢晚会-语言节目集锦-直送</title>
     </programme>
-    <programme start="20200125112400" stop="20200125113900" channel="cctv3">
+    <programme start="20200125111400" stop="20200125112800" channel="cctv3">
         <title lang="zh">文化十分-2020-19</title>
     </programme>
-    <programme start="20200125113900" stop="20200125164800" channel="cctv3">
+    <programme start="20200125112800" stop="20200125162500" channel="cctv3">
         <title lang="zh">2020年春节联欢晚会-直送（初一）</title>
     </programme>
-    <programme start="20200125164800" stop="20200125165800" channel="cctv3">
+    <programme start="20200125162500" stop="20200125163500" channel="cctv3">
+        <title lang="zh">文化十分-2020-19</title>
+    </programme>
+    <programme start="20200125163500" stop="20200125163900" channel="cctv3">
+        <title lang="zh">庆祝中华人民共和国成立70周年优秀歌曲MV-我和我的祖国</title>
+    </programme>
+    <programme start="20200125163900" stop="20200125165000" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2019-2444我的祖国MV（湖南台送播）</title>
     </programme>
-    <programme start="20200125165800" stop="20200125181600" channel="cctv3">
+    <programme start="20200125165000" stop="20200125180300" channel="cctv3">
         <title lang="zh">2020年中央军委慰问驻京部队老干部迎新春文艺演出-2</title>
+    </programme>
+    <programme start="20200125180300" stop="20200125180700" channel="cctv3">
+        <title lang="zh">庆祝中华人民共和国成立70周年优秀歌曲MV-我和我的祖国</title>
+    </programme>
+    <programme start="20200125180700" stop="20200125181600" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2019-2444我的祖国MV（湖南台送播）</title>
     </programme>
     <programme start="20200125181600" stop="20200125193000" channel="cctv3">
         <title lang="zh">旋转吧,假期-2020春节-1</title>
@@ -419,22 +428,19 @@
         <title lang="zh">2020新春喜剧之夜-1</title>
     </programme>
     <programme start="20200125220600" stop="20200125235900" channel="cctv3">
-        <title lang="zh">2020年春节联欢晚会-语言节目集锦-直送（初一）</title>
+        <title lang="zh">2020年春节联欢晚会-语言节目集锦-直送</title>
     </programme>
-    <programme start="20200125004300" stop="20200125004700" channel="cctv4">
+    <programme start="20200125005200" stop="20200125005600" channel="cctv4">
         <title lang="zh">第七批中国梦主题新创作歌曲-乘风破浪再出发</title>
     </programme>
-    <programme start="20200125004700" stop="20200125005100" channel="cctv4">
+    <programme start="20200125005600" stop="20200125010000" channel="cctv4">
         <title lang="zh">第七批中国梦主题新创作歌曲-点赞新时代</title>
     </programme>
-    <programme start="20200125005100" stop="20200125012200" channel="cctv4">
+    <programme start="20200125010000" stop="20200125013100" channel="cctv4">
         <title lang="zh">中国文艺-2020-22</title>
     </programme>
-    <programme start="20200125012200" stop="20200125015000" channel="cctv4">
+    <programme start="20200125013100" stop="20200125020000" channel="cctv4">
         <title lang="zh">中国文艺-2020-23</title>
-    </programme>
-    <programme start="20200125015000" stop="20200125020000" channel="cctv4">
-        <title lang="zh">记住乡愁2018片段展播-7</title>
     </programme>
     <programme start="20200125020000" stop="20200125023000" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -685,7 +691,7 @@
     <programme start="20200125231400" stop="20200125235900" channel="cctv6">
         <title lang="zh">神秘巨星（上）</title>
     </programme>
-    <programme start="20200125010000" stop="20200125060300" channel="cctv7">
+    <programme start="20200125005000" stop="20200125060300" channel="cctv7">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20200125060300" stop="20200125063100" channel="cctv7">
@@ -1258,8 +1264,11 @@
     <programme start="20200125110000" stop="20200125120000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20200125120000" stop="20200125130000" channel="cctv13">
+    <programme start="20200125120000" stop="20200125123300" channel="cctv13">
         <title lang="zh">新闻30分</title>
+    </programme>
+    <programme start="20200125123300" stop="20200125130000" channel="cctv13">
+        <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20200125130000" stop="20200125140000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
@@ -1300,13 +1309,13 @@
     <programme start="20200125230000" stop="20200125235900" channel="cctv13">
         <title lang="zh">24小时</title>
     </programme>
-    <programme start="20200125005200" stop="20200125014000" channel="cctvchild">
+    <programme start="20200125004100" stop="20200125012900" channel="cctvchild">
         <title lang="zh">共和国血脉第25集</title>
     </programme>
-    <programme start="20200125014000" stop="20200125023000" channel="cctvchild">
+    <programme start="20200125012900" stop="20200125021900" channel="cctvchild">
         <title lang="zh">共和国血脉第26集</title>
     </programme>
-    <programme start="20200125023000" stop="20200125060000" channel="cctvchild">
+    <programme start="20200125021900" stop="20200125060000" channel="cctvchild">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20200125060000" stop="20200125080000" channel="cctvchild">
