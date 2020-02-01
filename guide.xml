@@ -257,19 +257,22 @@
         <title lang="zh">新闻30分</title>
     </programme>
     <programme start="20200201123500" stop="20200201132400" channel="cctv1">
-        <title lang="zh">平凡的世界10</title>
+        <title lang="zh">平凡的世界10/42</title>
     </programme>
     <programme start="20200201132400" stop="20200201141200" channel="cctv1">
-        <title lang="zh">平凡的世界11</title>
+        <title lang="zh">平凡的世界11/42</title>
     </programme>
     <programme start="20200201141200" stop="20200201150000" channel="cctv1">
-        <title lang="zh">平凡的世界12</title>
+        <title lang="zh">平凡的世界12/42</title>
     </programme>
-    <programme start="20200201150000" stop="20200201172600" channel="cctv1">
+    <programme start="20200201150000" stop="20200201170700" channel="cctv1">
         <title lang="zh">新闻直播间</title>
     </programme>
+    <programme start="20200201170700" stop="20200201172600" channel="cctv1">
+        <title lang="zh">精彩一刻-2019-16航拍中国第二季四川城</title>
+    </programme>
     <programme start="20200201172600" stop="20200201185500" channel="cctv1">
-        <title lang="zh">故事里的中国（第一季）-4</title>
+        <title lang="zh">故事里的中国（第一季）-4重播</title>
     </programme>
     <programme start="20200201185500" stop="20200201190000" channel="cctv1">
         <title lang="zh">2020秘境之眼-31</title>
@@ -280,10 +283,13 @@
     <programme start="20200201194000" stop="20200201200600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20200201200600" stop="20200201215400" channel="cctv1">
-        <title lang="zh">特别节目</title>
+    <programme start="20200201200600" stop="20200201214000" channel="cctv1">
+        <title lang="zh">中央广播电视总台2019主持人大赛-11</title>
     </programme>
-    <programme start="20200201215400" stop="20200201220000" channel="cctv1">
+    <programme start="20200201214000" stop="20200201215200" channel="cctv1">
+        <title lang="zh">精彩一刻-2020-59经典3-2主持人5分</title>
+    </programme>
+    <programme start="20200201215200" stop="20200201220000" channel="cctv1">
         <title lang="zh">2019秘境之眼-260</title>
     </programme>
     <programme start="20200201220000" stop="20200201223700" channel="cctv1">
@@ -1420,13 +1426,13 @@
     <programme start="20200201210000" stop="20200201213000" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20200201213000" stop="20200201221500" channel="cctv13">
+    <programme start="20200201213000" stop="20200201220000" channel="cctv13">
+        <title lang="zh">新闻1+1</title>
+    </programme>
+    <programme start="20200201220000" stop="20200201224500" channel="cctv13">
         <title lang="zh">新闻调查</title>
     </programme>
-    <programme start="20200201221500" stop="20200201230000" channel="cctv13">
-        <title lang="zh">新闻周刊</title>
-    </programme>
-    <programme start="20200201230000" stop="20200201235900" channel="cctv13">
+    <programme start="20200201224500" stop="20200201235900" channel="cctv13">
         <title lang="zh">24小时</title>
     </programme>
     <programme start="20200201002800" stop="20200201011800" channel="cctvchild">
