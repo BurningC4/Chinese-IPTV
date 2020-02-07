@@ -221,7 +221,7 @@
         <url>https://tv.cntv.cn</url>
     </channel>
     <programme start="20200207000000" stop="20200207005400" channel="cctv1">
-        <title lang="zh">特赦1959第4集</title>
+        <title lang="zh">特赦19594/39</title>
     </programme>
     <programme start="20200207005400" stop="20200207015400" channel="cctv1">
         <title lang="zh">特别呈现2020-24</title>
@@ -286,10 +286,10 @@
     <programme start="20200207194000" stop="20200207200600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20200207200600" stop="20200207215100" channel="cctv1">
+    <programme start="20200207200600" stop="20200207215300" channel="cctv1">
         <title lang="zh">中国诗词大会（第五季）-9</title>
     </programme>
-    <programme start="20200207215100" stop="20200207220000" channel="cctv1">
+    <programme start="20200207215300" stop="20200207220000" channel="cctv1">
         <title lang="zh">2019秘境之眼-272</title>
     </programme>
     <programme start="20200207220000" stop="20200207223600" channel="cctv1">
@@ -688,17 +688,17 @@
     <programme start="20200207142200" stop="20200207152200" channel="cctv5plus">
         <title lang="zh">实况录像-2019/2020赛季自由式滑雪世界杯 加拿大蒙特朗布朗站雪上技巧决赛</title>
     </programme>
-    <programme start="20200207152200" stop="20200207164500" channel="cctv5plus">
-        <title lang="zh">实况录像-2020年东京奥运会女足亚洲区资格赛 泰国—中国</title>
+    <programme start="20200207152200" stop="20200207164900" channel="cctv5plus">
+        <title lang="zh">实况录像-国际乒联世界巡回赛 德国公开赛精选</title>
     </programme>
-    <programme start="20200207164500" stop="20200207180000" channel="cctv5plus">
+    <programme start="20200207164900" stop="20200207180000" channel="cctv5plus">
         <title lang="zh">实况录像-2020年东京奥运会女篮资格赛 中国—英国</title>
     </programme>
     <programme start="20200207180000" stop="20200207200000" channel="cctv5plus">
         <title lang="zh">实况录像-2020年澳大利亚网球公开赛 男单决赛</title>
     </programme>
     <programme start="20200207200000" stop="20200207213000" channel="cctv5plus">
-        <title lang="zh">实况录像-2020年国际乒联世界巡回赛德国公开赛 精选3</title>
+        <title lang="zh">实况录像-东京奥运会女足亚洲区资格赛 泰国-中国</title>
     </programme>
     <programme start="20200207213000" stop="20200207220000" channel="cctv5plus">
         <title lang="zh">赛事集锦-2019年国际泳联世锦赛 跳水 女子双人10米台决赛</title>
@@ -730,8 +730,11 @@
     <programme start="20200207023300" stop="20200207050200" channel="cctv6">
         <title lang="zh">铁飞侠</title>
     </programme>
-    <programme start="20200207050200" stop="20200207064700" channel="cctv6">
+    <programme start="20200207050200" stop="20200207051500" channel="cctv6">
         <title lang="zh">呦呦鹿鸣</title>
+    </programme>
+    <programme start="20200207051500" stop="20200207064700" channel="cctv6">
+        <title lang="zh">频道出品：北京爱上你</title>
     </programme>
     <programme start="20200207064700" stop="20200207085000" channel="cctv6">
         <title lang="zh">奇葩胖嫂</title>
