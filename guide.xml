@@ -562,11 +562,11 @@
     <programme start="20200211090000" stop="20200211100000" channel="cctv4">
         <title lang="zh">中国文艺-2020-10（周末版）</title>
     </programme>
-    <programme start="20200211100000" stop="20200211110000" channel="cctv4">
+    <programme start="20200211100000" stop="20200211111500" channel="cctv4">
         <title lang="zh">2020年国新办发布会-21</title>
     </programme>
-    <programme start="20200211110000" stop="20200211113000" channel="cctv4">
-        <title lang="zh">国家记忆-2019-2</title>
+    <programme start="20200211111500" stop="20200211113000" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-61</title>
     </programme>
     <programme start="20200211113000" stop="20200211120000" channel="cctv4">
         <title lang="zh">海峡两岸-2020-41</title>
@@ -667,11 +667,14 @@
     <programme start="20200211140000" stop="20200211151000" channel="cctv5">
         <title lang="zh">录像-2020年东京奥运会女篮资格赛 西班牙队-中国队</title>
     </programme>
-    <programme start="20200211151000" stop="20200211152200" channel="cctv5">
+    <programme start="20200211151000" stop="20200211152300" channel="cctv5">
         <title lang="zh">健身动起来-2020-65</title>
     </programme>
-    <programme start="20200211152200" stop="20200211164000" channel="cctv5">
-        <title lang="zh">实况录像-2020年国际乒联世界巡回赛德国公开赛 混双决赛</title>
+    <programme start="20200211152300" stop="20200211154900" channel="cctv5">
+        <title lang="zh">欧冠开场哨</title>
+    </programme>
+    <programme start="20200211154900" stop="20200211164000" channel="cctv5">
+        <title lang="zh">实况录像-国际乒联世界巡回赛德国公开赛-混双决赛</title>
     </programme>
     <programme start="20200211164000" stop="20200211180000" channel="cctv5">
         <title lang="zh">2019年女排世界杯- 中国—日本</title>
@@ -706,10 +709,10 @@
     <programme start="20200211063000" stop="20200211073000" channel="cctv5plus">
         <title lang="zh">实况录像-2019/2020赛季跳台滑雪世界杯 意大利费耶美山谷站男子个人标准台第一场</title>
     </programme>
-    <programme start="20200211073000" stop="20200211085400" channel="cctv5plus">
+    <programme start="20200211073000" stop="20200211090000" channel="cctv5plus">
         <title lang="zh">东京奥运会女足亚洲区资格赛（中国队—泰国队）</title>
     </programme>
-    <programme start="20200211085400" stop="20200211095300" channel="cctv5plus">
+    <programme start="20200211090000" stop="20200211095300" channel="cctv5plus">
         <title lang="zh">实况录像-2019/2020赛季短道速滑世界杯 德国德累斯顿站精选2</title>
     </programme>
     <programme start="20200211095300" stop="20200211112300" channel="cctv5plus">
@@ -772,22 +775,22 @@
     <programme start="20200211061300" stop="20200211075800" channel="cctv6">
         <title lang="zh">故事片：恋爱烹饪术</title>
     </programme>
-    <programme start="20200211075800" stop="20200211100300" channel="cctv6">
+    <programme start="20200211075800" stop="20200211100500" channel="cctv6">
         <title lang="zh">故事片：大会师</title>
     </programme>
-    <programme start="20200211100300" stop="20200211115700" channel="cctv6">
+    <programme start="20200211100500" stop="20200211115700" channel="cctv6">
         <title lang="zh">故事片：顾景舟</title>
     </programme>
-    <programme start="20200211115700" stop="20200211120500" channel="cctv6">
+    <programme start="20200211115700" stop="20200211120700" channel="cctv6">
         <title lang="zh">音乐电影欣赏38</title>
     </programme>
-    <programme start="20200211120500" stop="20200211134600" channel="cctv6">
+    <programme start="20200211120700" stop="20200211130700" channel="cctv6">
         <title lang="zh">故事片：刑侦队</title>
     </programme>
-    <programme start="20200211134600" stop="20200211160100" channel="cctv6">
+    <programme start="20200211130700" stop="20200211160200" channel="cctv6">
         <title lang="zh">译制片：向日葵与幼犬的七天</title>
     </programme>
-    <programme start="20200211160100" stop="20200211175300" channel="cctv6">
+    <programme start="20200211160200" stop="20200211175300" channel="cctv6">
         <title lang="zh">频道出品：反诈风暴之情爱迷局</title>
     </programme>
     <programme start="20200211175300" stop="20200211182700" channel="cctv6">
@@ -802,17 +805,17 @@
     <programme start="20200211214900" stop="20200211215800" channel="cctv6">
         <title lang="zh">今日影评</title>
     </programme>
-    <programme start="20200211215800" stop="20200211232200" channel="cctv6">
+    <programme start="20200211215800" stop="20200211232100" channel="cctv6">
         <title lang="zh">译制片：爱猫之城</title>
     </programme>
-    <programme start="20200211232200" stop="20200211233000" channel="cctv6">
+    <programme start="20200211232100" stop="20200211232900" channel="cctv6">
         <title lang="zh">今日影评</title>
     </programme>
-    <programme start="20200211233000" stop="20200211234600" channel="cctv6">
+    <programme start="20200211232900" stop="20200211234000" channel="cctv6">
         <title lang="zh">音乐电影欣赏36</title>
     </programme>
-    <programme start="20200211234600" stop="20200211235900" channel="cctv6">
-        <title lang="zh">故事片：热武青春</title>
+    <programme start="20200211234000" stop="20200211235900" channel="cctv6">
+        <title lang="zh">毛驴县令之宛如格格</title>
     </programme>
     <programme start="20200211002700" stop="20200211010400" channel="cctv7">
         <title lang="zh">兵器面面观-2020-22</title>
@@ -1453,11 +1456,14 @@
     <programme start="20200211000000" stop="20200211010000" channel="cctv13">
         <title lang="zh">午夜新闻</title>
     </programme>
-    <programme start="20200211010000" stop="20200211014400" channel="cctv13">
+    <programme start="20200211010000" stop="20200211012300" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20200211014400" stop="20200211020000" channel="cctv13">
+    <programme start="20200211012300" stop="20200211013600" channel="cctv13">
         <title lang="zh">焦点访谈</title>
+    </programme>
+    <programme start="20200211013600" stop="20200211020000" channel="cctv13">
+        <title lang="zh">法治在线</title>
     </programme>
     <programme start="20200211020000" stop="20200211023300" channel="cctv13">
         <title lang="zh">新闻直播间</title>
@@ -1465,10 +1471,10 @@
     <programme start="20200211023300" stop="20200211030000" channel="cctv13">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme start="20200211030000" stop="20200211034400" channel="cctv13">
+    <programme start="20200211030000" stop="20200211034700" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20200211034400" stop="20200211040000" channel="cctv13">
+    <programme start="20200211034700" stop="20200211040000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20200211040000" stop="20200211043300" channel="cctv13">
@@ -1477,11 +1483,14 @@
     <programme start="20200211043300" stop="20200211050000" channel="cctv13">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme start="20200211050000" stop="20200211054100" channel="cctv13">
+    <programme start="20200211050000" stop="20200211052000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20200211054100" stop="20200211060000" channel="cctv13">
+    <programme start="20200211052000" stop="20200211053300" channel="cctv13">
         <title lang="zh">焦点访谈</title>
+    </programme>
+    <programme start="20200211053300" stop="20200211060000" channel="cctv13">
+        <title lang="zh">法治在线</title>
     </programme>
     <programme start="20200211060000" stop="20200211090000" channel="cctv13">
         <title lang="zh">朝闻天下</title>
@@ -1495,10 +1504,10 @@
     <programme start="20200211120000" stop="20200211123300" channel="cctv13">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme start="20200211123300" stop="20200211131200" channel="cctv13">
-        <title lang="zh">新闻调查</title>
+    <programme start="20200211123300" stop="20200211130000" channel="cctv13">
+        <title lang="zh">法治在线</title>
     </programme>
-    <programme start="20200211131200" stop="20200211140000" channel="cctv13">
+    <programme start="20200211130000" stop="20200211140000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20200211140000" stop="20200211150000" channel="cctv13">
@@ -1513,22 +1522,22 @@
     <programme start="20200211180000" stop="20200211190000" channel="cctv13">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme start="20200211190000" stop="20200211194200" channel="cctv13">
+    <programme start="20200211190000" stop="20200211194000" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20200211194200" stop="20200211200900" channel="cctv13">
+    <programme start="20200211194000" stop="20200211200000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20200211200900" stop="20200211210000" channel="cctv13">
+    <programme start="20200211200000" stop="20200211210000" channel="cctv13">
         <title lang="zh">东方时空</title>
     </programme>
-    <programme start="20200211210000" stop="20200211214200" channel="cctv13">
+    <programme start="20200211210000" stop="20200211213000" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20200211214200" stop="20200211221200" channel="cctv13">
+    <programme start="20200211213000" stop="20200211220000" channel="cctv13">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme start="20200211221200" stop="20200211223000" channel="cctv13">
+    <programme start="20200211220000" stop="20200211223000" channel="cctv13">
         <title lang="zh">国际时讯</title>
     </programme>
     <programme start="20200211223000" stop="20200211230000" channel="cctv13">
