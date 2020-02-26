@@ -484,28 +484,25 @@
     <programme start="20200226143200" stop="20200226160100" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2020-167</title>
     </programme>
-    <programme start="20200226160100" stop="20200226172300" channel="cctv3">
+    <programme start="20200226160100" stop="20200226172500" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2019-2350</title>
     </programme>
-    <programme start="20200226172300" stop="20200226173000" channel="cctv3">
-        <title lang="zh">抗击疫情主题歌曲MV-你安好 我无恙</title>
-    </programme>
-    <programme start="20200226173000" stop="20200226180300" channel="cctv3">
+    <programme start="20200226172500" stop="20200226180200" channel="cctv3">
         <title lang="zh">天天把歌唱-2020-31</title>
     </programme>
-    <programme start="20200226180300" stop="20200226190000" channel="cctv3">
+    <programme start="20200226180200" stop="20200226185900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2020-86</title>
     </programme>
-    <programme start="20200226190000" stop="20200226202600" channel="cctv3">
+    <programme start="20200226185900" stop="20200226202900" channel="cctv3">
         <title lang="zh">越战越勇-2020-8</title>
     </programme>
-    <programme start="20200226202600" stop="20200226213300" channel="cctv3">
+    <programme start="20200226202900" stop="20200226213600" channel="cctv3">
         <title lang="zh">回声嘹亮-2019-52</title>
     </programme>
-    <programme start="20200226213300" stop="20200226225200" channel="cctv3">
+    <programme start="20200226213600" stop="20200226225400" channel="cctv3">
         <title lang="zh">你好生活-2019-8</title>
     </programme>
-    <programme start="20200226225200" stop="20200226235900" channel="cctv3">
+    <programme start="20200226225400" stop="20200226235900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2019-2350</title>
     </programme>
     <programme start="20200226001100" stop="20200226005700" channel="cctv4">
@@ -1330,10 +1327,10 @@
     <programme start="20200226224000" stop="20200226224800" channel="cctv11">
         <title lang="zh">抗击疫情主题歌曲MV-爱的桥梁</title>
     </programme>
-    <programme start="20200226224800" stop="20200226233500" channel="cctv11">
+    <programme start="20200226224800" stop="20200226233800" channel="cctv11">
         <title lang="zh">传奇大掌柜41/44</title>
     </programme>
-    <programme start="20200226233500" stop="20200226235900" channel="cctv11">
+    <programme start="20200226233800" stop="20200226235900" channel="cctv11">
         <title lang="zh">传奇大掌柜42/44</title>
     </programme>
     <programme start="20200226003100" stop="20200226010400" channel="cctv12">
@@ -1444,11 +1441,14 @@
     <programme start="20200226000000" stop="20200226010000" channel="cctv13">
         <title lang="zh">午夜新闻</title>
     </programme>
-    <programme start="20200226010000" stop="20200226014400" channel="cctv13">
+    <programme start="20200226010000" stop="20200226012000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20200226014400" stop="20200226020000" channel="cctv13">
+    <programme start="20200226012000" stop="20200226013600" channel="cctv13">
         <title lang="zh">焦点访谈</title>
+    </programme>
+    <programme start="20200226013600" stop="20200226020000" channel="cctv13">
+        <title lang="zh">法治在线</title>
     </programme>
     <programme start="20200226020000" stop="20200226023300" channel="cctv13">
         <title lang="zh">新闻直播间</title>
@@ -1468,11 +1468,14 @@
     <programme start="20200226043300" stop="20200226050000" channel="cctv13">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme start="20200226050000" stop="20200226054100" channel="cctv13">
+    <programme start="20200226050000" stop="20200226051700" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20200226054100" stop="20200226060000" channel="cctv13">
+    <programme start="20200226051700" stop="20200226053300" channel="cctv13">
         <title lang="zh">焦点访谈</title>
+    </programme>
+    <programme start="20200226053300" stop="20200226060000" channel="cctv13">
+        <title lang="zh">法治在线</title>
     </programme>
     <programme start="20200226060000" stop="20200226090000" channel="cctv13">
         <title lang="zh">朝闻天下</title>
@@ -1513,13 +1516,16 @@
     <programme start="20200226200000" stop="20200226210000" channel="cctv13">
         <title lang="zh">东方时空</title>
     </programme>
-    <programme start="20200226210000" stop="20200226215100" channel="cctv13">
+    <programme start="20200226210000" stop="20200226213000" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20200226215100" stop="20200226222100" channel="cctv13">
+    <programme start="20200226213000" stop="20200226220000" channel="cctv13">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme start="20200226222100" stop="20200226230000" channel="cctv13">
+    <programme start="20200226220000" stop="20200226223000" channel="cctv13">
+        <title lang="zh">国际时讯</title>
+    </programme>
+    <programme start="20200226223000" stop="20200226230000" channel="cctv13">
         <title lang="zh">环球视线</title>
     </programme>
     <programme start="20200226230000" stop="20200226235900" channel="cctv13">
@@ -1627,22 +1633,19 @@
     <programme start="20200226174800" stop="20200226193000" channel="cctv15">
         <title lang="zh">精彩音乐汇-2019-315</title>
     </programme>
-    <programme start="20200226193000" stop="20200226203900" channel="cctv15">
+    <programme start="20200226193000" stop="20200226204300" channel="cctv15">
         <title lang="zh">精彩音乐汇-群星演唱会-2020-55</title>
     </programme>
-    <programme start="20200226203900" stop="20200226204800" channel="cctv15">
+    <programme start="20200226204300" stop="20200226205200" channel="cctv15">
         <title lang="zh">抗击疫情主题歌曲MV-坚信爱会赢</title>
     </programme>
-    <programme start="20200226204800" stop="20200226211800" channel="cctv15">
+    <programme start="20200226205200" stop="20200226212200" channel="cctv15">
         <title lang="zh">中国音乐电视-中国音乐电视特辑</title>
     </programme>
-    <programme start="20200226211800" stop="20200226222800" channel="cctv15">
+    <programme start="20200226212200" stop="20200226223500" channel="cctv15">
         <title lang="zh">乐享汇-“爱的致意”演唱会上（4K）</title>
     </programme>
-    <programme start="20200226222800" stop="20200226223700" channel="cctv15">
-        <title lang="zh">抗击疫情主题歌曲MV-坚信爱会赢</title>
-    </programme>
-    <programme start="20200226223700" stop="20200226235900" channel="cctv15">
+    <programme start="20200226223500" stop="20200226235900" channel="cctv15">
         <title lang="zh">精彩音乐汇-2019-315</title>
     </programme>
     <programme start="20200226000000" stop="20200226001500" channel="cctvfxzl">
