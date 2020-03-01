@@ -72,7 +72,7 @@ http://183.207.248.71:80/cntv/live1/n-dongfangstv/n-dongfangstv
 #EXTINF:-1 tvg-id="btv1" tvg-logo="beijing.png",北京卫视
 http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-beijingstv
 
-#EXTINF:-1 tvg-id="btvishi" tvg-logo="btvjishi.png",北京纪实
+#EXTINF:-1 tvg-id="btvjishi" tvg-logo="btvjishi.png",北京纪实
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
 
 #EXTINF:-1 tvg-id="tvs-2" tvg-logo="tvs-2.png",南方卫视
@@ -132,7 +132,7 @@ http://183.207.248.71:80/cntv/live1/SD-4000k-576P-bingtuanstv/SD-4000k-576P-bing
 #EXTINF:-1 tvg-id="neimenggu" tvg-logo="neimenggu.png",内蒙古卫视
 http://183.207.248.71:80/cntv/live1/n-neimenggustv/n-neimenggustv
 
-#EXTINF:-1 tvg-id="nonling" tvg-logo="nonglin.png",农林卫视
+#EXTINF:-1 tvg-id="nonglin" tvg-logo="nonglin.png",农林卫视
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-nonglinstv/SD-4000k-576P-nonglinstv
 
 #EXTINF:-1 tvg-id="shan1xi" tvg-logo="shan1xi.png",山西卫视
@@ -177,7 +177,7 @@ http://183.207.248.71:80/cntv/live1/n-shanxi1stv/n-shanxi1stv
 #EXTINF:-1 tvg-id="qinghai" tvg-logo="qinghai.png",青海卫视
 http://183.207.248.71:80/cntv/live1/n-qinghaistv/n-qinghaistv
 
-#EXTINF:-1 tvg-id="shanghaijishi" tvg-logo="qinghai.png",纪实人文
+#EXTINF:-1 tvg-id="shanghaijishi" tvg-logo="shanghaijishi.png",纪实人文
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-1080P-shanghaijishi
 
 #EXTINF:-1 tvg-id="sdetv" tvg-logo="sdetv.png",山东教育电视台
@@ -207,7 +207,7 @@ http://183.207.248.71:80/cntv/live1/n-dongzuody/n-dongzuody
 #EXTINF:-1 tvg-id="newtvjt" tvg-logo="newtvjt.png",NewTV家庭剧场
 http://183.207.248.71:80/cntv/live1/n-jiatingjc/n-jiatingjc
 
-#EXTINF:-1 tvg-id="newtvjs" tvg-logo="newtvjs.png",NewTV惊悚电影
+#EXTINF:-1 tvg-id="newtvjsdy" tvg-logo="newtvjsdy.png",NewTV惊悚电影
 http://183.207.248.71:80/cntv/live1/n-jingsongxy/n-jingsongxy
 
 #EXTINF:-1 tvg-id="newtvcmlapo" tvg-logo="newtvcmlapo.png",NewTV潮妈辣婆
@@ -234,13 +234,19 @@ http://183.207.248.71:80/cntv/live1/n-saishijx/n-saishijx
 #EXTINF:-1 tvg-id="newtvgf" tvg-logo="newtvgf.png",NewTV中国功夫
 http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu
 
-#EXTINF:-1 tvg-id="hmdj" tvg-logo="hmdj.png",黑莓电竞之夜
+#EXTINF:-1 tvg-id="newtvrbjx" tvg-logo="newtvrbjx.png",NewTV热播精选
+http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd
+
+#EXTINF:-1 tvg-id="newtvjpzh" tvg-logo="newtvjpzh.png",NewTV精品综合
+http://183.207.248.71:80/cntv/live1/n-mingxingdp/n-mingxingdp
+
+#EXTINF:-1 tvg-id="hmdj" tvg-logo="hmdj.png",NewTV黑莓电竞之夜
 http://183.207.248.71:80/cntv/live1/wmyx/wmyx
 
-#EXTINF:-1 tvg-id="hmdy" tvg-logo="hmdy.png",黑莓电影
+#EXTINF:-1 tvg-id="hmdy" tvg-logo="hmdy.png",NewTV黑莓电影
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie
 
-#EXTINF:-1 tvg-id="hmdh" tvg-logo="hmdh.png",黑莓动画
+#EXTINF:-1 tvg-id="hmdh" tvg-logo="hmdh.png",NewTV黑莓动画
 http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg
 
 #EXTINF:-1 tvg-id="btvchild" tvg-logo="btvchild.png",卡酷少儿
@@ -257,12 +263,6 @@ http://183.207.248.71:80/cntv/live1/n-jinyingkaton/n-jinyingkaton
 
 #EXTINF:-1 tvg-id="JSTV-youmankatong" tvg-logo="ymkt.png",优漫卡通
 http://183.207.248.71:80/cntv/live1/n-youmankaton/n-youmankaton
-
-#EXTINF:-1 tvg-id="rbjx" tvg-logo="rbjx.png",热播精选
-http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd
-
-#EXTINF:-1 tvg-id="jpzh" tvg-logo="jpzh.png",精品综合
-http://183.207.248.71:80/cntv/live1/n-mingxingdp/n-mingxingdp
 
 #EXTINF:-1 tvg-id="meishi" tvg-logo="meishi.png",中华美食
 http://183.207.248.71:80/cntv/live1/SD-4000k-576P-zhmeishi/SD-4000k-576P-zhmeishi
