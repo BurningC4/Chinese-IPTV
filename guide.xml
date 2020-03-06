@@ -599,16 +599,19 @@
     <programme start="20200306120000" stop="20200306130000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20200306130000" stop="20200306131000" channel="cctv4">
-        <title lang="zh">记住乡愁2018片段展播-100</title>
+    <programme start="20200306130000" stop="20200306133000" channel="cctv4">
+        <title lang="zh">中华医药抗击疫情-4</title>
     </programme>
-    <programme start="20200306131000" stop="20200306131700" channel="cctv4">
+    <programme start="20200306133000" stop="20200306133800" channel="cctv4">
         <title lang="zh">抗击疫情主题歌曲MV-白衣长城（修改版）</title>
     </programme>
-    <programme start="20200306131700" stop="20200306140000" channel="cctv4">
+    <programme start="20200306133800" stop="20200306141800" channel="cctv4">
         <title lang="zh">解放-（四套）-47/50</title>
     </programme>
-    <programme start="20200306140000" stop="20200306160400" channel="cctv4">
+    <programme start="20200306141800" stop="20200306150000" channel="cctv4">
+        <title lang="zh">解放-（四套）-48/50</title>
+    </programme>
+    <programme start="20200306150000" stop="20200306160400" channel="cctv4">
         <title lang="zh">2020年国新办发布会-55</title>
     </programme>
     <programme start="20200306160400" stop="20200306164400" channel="cctv4">
@@ -713,11 +716,8 @@
     <programme start="20200306180000" stop="20200306183500" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20200306183500" stop="20200306185500" channel="cctv5">
+    <programme start="20200306183500" stop="20200306193000" channel="cctv5">
         <title lang="zh">篮球公园</title>
-    </programme>
-    <programme start="20200306185500" stop="20200306193000" channel="cctv5">
-        <title lang="zh">2020年东京奥运会女足亚洲区预选赛附加赛-韩国-中国</title>
     </programme>
     <programme start="20200306193000" stop="20200306200000" channel="cctv5">
         <title lang="zh">天下足球-疯狂的足球2020</title>
@@ -1533,7 +1533,7 @@
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20200306100000" stop="20200306120000" channel="cctv13">
-        <title lang="zh">新闻直播间</title>
+        <title lang="zh">战疫情特别报道</title>
     </programme>
     <programme start="20200306120000" stop="20200306123400" channel="cctv13">
         <title lang="zh">新闻30分</title>
