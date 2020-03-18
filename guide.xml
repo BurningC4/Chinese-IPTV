@@ -548,25 +548,25 @@
     <programme start="20200318190300" stop="20200318202500" channel="cctv3">
         <title lang="zh">越战越勇-2020-11</title>
     </programme>
-    <programme start="20200318202500" stop="20200318203600" channel="cctv3">
+    <programme start="20200318202500" stop="20200318203100" channel="cctv3">
         <title lang="zh">战"疫"故事-11</title>
     </programme>
-    <programme start="20200318203600" stop="20200318212900" channel="cctv3">
+    <programme start="20200318203100" stop="20200318203900" channel="cctv3">
+        <title lang="zh">角儿来了-2020-25《和你在一起》MV</title>
+    </programme>
+    <programme start="20200318203900" stop="20200318213800" channel="cctv3">
         <title lang="zh">回声嘹亮-2020-10</title>
     </programme>
-    <programme start="20200318212900" stop="20200318213400" channel="cctv3">
-        <title lang="zh">抗击疫情主题歌曲MV-天使的身影</title>
-    </programme>
-    <programme start="20200318213400" stop="20200318214400" channel="cctv3">
+    <programme start="20200318213800" stop="20200318214700" channel="cctv3">
         <title lang="zh">战"疫"故事-11</title>
     </programme>
-    <programme start="20200318214400" stop="20200318225400" channel="cctv3">
+    <programme start="20200318214700" stop="20200318225700" channel="cctv3">
         <title lang="zh">你好生活-2019-10</title>
     </programme>
-    <programme start="20200318225400" stop="20200318230400" channel="cctv3">
+    <programme start="20200318225700" stop="20200318230700" channel="cctv3">
         <title lang="zh">抗击疫情主题歌曲MV-你是英雄</title>
     </programme>
-    <programme start="20200318230400" stop="20200318235900" channel="cctv3">
+    <programme start="20200318230700" stop="20200318235900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2020-187</title>
     </programme>
     <programme start="20200318000900" stop="20200318005500" channel="cctv4">
@@ -728,26 +728,35 @@
     <programme start="20200318073000" stop="20200318080000" channel="cctv5">
         <title lang="zh">健身动起来</title>
     </programme>
-    <programme start="20200318080000" stop="20200318083000" channel="cctv5">
-        <title lang="zh">实况录像-2020年四大洲花样滑冰锦标赛 表演滑1</title>
+    <programme start="20200318080000" stop="20200318090000" channel="cctv5">
+        <title lang="zh">录播跳台滑雪世界杯挪威利勒哈默尔站男子个人大跳台</title>
     </programme>
-    <programme start="20200318083000" stop="20200318100000" channel="cctv5">
+    <programme start="20200318090000" stop="20200318102400" channel="cctv5">
         <title lang="zh">实况录像-2020年国际乒联世界巡回赛卡塔尔公开赛 精选2</title>
     </programme>
-    <programme start="20200318100000" stop="20200318130000" channel="cctv5">
-        <title lang="zh">2020年世界女子冰壶锦标赛-循环赛（意大利-加拿大）</title>
+    <programme start="20200318102400" stop="20200318103000" channel="cctv5">
+        <title lang="zh">健身动起来</title>
     </programme>
-    <programme start="20200318130000" stop="20200318133500" channel="cctv5">
+    <programme start="20200318103000" stop="20200318120000" channel="cctv5">
+        <title lang="zh">录播 世界羽联世界巡回赛总决赛精选</title>
+    </programme>
+    <programme start="20200318120000" stop="20200318123500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20200318133500" stop="20200318150300" channel="cctv5">
+    <programme start="20200318123500" stop="20200318140300" channel="cctv5">
         <title lang="zh">实况录像-梦之队的无畏征途—2019年国际泳联世锦赛跳水男子3米板、男子10米台决赛</title>
     </programme>
-    <programme start="20200318150300" stop="20200318163100" channel="cctv5">
+    <programme start="20200318140300" stop="20200318152800" channel="cctv5">
         <title lang="zh">实况录像-2020年四大洲花样滑冰锦标赛 女单自由滑</title>
     </programme>
+    <programme start="20200318152800" stop="20200318153300" channel="cctv5">
+        <title lang="zh">健身动起来</title>
+    </programme>
+    <programme start="20200318153300" stop="20200318163100" channel="cctv5">
+        <title lang="zh">录播 举重世界杯（天津）精选</title>
+    </programme>
     <programme start="20200318163100" stop="20200318180000" channel="cctv5">
-        <title lang="zh">实况录像-2019/2020欧洲冠军联赛1/8决赛第二回合 曼城-皇家马德里</title>
+        <title lang="zh">录播 世界田径锦标赛精选</title>
     </programme>
     <programme start="20200318180000" stop="20200318183500" channel="cctv5">
         <title lang="zh">体育新闻</title>
@@ -765,7 +774,7 @@
         <title lang="zh">2020年体坛风云会-冰雪道路（4）</title>
     </programme>
     <programme start="20200318223000" stop="20200318235900" channel="cctv5">
-        <title lang="zh">2020年世界花样滑冰锦标赛-双人短节目</title>
+        <title lang="zh">录播梦之队的无畏征途-2019年国际泳联世锦赛跳水男子3米板、男子10米台 决赛</title>
     </programme>
     <programme start="20200318000500" stop="20200318003000" channel="cctv5plus">
         <title lang="zh">赛事集锦-2019/2020赛季单板滑雪杂志12</title>
@@ -773,62 +782,68 @@
     <programme start="20200318003000" stop="20200318020000" channel="cctv5plus">
         <title lang="zh">实况录像-东京奥运会女足亚洲区资格赛 中国队精选</title>
     </programme>
-    <programme start="20200318020000" stop="20200318060500" channel="cctv5plus">
+    <programme start="20200318020000" stop="20200318040000" channel="cctv5plus">
         <title lang="zh">赛事集锦-高尔夫美巡赛精选 阿诺德帕尔默邀请赛</title>
     </programme>
-    <programme start="20200318060500" stop="20200318073500" channel="cctv5plus">
-        <title lang="zh">国际足球赛场-19-20赛季法甲联赛第29轮 蒙彼利埃—马赛</title>
+    <programme start="20200318040000" stop="20200318060100" channel="cctv5plus">
+        <title lang="zh">录像 斯诺克威尔士公开赛半决赛</title>
     </programme>
-    <programme start="20200318073500" stop="20200318080000" channel="cctv5plus">
-        <title lang="zh">赛事集锦-2019/2020赛季单板滑雪杂志12</title>
+    <programme start="20200318060100" stop="20200318062600" channel="cctv5plus">
+        <title lang="zh">集锦 单板滑雪杂志</title>
     </programme>
-    <programme start="20200318080000" stop="20200318092400" channel="cctv5plus">
-        <title lang="zh">实况录像-2020年东京奥运会女足亚洲区资格赛 澳大利亚队-中国队</title>
+    <programme start="20200318062600" stop="20200318075000" channel="cctv5plus">
+        <title lang="zh">录像 女足奥运会资格赛 中国-澳大利亚</title>
     </programme>
-    <programme start="20200318092400" stop="20200318093400" channel="cctv5plus">
-        <title lang="zh">实况录像-2019/2020赛季速度滑冰世界杯 哈萨克斯坦努尔苏丹站精彩</title>
+    <programme start="20200318075000" stop="20200318080000" channel="cctv5plus">
+        <title lang="zh">录像 速度滑冰世界杯努尔苏丹站精彩</title>
     </programme>
-    <programme start="20200318093400" stop="20200318110000" channel="cctv5plus">
-        <title lang="zh">实况录像-2020年国际乒联世界巡回赛卡塔尔公开赛 精选3</title>
+    <programme start="20200318080000" stop="20200318092500" channel="cctv5plus">
+        <title lang="zh">录像 国际乒联世界巡回赛 卡塔尔公开赛精选</title>
     </programme>
-    <programme start="20200318110000" stop="20200318110500" channel="cctv5plus">
+    <programme start="20200318092500" stop="20200318093000" channel="cctv5plus">
         <title lang="zh">健身动起来</title>
     </programme>
-    <programme start="20200318110500" stop="20200318120500" channel="cctv5plus">
-        <title lang="zh">赛事集锦-2019/2020赛季英超联赛第30轮比赛精华</title>
+    <programme start="20200318093000" stop="20200318103000" channel="cctv5plus">
+        <title lang="zh">录像 世界无舵雪橇锦标赛男子个人赛</title>
     </programme>
-    <programme start="20200318120500" stop="20200318133000" channel="cctv5plus">
-        <title lang="zh">实况录像-梦之队的无畏征途—2019年国际泳联世锦赛跳水男子3米板、男子10米台决赛</title>
+    <programme start="20200318103000" stop="20200318113000" channel="cctv5plus">
+        <title lang="zh">录像 自由式滑雪世界杯 美国鹿谷站空中技巧</title>
     </programme>
-    <programme start="20200318133000" stop="20200318145400" channel="cctv5plus">
-        <title lang="zh">实况录像-2019/2020英格兰足球超级联赛第30轮 托特纳姆-曼联</title>
+    <programme start="20200318113000" stop="20200318125200" channel="cctv5plus">
+        <title lang="zh">录像 梦之队的无畏征途游泳世锦赛 男子3米板、10米台</title>
     </programme>
-    <programme start="20200318145400" stop="20200318150000" channel="cctv5plus">
+    <programme start="20200318125200" stop="20200318130000" channel="cctv5plus">
         <title lang="zh">健身动起来</title>
     </programme>
-    <programme start="20200318150000" stop="20200318163000" channel="cctv5plus">
-        <title lang="zh">实况录像-2020年国际体联体操个人单项世界杯系列赛 巴库站精选2</title>
+    <programme start="20200318130000" stop="20200318143000" channel="cctv5plus">
+        <title lang="zh">录像 精彩赛事精选 世乒赛男单决赛、男子世界杯决赛</title>
     </programme>
-    <programme start="20200318163000" stop="20200318173000" channel="cctv5plus">
-        <title lang="zh">实况录像-2019/2020赛季跳台滑雪世界杯 俄罗斯下塔吉尔站女子个人标准台第一场</title>
+    <programme start="20200318143000" stop="20200318160000" channel="cctv5plus">
+        <title lang="zh">录像飞镖世锦赛精选</title>
     </programme>
-    <programme start="20200318173000" stop="20200318190000" channel="cctv5plus">
-        <title lang="zh">实况录像-2020年国际乒联世界巡回赛卡塔尔公开赛 精选2</title>
+    <programme start="20200318160000" stop="20200318170000" channel="cctv5plus">
+        <title lang="zh">录像 世界跆拳道大满贯系列赛总决赛精选</title>
     </programme>
-    <programme start="20200318190000" stop="20200318203000" channel="cctv5plus">
-        <title lang="zh">实况录像-2019/2020欧洲冠军联赛1/8决赛第二回合 曼城-皇家马德里</title>
+    <programme start="20200318170000" stop="20200318183000" channel="cctv5plus">
+        <title lang="zh">录像 东京奥运会攀岩资格赛男子全能决赛</title>
     </programme>
-    <programme start="20200318203000" stop="20200318220000" channel="cctv5plus">
-        <title lang="zh">国际足球赛场-19-20赛季欧冠联赛16强淘汰赛次回合 尤文图斯-里昂</title>
+    <programme start="20200318183000" stop="20200318194800" channel="cctv5plus">
+        <title lang="zh">录像 女排世界杯 喀麦隆-中国</title>
     </programme>
-    <programme start="20200318220000" stop="20200318233000" channel="cctv5plus">
-        <title lang="zh">实况录像-2020年世界女子冰壶锦标赛循环赛 加拿大队-中国队</title>
+    <programme start="20200318194800" stop="20200318210600" channel="cctv5plus">
+        <title lang="zh">录像 东京奥运会女篮资格赛 西班牙-中国</title>
     </programme>
-    <programme start="20200318233000" stop="20200318235500" channel="cctv5plus">
+    <programme start="20200318210600" stop="20200318223500" channel="cctv5plus">
+        <title lang="zh">录像 男篮世界杯1/4决赛 西班牙-波兰</title>
+    </programme>
+    <programme start="20200318223500" stop="20200318233000" channel="cctv5plus">
+        <title lang="zh">录像 东京奥运会女足亚洲区资格赛 中国队精选</title>
+    </programme>
+    <programme start="20200318233000" stop="20200318235000" channel="cctv5plus">
         <title lang="zh">赛事集锦-2019/2020赛季自由式滑雪杂志11</title>
     </programme>
-    <programme start="20200318235500" stop="20200318235900" channel="cctv5plus">
-        <title lang="zh">实况录像-2019/2020赛季越野滑雪世界杯 加拿大魁北克站短距离传统式</title>
+    <programme start="20200318235000" stop="20200318235900" channel="cctv5plus">
+        <title lang="zh">健身动起来</title>
     </programme>
     <programme start="20200318000900" stop="20200318014800" channel="cctv6">
         <title lang="zh">爱情麻辣烫之情定终身</title>
