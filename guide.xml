@@ -260,34 +260,43 @@
     <programme start="20200404051300" stop="20200404093000" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20200404093000" stop="20200404210000" channel="cctv1">
+    <programme start="20200404093000" stop="20200404102000" channel="cctv1">
+        <title lang="zh">全国性哀悼活动现场直播</title>
+    </programme>
+    <programme start="20200404102000" stop="20200404210000" channel="cctv1">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20200404210000" stop="20200404235900" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20200404000000" stop="20200404005000" channel="cctv2">
+    <programme start="20200404000000" stop="20200404003000" channel="cctv2">
+        <title lang="zh">美丽中国-2019-1</title>
+    </programme>
+    <programme start="20200404003000" stop="20200404012000" channel="cctv2">
         <title lang="zh">大国重器(第二季)--1(重播）</title>
     </programme>
-    <programme start="20200404005000" stop="20200404014000" channel="cctv2">
+    <programme start="20200404012000" stop="20200404021000" channel="cctv2">
         <title lang="zh">大国重器(第二季)--2(重播）</title>
     </programme>
-    <programme start="20200404014000" stop="20200404023000" channel="cctv2">
+    <programme start="20200404021000" stop="20200404030000" channel="cctv2">
         <title lang="zh">大国重器(第二季)--3(重播）</title>
     </programme>
-    <programme start="20200404023000" stop="20200404032000" channel="cctv2">
+    <programme start="20200404030000" stop="20200404035000" channel="cctv2">
         <title lang="zh">大国重器(第二季)--4(重播）</title>
     </programme>
-    <programme start="20200404032000" stop="20200404042000" channel="cctv2">
+    <programme start="20200404035000" stop="20200404044000" channel="cctv2">
         <title lang="zh">大国重器(第二季)--5(重播）</title>
     </programme>
-    <programme start="20200404042000" stop="20200404051000" channel="cctv2">
+    <programme start="20200404044000" stop="20200404053000" channel="cctv2">
         <title lang="zh">大国重器(第二季)--6(重播）</title>
     </programme>
-    <programme start="20200404051000" stop="20200404093000" channel="cctv2">
-        <title lang="zh">大国重器(第二季)--7(重播）</title>
+    <programme start="20200404053000" stop="20200404093000" channel="cctv2">
+        <title lang="zh">美丽中国-2019-3</title>
     </programme>
-    <programme start="20200404093000" stop="20200404210000" channel="cctv2">
+    <programme start="20200404093000" stop="20200404102000" channel="cctv2">
+        <title lang="zh">全国性哀悼活动现场直播</title>
+    </programme>
+    <programme start="20200404102000" stop="20200404210000" channel="cctv2">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20200404210000" stop="20200404235900" channel="cctv2">
@@ -317,7 +326,10 @@
     <programme start="20200404051300" stop="20200404093000" channel="cctv3">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20200404093000" stop="20200404130000" channel="cctv3">
+    <programme start="20200404093000" stop="20200404102000" channel="cctv3">
+        <title lang="zh">全国性哀悼活动现场直播</title>
+    </programme>
+    <programme start="20200404102000" stop="20200404130000" channel="cctv3">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20200404130000" stop="20200404130300" channel="cctv3">
@@ -606,7 +618,7 @@
         <title lang="zh">国家记忆2020--2</title>
     </programme>
     <programme start="20200404093000" stop="20200404103000" channel="cctv4">
-        <title lang="zh">2020年清明节特别节目-1</title>
+        <title lang="zh">全国性哀悼活动现场直播</title>
     </programme>
     <programme start="20200404103000" stop="20200404105700" channel="cctv4">
         <title lang="zh">2020国家荣光-5</title>
@@ -702,7 +714,7 @@
         <title lang="zh">新闻大时段（特别版）</title>
     </programme>
     <programme start="20200404093000" stop="20200404102000" channel="cctv5">
-        <title lang="zh">新闻直播间-清明节特别节目</title>
+        <title lang="zh">全国性哀悼活动现场直播</title>
     </programme>
     <programme start="20200404102000" stop="20200404130000" channel="cctv5">
         <title lang="zh">新闻大时段（白天版）</title>
@@ -789,7 +801,7 @@
         <title lang="zh">新闻大时段（特别版）</title>
     </programme>
     <programme start="20200404093000" stop="20200404102000" channel="cctv5plus">
-        <title lang="zh">新闻直播间-清明节特别节目</title>
+        <title lang="zh">全国性哀悼活动现场直播</title>
     </programme>
     <programme start="20200404102000" stop="20200404130000" channel="cctv5plus">
         <title lang="zh">新闻大时段（白天版）</title>
@@ -866,104 +878,260 @@
     <programme start="20200404001800" stop="20200404093000" channel="cctv7">
         <title lang="zh">再见</title>
     </programme>
-    <programme start="20200404093000" stop="20200404210000" channel="cctv7">
+    <programme start="20200404093000" stop="20200404102000" channel="cctv7">
+        <title lang="zh">全国性哀悼活动现场直播</title>
+    </programme>
+    <programme start="20200404102000" stop="20200404210000" channel="cctv7">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20200404210000" stop="20200404235900" channel="cctv7">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20200404000400" stop="20200404001200" channel="cctv8">
-        <title lang="zh">星推荐-2020年4月-3</title>
+    <programme start="20200404000100" stop="20200404005100" channel="cctv8">
+        <title lang="zh">故事中国2020-2</title>
     </programme>
-    <programme start="20200404001200" stop="20200404005800" channel="cctv8">
-        <title lang="zh">和妈妈一起谈恋爱42/44</title>
+    <programme start="20200404005100" stop="20200404014100" channel="cctv8">
+        <title lang="zh">故事中国2020-3</title>
     </programme>
-    <programme start="20200404005800" stop="20200404014400" channel="cctv8">
-        <title lang="zh">和妈妈一起谈恋爱43/44</title>
+    <programme start="20200404014100" stop="20200404023100" channel="cctv8">
+        <title lang="zh">故事中国2020-4</title>
     </programme>
-    <programme start="20200404014400" stop="20200404023000" channel="cctv8">
-        <title lang="zh">和妈妈一起谈恋爱44/44</title>
+    <programme start="20200404023100" stop="20200404032100" channel="cctv8">
+        <title lang="zh">故事中国2020-5</title>
     </programme>
-    <programme start="20200404023000" stop="20200404031600" channel="cctv8">
-        <title lang="zh">最美的安排1/45</title>
+    <programme start="20200404032100" stop="20200404041100" channel="cctv8">
+        <title lang="zh">故事中国2020-6</title>
     </programme>
-    <programme start="20200404031600" stop="20200404041100" channel="cctv8">
-        <title lang="zh">最美的安排2/45</title>
-    </programme>
-    <programme start="20200404041100" stop="20200404050100" channel="cctv8">
+    <programme start="20200404041100" stop="20200404050200" channel="cctv8">
         <title lang="zh">故事中国2020-7</title>
     </programme>
-    <programme start="20200404050100" stop="20200404051100" channel="cctv8">
+    <programme start="20200404050200" stop="20200404051300" channel="cctv8">
         <title lang="zh">精彩一刻-2019-15航拍中国第二季四川江</title>
     </programme>
-    <programme start="20200404051100" stop="20200404055700" channel="cctv8">
+    <programme start="20200404051300" stop="20200404093000" channel="cctv8">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20200404055700" stop="20200404055900" channel="cctv8">
-        <title lang="zh">插花-2017-16</title>
+    <programme start="20200404093000" stop="20200404102000" channel="cctv8">
+        <title lang="zh">全国性哀悼活动现场直播</title>
     </programme>
-    <programme start="20200404055900" stop="20200404093000" channel="cctv8">
-        <title lang="zh">插花-2017-16</title>
-    </programme>
-    <programme start="20200404093000" stop="20200404130000" channel="cctv8">
+    <programme start="20200404102000" stop="20200404130000" channel="cctv8">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20200404130000" stop="20200404132500" channel="cctv8">
-        <title lang="zh">插花-2015-12</title>
+    <programme start="20200404130000" stop="20200404130300" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-你是英雄</title>
     </programme>
-    <programme start="20200404132500" stop="20200404142100" channel="cctv8">
-        <title lang="zh">你和我的倾城时光16/50</title>
+    <programme start="20200404130300" stop="20200404131300" channel="cctv8">
+        <title lang="zh">战"疫"故事-10</title>
     </programme>
-    <programme start="20200404142100" stop="20200404151800" channel="cctv8">
-        <title lang="zh">你和我的倾城时光17/50</title>
+    <programme start="20200404131300" stop="20200404132100" channel="cctv8">
+        <title lang="zh">战"疫"故事-12</title>
     </programme>
-    <programme start="20200404151800" stop="20200404160400" channel="cctv8">
-        <title lang="zh">你和我的倾城时光18/50</title>
+    <programme start="20200404132100" stop="20200404132400" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-武汉伢</title>
     </programme>
-    <programme start="20200404160400" stop="20200404161900" channel="cctv8">
-        <title lang="zh">星推荐-2020年4月-3</title>
+    <programme start="20200404132400" stop="20200404133300" channel="cctv8">
+        <title lang="zh">战"疫"故事(第三季)-1</title>
     </programme>
-    <programme start="20200404161900" stop="20200404162300" channel="cctv8">
-        <title lang="zh">插花-2015-3</title>
+    <programme start="20200404133300" stop="20200404134200" channel="cctv8">
+        <title lang="zh">战"疫"故事(第二季)-1</title>
     </programme>
-    <programme start="20200404162300" stop="20200404172600" channel="cctv8">
-        <title lang="zh">回家的路有多远45/45</title>
+    <programme start="20200404134200" stop="20200404134600" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-你安好 我无恙</title>
     </programme>
-    <programme start="20200404172600" stop="20200404182100" channel="cctv8">
-        <title lang="zh">娘亲舅大1/51</title>
+    <programme start="20200404134600" stop="20200404135200" channel="cctv8">
+        <title lang="zh">战"疫"故事-1</title>
     </programme>
-    <programme start="20200404182100" stop="20200404183200" channel="cctv8">
-        <title lang="zh">星推荐-2020年4月-4</title>
+    <programme start="20200404135200" stop="20200404140100" channel="cctv8">
+        <title lang="zh">战"疫"故事(第三季)-2</title>
     </programme>
-    <programme start="20200404183200" stop="20200404192400" channel="cctv8">
-        <title lang="zh">娘亲舅大2/51</title>
+    <programme start="20200404140100" stop="20200404140500" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-爱的桥梁</title>
     </programme>
-    <programme start="20200404192400" stop="20200404192600" channel="cctv8">
-        <title lang="zh">插花-2015-3</title>
+    <programme start="20200404140500" stop="20200404141400" channel="cctv8">
+        <title lang="zh">战"疫"故事（第二季）-2</title>
+    </programme>
+    <programme start="20200404141400" stop="20200404142100" channel="cctv8">
+        <title lang="zh">战"疫"故事-2</title>
+    </programme>
+    <programme start="20200404142100" stop="20200404142600" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-坚信爱会赢</title>
+    </programme>
+    <programme start="20200404142600" stop="20200404143300" channel="cctv8">
+        <title lang="zh">战"疫"故事(第三季)-3</title>
+    </programme>
+    <programme start="20200404143300" stop="20200404144200" channel="cctv8">
+        <title lang="zh">战"疫"故事（第二季）-3</title>
+    </programme>
+    <programme start="20200404144200" stop="20200404144700" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-天使的身影</title>
+    </programme>
+    <programme start="20200404144700" stop="20200404145500" channel="cctv8">
+        <title lang="zh">战"疫"故事-3</title>
+    </programme>
+    <programme start="20200404145500" stop="20200404150400" channel="cctv8">
+        <title lang="zh">战"疫"故事（第二季）-4</title>
+    </programme>
+    <programme start="20200404150400" stop="20200404150700" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-武汉伢</title>
+    </programme>
+    <programme start="20200404150700" stop="20200404151600" channel="cctv8">
+        <title lang="zh">战"疫"故事-4</title>
+    </programme>
+    <programme start="20200404151600" stop="20200404152500" channel="cctv8">
+        <title lang="zh">战"疫"故事（第二季）-5</title>
+    </programme>
+    <programme start="20200404152500" stop="20200404152900" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-白衣长城（修改版）</title>
+    </programme>
+    <programme start="20200404152900" stop="20200404153700" channel="cctv8">
+        <title lang="zh">战"疫"故事-5</title>
+    </programme>
+    <programme start="20200404153700" stop="20200404154600" channel="cctv8">
+        <title lang="zh">战"疫"故事（第二季）-6</title>
+    </programme>
+    <programme start="20200404154600" stop="20200404155000" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-白衣长城（粤语版）</title>
+    </programme>
+    <programme start="20200404155000" stop="20200404155800" channel="cctv8">
+        <title lang="zh">战"疫"故事-6</title>
+    </programme>
+    <programme start="20200404155800" stop="20200404160700" channel="cctv8">
+        <title lang="zh">战"疫"故事（第二季）-7</title>
+    </programme>
+    <programme start="20200404160700" stop="20200404161000" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-中国一定强</title>
+    </programme>
+    <programme start="20200404161000" stop="20200404161700" channel="cctv8">
+        <title lang="zh">战"疫"故事-7</title>
+    </programme>
+    <programme start="20200404161700" stop="20200404162500" channel="cctv8">
+        <title lang="zh">战"疫"故事（第二季）-8</title>
+    </programme>
+    <programme start="20200404162500" stop="20200404162900" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-武汉伢</title>
+    </programme>
+    <programme start="20200404162900" stop="20200404163500" channel="cctv8">
+        <title lang="zh">战"疫"故事-8</title>
+    </programme>
+    <programme start="20200404163500" stop="20200404164300" channel="cctv8">
+        <title lang="zh">战"疫"故事（第二季）-9</title>
+    </programme>
+    <programme start="20200404164300" stop="20200404164800" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-你安好 我无恙</title>
+    </programme>
+    <programme start="20200404164800" stop="20200404165600" channel="cctv8">
+        <title lang="zh">战"疫"故事-9</title>
+    </programme>
+    <programme start="20200404165600" stop="20200404170400" channel="cctv8">
+        <title lang="zh">战"疫"故事（第二季）-10</title>
+    </programme>
+    <programme start="20200404170400" stop="20200404170800" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-爱的桥梁</title>
+    </programme>
+    <programme start="20200404170800" stop="20200404171800" channel="cctv8">
+        <title lang="zh">战"疫"故事-10</title>
+    </programme>
+    <programme start="20200404171800" stop="20200404172600" channel="cctv8">
+        <title lang="zh">战"疫"故事（第二季）-11</title>
+    </programme>
+    <programme start="20200404172600" stop="20200404173100" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-坚信爱会赢</title>
+    </programme>
+    <programme start="20200404173100" stop="20200404173800" channel="cctv8">
+        <title lang="zh">战"疫"故事-11</title>
+    </programme>
+    <programme start="20200404173800" stop="20200404174700" channel="cctv8">
+        <title lang="zh">战"疫"故事（第二季）-12</title>
+    </programme>
+    <programme start="20200404174700" stop="20200404175100" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-天使的身影</title>
+    </programme>
+    <programme start="20200404175100" stop="20200404175900" channel="cctv8">
+        <title lang="zh">战"疫"故事-12</title>
+    </programme>
+    <programme start="20200404175900" stop="20200404180300" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-爱的桥梁</title>
+    </programme>
+    <programme start="20200404180300" stop="20200404180900" channel="cctv8">
+        <title lang="zh">战"疫"故事-1</title>
+    </programme>
+    <programme start="20200404180900" stop="20200404181300" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-你是英雄</title>
+    </programme>
+    <programme start="20200404181300" stop="20200404182200" channel="cctv8">
+        <title lang="zh">战"疫"故事（第二季）-1</title>
+    </programme>
+    <programme start="20200404182200" stop="20200404183000" channel="cctv8">
+        <title lang="zh">战"疫"故事（第三季）-1</title>
+    </programme>
+    <programme start="20200404183000" stop="20200404183300" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-中国一定强</title>
+    </programme>
+    <programme start="20200404183300" stop="20200404184000" channel="cctv8">
+        <title lang="zh">战"疫"故事-2</title>
+    </programme>
+    <programme start="20200404184000" stop="20200404184800" channel="cctv8">
+        <title lang="zh">战"疫"故事（第二季）-2</title>
+    </programme>
+    <programme start="20200404184800" stop="20200404185300" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-白衣长城（粤语版）</title>
+    </programme>
+    <programme start="20200404185300" stop="20200404190200" channel="cctv8">
+        <title lang="zh">战"疫"故事(第三季)-2</title>
+    </programme>
+    <programme start="20200404190200" stop="20200404190600" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-爱的桥梁</title>
+    </programme>
+    <programme start="20200404190600" stop="20200404191500" channel="cctv8">
+        <title lang="zh">战"疫"故事-3</title>
+    </programme>
+    <programme start="20200404191500" stop="20200404191700" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-中国一定强</title>
+    </programme>
+    <programme start="20200404191700" stop="20200404192600" channel="cctv8">
+        <title lang="zh">战"疫"故事（第二季）-3</title>
     </programme>
     <programme start="20200404192600" stop="20200404193000" channel="cctv8">
-        <title lang="zh">本集提要-《我哥我嫂》21/50</title>
+        <title lang="zh">抗击疫情主题歌曲MV-你是英雄</title>
     </programme>
-    <programme start="20200404193000" stop="20200404202800" channel="cctv8">
-        <title lang="zh">我哥我嫂21/50</title>
+    <programme start="20200404193000" stop="20200404204000" channel="cctv8">
+        <title lang="zh">战"疫"正清明-2020</title>
     </programme>
-    <programme start="20200404202800" stop="20200404203300" channel="cctv8">
-        <title lang="zh">本集提要-《我哥我嫂》22/50</title>
+    <programme start="20200404204000" stop="20200404204800" channel="cctv8">
+        <title lang="zh">战"疫"故事(第三季)-4</title>
     </programme>
-    <programme start="20200404203300" stop="20200404213100" channel="cctv8">
-        <title lang="zh">我哥我嫂22/50</title>
+    <programme start="20200404204800" stop="20200404205300" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-天使的身影</title>
     </programme>
-    <programme start="20200404213100" stop="20200404213600" channel="cctv8">
-        <title lang="zh">本集提要-《我哥我嫂》23/50</title>
+    <programme start="20200404205300" stop="20200404220300" channel="cctv8">
+        <title lang="zh">战"疫"正清明-2020</title>
     </programme>
-    <programme start="20200404213600" stop="20200404222900" channel="cctv8">
-        <title lang="zh">我哥我嫂23/50</title>
+    <programme start="20200404220300" stop="20200404221200" channel="cctv8">
+        <title lang="zh">战"疫"故事(第三季)-4</title>
     </programme>
-    <programme start="20200404222900" stop="20200404231800" channel="cctv8">
-        <title lang="zh">芝麻胡同10/51</title>
+    <programme start="20200404221200" stop="20200404221400" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-中国一定强</title>
     </programme>
-    <programme start="20200404231800" stop="20200404235900" channel="cctv8">
-        <title lang="zh">芝麻胡同11/51</title>
+    <programme start="20200404221400" stop="20200404232400" channel="cctv8">
+        <title lang="zh">战"疫"正清明-2020</title>
+    </programme>
+    <programme start="20200404232400" stop="20200404233300" channel="cctv8">
+        <title lang="zh">战"疫"故事(第三季)-4</title>
+    </programme>
+    <programme start="20200404233300" stop="20200404233700" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-你是英雄</title>
+    </programme>
+    <programme start="20200404233700" stop="20200404234600" channel="cctv8">
+        <title lang="zh">战"疫"故事(第三季)-2</title>
+    </programme>
+    <programme start="20200404234600" stop="20200404234900" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-武汉伢</title>
+    </programme>
+    <programme start="20200404234900" stop="20200404235600" channel="cctv8">
+        <title lang="zh">战"疫"故事-2</title>
+    </programme>
+    <programme start="20200404235600" stop="20200404235900" channel="cctv8">
+        <title lang="zh">抗击疫情主题歌曲MV-坚信爱会赢</title>
     </programme>
     <programme start="20200404000100" stop="20200404005100" channel="cctvjilu">
         <title lang="zh">故事中国2020-2</title>
@@ -989,47 +1157,44 @@
     <programme start="20200404051300" stop="20200404093000" channel="cctvjilu">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20200404093000" stop="20200404130100" channel="cctvjilu">
+    <programme start="20200404093000" stop="20200404102000" channel="cctvjilu">
+        <title lang="zh">全国性哀悼活动现场直播</title>
+    </programme>
+    <programme start="20200404102000" stop="20200404130000" channel="cctvjilu">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20200404130100" stop="20200404140000" channel="cctvjilu">
-        <title lang="zh">特别呈现2020-72</title>
+    <programme start="20200404130000" stop="20200404140000" channel="cctvjilu">
+        <title lang="zh">故事中国2020-112</title>
     </programme>
     <programme start="20200404140000" stop="20200404150000" channel="cctvjilu">
-        <title lang="zh">特别呈现2020-73</title>
+        <title lang="zh">故事中国2020-113</title>
     </programme>
-    <programme start="20200404150000" stop="20200404160100" channel="cctvjilu">
-        <title lang="zh">特别呈现2020-74</title>
+    <programme start="20200404150000" stop="20200404160000" channel="cctvjilu">
+        <title lang="zh">故事中国2020-112</title>
     </programme>
-    <programme start="20200404160100" stop="20200404170000" channel="cctvjilu">
-        <title lang="zh">故事中国2020-94</title>
+    <programme start="20200404160000" stop="20200404170000" channel="cctvjilu">
+        <title lang="zh">故事中国2020-113</title>
     </programme>
-    <programme start="20200404170000" stop="20200404180400" channel="cctvjilu">
-        <title lang="zh">全景自然2020-95</title>
+    <programme start="20200404170000" stop="20200404180000" channel="cctvjilu">
+        <title lang="zh">故事中国2020-112</title>
     </programme>
-    <programme start="20200404180400" stop="20200404190300" channel="cctvjilu">
-        <title lang="zh">魅力万象2020-95</title>
+    <programme start="20200404180000" stop="20200404190000" channel="cctvjilu">
+        <title lang="zh">故事中国2020-113</title>
     </programme>
-    <programme start="20200404190300" stop="20200404192300" channel="cctvjilu">
-        <title lang="zh">9视频2020-95</title>
+    <programme start="20200404190000" stop="20200404200000" channel="cctvjilu">
+        <title lang="zh">故事中国2020-112</title>
     </programme>
-    <programme start="20200404192300" stop="20200404200100" channel="cctvjilu">
-        <title lang="zh">活力·源2020-90</title>
-    </programme>
-    <programme start="20200404200100" stop="20200404210000" channel="cctvjilu">
-        <title lang="zh">特别呈现2020-95</title>
+    <programme start="20200404200000" stop="20200404210000" channel="cctvjilu">
+        <title lang="zh">故事中国2020-113</title>
     </programme>
     <programme start="20200404210000" stop="20200404220000" channel="cctvjilu">
-        <title lang="zh">寰宇视野2020-93</title>
+        <title lang="zh">故事中国2020-112</title>
     </programme>
-    <programme start="20200404220000" stop="20200404230500" channel="cctvjilu">
-        <title lang="zh">故事中国2020-93</title>
+    <programme start="20200404220000" stop="20200404230000" channel="cctvjilu">
+        <title lang="zh">故事中国2020-113</title>
     </programme>
-    <programme start="20200404230500" stop="20200404233900" channel="cctvjilu">
-        <title lang="zh">活力·源2020-90</title>
-    </programme>
-    <programme start="20200404233900" stop="20200404235900" channel="cctvjilu">
-        <title lang="zh">寰宇视野2020-93</title>
+    <programme start="20200404230000" stop="20200404235900" channel="cctvjilu">
+        <title lang="zh">故事中国2020-112</title>
     </programme>
     <programme start="20200404001000" stop="20200404002000" channel="cctv10">
         <title lang="zh">百家说故事-2020-86</title>
@@ -1055,13 +1220,19 @@
     <programme start="20200404025900" stop="20200404093000" channel="cctv10">
         <title lang="zh">再见</title>
     </programme>
-    <programme start="20200404093000" stop="20200404210000" channel="cctv10">
+    <programme start="20200404093000" stop="20200404102000" channel="cctv10">
+        <title lang="zh">全国性哀悼活动现场直播</title>
+    </programme>
+    <programme start="20200404102000" stop="20200404210000" channel="cctv10">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20200404210000" stop="20200404235900" channel="cctv10">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20200404093000" stop="20200404130000" channel="cctv11">
+    <programme start="20200404093000" stop="20200404102000" channel="cctv11">
+        <title lang="zh">全国性哀悼活动现场直播</title>
+    </programme>
+    <programme start="20200404102000" stop="20200404130000" channel="cctv11">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20200404130000" stop="20200404130300" channel="cctv11">
@@ -1292,7 +1463,10 @@
     <programme start="20200404015500" stop="20200404093000" channel="cctv12">
         <title lang="zh">再见</title>
     </programme>
-    <programme start="20200404093000" stop="20200404210000" channel="cctv12">
+    <programme start="20200404093000" stop="20200404102000" channel="cctv12">
+        <title lang="zh">全国性哀悼活动现场直播</title>
+    </programme>
+    <programme start="20200404102000" stop="20200404210000" channel="cctv12">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20200404210000" stop="20200404235900" channel="cctv12">
@@ -1341,7 +1515,7 @@
         <title lang="zh">朝闻天下</title>
     </programme>
     <programme start="20200404093000" stop="20200404102000" channel="cctv13">
-        <title lang="zh">新闻直播间</title>
+        <title lang="zh">全国性哀悼活动现场直播</title>
     </programme>
     <programme start="20200404102000" stop="20200404120000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
@@ -1379,13 +1553,19 @@
     <programme start="20200404222000" stop="20200404235900" channel="cctv13">
         <title lang="zh">24小时</title>
     </programme>
-    <programme start="20200404093000" stop="20200404210000" channel="cctvchild">
+    <programme start="20200404093000" stop="20200404102000" channel="cctvchild">
+        <title lang="zh">全国性哀悼活动现场直播</title>
+    </programme>
+    <programme start="20200404102000" stop="20200404210000" channel="cctvchild">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20200404210000" stop="20200404235900" channel="cctvchild">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20200404093000" stop="20200404130000" channel="cctv15">
+    <programme start="20200404093000" stop="20200404102000" channel="cctv15">
+        <title lang="zh">全国性哀悼活动现场直播</title>
+    </programme>
+    <programme start="20200404102000" stop="20200404130000" channel="cctv15">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20200404130000" stop="20200404130300" channel="cctv15">
@@ -1607,7 +1787,10 @@
     <programme start="20200404004200" stop="20200404093000" channel="cctv17">
         <title lang="zh">再见</title>
     </programme>
-    <programme start="20200404093000" stop="20200404210000" channel="cctv17">
+    <programme start="20200404093000" stop="20200404102000" channel="cctv17">
+        <title lang="zh">全国性哀悼活动现场直播</title>
+    </programme>
+    <programme start="20200404102000" stop="20200404210000" channel="cctv17">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20200404210000" stop="20200404235900" channel="cctv17">
