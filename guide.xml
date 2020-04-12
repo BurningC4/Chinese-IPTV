@@ -237,7 +237,7 @@
         <url>https://tv.cntv.cn</url>
     </channel>
     <programme start="20200412000600" stop="20200412010000" channel="cctv1">
-        <title lang="zh">破局19509/46</title>
+        <title lang="zh">破局1950第9集</title>
     </programme>
     <programme start="20200412010000" stop="20200412010400" channel="cctv1">
         <title lang="zh">生活提示</title>
@@ -863,8 +863,11 @@
     <programme start="20200412220100" stop="20200412235900" channel="cctv6">
         <title lang="zh">星球大战 前传I：幽灵的威胁</title>
     </programme>
-    <programme start="20200412000900" stop="20200412060300" channel="cctv7">
+    <programme start="20200412000900" stop="20200412005100" channel="cctv7">
         <title lang="zh">军事制高点-2020-27</title>
+    </programme>
+    <programme start="20200412005100" stop="20200412060300" channel="cctv7">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20200412060300" stop="20200412063400" channel="cctv7">
         <title lang="zh">军迷行天下-2020-15</title>
@@ -960,19 +963,19 @@
         <title lang="zh">星推荐-2020年4月-11</title>
     </programme>
     <programme start="20200412001200" stop="20200412005800" channel="cctv8">
-        <title lang="zh">最美的安排33/45</title>
+        <title lang="zh">最美的安排第33集</title>
     </programme>
     <programme start="20200412005800" stop="20200412014400" channel="cctv8">
-        <title lang="zh">最美的安排34/45</title>
+        <title lang="zh">最美的安排第34集</title>
     </programme>
     <programme start="20200412014400" stop="20200412023000" channel="cctv8">
-        <title lang="zh">最美的安排35/45</title>
+        <title lang="zh">最美的安排第35集</title>
     </programme>
     <programme start="20200412023000" stop="20200412031600" channel="cctv8">
-        <title lang="zh">最美的安排36/45</title>
+        <title lang="zh">最美的安排第36集</title>
     </programme>
     <programme start="20200412031600" stop="20200412040200" channel="cctv8">
-        <title lang="zh">最美的安排37/45</title>
+        <title lang="zh">最美的安排第37集</title>
     </programme>
     <programme start="20200412040200" stop="20200412041900" channel="cctv8">
         <title lang="zh">插花-2015-12</title>
@@ -1160,8 +1163,11 @@
     <programme start="20200412020900" stop="20200412024900" channel="cctv10">
         <title lang="zh">健康之路-2020-102</title>
     </programme>
-    <programme start="20200412024900" stop="20200412060000" channel="cctv10">
+    <programme start="20200412024900" stop="20200412025900" channel="cctv10">
         <title lang="zh">读书-2020-93</title>
+    </programme>
+    <programme start="20200412025900" stop="20200412060000" channel="cctv10">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20200412060000" stop="20200412065400" channel="cctv10">
         <title lang="zh">2020大千世界-44</title>
@@ -1262,8 +1268,11 @@
     <programme start="20200412230600" stop="20200412235900" channel="cctv10">
         <title lang="zh">考古公开课-2020-14</title>
     </programme>
-    <programme start="20200412003800" stop="20200412060600" channel="cctv11">
+    <programme start="20200412003400" stop="20200412021200" channel="cctv11">
         <title lang="zh">中国京剧像音像集萃-2019-42京剧《洪洋洞》（主演王珮瑜）</title>
+    </programme>
+    <programme start="20200412021200" stop="20200412060600" channel="cctv11">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20200412060600" stop="20200412070800" channel="cctv11">
         <title lang="zh">九州大戏台-2019-42好戏连连看 湖南花鼓戏《桃花烟雨》选场</title>
@@ -1337,8 +1346,11 @@
     <programme start="20200412010100" stop="20200412014400" channel="cctv12">
         <title lang="zh">小区大事-2020-14</title>
     </programme>
-    <programme start="20200412014400" stop="20200412060300" channel="cctv12">
+    <programme start="20200412014400" stop="20200412021500" channel="cctv12">
         <title lang="zh">法律讲堂-2020-102</title>
+    </programme>
+    <programme start="20200412021500" stop="20200412060300" channel="cctv12">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20200412060300" stop="20200412063600" channel="cctv12">
         <title lang="zh">法律讲堂-2020-102</title>
@@ -1559,11 +1571,14 @@
     <programme start="20200412233800" stop="20200412235900" channel="cctvchild">
         <title lang="zh">铁血红安23/38</title>
     </programme>
-    <programme start="20200412000700" stop="20200412005600" channel="cctv15">
+    <programme start="20200412000100" stop="20200412005000" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2020-53-漫步经典（27）</title>
     </programme>
-    <programme start="20200412005600" stop="20200412060000" channel="cctv15">
+    <programme start="20200412005000" stop="20200412020000" channel="cctv15">
         <title lang="zh">经典-2020-76-帕瓦罗蒂：一个巨星的诞生</title>
+    </programme>
+    <programme start="20200412020000" stop="20200412060000" channel="cctv15">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20200412060000" stop="20200412063300" channel="cctv15">
         <title lang="zh">中国节拍-2020-31</title>
@@ -1627,6 +1642,9 @@
     </programme>
     <programme start="20200412222800" stop="20200412235900" channel="cctv15">
         <title lang="zh">精彩音乐汇-2020-112</title>
+    </programme>
+    <programme start="20200412004600" stop="20200412060000" channel="cctv17">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20200412060000" stop="20200412064500" channel="cctv17">
         <title lang="zh">乡理乡亲-2019-1</title>
