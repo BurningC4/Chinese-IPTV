@@ -617,11 +617,8 @@
     <programme start="20200415120000" stop="20200415130000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20200415130000" stop="20200415132700" channel="cctv4">
-        <title lang="zh">2020国家荣光-14</title>
-    </programme>
-    <programme start="20200415132700" stop="20200415133600" channel="cctv4">
-        <title lang="zh">抗击疫情主题歌曲MV-白衣长城（粤语版）</title>
+    <programme start="20200415130000" stop="20200415133600" channel="cctv4">
+        <title lang="zh">你我同心 1</title>
     </programme>
     <programme start="20200415133600" stop="20200415141600" channel="cctv4">
         <title lang="zh">解放-（四套）-14/50</title>
@@ -869,8 +866,11 @@
     <programme start="20200415235700" stop="20200415235900" channel="cctv6">
         <title lang="zh">今日影评2020-076</title>
     </programme>
-    <programme start="20200415001100" stop="20200415060300" channel="cctv7">
+    <programme start="20200415001100" stop="20200415004800" channel="cctv7">
         <title lang="zh">兵器面面观-2020-37</title>
+    </programme>
+    <programme start="20200415004800" stop="20200415060300" channel="cctv7">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20200415060300" stop="20200415063400" channel="cctv7">
         <title lang="zh">军事纪实-2020-75</title>
@@ -1193,8 +1193,11 @@
     <programme start="20200415020900" stop="20200415024900" channel="cctv10">
         <title lang="zh">健康之路-2020-105</title>
     </programme>
-    <programme start="20200415024900" stop="20200415060000" channel="cctv10">
+    <programme start="20200415024900" stop="20200415025900" channel="cctv10">
         <title lang="zh">读书-2020-96</title>
+    </programme>
+    <programme start="20200415025900" stop="20200415060000" channel="cctv10">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20200415060000" stop="20200415065400" channel="cctv10">
         <title lang="zh">自然传奇-2020-61</title>
@@ -1373,8 +1376,11 @@
     <programme start="20200415010400" stop="20200415013400" channel="cctv12">
         <title lang="zh">夜线-2020-48</title>
     </programme>
-    <programme start="20200415013400" stop="20200415060300" channel="cctv12">
+    <programme start="20200415013400" stop="20200415015500" channel="cctv12">
         <title lang="zh">生命线-2020-105</title>
+    </programme>
+    <programme start="20200415015500" stop="20200415060300" channel="cctv12">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20200415060300" stop="20200415063600" channel="cctv12">
         <title lang="zh">法律讲堂-2020-105</title>
@@ -1559,8 +1565,11 @@
     <programme start="20200415230000" stop="20200415235900" channel="cctv13">
         <title lang="zh">24小时</title>
     </programme>
-    <programme start="20200415002800" stop="20200415060000" channel="cctvchild">
-        <title lang="zh">铁血红安32/38</title>
+    <programme start="20200415002800" stop="20200415011800" channel="cctvchild">
+        <title lang="zh">铁血红安第32集</title>
+    </programme>
+    <programme start="20200415011800" stop="20200415060000" channel="cctvchild">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20200415060000" stop="20200415073000" channel="cctvchild">
         <title lang="zh">动画大放映（早间版）-2020-39</title>
@@ -1657,6 +1666,9 @@
     </programme>
     <programme start="20200415234900" stop="20200415235900" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2020-58-漫步经典（32）</title>
+    </programme>
+    <programme start="20200415003200" stop="20200415060000" channel="cctv17">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20200415060000" stop="20200415065400" channel="cctv17">
         <title lang="zh">田间示范秀-2020-53</title>
