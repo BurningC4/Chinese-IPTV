@@ -1451,10 +1451,10 @@
     <programme start="20200706041500" stop="20200706050000" channel="cctv13">
         <title lang="zh">世界周刊</title>
     </programme>
-    <programme start="20200706050000" stop="20200706051300" channel="cctv13">
+    <programme start="20200706050000" stop="20200706051200" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20200706051300" stop="20200706060000" channel="cctv13">
+    <programme start="20200706051200" stop="20200706060000" channel="cctv13">
         <title lang="zh">面对面</title>
     </programme>
     <programme start="20200706060000" stop="20200706090000" channel="cctv13">
@@ -1481,8 +1481,11 @@
     <programme start="20200706130000" stop="20200706140000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20200706140000" stop="20200706150000" channel="cctv13">
+    <programme start="20200706140000" stop="20200706141200" channel="cctv13">
         <title lang="zh">新闻直播间</title>
+    </programme>
+    <programme start="20200706141200" stop="20200706150000" channel="cctv13">
+        <title lang="zh">面对面</title>
     </programme>
     <programme start="20200706150000" stop="20200706160000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
