@@ -1490,10 +1490,13 @@
     <programme start="20200720180000" stop="20200720190000" channel="cctv13">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme start="20200720190000" stop="20200720194000" channel="cctv13">
+    <programme start="20200720190000" stop="20200720193200" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20200720194000" stop="20200720200000" channel="cctv13">
+    <programme start="20200720193200" stop="20200720193900" channel="cctv13">
+        <title lang="zh">天气预报</title>
+    </programme>
+    <programme start="20200720193900" stop="20200720200000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20200720200000" stop="20200720210000" channel="cctv13">
@@ -1656,7 +1659,7 @@
         <title lang="zh">谁知盘中餐-2020-161</title>
     </programme>
     <programme start="20200720120000" stop="20200720123000" channel="cctv17">
-        <title lang="zh">乡村振兴资讯特别节目-2020-82</title>
+        <title lang="zh">遍地英雄-2020-133</title>
     </programme>
     <programme start="20200720123000" stop="20200720132400" channel="cctv17">
         <title lang="zh">田间示范秀-2020-123</title>
