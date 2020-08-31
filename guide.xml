@@ -506,16 +506,16 @@
     <programme start="20200831180000" stop="20200831193000" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2020-1715</title>
     </programme>
-    <programme start="20200831193000" stop="20200831204400" channel="cctv3">
+    <programme start="20200831193000" stop="20200831204000" channel="cctv3">
         <title lang="zh">海报里的英雄-2</title>
     </programme>
-    <programme start="20200831204400" stop="20200831214400" channel="cctv3">
+    <programme start="20200831204000" stop="20200831214000" channel="cctv3">
         <title lang="zh">非常6+1-2020-34</title>
     </programme>
-    <programme start="20200831214400" stop="20200831231600" channel="cctv3">
+    <programme start="20200831214000" stop="20200831231300" channel="cctv3">
         <title lang="zh">开门大吉-2020-28</title>
     </programme>
-    <programme start="20200831231600" stop="20200831235900" channel="cctv3">
+    <programme start="20200831231300" stop="20200831235900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2020-1685</title>
     </programme>
     <programme start="20200831003200" stop="20200831012000" channel="cctv4">
@@ -717,7 +717,7 @@
         <title lang="zh">奥运争锋-羽毛球篇</title>
     </programme>
     <programme start="20200831080000" stop="20200831110500" channel="cctv5plus">
-        <title lang="zh">2019/2020赛季北美冰球职业联赛-季后赛（波士顿棕熊-坦帕湾闪电）</title>
+        <title lang="zh">2019/2020赛季北美冰球职业联赛-季后赛（费城飞人-纽约岛人）</title>
     </programme>
     <programme start="20200831110500" stop="20200831123000" channel="cctv5plus">
         <title lang="zh">中国体操的闪耀时刻-男子团体1</title>
@@ -1436,10 +1436,10 @@
     <programme start="20200831041500" stop="20200831050000" channel="cctv13">
         <title lang="zh">世界周刊</title>
     </programme>
-    <programme start="20200831050000" stop="20200831051200" channel="cctv13">
+    <programme start="20200831050000" stop="20200831051400" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20200831051200" stop="20200831060000" channel="cctv13">
+    <programme start="20200831051400" stop="20200831060000" channel="cctv13">
         <title lang="zh">面对面</title>
     </programme>
     <programme start="20200831060000" stop="20200831090000" channel="cctv13">
@@ -1463,13 +1463,19 @@
     <programme start="20200831123300" stop="20200831130000" channel="cctv13">
         <title lang="zh">法治在线</title>
     </programme>
-    <programme start="20200831130000" stop="20200831140000" channel="cctv13">
+    <programme start="20200831130000" stop="20200831132000" channel="cctv13">
+        <title lang="zh">一村一寨总关情-2020-5</title>
+    </programme>
+    <programme start="20200831132000" stop="20200831134000" channel="cctv13">
+        <title lang="zh">一村一寨总关情-2020-6</title>
+    </programme>
+    <programme start="20200831134000" stop="20200831140000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20200831140000" stop="20200831141200" channel="cctv13">
+    <programme start="20200831140000" stop="20200831141400" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20200831141200" stop="20200831150000" channel="cctv13">
+    <programme start="20200831141400" stop="20200831150000" channel="cctv13">
         <title lang="zh">面对面</title>
     </programme>
     <programme start="20200831150000" stop="20200831160000" channel="cctv13">
@@ -1721,20 +1727,20 @@
     <programme start="20200831211000" stop="20200831214000" channel="cctv17">
         <title lang="zh">攻坚日记-2020-165</title>
     </programme>
-    <programme start="20200831214000" stop="20200831220700" channel="cctv17">
-        <title lang="zh">谁知盘中餐-2020-253</title>
-    </programme>
-    <programme start="20200831220700" stop="20200831221000" channel="cctv17">
-        <title lang="zh">农业气象</title>
-    </programme>
-    <programme start="20200831221000" stop="20200831224000" channel="cctv17">
+    <programme start="20200831214000" stop="20200831220900" channel="cctv17">
         <title lang="zh">致富经-2020-151</title>
     </programme>
-    <programme start="20200831224000" stop="20200831233200" channel="cctv17">
+    <programme start="20200831220900" stop="20200831221300" channel="cctv17">
+        <title lang="zh">农业气象</title>
+    </programme>
+    <programme start="20200831221300" stop="20200831230500" channel="cctv17">
         <title lang="zh">在桃花盛开的地方第21集</title>
     </programme>
-    <programme start="20200831233200" stop="20200831235900" channel="cctv17">
+    <programme start="20200831230500" stop="20200831235800" channel="cctv17">
         <title lang="zh">在桃花盛开的地方第22集</title>
+    </programme>
+    <programme start="20200831235800" stop="20200831235900" channel="cctv17">
+        <title lang="zh">田间示范秀-2020-143</title>
     </programme>
     <programme start="20200831005700" stop="20200831013700" channel="cetv1">
         <title lang="zh">电视剧</title>
@@ -1973,47 +1979,29 @@
     <programme start="20200831082400" stop="20200831091600" channel="cetv2">
         <title lang="zh">水土保持技术-第005集</title>
     </programme>
-    <programme start="20200831091600" stop="20200831100800" channel="cetv2">
+    <programme start="20200831091600" stop="20200831101300" channel="cetv2">
         <title lang="zh">机电一体化系统设计基础-第001集</title>
     </programme>
-    <programme start="20200831100800" stop="20200831101300" channel="cetv2">
-        <title lang="zh">二套宣传5</title>
-    </programme>
-    <programme start="20200831101300" stop="20200831105300" channel="cetv2">
-        <title lang="zh">东方名家--教学示范公开课-第022集</title>
-    </programme>
-    <programme start="20200831105300" stop="20200831105600" channel="cetv2">
-        <title lang="zh">二套宣传3</title>
+    <programme start="20200831101300" stop="20200831105600" channel="cetv2">
+        <title lang="zh">东方名家-教学示范公开课-第022集</title>
     </programme>
     <programme start="20200831105600" stop="20200831112600" channel="cetv2">
         <title lang="zh">许鸿宾花鸟草虫画技法系列讲座-第001集</title>
     </programme>
-    <programme start="20200831112600" stop="20200831124100" channel="cetv2">
+    <programme start="20200831112600" stop="20200831124600" channel="cetv2">
         <title lang="zh">小小演说家 第二季-第001集</title>
     </programme>
-    <programme start="20200831124100" stop="20200831124600" channel="cetv2">
-        <title lang="zh">二套宣传5</title>
-    </programme>
     <programme start="20200831124600" stop="20200831131400" channel="cetv2">
-        <title lang="zh">中华经典（2017）-第100集</title>
+        <title lang="zh">中华经典(2017)-第100集</title>
     </programme>
-    <programme start="20200831131400" stop="20200831134200" channel="cetv2">
-        <title lang="zh">中华经典（2017）-第101集</title>
+    <programme start="20200831131400" stop="20200831134700" channel="cetv2">
+        <title lang="zh">中华经典(2017)-第101集</title>
     </programme>
-    <programme start="20200831134200" stop="20200831134700" channel="cetv2">
-        <title lang="zh">二套宣传5</title>
+    <programme start="20200831134700" stop="20200831143900" channel="cetv2">
+        <title lang="zh">寰宇地理(2017)-第230集</title>
     </programme>
-    <programme start="20200831134700" stop="20200831143700" channel="cetv2">
-        <title lang="zh">寰宇地理（2017）-第230集</title>
-    </programme>
-    <programme start="20200831143700" stop="20200831143900" channel="cetv2">
-        <title lang="zh">二套宣传2</title>
-    </programme>
-    <programme start="20200831143900" stop="20200831153100" channel="cetv2">
+    <programme start="20200831143900" stop="20200831153300" channel="cetv2">
         <title lang="zh">行草章法学-第001集</title>
-    </programme>
-    <programme start="20200831153100" stop="20200831153300" channel="cetv2">
-        <title lang="zh">二套宣传2</title>
     </programme>
     <programme start="20200831153300" stop="20200831163500" channel="cetv2">
         <title lang="zh">跟我学汉语-第134集</title>
@@ -2022,31 +2010,25 @@
         <title lang="zh">小小演说家-第001集</title>
     </programme>
     <programme start="20200831172000" stop="20200831174400" channel="cetv2">
-        <title lang="zh">法治天下（2017标清）-第195集</title>
+        <title lang="zh">法治天下(2017标清)-第195集</title>
     </programme>
-    <programme start="20200831174400" stop="20200831180800" channel="cetv2">
-        <title lang="zh">法治天下（2017标清）-第196集</title>
-    </programme>
-    <programme start="20200831180800" stop="20200831181300" channel="cetv2">
-        <title lang="zh">二套宣传5</title>
+    <programme start="20200831174400" stop="20200831181300" channel="cetv2">
+        <title lang="zh">法治天下(2017标清)-第196集</title>
     </programme>
     <programme start="20200831181300" stop="20200831182800" channel="cetv2">
         <title lang="zh">演说论语-第069集</title>
     </programme>
-    <programme start="20200831182800" stop="20200831184400" channel="cetv2">
+    <programme start="20200831182800" stop="20200831184900" channel="cetv2">
         <title lang="zh">演说论语-第070集</title>
-    </programme>
-    <programme start="20200831184400" stop="20200831184900" channel="cetv2">
-        <title lang="zh">二套宣传5</title>
     </programme>
     <programme start="20200831184900" stop="20200831191900" channel="cetv2">
         <title lang="zh">校影视界-第015集</title>
     </programme>
     <programme start="20200831191900" stop="20200831193900" channel="cetv2">
-        <title lang="zh">中国少年足球战队 第四季（标清）-第001集</title>
+        <title lang="zh">中国少年足球战队 第四季(标清)-第001集</title>
     </programme>
     <programme start="20200831193900" stop="20200831195900" channel="cetv2">
-        <title lang="zh">中国少年足球战队 第四季（标清）-第002集</title>
+        <title lang="zh">中国少年足球战队 第四季(标清)-第002集</title>
     </programme>
     <programme start="20200831195900" stop="20200831211400" channel="cetv2">
         <title lang="zh">小小演说家 第二季-第001集</title>
@@ -2058,13 +2040,13 @@
         <title lang="zh">艺术中国-第002集</title>
     </programme>
     <programme start="20200831221400" stop="20200831225900" channel="cetv2">
-        <title lang="zh">博物馆之夜（2017标清）-第003集</title>
+        <title lang="zh">博物馆之夜(2017标清)-第003集</title>
     </programme>
     <programme start="20200831225900" stop="20200831231400" channel="cetv2">
-        <title lang="zh">诗意中国（2017）-第005集</title>
+        <title lang="zh">诗意中国(2017)-第005集</title>
     </programme>
     <programme start="20200831231400" stop="20200831232900" channel="cetv2">
-        <title lang="zh">诗意中国（2017）-第006集</title>
+        <title lang="zh">诗意中国(2017)-第006集</title>
     </programme>
     <programme start="20200831232900" stop="20200831235900" channel="cetv2">
         <title lang="zh">百节名师风采课-第050集</title>
@@ -2135,101 +2117,89 @@
     <programme start="20200831235000" stop="20200831235900" channel="cetv3">
         <title lang="zh">长安书院</title>
     </programme>
-    <programme start="20200831080000" stop="20200831083000" channel="cetv4">
-        <title lang="zh">同上一堂课·直播课堂-小学一年级</title>
+    <programme start="20200831042800" stop="20200831045400" channel="cetv4">
+        <title lang="zh">长安书院(30)</title>
     </programme>
-    <programme start="20200831083000" stop="20200831084000" channel="cetv4">
-        <title lang="zh">防护小课堂</title>
+    <programme start="20200831045400" stop="20200831054000" channel="cetv4">
+        <title lang="zh">家长朋友圈(4)</title>
     </programme>
-    <programme start="20200831084000" stop="20200831091000" channel="cetv4">
-        <title lang="zh">同上一堂课·直播课堂-小学二年级</title>
+    <programme start="20200831054000" stop="20200831060500" channel="cetv4">
+        <title lang="zh">星星课本剧(2)</title>
     </programme>
-    <programme start="20200831091000" stop="20200831092000" channel="cetv4">
-        <title lang="zh">防护小课堂</title>
+    <programme start="20200831060500" stop="20200831062500" channel="cetv4">
+        <title lang="zh">中国少年足球战队5(6)</title>
     </programme>
-    <programme start="20200831092000" stop="20200831095000" channel="cetv4">
-        <title lang="zh">同上一堂课·直播课堂-小学三年级</title>
+    <programme start="20200831062500" stop="20200831062800" channel="cetv4">
+        <title lang="zh">天天足球(127)</title>
     </programme>
-    <programme start="20200831095000" stop="20200831100000" channel="cetv4">
-        <title lang="zh">防护小课堂</title>
+    <programme start="20200831062800" stop="20200831063600" channel="cetv4">
+        <title lang="zh">天天足球(128)</title>
     </programme>
-    <programme start="20200831100000" stop="20200831103000" channel="cetv4">
-        <title lang="zh">同上一堂课·直播课堂-小学四年级</title>
+    <programme start="20200831063600" stop="20200831070000" channel="cetv4">
+        <title lang="zh">皮皮鲁安全特工队(12)</title>
     </programme>
-    <programme start="20200831103000" stop="20200831104000" channel="cetv4">
-        <title lang="zh">防护小课堂</title>
+    <programme start="20200831070000" stop="20200831072800" channel="cetv4">
+        <title lang="zh">中华经典(33)</title>
     </programme>
-    <programme start="20200831104000" stop="20200831111000" channel="cetv4">
-        <title lang="zh">同上一堂课·直播课堂-小学五年级</title>
+    <programme start="20200831072800" stop="20200831080500" channel="cetv4">
+        <title lang="zh">中华经典(34)</title>
     </programme>
-    <programme start="20200831111000" stop="20200831112000" channel="cetv4">
-        <title lang="zh">防护小课堂</title>
+    <programme start="20200831080500" stop="20200831083000" channel="cetv4">
+        <title lang="zh">长安书院(31)</title>
     </programme>
-    <programme start="20200831112000" stop="20200831115000" channel="cetv4">
-        <title lang="zh">同上一堂课·直播课堂-小学六年级</title>
+    <programme start="20200831083000" stop="20200831092000" channel="cetv4">
+        <title lang="zh">博物馆之夜(13)</title>
     </programme>
-    <programme start="20200831115000" stop="20200831120000" channel="cetv4">
-        <title lang="zh">防护小课堂</title>
+    <programme start="20200831092000" stop="20200831100000" channel="cetv4">
+        <title lang="zh">发现中国(126)</title>
     </programme>
-    <programme start="20200831120000" stop="20200831130000" channel="cetv4">
-        <title lang="zh">动画片+儿童剧</title>
+    <programme start="20200831100000" stop="20200831110500" channel="cetv4">
+        <title lang="zh">同上一堂课:名师课堂-小学课程</title>
     </programme>
-    <programme start="20200831130000" stop="20200831132500" channel="cetv4">
-        <title lang="zh">同上一堂课·直播课堂-中华经典课</title>
+    <programme start="20200831110500" stop="20200831113200" channel="cetv4">
+        <title lang="zh">中国纪录片(206)</title>
     </programme>
-    <programme start="20200831132500" stop="20200831133200" channel="cetv4">
-        <title lang="zh">校园抗击疫情歌曲MV</title>
+    <programme start="20200831113200" stop="20200831130000" channel="cetv4">
+        <title lang="zh">中国纪录片(207)</title>
     </programme>
-    <programme start="20200831133200" stop="20200831140000" channel="cetv4">
-        <title lang="zh">中华经典课4</title>
+    <programme start="20200831130000" stop="20200831140000" channel="cetv4">
+        <title lang="zh">直通研招</title>
     </programme>
-    <programme start="20200831140000" stop="20200831145000" channel="cetv4">
-        <title lang="zh">同上一堂课·直播课堂-高考知识串讲</title>
+    <programme start="20200831140000" stop="20200831143800" channel="cetv4">
+        <title lang="zh">我是辅导员(22)</title>
     </programme>
-    <programme start="20200831145000" stop="20200831150000" channel="cetv4">
-        <title lang="zh">防护小课堂</title>
+    <programme start="20200831143800" stop="20200831144800" channel="cetv4">
+        <title lang="zh">学写字(139)</title>
     </programme>
-    <programme start="20200831150000" stop="20200831155000" channel="cetv4">
-        <title lang="zh">同上一堂课·直播课堂-高考知识串讲</title>
+    <programme start="20200831144800" stop="20200831150000" channel="cetv4">
+        <title lang="zh">学写字(140)</title>
     </programme>
-    <programme start="20200831155000" stop="20200831160000" channel="cetv4">
-        <title lang="zh">防护小课堂</title>
+    <programme start="20200831150000" stop="20200831152800" channel="cetv4">
+        <title lang="zh">中华经典(35)</title>
     </programme>
-    <programme start="20200831160000" stop="20200831165000" channel="cetv4">
-        <title lang="zh">同上一堂课·直播课堂-高考知识串讲</title>
+    <programme start="20200831152800" stop="20200831160500" channel="cetv4">
+        <title lang="zh">中华经典(36)</title>
     </programme>
-    <programme start="20200831165000" stop="20200831170000" channel="cetv4">
-        <title lang="zh">防护小课堂</title>
+    <programme start="20200831160500" stop="20200831165500" channel="cetv4">
+        <title lang="zh">少年工匠(29)</title>
     </programme>
-    <programme start="20200831170000" stop="20200831173000" channel="cetv4">
-        <title lang="zh">精品儿童剧剧场</title>
+    <programme start="20200831165500" stop="20200831171800" channel="cetv4">
+        <title lang="zh">道德三百问之老子2(13)</title>
     </programme>
-    <programme start="20200831173000" stop="20200831174000" channel="cetv4">
-        <title lang="zh">学写字</title>
+    <programme start="20200831171800" stop="20200831174200" channel="cetv4">
+        <title lang="zh">道德三百问之老子2(14)</title>
     </programme>
-    <programme start="20200831174000" stop="20200831180000" channel="cetv4">
-        <title lang="zh">联盟剧场特别节目</title>
+    <programme start="20200831174200" stop="20200831214200" channel="cetv4">
+        <title lang="zh">医说(13)</title>
     </programme>
-    <programme start="20200831180000" stop="20200831190000" channel="cetv4">
-        <title lang="zh">同上一堂课·直播课堂-艺术赏析课</title>
+    <programme start="20200831214200" stop="20200831230500" channel="cetv4">
+        <title lang="zh">医说(13)</title>
     </programme>
-    <programme start="20200831190000" stop="20200831195000" channel="cetv4">
-        <title lang="zh">同上一堂课·直播课堂-高考知识串讲</title>
+    <programme start="20200831230500" stop="20200831233500" channel="cetv4">
+        <title lang="zh">我是辅导员(22)</title>
     </programme>
-    <programme start="20200831195000" stop="20200831200000" channel="cetv4">
-        <title lang="zh">防护小课堂</title>
-    </programme>
-    <programme start="20200831200000" stop="20200831205000" channel="cetv4">
-        <title lang="zh">同上一堂课·直播课堂-高考知识串讲</title>
-    </programme>
-    <programme start="20200831205000" stop="20200831210000" channel="cetv4">
-        <title lang="zh">防护小课堂</title>
-    </programme>
-    <programme start="20200831210000" stop="20200831215000" channel="cetv4">
-        <title lang="zh">同上一堂课·直播课堂-高考知识串讲</title>
-    </programme>
-    <programme start="20200831215000" stop="20200831235900" channel="cetv4">
-        <title lang="zh">防护小课堂</title>
+    <programme start="20200831233500" stop="20200831235900" channel="cetv4">
+        <title lang="zh">师说:战疫见证中国(3)</title>
     </programme>
     <programme start="20200831041600" stop="20200831053700" channel="btv1">
         <title lang="zh">明星欢乐汇</title>
@@ -2420,17 +2390,26 @@
     <programme start="20200831235900" stop="20200831235900" channel="btvjishi">
         <title lang="zh">结束</title>
     </programme>
-    <programme start="20200831043300" stop="20200831054400" channel="dongfang">
-        <title lang="zh">梦想改造家3(3)</title>
+    <programme start="20200831040200" stop="20200831041100" channel="dongfang">
+        <title lang="zh">诗书画(563)</title>
     </programme>
-    <programme start="20200831054400" stop="20200831054700" channel="dongfang">
+    <programme start="20200831041100" stop="20200831051800" channel="dongfang">
+        <title lang="zh">梦想改造家3(2)</title>
+    </programme>
+    <programme start="20200831051800" stop="20200831052200" channel="dongfang">
         <title lang="zh">精彩看点</title>
     </programme>
-    <programme start="20200831054700" stop="20200831063300" channel="dongfang">
-        <title lang="zh">我们在行动5(5)</title>
+    <programme start="20200831052200" stop="20200831053700" channel="dongfang">
+        <title lang="zh">急诊室故事(20)</title>
     </programme>
-    <programme start="20200831063300" stop="20200831070000" channel="dongfang">
-        <title lang="zh">1/7</title>
+    <programme start="20200831053700" stop="20200831063000" channel="dongfang">
+        <title lang="zh">我们在行动4(8):青海互助(下)</title>
+    </programme>
+    <programme start="20200831063000" stop="20200831063400" channel="dongfang">
+        <title lang="zh">精彩片花</title>
+    </programme>
+    <programme start="20200831063400" stop="20200831070000" channel="dongfang">
+        <title lang="zh">1/7(435)</title>
     </programme>
     <programme start="20200831070000" stop="20200831070100" channel="dongfang">
         <title lang="zh">中华人民共和国国歌</title>
@@ -2441,14 +2420,17 @@
     <programme start="20200831085900" stop="20200831090100" channel="dongfang">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme start="20200831090100" stop="20200831091000" channel="dongfang">
-        <title lang="zh">潮童天下</title>
+    <programme start="20200831090100" stop="20200831091100" channel="dongfang">
+        <title lang="zh">潮童天下精编(487)</title>
     </programme>
-    <programme start="20200831091000" stop="20200831103100" channel="dongfang">
-        <title lang="zh">妈妈咪呀精编</title>
+    <programme start="20200831091100" stop="20200831101100" channel="dongfang">
+        <title lang="zh">妈妈咪呀3精编(7)</title>
     </programme>
-    <programme start="20200831103100" stop="20200831120000" channel="dongfang">
-        <title lang="zh">妈妈咪呀精编</title>
+    <programme start="20200831101100" stop="20200831111000" channel="dongfang">
+        <title lang="zh">妈妈咪呀7精编</title>
+    </programme>
+    <programme start="20200831111000" stop="20200831120000" channel="dongfang">
+        <title lang="zh">妈妈咪呀7精编</title>
     </programme>
     <programme start="20200831120000" stop="20200831122600" channel="dongfang">
         <title lang="zh">午间30分</title>
@@ -2457,28 +2439,28 @@
         <title lang="zh">天气预报</title>
     </programme>
     <programme start="20200831122900" stop="20200831131600" channel="dongfang">
-        <title lang="zh">电视剧：安家(36)</title>
+        <title lang="zh">电视剧：安家精编(6)</title>
     </programme>
     <programme start="20200831131600" stop="20200831140400" channel="dongfang">
-        <title lang="zh">电视剧：安家(37)</title>
+        <title lang="zh">电视剧：安家精编(7)</title>
     </programme>
     <programme start="20200831140400" stop="20200831145200" channel="dongfang">
-        <title lang="zh">电视剧：安家(38)</title>
+        <title lang="zh">电视剧：安家精编(8)</title>
     </programme>
     <programme start="20200831145200" stop="20200831153900" channel="dongfang">
-        <title lang="zh">电视剧：安家(39)</title>
+        <title lang="zh">电视剧：安家精编(9)</title>
     </programme>
     <programme start="20200831153900" stop="20200831162700" channel="dongfang">
-        <title lang="zh">电视剧：安家(40)</title>
+        <title lang="zh">电视剧：安家精编(10)</title>
     </programme>
     <programme start="20200831162700" stop="20200831171100" channel="dongfang">
-        <title lang="zh">电视剧：安家(41)</title>
+        <title lang="zh">电视剧：安家精编(11)</title>
     </programme>
     <programme start="20200831171100" stop="20200831172800" channel="dongfang">
         <title lang="zh">文娱新天地</title>
     </programme>
     <programme start="20200831172800" stop="20200831174900" channel="dongfang">
-        <title lang="zh">名医话养生</title>
+        <title lang="zh">名医话养生(180):吃瓜打老虎</title>
     </programme>
     <programme start="20200831174900" stop="20200831180000" channel="dongfang">
         <title lang="zh">诗书画(564)</title>
@@ -2492,16 +2474,16 @@
     <programme start="20200831190000" stop="20200831193100" channel="dongfang">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20200831193100" stop="20200831201700" channel="dongfang">
+    <programme start="20200831193100" stop="20200831201800" channel="dongfang">
         <title lang="zh">电视剧：生活像阳光一样灿烂(34)</title>
     </programme>
-    <programme start="20200831201700" stop="20200831205700" channel="dongfang">
+    <programme start="20200831201800" stop="20200831205800" channel="dongfang">
         <title lang="zh">电视剧：生活像阳光一样灿烂(35)</title>
     </programme>
-    <programme start="20200831205700" stop="20200831210400" channel="dongfang">
+    <programme start="20200831205800" stop="20200831210500" channel="dongfang">
         <title lang="zh">精彩看点</title>
     </programme>
-    <programme start="20200831210400" stop="20200831212000" channel="dongfang">
+    <programme start="20200831210500" stop="20200831212000" channel="dongfang">
         <title lang="zh">东方看大剧</title>
     </programme>
     <programme start="20200831212000" stop="20200831215900" channel="dongfang">
@@ -2514,13 +2496,13 @@
         <title lang="zh">这就是中国(71)</title>
     </programme>
     <programme start="20200831225100" stop="20200831234200" channel="dongfang">
-        <title lang="zh">亚太战争审判</title>
+        <title lang="zh">亚太战争审判:正义之路</title>
     </programme>
     <programme start="20200831234200" stop="20200831235200" channel="dongfang">
         <title lang="zh">诗书画(564)</title>
     </programme>
     <programme start="20200831235200" stop="20200831235900" channel="dongfang">
-        <title lang="zh">东方综艺大赏:歌曲,小品,相声</title>
+        <title lang="zh">东方综艺大赏(7)</title>
     </programme>
     <programme start="20200831043500" stop="20200831050400" channel="hunan">
         <title lang="zh">新闻大求真</title>
@@ -3285,10 +3267,10 @@
         <title lang="zh">电视剧</title>
     </programme>
     <programme start="20200831134300" stop="20200831143500" channel="travel">
-        <title lang="zh">电视剧:穆桂英挂帅(37)</title>
+        <title lang="zh">电视剧</title>
     </programme>
     <programme start="20200831143500" stop="20200831152500" channel="travel">
-        <title lang="zh">电视剧:穆桂英挂帅(38)</title>
+        <title lang="zh">电视剧</title>
     </programme>
     <programme start="20200831152500" stop="20200831161700" channel="travel">
         <title lang="zh">电视剧</title>
@@ -3318,10 +3300,10 @@
         <title lang="zh">直通自贸港</title>
     </programme>
     <programme start="20200831203400" stop="20200831211900" channel="travel">
-        <title lang="zh">电视剧:解密(35)</title>
+        <title lang="zh">电视剧:小别离(29)</title>
     </programme>
     <programme start="20200831211900" stop="20200831223200" channel="travel">
-        <title lang="zh">电视剧:解密(36)</title>
+        <title lang="zh">电视剧:小别离(30)</title>
     </programme>
     <programme start="20200831223200" stop="20200831230800" channel="travel">
         <title lang="zh">潮起海之南</title>
@@ -4919,29 +4901,17 @@
     <programme start="20200831083000" stop="20200831090300" channel="xizang">
         <title lang="zh">西藏新闻联播</title>
     </programme>
-    <programme start="20200831090300" stop="20200831094800" channel="xizang">
+    <programme start="20200831090300" stop="20200831100100" channel="xizang">
         <title lang="zh">电视剧：水浒传(29)</title>
     </programme>
-    <programme start="20200831094800" stop="20200831100100" channel="xizang">
-        <title lang="zh">创收栏目</title>
-    </programme>
-    <programme start="20200831100100" stop="20200831104600" channel="xizang">
+    <programme start="20200831100100" stop="20200831110000" channel="xizang">
         <title lang="zh">电视剧：水浒传(30)</title>
     </programme>
-    <programme start="20200831104600" stop="20200831110000" channel="xizang">
-        <title lang="zh">创收栏目</title>
-    </programme>
-    <programme start="20200831110000" stop="20200831114500" channel="xizang">
+    <programme start="20200831110000" stop="20200831115900" channel="xizang">
         <title lang="zh">电视剧：水浒传(31)</title>
     </programme>
-    <programme start="20200831114500" stop="20200831115900" channel="xizang">
-        <title lang="zh">创收栏目</title>
-    </programme>
-    <programme start="20200831115900" stop="20200831124400" channel="xizang">
+    <programme start="20200831115900" stop="20200831130000" channel="xizang">
         <title lang="zh">电视剧：水浒传(32)</title>
-    </programme>
-    <programme start="20200831124400" stop="20200831130000" channel="xizang">
-        <title lang="zh">创收栏目</title>
     </programme>
     <programme start="20200831130000" stop="20200831131600" channel="xizang">
         <title lang="zh">午间新闻</title>
@@ -4949,35 +4919,20 @@
     <programme start="20200831131600" stop="20200831140200" channel="xizang">
         <title lang="zh">远方的家</title>
     </programme>
-    <programme start="20200831140200" stop="20200831144700" channel="xizang">
+    <programme start="20200831140200" stop="20200831150000" channel="xizang">
         <title lang="zh">电视剧：西游记2(9)</title>
     </programme>
-    <programme start="20200831144700" stop="20200831150000" channel="xizang">
-        <title lang="zh">创收栏目</title>
-    </programme>
-    <programme start="20200831150000" stop="20200831151700" channel="xizang">
+    <programme start="20200831150000" stop="20200831152900" channel="xizang">
         <title lang="zh">午间新闻</title>
     </programme>
-    <programme start="20200831151700" stop="20200831152900" channel="xizang">
-        <title lang="zh">创收栏目</title>
-    </programme>
-    <programme start="20200831152900" stop="20200831161400" channel="xizang">
+    <programme start="20200831152900" stop="20200831162700" channel="xizang">
         <title lang="zh">电视剧：西游记2(10)</title>
     </programme>
-    <programme start="20200831161400" stop="20200831162700" channel="xizang">
-        <title lang="zh">创收栏目</title>
-    </programme>
-    <programme start="20200831162700" stop="20200831171200" channel="xizang">
+    <programme start="20200831162700" stop="20200831172600" channel="xizang">
         <title lang="zh">电视剧：西游记2(11)</title>
     </programme>
-    <programme start="20200831171200" stop="20200831172600" channel="xizang">
-        <title lang="zh">创收栏目</title>
-    </programme>
-    <programme start="20200831172600" stop="20200831181100" channel="xizang">
+    <programme start="20200831172600" stop="20200831182600" channel="xizang">
         <title lang="zh">电视剧：西游记2(12)</title>
-    </programme>
-    <programme start="20200831181100" stop="20200831182600" channel="xizang">
-        <title lang="zh">创收栏目</title>
     </programme>
     <programme start="20200831182600" stop="20200831190000" channel="xizang">
         <title lang="zh">邦锦梅朵:动画乐园</title>
@@ -4992,10 +4947,10 @@
         <title lang="zh">天气预报</title>
     </programme>
     <programme start="20200831201100" stop="20200831205900" channel="xizang">
-        <title lang="zh">电视剧：延安颂(40)</title>
+        <title lang="zh">电视剧：延安颂(38)</title>
     </programme>
     <programme start="20200831205900" stop="20200831215000" channel="xizang">
-        <title lang="zh">电视剧：吕梁英雄传(1)</title>
+        <title lang="zh">电视剧：延安颂(39)</title>
     </programme>
     <programme start="20200831215000" stop="20200831222000" channel="xizang">
         <title lang="zh">西藏诱惑(174)</title>
@@ -5007,7 +4962,7 @@
         <title lang="zh">西藏新闻联播</title>
     </programme>
     <programme start="20200831230400" stop="20200831234900" channel="xizang">
-        <title lang="zh">勇敢的心(47)</title>
+        <title lang="zh">电视剧：勇敢的心(47)</title>
     </programme>
     <programme start="20200831234900" stop="20200831235900" channel="xizang">
         <title lang="zh">创收栏目</title>
@@ -5309,8 +5264,23 @@
     <programme start="20200831214900" stop="20200831220900" channel="btvchild">
         <title lang="zh">百变马丁6</title>
     </programme>
-    <programme start="20200831220900" stop="20200831235900" channel="btvchild">
+    <programme start="20200831220900" stop="20200831223000" channel="btvchild">
         <title lang="zh">百变马丁6</title>
+    </programme>
+    <programme start="20200831223000" stop="20200831225000" channel="btvchild">
+        <title lang="zh">熊出没之探险日记2</title>
+    </programme>
+    <programme start="20200831225000" stop="20200831231100" channel="btvchild">
+        <title lang="zh">熊出没之探险日记2</title>
+    </programme>
+    <programme start="20200831231100" stop="20200831233100" channel="btvchild">
+        <title lang="zh">熊出没之探险日记2</title>
+    </programme>
+    <programme start="20200831233100" stop="20200831235200" channel="btvchild">
+        <title lang="zh">熊出没之探险日记2</title>
+    </programme>
+    <programme start="20200831235200" stop="20200831235900" channel="btvchild">
+        <title lang="zh">熊熊乐园2</title>
     </programme>
     <programme start="20200831000900" stop="20200831001500" channel="gaoerfu">
         <title lang="zh">热身之道-贾斯汀·托马斯</title>
