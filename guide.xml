@@ -320,29 +320,26 @@
     <programme start="20200902190000" stop="20200902194000" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20200902194000" stop="20200902200100" channel="cctv1">
+    <programme start="20200902194000" stop="20200902200600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20200902200100" stop="20200902200600" channel="cctv1">
+    <programme start="20200902200600" stop="20200902210100" channel="cctv1">
+        <title lang="zh">同心战疫-1</title>
+    </programme>
+    <programme start="20200902210100" stop="20200902210600" channel="cctv1">
         <title lang="zh">前情提要- 《太行之脊》第7集</title>
     </programme>
-    <programme start="20200902200600" stop="20200902205600" channel="cctv1">
+    <programme start="20200902210600" stop="20200902220000" channel="cctv1">
         <title lang="zh">太行之脊第7集</title>
-    </programme>
-    <programme start="20200902205600" stop="20200902210100" channel="cctv1">
-        <title lang="zh">前情提要- 《太行之脊》第8集</title>
-    </programme>
-    <programme start="20200902210100" stop="20200902215300" channel="cctv1">
-        <title lang="zh">太行之脊第8集</title>
-    </programme>
-    <programme start="20200902215300" stop="20200902220000" channel="cctv1">
-        <title lang="zh">2020秘境之眼-65</title>
     </programme>
     <programme start="20200902220000" stop="20200902223700" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20200902223700" stop="20200902235900" channel="cctv1">
-        <title lang="zh">勇攀巅峰之挑战不可能第五季-重播6</title>
+    <programme start="20200902223700" stop="20200902234800" channel="cctv1">
+        <title lang="zh">海报里的英雄-3</title>
+    </programme>
+    <programme start="20200902234800" stop="20200902235900" channel="cctv1">
+        <title lang="zh">经典咏流传第三季-4重播</title>
     </programme>
     <programme start="20200902000300" stop="20200902004600" channel="cctv2">
         <title lang="zh">中国经济大讲堂-2020-33</title>
@@ -1145,11 +1142,11 @@
     <programme start="20200902200100" stop="20200902210000" channel="cctvjilu">
         <title lang="zh">特别呈现2020-246</title>
     </programme>
-    <programme start="20200902210000" stop="20200902220000" channel="cctvjilu">
+    <programme start="20200902210000" stop="20200902220200" channel="cctvjilu">
         <title lang="zh">寰宇视野2020-244</title>
     </programme>
-    <programme start="20200902220000" stop="20200902230500" channel="cctvjilu">
-        <title lang="zh">故事中国2020-236</title>
+    <programme start="20200902220200" stop="20200902230500" channel="cctvjilu">
+        <title lang="zh">同心战疫-1</title>
     </programme>
     <programme start="20200902230500" stop="20200902233900" channel="cctvjilu">
         <title lang="zh">活力·源2020-246</title>
@@ -1445,10 +1442,10 @@
     <programme start="20200902000000" stop="20200902010000" channel="cctv13">
         <title lang="zh">午夜新闻</title>
     </programme>
-    <programme start="20200902010000" stop="20200902012000" channel="cctv13">
+    <programme start="20200902010000" stop="20200902012500" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20200902012000" stop="20200902013600" channel="cctv13">
+    <programme start="20200902012500" stop="20200902013600" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20200902013600" stop="20200902020000" channel="cctv13">
@@ -1460,10 +1457,10 @@
     <programme start="20200902023300" stop="20200902030000" channel="cctv13">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme start="20200902030000" stop="20200902034400" channel="cctv13">
+    <programme start="20200902030000" stop="20200902034900" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20200902034400" stop="20200902040000" channel="cctv13">
+    <programme start="20200902034900" stop="20200902040000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20200902040000" stop="20200902043300" channel="cctv13">
@@ -1472,10 +1469,10 @@
     <programme start="20200902043300" stop="20200902050000" channel="cctv13">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme start="20200902050000" stop="20200902051700" channel="cctv13">
+    <programme start="20200902050000" stop="20200902052200" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20200902051700" stop="20200902053300" channel="cctv13">
+    <programme start="20200902052200" stop="20200902053300" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20200902053300" stop="20200902060000" channel="cctv13">
