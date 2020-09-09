@@ -1418,14 +1418,8 @@
     <programme start="20200909000000" stop="20200909010000" channel="cctv13">
         <title lang="zh">午夜新闻</title>
     </programme>
-    <programme start="20200909010000" stop="20200909012000" channel="cctv13">
+    <programme start="20200909010000" stop="20200909020000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme start="20200909012000" stop="20200909013600" channel="cctv13">
-        <title lang="zh">焦点访谈</title>
-    </programme>
-    <programme start="20200909013600" stop="20200909020000" channel="cctv13">
-        <title lang="zh">法治在线</title>
     </programme>
     <programme start="20200909020000" stop="20200909023300" channel="cctv13">
         <title lang="zh">新闻直播间</title>
@@ -1433,11 +1427,8 @@
     <programme start="20200909023300" stop="20200909030000" channel="cctv13">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme start="20200909030000" stop="20200909034400" channel="cctv13">
+    <programme start="20200909030000" stop="20200909040000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme start="20200909034400" stop="20200909040000" channel="cctv13">
-        <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20200909040000" stop="20200909043300" channel="cctv13">
         <title lang="zh">新闻直播间</title>
@@ -1445,14 +1436,11 @@
     <programme start="20200909043300" stop="20200909050000" channel="cctv13">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme start="20200909050000" stop="20200909051700" channel="cctv13">
+    <programme start="20200909050000" stop="20200909053100" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20200909051700" stop="20200909053300" channel="cctv13">
-        <title lang="zh">焦点访谈</title>
-    </programme>
-    <programme start="20200909053300" stop="20200909060000" channel="cctv13">
-        <title lang="zh">法治在线</title>
+    <programme start="20200909053100" stop="20200909060000" channel="cctv13">
+        <title lang="zh">新闻1+1</title>
     </programme>
     <programme start="20200909060000" stop="20200909090000" channel="cctv13">
         <title lang="zh">朝闻天下</title>
@@ -2420,32 +2408,32 @@
     <programme start="20200909235900" stop="20200909235900" channel="btvjishi">
         <title lang="zh">结束</title>
     </programme>
-    <programme start="20200909011700" stop="20200909025000" channel="dongfang">
+    <programme start="20200909000800" stop="20200909012700" channel="dongfang">
+        <title lang="zh">东方综艺大赏(14)</title>
+    </programme>
+    <programme start="20200909012700" stop="20200909025900" channel="dongfang">
         <title lang="zh">东方综艺大赏(13)</title>
     </programme>
-    <programme start="20200909025000" stop="20200909034700" channel="dongfang">
-        <title lang="zh">梦想改造家6(6):生机勃勃的家</title>
-    </programme>
-    <programme start="20200909034700" stop="20200909035000" channel="dongfang">
+    <programme start="20200909025900" stop="20200909030300" channel="dongfang">
         <title lang="zh">明日精彩看点</title>
     </programme>
-    <programme start="20200909035000" stop="20200909035200" channel="dongfang">
+    <programme start="20200909030300" stop="20200909041300" channel="dongfang">
+        <title lang="zh">梦想改造家3(12)</title>
+    </programme>
+    <programme start="20200909041300" stop="20200909041600" channel="dongfang">
         <title lang="zh">MV</title>
     </programme>
-    <programme start="20200909035200" stop="20200909035500" channel="dongfang">
-        <title lang="zh">明日精彩看点</title>
-    </programme>
-    <programme start="20200909035500" stop="20200909045500" channel="dongfang">
-        <title lang="zh">梦想改造家6(5):重新出发的家</title>
-    </programme>
-    <programme start="20200909045500" stop="20200909055300" channel="dongfang">
+    <programme start="20200909041600" stop="20200909051300" channel="dongfang">
         <title lang="zh">梦想改造家6(4):忘不了的家</title>
     </programme>
-    <programme start="20200909055300" stop="20200909055700" channel="dongfang">
+    <programme start="20200909051300" stop="20200909061100" channel="dongfang">
+        <title lang="zh">梦想改造家6(1):普普通通的家</title>
+    </programme>
+    <programme start="20200909061100" stop="20200909061400" channel="dongfang">
         <title lang="zh">明日精彩看点</title>
     </programme>
-    <programme start="20200909055700" stop="20200909070000" channel="dongfang">
-        <title lang="zh">我们在行动2精编(1)</title>
+    <programme start="20200909061400" stop="20200909070000" channel="dongfang">
+        <title lang="zh">又见炊烟</title>
     </programme>
     <programme start="20200909070000" stop="20200909070100" channel="dongfang">
         <title lang="zh">中华人民共和国国歌</title>
@@ -2456,46 +2444,49 @@
     <programme start="20200909085900" stop="20200909090200" channel="dongfang">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme start="20200909090200" stop="20200909090300" channel="dongfang">
+    <programme start="20200909090200" stop="20200909090500" channel="dongfang">
         <title lang="zh">MV</title>
     </programme>
-    <programme start="20200909090300" stop="20200909091400" channel="dongfang">
+    <programme start="20200909090500" stop="20200909091400" channel="dongfang">
         <title lang="zh">潮童天下精编(484)</title>
     </programme>
-    <programme start="20200909091400" stop="20200909103900" channel="dongfang">
-        <title lang="zh">妈妈咪呀精编</title>
+    <programme start="20200909091400" stop="20200909104600" channel="dongfang">
+        <title lang="zh">妈妈咪呀7合集精编</title>
     </programme>
-    <programme start="20200909103900" stop="20200909120000" channel="dongfang">
-        <title lang="zh">妈妈咪呀精编</title>
+    <programme start="20200909104600" stop="20200909120000" channel="dongfang">
+        <title lang="zh">妈妈咪呀3精编(4)</title>
     </programme>
     <programme start="20200909120000" stop="20200909122600" channel="dongfang">
         <title lang="zh">午间30分</title>
     </programme>
-    <programme start="20200909122600" stop="20200909123200" channel="dongfang">
+    <programme start="20200909122600" stop="20200909122900" channel="dongfang">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme start="20200909123200" stop="20200909132000" channel="dongfang">
-        <title lang="zh">电视剧:平凡的荣耀(5)</title>
+    <programme start="20200909122900" stop="20200909131400" channel="dongfang">
+        <title lang="zh">电视剧：平凡的荣耀(5)</title>
     </programme>
-    <programme start="20200909132000" stop="20200909140800" channel="dongfang">
-        <title lang="zh">电视剧:平凡的荣耀(6)</title>
+    <programme start="20200909131400" stop="20200909135900" channel="dongfang">
+        <title lang="zh">电视剧：平凡的荣耀(6)</title>
     </programme>
-    <programme start="20200909140800" stop="20200909145700" channel="dongfang">
-        <title lang="zh">电视剧:平凡的荣耀(7)</title>
+    <programme start="20200909135900" stop="20200909144100" channel="dongfang">
+        <title lang="zh">电视剧：平凡的荣耀(7)</title>
     </programme>
-    <programme start="20200909145700" stop="20200909154500" channel="dongfang">
-        <title lang="zh">电视剧:平凡的荣耀(8)</title>
+    <programme start="20200909144100" stop="20200909152300" channel="dongfang">
+        <title lang="zh">电视剧：平凡的荣耀(8)</title>
     </programme>
-    <programme start="20200909154500" stop="20200909170200" channel="dongfang">
+    <programme start="20200909152300" stop="20200909153000" channel="dongfang">
+        <title lang="zh">明日精彩看点</title>
+    </programme>
+    <programme start="20200909153000" stop="20200909170800" channel="dongfang">
         <title lang="zh">中国新相亲2精编(3)</title>
     </programme>
-    <programme start="20200909170200" stop="20200909172300" channel="dongfang">
+    <programme start="20200909170800" stop="20200909172800" channel="dongfang">
         <title lang="zh">文娱新天地</title>
     </programme>
-    <programme start="20200909172300" stop="20200909174700" channel="dongfang">
-        <title lang="zh">名医话养生</title>
+    <programme start="20200909172800" stop="20200909174900" channel="dongfang">
+        <title lang="zh">名医话养生:秋季养生一碗汤(上)</title>
     </programme>
-    <programme start="20200909174700" stop="20200909180000" channel="dongfang">
+    <programme start="20200909174900" stop="20200909180000" channel="dongfang">
         <title lang="zh">诗书画(252)</title>
     </programme>
     <programme start="20200909180000" stop="20200909185700" channel="dongfang">
@@ -2504,16 +2495,16 @@
     <programme start="20200909185700" stop="20200909190000" channel="dongfang">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme start="20200909190000" stop="20200909193400" channel="dongfang">
+    <programme start="20200909190000" stop="20200909193100" channel="dongfang">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20200909193400" stop="20200909202200" channel="dongfang">
-        <title lang="zh">电视剧:平凡的荣耀(9)</title>
+    <programme start="20200909193100" stop="20200909201900" channel="dongfang">
+        <title lang="zh">电视剧：平凡的荣耀(9)</title>
     </programme>
-    <programme start="20200909202200" stop="20200909205700" channel="dongfang">
-        <title lang="zh">电视剧:平凡的荣耀(10)</title>
+    <programme start="20200909201900" stop="20200909210100" channel="dongfang">
+        <title lang="zh">电视剧：平凡的荣耀(10)</title>
     </programme>
-    <programme start="20200909205700" stop="20200909210800" channel="dongfang">
+    <programme start="20200909210100" stop="20200909210800" channel="dongfang">
         <title lang="zh">明日精彩看点</title>
     </programme>
     <programme start="20200909210800" stop="20200909212000" channel="dongfang">
@@ -2522,14 +2513,20 @@
     <programme start="20200909212000" stop="20200909215900" channel="dongfang">
         <title lang="zh">今晚</title>
     </programme>
-    <programme start="20200909215900" stop="20200909220200" channel="dongfang">
+    <programme start="20200909215900" stop="20200909220000" channel="dongfang">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme start="20200909220200" stop="20200909230100" channel="dongfang">
+    <programme start="20200909220000" stop="20200909225500" channel="dongfang">
         <title lang="zh">一席之地2(5)</title>
     </programme>
-    <programme start="20200909230100" stop="20200909235900" channel="dongfang">
+    <programme start="20200909225500" stop="20200909234700" channel="dongfang">
         <title lang="zh">亚太战争审判:人性召唤</title>
+    </programme>
+    <programme start="20200909234700" stop="20200909235800" channel="dongfang">
+        <title lang="zh">诗书画(252)</title>
+    </programme>
+    <programme start="20200909235800" stop="20200909235900" channel="dongfang">
+        <title lang="zh">东方综艺大赏(12)</title>
     </programme>
     <programme start="20200909001800" stop="20200909010300" channel="hunan">
         <title lang="zh">我是大美人</title>
@@ -3453,46 +3450,46 @@
         <title lang="zh">天气行程单</title>
     </programme>
     <programme start="20200909073000" stop="20200909080000" channel="travel">
-        <title lang="zh">动画片电视剧</title>
+        <title lang="zh">动画片剧场</title>
     </programme>
     <programme start="20200909080000" stop="20200909083400" channel="travel">
         <title lang="zh">等着我</title>
     </programme>
-    <programme start="20200909083400" stop="20200909091600" channel="travel">
+    <programme start="20200909083400" stop="20200909091700" channel="travel">
         <title lang="zh">等着我</title>
     </programme>
-    <programme start="20200909091600" stop="20200909095600" channel="travel">
-        <title lang="zh">电视剧:穆桂英挂帅(17)</title>
+    <programme start="20200909091700" stop="20200909095700" channel="travel">
+        <title lang="zh">电视剧：穆桂英挂帅(17)</title>
     </programme>
-    <programme start="20200909095600" stop="20200909103800" channel="travel">
-        <title lang="zh">电视剧:穆桂英挂帅(18)</title>
+    <programme start="20200909095700" stop="20200909103800" channel="travel">
+        <title lang="zh">电视剧：穆桂英挂帅(18)</title>
     </programme>
     <programme start="20200909103800" stop="20200909111800" channel="travel">
-        <title lang="zh">电视剧:穆桂英挂帅(19)</title>
+        <title lang="zh">电视剧：穆桂英挂帅(19)</title>
     </programme>
-    <programme start="20200909111800" stop="20200909120000" channel="travel">
-        <title lang="zh">电视剧:穆桂英挂帅(20)</title>
+    <programme start="20200909111800" stop="20200909115900" channel="travel">
+        <title lang="zh">电视剧：穆桂英挂帅(20)</title>
     </programme>
-    <programme start="20200909120000" stop="20200909125100" channel="travel">
-        <title lang="zh">电视剧:穆桂英挂帅(21)</title>
+    <programme start="20200909115900" stop="20200909124900" channel="travel">
+        <title lang="zh">电视剧：穆桂英挂帅(21)</title>
     </programme>
-    <programme start="20200909125100" stop="20200909134300" channel="travel">
-        <title lang="zh">电视剧:穆桂英挂帅(22)</title>
+    <programme start="20200909124900" stop="20200909134000" channel="travel">
+        <title lang="zh">电视剧：穆桂英挂帅(22)</title>
     </programme>
-    <programme start="20200909134300" stop="20200909143500" channel="travel">
-        <title lang="zh">电视剧:黑狐之风影(23)</title>
+    <programme start="20200909134000" stop="20200909143100" channel="travel">
+        <title lang="zh">电视剧：黑狐之风影(29)</title>
     </programme>
-    <programme start="20200909143500" stop="20200909152500" channel="travel">
-        <title lang="zh">电视剧:黑狐之风影(24)</title>
+    <programme start="20200909143100" stop="20200909152200" channel="travel">
+        <title lang="zh">电视剧：黑狐之风影(30)</title>
     </programme>
-    <programme start="20200909152500" stop="20200909161700" channel="travel">
-        <title lang="zh">电视剧:黑狐之风影(27)</title>
+    <programme start="20200909152200" stop="20200909161200" channel="travel">
+        <title lang="zh">电视剧：黑狐之风影(31)</title>
     </programme>
-    <programme start="20200909161700" stop="20200909170900" channel="travel">
-        <title lang="zh">电视剧:黑狐之风影(28)</title>
+    <programme start="20200909161200" stop="20200909170400" channel="travel">
+        <title lang="zh">电视剧：黑狐之风影(32)</title>
     </programme>
-    <programme start="20200909170900" stop="20200909175500" channel="travel">
-        <title lang="zh">电视剧:黑狐之风影(29)</title>
+    <programme start="20200909170400" stop="20200909175500" channel="travel">
+        <title lang="zh">电视剧：黑狐之风影(33)</title>
     </programme>
     <programme start="20200909175500" stop="20200909183000" channel="travel">
         <title lang="zh">智医先行</title>
@@ -3513,10 +3510,10 @@
         <title lang="zh">直通自贸港</title>
     </programme>
     <programme start="20200909203400" stop="20200909211900" channel="travel">
-        <title lang="zh">晚间电视剧</title>
+        <title lang="zh">电视剧</title>
     </programme>
     <programme start="20200909211900" stop="20200909222700" channel="travel">
-        <title lang="zh">晚间电视剧</title>
+        <title lang="zh">电视剧</title>
     </programme>
     <programme start="20200909222700" stop="20200909230800" channel="travel">
         <title lang="zh">等着我</title>
@@ -5372,14 +5369,11 @@
     <programme start="20200909010500" stop="20200909020000" channel="xizang">
         <title lang="zh">电视剧：贞观长歌(50)</title>
     </programme>
-    <programme start="20200909020000" stop="20200909050000" channel="xizang">
-        <title lang="zh">检修1</title>
-    </programme>
-    <programme start="20200909050000" stop="20200909053700" channel="xizang">
-        <title lang="zh">检修2</title>
+    <programme start="20200909020000" stop="20200909053700" channel="xizang">
+        <title lang="zh">检修</title>
     </programme>
     <programme start="20200909053700" stop="20200909062200" channel="xizang">
-        <title lang="zh">康熙王朝(6)</title>
+        <title lang="zh">电视剧：康熙王朝(6)</title>
     </programme>
     <programme start="20200909062200" stop="20200909064100" channel="xizang">
         <title lang="zh">创收栏目</title>
@@ -5391,7 +5385,7 @@
         <title lang="zh">中华人民共和国国歌</title>
     </programme>
     <programme start="20200909070600" stop="20200909075100" channel="xizang">
-        <title lang="zh">康熙王朝(7)</title>
+        <title lang="zh">电视剧：康熙王朝(7)</title>
     </programme>
     <programme start="20200909075100" stop="20200909081500" channel="xizang">
         <title lang="zh">创收栏目</title>
@@ -5399,32 +5393,20 @@
     <programme start="20200909081500" stop="20200909083000" channel="xizang">
         <title lang="zh">跟我学藏语(288)</title>
     </programme>
-    <programme start="20200909083000" stop="20200909090300" channel="xizang">
+    <programme start="20200909083000" stop="20200909090400" channel="xizang">
         <title lang="zh">西藏新闻联播</title>
     </programme>
-    <programme start="20200909090300" stop="20200909094800" channel="xizang">
+    <programme start="20200909090400" stop="20200909100100" channel="xizang">
         <title lang="zh">电视剧：神医喜来乐(22)</title>
     </programme>
-    <programme start="20200909094800" stop="20200909100100" channel="xizang">
-        <title lang="zh">创收栏目</title>
-    </programme>
-    <programme start="20200909100100" stop="20200909104600" channel="xizang">
+    <programme start="20200909100100" stop="20200909110000" channel="xizang">
         <title lang="zh">电视剧：神医喜来乐(23)</title>
     </programme>
-    <programme start="20200909104600" stop="20200909110000" channel="xizang">
-        <title lang="zh">创收栏目</title>
-    </programme>
-    <programme start="20200909110000" stop="20200909114500" channel="xizang">
+    <programme start="20200909110000" stop="20200909115800" channel="xizang">
         <title lang="zh">电视剧：神医喜来乐(24)</title>
     </programme>
-    <programme start="20200909114500" stop="20200909115800" channel="xizang">
-        <title lang="zh">创收栏目</title>
-    </programme>
-    <programme start="20200909115800" stop="20200909124300" channel="xizang">
+    <programme start="20200909115800" stop="20200909130000" channel="xizang">
         <title lang="zh">电视剧：神医喜来乐(25)</title>
-    </programme>
-    <programme start="20200909124300" stop="20200909130000" channel="xizang">
-        <title lang="zh">创收栏目</title>
     </programme>
     <programme start="20200909130000" stop="20200909131600" channel="xizang">
         <title lang="zh">午间新闻</title>
@@ -5432,35 +5414,20 @@
     <programme start="20200909131600" stop="20200909140200" channel="xizang">
         <title lang="zh">远方的家</title>
     </programme>
-    <programme start="20200909140200" stop="20200909144700" channel="xizang">
+    <programme start="20200909140200" stop="20200909150000" channel="xizang">
         <title lang="zh">电视剧：亮剑(29)</title>
     </programme>
-    <programme start="20200909144700" stop="20200909150000" channel="xizang">
-        <title lang="zh">创收栏目</title>
-    </programme>
-    <programme start="20200909150000" stop="20200909151700" channel="xizang">
+    <programme start="20200909150000" stop="20200909152900" channel="xizang">
         <title lang="zh">午间新闻</title>
     </programme>
-    <programme start="20200909151700" stop="20200909152900" channel="xizang">
-        <title lang="zh">创收栏目</title>
-    </programme>
-    <programme start="20200909152900" stop="20200909161400" channel="xizang">
+    <programme start="20200909152900" stop="20200909162800" channel="xizang">
         <title lang="zh">电视剧：亮剑(30)</title>
     </programme>
-    <programme start="20200909161400" stop="20200909162800" channel="xizang">
-        <title lang="zh">创收栏目</title>
+    <programme start="20200909162800" stop="20200909172600" channel="xizang">
+        <title lang="zh">电视剧：水浒传(1)</title>
     </programme>
-    <programme start="20200909162800" stop="20200909171300" channel="xizang">
-        <title lang="zh">水浒传(1)</title>
-    </programme>
-    <programme start="20200909171300" stop="20200909172600" channel="xizang">
-        <title lang="zh">创收栏目</title>
-    </programme>
-    <programme start="20200909172600" stop="20200909181100" channel="xizang">
-        <title lang="zh">水浒传(2)</title>
-    </programme>
-    <programme start="20200909181100" stop="20200909182600" channel="xizang">
-        <title lang="zh">创收栏目</title>
+    <programme start="20200909172600" stop="20200909182600" channel="xizang">
+        <title lang="zh">电视剧：水浒传(2)</title>
     </programme>
     <programme start="20200909182600" stop="20200909190000" channel="xizang">
         <title lang="zh">邦锦梅朵:动画乐园</title>
@@ -5475,10 +5442,10 @@
         <title lang="zh">天气预报</title>
     </programme>
     <programme start="20200909201200" stop="20200909210100" channel="xizang">
-        <title lang="zh">电视剧：吕梁英雄传(16)</title>
+        <title lang="zh">电视剧：吕梁英雄传(14)</title>
     </programme>
     <programme start="20200909210100" stop="20200909215100" channel="xizang">
-        <title lang="zh">电视剧：吕梁英雄传(17)</title>
+        <title lang="zh">电视剧：吕梁英雄传(15)</title>
     </programme>
     <programme start="20200909215100" stop="20200909222200" channel="xizang">
         <title lang="zh">西藏诱惑(181)</title>
