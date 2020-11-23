@@ -475,7 +475,7 @@
         <title lang="cn">实况录像-2020年亚洲冠军联赛小组赛 韩国首尔-中国北京国安</title>
     </programme>
     <programme start="20201123153500" stop="20201123163000" channel="cctv5">
-        <title lang="cn">实况录像-2020年三对三篮球世界巡回赛 多哈站精选</title>
+        <title lang="cn">录像-2020年世界职业拳王争霸赛精选11</title>
     </programme>
     <programme start="20201123163000" stop="20201123180000" channel="cctv5">
         <title lang="cn">实况录像-2020年ATP男子网球年终总决赛 单打决赛</title>
@@ -529,7 +529,7 @@
         <title lang="cn">2020年中国网球巡回赛总决赛-单打1/8决赛1</title>
     </programme>
     <programme start="20201123152500" stop="20201123162000" channel="cctv5plus">
-        <title lang="cn">实况录像-2020年世界职业拳王争霸赛 精选12</title>
+        <title lang="cn">欧洲国家联赛集锦6(录像)</title>
     </programme>
     <programme start="20201123162000" stop="20201123174500" channel="cctv5plus">
         <title lang="cn">国际足球赛场-20-21赛季法甲联赛第11轮 摩纳哥—巴黎圣日耳曼</title>
@@ -547,7 +547,7 @@
         <title lang="cn">实况录像-2020年ATP男子网球年终总决赛 单打决赛</title>
     </programme>
     <programme start="20201123224000" stop="20201123233500" channel="cctv5plus">
-        <title lang="cn">实况录像-2020年三对三篮球世界巡回赛 多哈站精选</title>
+        <title lang="cn">录像-2020年飞镖世界杯精选4</title>
     </programme>
     <programme start="20201123233500" stop="20201123235900" channel="cctv5plus">
         <title lang="cn">实况录像-2020年飞镖世界杯 精选4</title>
@@ -2154,23 +2154,23 @@
     <channel id="dongfang">
         <display-name lang="cn">东方卫视</display-name>
     </channel>
-    <programme start="20201123040000" stop="20201123043200" channel="dongfang">
-        <title lang="cn">梦想改造家2(2)</title>
-    </programme>
-    <programme start="20201123043200" stop="20201123044700" channel="dongfang">
-        <title lang="cn">急诊室故事2精编版</title>
-    </programme>
-    <programme start="20201123044700" stop="20201123054800" channel="dongfang">
-        <title lang="cn">急诊室故事2精编</title>
-    </programme>
-    <programme start="20201123054800" stop="20201123055100" channel="dongfang">
+    <programme start="20201123045200" stop="20201123045600" channel="dongfang">
         <title lang="cn">明日精彩看点</title>
     </programme>
-    <programme start="20201123055100" stop="20201123063400" channel="dongfang">
-        <title lang="cn">急诊室故事</title>
+    <programme start="20201123045600" stop="20201123055700" channel="dongfang">
+        <title lang="cn">梦想改造家6(12):老城中的新家</title>
+    </programme>
+    <programme start="20201123055700" stop="20201123061400" channel="dongfang">
+        <title lang="cn">急诊室故事2精编版</title>
+    </programme>
+    <programme start="20201123061400" stop="20201123061800" channel="dongfang">
+        <title lang="cn">明日精彩看点</title>
+    </programme>
+    <programme start="20201123061800" stop="20201123063400" channel="dongfang">
+        <title lang="cn">急诊室故事2精编</title>
     </programme>
     <programme start="20201123063400" stop="20201123070000" channel="dongfang">
-        <title lang="cn">1/7</title>
+        <title lang="cn">1/7(447)</title>
     </programme>
     <programme start="20201123070000" stop="20201123070100" channel="dongfang">
         <title lang="cn">中华人民共和国国歌</title>
@@ -2181,38 +2181,41 @@
     <programme start="20201123085900" stop="20201123090300" channel="dongfang">
         <title lang="cn">天气预报</title>
     </programme>
-    <programme start="20201123090300" stop="20201123091400" channel="dongfang">
-        <title lang="cn">潮童天下</title>
+    <programme start="20201123090300" stop="20201123090700" channel="dongfang">
+        <title lang="cn">中国梦主题曲:大凉山上卡沙沙</title>
     </programme>
-    <programme start="20201123091400" stop="20201123103900" channel="dongfang">
-        <title lang="cn">妈妈咪呀精编</title>
+    <programme start="20201123090700" stop="20201123091600" channel="dongfang">
+        <title lang="cn">潮童天下(442)</title>
+    </programme>
+    <programme start="20201123091600" stop="20201123103900" channel="dongfang">
+        <title lang="cn">中国新相亲2(5)</title>
     </programme>
     <programme start="20201123103900" stop="20201123120000" channel="dongfang">
-        <title lang="cn">妈妈咪呀精编</title>
+        <title lang="cn">中国新相亲3(13)</title>
     </programme>
     <programme start="20201123120000" stop="20201123122600" channel="dongfang">
         <title lang="cn">午间30分</title>
     </programme>
-    <programme start="20201123122600" stop="20201123123200" channel="dongfang">
+    <programme start="20201123122600" stop="20201123123000" channel="dongfang">
         <title lang="cn">天气预报</title>
     </programme>
-    <programme start="20201123123200" stop="20201123141000" channel="dongfang">
-        <title lang="cn">东方综艺大赏:歌曲,小品,相声</title>
+    <programme start="20201123123000" stop="20201123133900" channel="dongfang">
+        <title lang="cn">东方综艺大赏(6)</title>
     </programme>
-    <programme start="20201123141000" stop="20201123151800" channel="dongfang">
-        <title lang="cn">东方综艺大赏:歌曲,小品,相声</title>
+    <programme start="20201123133900" stop="20201123151500" channel="dongfang">
+        <title lang="cn">东方综艺大赏(9)</title>
     </programme>
-    <programme start="20201123151800" stop="20201123170100" channel="dongfang">
-        <title lang="cn">东方综艺大赏:歌曲,小品,相声</title>
+    <programme start="20201123151500" stop="20201123170800" channel="dongfang">
+        <title lang="cn">我们的歌(7)</title>
     </programme>
-    <programme start="20201123170100" stop="20201123172200" channel="dongfang">
+    <programme start="20201123170800" stop="20201123172800" channel="dongfang">
         <title lang="cn">文娱新天地</title>
     </programme>
-    <programme start="20201123172200" stop="20201123174600" channel="dongfang">
-        <title lang="cn">名医话养生</title>
+    <programme start="20201123172800" stop="20201123174900" channel="dongfang">
+        <title lang="cn">名医话养生:食物中的隐形杀手</title>
     </programme>
-    <programme start="20201123174600" stop="20201123180000" channel="dongfang">
-        <title lang="cn">诗书画</title>
+    <programme start="20201123174900" stop="20201123180000" channel="dongfang">
+        <title lang="cn">诗书画(623)</title>
     </programme>
     <programme start="20201123180000" stop="20201123185700" channel="dongfang">
         <title lang="cn">东方新闻</title>
@@ -2220,32 +2223,32 @@
     <programme start="20201123185700" stop="20201123190000" channel="dongfang">
         <title lang="cn">天气预报</title>
     </programme>
-    <programme start="20201123190000" stop="20201123193400" channel="dongfang">
+    <programme start="20201123190000" stop="20201123193200" channel="dongfang">
         <title lang="cn">新闻联播</title>
     </programme>
-    <programme start="20201123193400" stop="20201123202200" channel="dongfang">
+    <programme start="20201123193200" stop="20201123202200" channel="dongfang">
         <title lang="cn">电视剧：石头开花(13)</title>
     </programme>
-    <programme start="20201123202200" stop="20201123205700" channel="dongfang">
+    <programme start="20201123202200" stop="20201123210500" channel="dongfang">
         <title lang="cn">电视剧：石头开花(14)</title>
     </programme>
-    <programme start="20201123205700" stop="20201123210800" channel="dongfang">
+    <programme start="20201123210500" stop="20201123210900" channel="dongfang">
         <title lang="cn">明日精彩看点</title>
     </programme>
-    <programme start="20201123210800" stop="20201123212000" channel="dongfang">
+    <programme start="20201123210900" stop="20201123212000" channel="dongfang">
         <title lang="cn">东方看大剧</title>
     </programme>
     <programme start="20201123212000" stop="20201123215900" channel="dongfang">
         <title lang="cn">今晚</title>
     </programme>
-    <programme start="20201123215900" stop="20201123220200" channel="dongfang">
+    <programme start="20201123215900" stop="20201123220000" channel="dongfang">
         <title lang="cn">天气预报</title>
     </programme>
-    <programme start="20201123220200" stop="20201123231100" channel="dongfang">
-        <title lang="cn">这就是中国</title>
+    <programme start="20201123220000" stop="20201123225500" channel="dongfang">
+        <title lang="cn">这就是中国(81)</title>
     </programme>
-    <programme start="20201123231100" stop="20201123235900" channel="dongfang">
-        <title lang="cn">东方综艺大赏:歌曲,小品,相声</title>
+    <programme start="20201123225500" stop="20201123235900" channel="dongfang">
+        <title lang="cn">东方综艺大赏(3)</title>
     </programme>
     <channel id="hunan">
         <display-name lang="cn">湖南卫视</display-name>
@@ -3066,41 +3069,41 @@
     <programme start="20201123080000" stop="20201123083400" channel="travel">
         <title lang="cn">等着我</title>
     </programme>
-    <programme start="20201123083400" stop="20201123091600" channel="travel">
+    <programme start="20201123083400" stop="20201123091700" channel="travel">
         <title lang="cn">等着我</title>
     </programme>
-    <programme start="20201123091600" stop="20201123095600" channel="travel">
-        <title lang="cn">电视剧</title>
+    <programme start="20201123091700" stop="20201123095700" channel="travel">
+        <title lang="cn">电视剧:薛平贵与王宝钏 53</title>
     </programme>
-    <programme start="20201123095600" stop="20201123103800" channel="travel">
-        <title lang="cn">电视剧</title>
+    <programme start="20201123095700" stop="20201123103800" channel="travel">
+        <title lang="cn">电视剧:薛平贵与王宝钏 54</title>
     </programme>
     <programme start="20201123103800" stop="20201123111800" channel="travel">
-        <title lang="cn">电视剧</title>
+        <title lang="cn">电视剧:薛平贵与王宝钏 55</title>
     </programme>
-    <programme start="20201123111800" stop="20201123120000" channel="travel">
-        <title lang="cn">电视剧</title>
+    <programme start="20201123111800" stop="20201123115900" channel="travel">
+        <title lang="cn">电视剧:薛平贵与王宝钏 56</title>
     </programme>
-    <programme start="20201123120000" stop="20201123125100" channel="travel">
-        <title lang="cn">电视剧</title>
+    <programme start="20201123115900" stop="20201123124900" channel="travel">
+        <title lang="cn">电视剧:薛平贵与王宝钏 57</title>
     </programme>
-    <programme start="20201123125100" stop="20201123134300" channel="travel">
-        <title lang="cn">电视剧</title>
+    <programme start="20201123124900" stop="20201123134000" channel="travel">
+        <title lang="cn">电视剧:黑狐之风影 54</title>
     </programme>
-    <programme start="20201123134300" stop="20201123143500" channel="travel">
-        <title lang="cn">电视剧:黑狐之风影(21)</title>
+    <programme start="20201123134000" stop="20201123143100" channel="travel">
+        <title lang="cn">电视剧:黑狐之风影 55</title>
     </programme>
-    <programme start="20201123143500" stop="20201123152500" channel="travel">
-        <title lang="cn">电视剧:黑狐之风影(22)</title>
+    <programme start="20201123143100" stop="20201123152200" channel="travel">
+        <title lang="cn">电视剧:黑狐之风影 56</title>
     </programme>
-    <programme start="20201123152500" stop="20201123161700" channel="travel">
-        <title lang="cn">电视剧</title>
+    <programme start="20201123152200" stop="20201123161200" channel="travel">
+        <title lang="cn">电视剧:黑狐之风影 57</title>
     </programme>
-    <programme start="20201123161700" stop="20201123170900" channel="travel">
-        <title lang="cn">电视剧</title>
+    <programme start="20201123161200" stop="20201123170400" channel="travel">
+        <title lang="cn">电视剧:黑狐之风影 58</title>
     </programme>
-    <programme start="20201123170900" stop="20201123175500" channel="travel">
-        <title lang="cn">电视剧</title>
+    <programme start="20201123170400" stop="20201123175500" channel="travel">
+        <title lang="cn">电视剧:黑狐之风影 59</title>
     </programme>
     <programme start="20201123175500" stop="20201123183000" channel="travel">
         <title lang="cn">智医先行</title>
@@ -4860,29 +4863,17 @@
     <programme start="20201123083000" stop="20201123090300" channel="xizang">
         <title lang="cn">西藏新闻联播</title>
     </programme>
-    <programme start="20201123090300" stop="20201123094800" channel="xizang">
+    <programme start="20201123090300" stop="20201123100100" channel="xizang">
         <title lang="cn">电视剧：水浒传(27)</title>
     </programme>
-    <programme start="20201123094800" stop="20201123100100" channel="xizang">
-        <title lang="cn">创收栏目</title>
-    </programme>
-    <programme start="20201123100100" stop="20201123104600" channel="xizang">
+    <programme start="20201123100100" stop="20201123110000" channel="xizang">
         <title lang="cn">电视剧：水浒传(28)</title>
     </programme>
-    <programme start="20201123104600" stop="20201123110000" channel="xizang">
-        <title lang="cn">创收栏目</title>
-    </programme>
-    <programme start="20201123110000" stop="20201123114500" channel="xizang">
+    <programme start="20201123110000" stop="20201123115900" channel="xizang">
         <title lang="cn">电视剧：水浒传(29)</title>
     </programme>
-    <programme start="20201123114500" stop="20201123115900" channel="xizang">
-        <title lang="cn">创收栏目</title>
-    </programme>
-    <programme start="20201123115900" stop="20201123124400" channel="xizang">
+    <programme start="20201123115900" stop="20201123130000" channel="xizang">
         <title lang="cn">电视剧：水浒传(30)</title>
-    </programme>
-    <programme start="20201123124400" stop="20201123130000" channel="xizang">
-        <title lang="cn">创收栏目</title>
     </programme>
     <programme start="20201123130000" stop="20201123131600" channel="xizang">
         <title lang="cn">午间新闻</title>
@@ -4890,35 +4881,20 @@
     <programme start="20201123131600" stop="20201123140200" channel="xizang">
         <title lang="cn">远方的家</title>
     </programme>
-    <programme start="20201123140200" stop="20201123144700" channel="xizang">
+    <programme start="20201123140200" stop="20201123150000" channel="xizang">
         <title lang="cn">电视剧：西游记2(1)</title>
     </programme>
-    <programme start="20201123144700" stop="20201123150000" channel="xizang">
-        <title lang="cn">创收栏目</title>
-    </programme>
-    <programme start="20201123150000" stop="20201123151700" channel="xizang">
+    <programme start="20201123150000" stop="20201123152900" channel="xizang">
         <title lang="cn">午间新闻</title>
     </programme>
-    <programme start="20201123151700" stop="20201123152900" channel="xizang">
-        <title lang="cn">创收栏目</title>
-    </programme>
-    <programme start="20201123152900" stop="20201123161400" channel="xizang">
+    <programme start="20201123152900" stop="20201123162700" channel="xizang">
         <title lang="cn">电视剧：西游记2(2)</title>
     </programme>
-    <programme start="20201123161400" stop="20201123162700" channel="xizang">
-        <title lang="cn">创收栏目</title>
-    </programme>
-    <programme start="20201123162700" stop="20201123171200" channel="xizang">
+    <programme start="20201123162700" stop="20201123172600" channel="xizang">
         <title lang="cn">电视剧：西游记2(3)</title>
     </programme>
-    <programme start="20201123171200" stop="20201123172600" channel="xizang">
-        <title lang="cn">创收栏目</title>
-    </programme>
-    <programme start="20201123172600" stop="20201123181100" channel="xizang">
+    <programme start="20201123172600" stop="20201123182600" channel="xizang">
         <title lang="cn">电视剧：西游记2(4)</title>
-    </programme>
-    <programme start="20201123181100" stop="20201123182600" channel="xizang">
-        <title lang="cn">创收栏目</title>
     </programme>
     <programme start="20201123182600" stop="20201123183900" channel="xizang">
         <title lang="cn">蛋蛋龙之科普小宝典(7)</title>
@@ -5130,80 +5106,158 @@
     <channel id="btvchild">
         <display-name lang="cn">BTV卡酷少儿</display-name>
     </channel>
-    <programme start="20201123042000" stop="20201123052000" channel="btvchild">
-        <title lang="cn">动画片</title>
+    <programme start="20201123041400" stop="20201123043400" channel="btvchild">
+        <title lang="cn">熊熊乐园3</title>
     </programme>
-    <programme start="20201123052000" stop="20201123060000" channel="btvchild">
-        <title lang="cn">动画片</title>
+    <programme start="20201123043400" stop="20201123045400" channel="btvchild">
+        <title lang="cn">熊熊乐园3</title>
     </programme>
-    <programme start="20201123060000" stop="20201123070000" channel="btvchild">
-        <title lang="cn">可可剧场</title>
+    <programme start="20201123045400" stop="20201123050000" channel="btvchild">
+        <title lang="cn">中国梦MV:武汉伢</title>
+    </programme>
+    <programme start="20201123050000" stop="20201123052000" channel="btvchild">
+        <title lang="cn">喜羊羊与灰太狼之羊羊趣冒险</title>
+    </programme>
+    <programme start="20201123052000" stop="20201123054000" channel="btvchild">
+        <title lang="cn">喜羊羊与灰太狼之羊羊趣冒险</title>
+    </programme>
+    <programme start="20201123054000" stop="20201123060000" channel="btvchild">
+        <title lang="cn">喜羊羊与灰太狼之羊羊趣冒险</title>
+    </programme>
+    <programme start="20201123060000" stop="20201123063000" channel="btvchild">
+        <title lang="cn">猪猪侠之深海小英雄2</title>
+    </programme>
+    <programme start="20201123063000" stop="20201123070000" channel="btvchild">
+        <title lang="cn">猪猪侠之深海小英雄2</title>
     </programme>
     <programme start="20201123070000" stop="20201123071600" channel="btvchild">
-        <title lang="cn">KAKU幼儿园</title>
+        <title lang="cn">卡酷幼儿园</title>
     </programme>
-    <programme start="20201123071600" stop="20201123080300" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
+    <programme start="20201123071600" stop="20201123073700" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
     </programme>
-    <programme start="20201123080300" stop="20201123091300" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
+    <programme start="20201123073700" stop="20201123080300" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
     </programme>
-    <programme start="20201123091300" stop="20201123101300" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
+    <programme start="20201123080300" stop="20201123082600" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
     </programme>
-    <programme start="20201123101300" stop="20201123110900" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
+    <programme start="20201123082600" stop="20201123085000" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
     </programme>
-    <programme start="20201123110900" stop="20201123121000" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
+    <programme start="20201123085000" stop="20201123091300" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
     </programme>
-    <programme start="20201123121000" stop="20201123130700" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
+    <programme start="20201123091300" stop="20201123093700" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
     </programme>
-    <programme start="20201123130700" stop="20201123140300" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
+    <programme start="20201123093700" stop="20201123100300" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
     </programme>
-    <programme start="20201123140300" stop="20201123150000" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
+    <programme start="20201123100300" stop="20201123102600" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
     </programme>
-    <programme start="20201123150000" stop="20201123160300" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
+    <programme start="20201123102600" stop="20201123105000" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
     </programme>
-    <programme start="20201123160300" stop="20201123170000" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
+    <programme start="20201123105000" stop="20201123111400" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
     </programme>
-    <programme start="20201123170000" stop="20201123171000" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
+    <programme start="20201123111400" stop="20201123113800" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
     </programme>
-    <programme start="20201123171000" stop="20201123171300" channel="btvchild">
-        <title lang="cn">大玩家</title>
+    <programme start="20201123113800" stop="20201123120200" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
     </programme>
-    <programme start="20201123171300" stop="20201123180800" channel="btvchild">
+    <programme start="20201123120200" stop="20201123122600" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
+    </programme>
+    <programme start="20201123122600" stop="20201123125000" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
+    </programme>
+    <programme start="20201123125000" stop="20201123131400" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
+    </programme>
+    <programme start="20201123131400" stop="20201123133800" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
+    </programme>
+    <programme start="20201123133800" stop="20201123140200" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
+    </programme>
+    <programme start="20201123140200" stop="20201123142600" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
+    </programme>
+    <programme start="20201123142600" stop="20201123145000" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
+    </programme>
+    <programme start="20201123145000" stop="20201123151300" channel="btvchild">
+        <title lang="cn">猪猪侠之深海小英雄2</title>
+    </programme>
+    <programme start="20201123151300" stop="20201123153700" channel="btvchild">
+        <title lang="cn">猪猪侠之深海小英雄2</title>
+    </programme>
+    <programme start="20201123153700" stop="20201123155900" channel="btvchild">
+        <title lang="cn">猪猪侠之深海小英雄2</title>
+    </programme>
+    <programme start="20201123155900" stop="20201123162300" channel="btvchild">
+        <title lang="cn">百变校巴之超学先锋</title>
+    </programme>
+    <programme start="20201123162300" stop="20201123164700" channel="btvchild">
+        <title lang="cn">超级飞侠9</title>
+    </programme>
+    <programme start="20201123164700" stop="20201123170900" channel="btvchild">
+        <title lang="cn">超级飞侠9</title>
+    </programme>
+    <programme start="20201123170900" stop="20201123172700" channel="btvchild">
+        <title lang="cn">大玩家精编版</title>
+    </programme>
+    <programme start="20201123172700" stop="20201123175000" channel="btvchild">
+        <title lang="cn">超级飞侠9</title>
+    </programme>
+    <programme start="20201123175000" stop="20201123181400" channel="btvchild">
+        <title lang="cn">超变战陀之爆甲战陀</title>
+    </programme>
+    <programme start="20201123181400" stop="20201123183800" channel="btvchild">
+        <title lang="cn">猪猪侠之深海小英雄3</title>
+    </programme>
+    <programme start="20201123183800" stop="20201123190100" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
+    </programme>
+    <programme start="20201123190100" stop="20201123192500" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
+    </programme>
+    <programme start="20201123192500" stop="20201123194900" channel="btvchild">
+        <title lang="cn">爆冲火箭车之车王之战</title>
+    </programme>
+    <programme start="20201123194900" stop="20201123205900" channel="btvchild">
         <title lang="cn">卡小酷剧场</title>
     </programme>
-    <programme start="20201123180800" stop="20201123190100" channel="btvchild">
-        <title lang="cn">卡小酷剧场</title>
+    <programme start="20201123205900" stop="20201123212200" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
     </programme>
-    <programme start="20201123190100" stop="20201123201000" channel="btvchild">
-        <title lang="cn">卡小酷剧场</title>
+    <programme start="20201123212200" stop="20201123214500" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
     </programme>
-    <programme start="20201123201000" stop="20201123210700" channel="btvchild">
-        <title lang="cn">卡小酷剧场</title>
+    <programme start="20201123214500" stop="20201123220700" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
     </programme>
-    <programme start="20201123210700" stop="20201123215000" channel="btvchild">
-        <title lang="cn">卡小酷剧场</title>
+    <programme start="20201123220700" stop="20201123222700" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
     </programme>
-    <programme start="20201123215000" stop="20201123220000" channel="btvchild">
-        <title lang="cn">2KAU剧场</title>
+    <programme start="20201123222700" stop="20201123224900" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
     </programme>
-    <programme start="20201123220000" stop="20201123231200" channel="btvchild">
-        <title lang="cn">2KAU剧场</title>
+    <programme start="20201123224900" stop="20201123230900" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
     </programme>
-    <programme start="20201123231200" stop="20201123235300" channel="btvchild">
-        <title lang="cn">2KAU剧场</title>
+    <programme start="20201123230900" stop="20201123233000" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
     </programme>
-    <programme start="20201123235300" stop="20201123235900" channel="btvchild">
-        <title lang="cn">动画片</title>
+    <programme start="20201123233000" stop="20201123235000" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
+    </programme>
+    <programme start="20201123235000" stop="20201123235900" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
     </programme>
     <channel id="gaoerfu">
         <display-name lang="cn">高尔夫</display-name>
