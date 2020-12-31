@@ -54,23 +54,23 @@
     <programme start="20201231120000" stop="20201231123600" channel="cctv1">
         <title lang="cn">新闻30分</title>
     </programme>
-    <programme start="20201231123600" stop="20201231131400" channel="cctv1">
+    <programme start="20201231123600" stop="20201231132000" channel="cctv1">
         <title lang="cn">今日说法-2020-366</title>
     </programme>
-    <programme start="20201231131400" stop="20201231132100" channel="cctv1">
-        <title lang="cn">典籍里的中国-有“典”意思1</title>
-    </programme>
-    <programme start="20201231132100" stop="20201231141100" channel="cctv1">
+    <programme start="20201231132000" stop="20201231141000" channel="cctv1">
         <title lang="cn">小娘惹－第31集</title>
     </programme>
-    <programme start="20201231141100" stop="20201231150100" channel="cctv1">
+    <programme start="20201231141000" stop="20201231150000" channel="cctv1">
         <title lang="cn">小娘惹－第32集</title>
     </programme>
-    <programme start="20201231150100" stop="20201231155400" channel="cctv1">
+    <programme start="20201231150000" stop="20201231155300" channel="cctv1">
         <title lang="cn">小娘惹－第33集</title>
     </programme>
-    <programme start="20201231155400" stop="20201231164700" channel="cctv1">
+    <programme start="20201231155300" stop="20201231164300" channel="cctv1">
         <title lang="cn">小娘惹－第34集</title>
+    </programme>
+    <programme start="20201231164300" stop="20201231164700" channel="cctv1">
+        <title lang="cn">典籍里的中国-有“典”意思1</title>
     </programme>
     <programme start="20201231164700" stop="20201231172500" channel="cctv1">
         <title lang="cn">第一动画乐园-2020-1166</title>
@@ -327,11 +327,11 @@
     <programme start="20201231090000" stop="20201231100000" channel="cctv4">
         <title lang="cn">非常传奇第三季-4</title>
     </programme>
-    <programme start="20201231100000" stop="20201231110000" channel="cctv4">
+    <programme start="20201231100000" stop="20201231111500" channel="cctv4">
         <title lang="cn">国新办发布会</title>
     </programme>
-    <programme start="20201231110000" stop="20201231113000" channel="cctv4">
-        <title lang="cn">国家记忆-2020-198</title>
+    <programme start="20201231111500" stop="20201231113000" channel="cctv4">
+        <title lang="cn">记住乡愁2018片段展播-49</title>
     </programme>
     <programme start="20201231113000" stop="20201231120000" channel="cctv4">
         <title lang="cn">海峡两岸-2020-365</title>
@@ -564,14 +564,17 @@
     <programme start="20201231182300" stop="20201231201500" channel="cctv6">
         <title lang="cn">倩女幽魂</title>
     </programme>
-    <programme start="20201231201500" stop="20201231221000" channel="cctv6">
+    <programme start="20201231201500" stop="20201231220700" channel="cctv6">
         <title lang="cn">我为你牺牲</title>
     </programme>
-    <programme start="20201231221000" stop="20201231221900" channel="cctv6">
+    <programme start="20201231220700" stop="20201231221600" channel="cctv6">
         <title lang="cn">今日影评2020-262</title>
     </programme>
-    <programme start="20201231221900" stop="20201231235900" channel="cctv6">
+    <programme start="20201231221600" stop="20201231235800" channel="cctv6">
         <title lang="cn">魔法保姆麦克菲2</title>
+    </programme>
+    <programme start="20201231235800" stop="20201231235900" channel="cctv6">
+        <title lang="cn">今日影评2020-262</title>
     </programme>
     <channel id="cctv7">
         <display-name lang="cn">CCTV-7 国防军事</display-name>
@@ -2304,86 +2307,62 @@
     <programme start="20201231034200" stop="20201231035200" channel="hunan">
         <title lang="cn">新闻大求真</title>
     </programme>
-    <programme start="20201231035200" stop="20201231042300" channel="hunan">
+    <programme start="20201231035200" stop="20201231050000" channel="hunan">
         <title lang="cn">平民英雄</title>
     </programme>
-    <programme start="20201231042300" stop="20201231045700" channel="hunan">
+    <programme start="20201231050000" stop="20201231053000" channel="hunan">
+        <title lang="cn">我的纪录片</title>
+    </programme>
+    <programme start="20201231053000" stop="20201231060000" channel="hunan">
         <title lang="cn">新闻大求真</title>
     </programme>
-    <programme start="20201231045700" stop="20201231060000" channel="hunan">
-        <title lang="cn">平民英雄</title>
-    </programme>
     <programme start="20201231060000" stop="20201231070000" channel="hunan">
-        <title lang="cn">中国</title>
+        <title lang="cn">错点鸳鸯(11)</title>
     </programme>
-    <programme start="20201231070000" stop="20201231073200" channel="hunan">
+    <programme start="20201231070000" stop="20201231070100" channel="hunan">
+        <title lang="cn">中华人民共和国国歌</title>
+    </programme>
+    <programme start="20201231070100" stop="20201231073000" channel="hunan">
         <title lang="cn">湖南新闻联播</title>
     </programme>
-    <programme start="20201231073200" stop="20201231083800" channel="hunan">
-        <title lang="cn">电视剧</title>
+    <programme start="20201231073000" stop="20201231080000" channel="hunan">
+        <title lang="cn">错点鸳鸯(12)</title>
     </programme>
-    <programme start="20201231083800" stop="20201231093000" channel="hunan">
-        <title lang="cn">电视剧</title>
+    <programme start="20201231080000" stop="20201231083000" channel="hunan">
+        <title lang="cn">中华文明之美</title>
     </programme>
-    <programme start="20201231093000" stop="20201231102300" channel="hunan">
-        <title lang="cn">电视剧</title>
+    <programme start="20201231083000" stop="20201231093100" channel="hunan">
+        <title lang="cn">那年花开月正圆(71)</title>
     </programme>
-    <programme start="20201231102300" stop="20201231111400" channel="hunan">
-        <title lang="cn">电视剧</title>
+    <programme start="20201231093100" stop="20201231102000" channel="hunan">
+        <title lang="cn">那年花开月正圆(71)</title>
     </programme>
-    <programme start="20201231111400" stop="20201231121000" channel="hunan">
-        <title lang="cn">电视剧</title>
+    <programme start="20201231102000" stop="20201231111500" channel="hunan">
+        <title lang="cn">那年花开月正圆(72)</title>
+    </programme>
+    <programme start="20201231111500" stop="20201231121000" channel="hunan">
+        <title lang="cn">那年花开月正圆(73)</title>
     </programme>
     <programme start="20201231121000" stop="20201231123000" channel="hunan">
         <title lang="cn">午间新闻</title>
     </programme>
-    <programme start="20201231123000" stop="20201231123900" channel="hunan">
-        <title lang="cn">卫视气象站</title>
+    <programme start="20201231123000" stop="20201231130000" channel="hunan">
+        <title lang="cn">那年花开月正圆(大结局)</title>
     </programme>
-    <programme start="20201231123900" stop="20201231134800" channel="hunan">
-        <title lang="cn">电视剧</title>
+    <programme start="20201231130000" stop="20201231180000" channel="hunan">
+        <title lang="cn">2020-2021跨年演唱会倒计时</title>
     </programme>
-    <programme start="20201231134800" stop="20201231143800" channel="hunan">
-        <title lang="cn">电视剧</title>
+    <programme start="20201231180000" stop="20201231183000" channel="hunan">
+        <title lang="cn">新闻当事人</title>
     </programme>
-    <programme start="20201231143800" stop="20201231152600" channel="hunan">
-        <title lang="cn">电视剧</title>
-    </programme>
-    <programme start="20201231152600" stop="20201231160600" channel="hunan">
-        <title lang="cn">电视剧</title>
-    </programme>
-    <programme start="20201231160600" stop="20201231170100" channel="hunan">
-        <title lang="cn">电视剧</title>
-    </programme>
-    <programme start="20201231170100" stop="20201231175600" channel="hunan">
-        <title lang="cn">电视剧</title>
-    </programme>
-    <programme start="20201231175600" stop="20201231183000" channel="hunan">
-        <title lang="cn">新闻大求真</title>
-    </programme>
-    <programme start="20201231183000" stop="20201231185600" channel="hunan">
+    <programme start="20201231183000" stop="20201231190000" channel="hunan">
         <title lang="cn">湖南新闻联播</title>
-    </programme>
-    <programme start="20201231185600" stop="20201231190000" channel="hunan">
-        <title lang="cn">卫视气象站</title>
     </programme>
     <programme start="20201231190000" stop="20201231193000" channel="hunan">
         <title lang="cn">新闻联播</title>
     </programme>
-    <programme start="20201231193000" stop="20201231203000" channel="hunan">
-        <title lang="cn">纪录片:中国</title>
-    </programme>
-    <programme start="20201231203000" stop="20201231212500" channel="hunan">
-        <title lang="cn">电视剧:巡回检察组(33)</title>
-    </programme>
-    <programme start="20201231212500" stop="20201231220000" channel="hunan">
-        <title lang="cn">电视剧:巡回检察组(34)</title>
-    </programme>
-    <programme start="20201231220000" stop="20201231225800" channel="hunan">
-        <title lang="cn">电视剧:这就是生活(27)</title>
-    </programme>
-    <programme start="20201231225800" stop="20201231235900" channel="hunan">
-        <title lang="cn">电视剧:这就是生活(28)</title>
+    <programme start="20201231193000" stop="20201231235900" channel="hunan">
+        <title lang="cn">2020-2021跨年演唱会 (湖南卫视2021跨年演唱会)</title>
     </programme>
     <channel id="shandong">
         <display-name lang="cn">山东卫视</display-name>
@@ -2679,23 +2658,11 @@
     <programme start="20201231185200" stop="20201231190000" channel="jiangsu">
         <title lang="cn">时空气象站</title>
     </programme>
-    <programme start="20201231190000" stop="20201231193200" channel="jiangsu">
+    <programme start="20201231190000" stop="20201231193000" channel="jiangsu">
         <title lang="cn">新闻联播</title>
     </programme>
-    <programme start="20201231193200" stop="20201231202500" channel="jiangsu">
-        <title lang="cn">电视剧</title>
-    </programme>
-    <programme start="20201231202500" stop="20201231210800" channel="jiangsu">
-        <title lang="cn">电视剧</title>
-    </programme>
-    <programme start="20201231210800" stop="20201231220500" channel="jiangsu">
-        <title lang="cn">最强大脑之燃烧吧大脑</title>
-    </programme>
-    <programme start="20201231220500" stop="20201231235800" channel="jiangsu">
-        <title lang="cn">我们恋爱吧第二季</title>
-    </programme>
-    <programme start="20201231235800" stop="20201231235900" channel="jiangsu">
-        <title lang="cn">晚间新闻</title>
+    <programme start="20201231193000" stop="20201231235900" channel="jiangsu">
+        <title lang="cn">2021江苏卫视跨年演唱会 (江苏卫视2021跨年演唱会-用奋斗点亮幸福)</title>
     </programme>
     <channel id="guangdong">
         <display-name lang="cn">广东卫视</display-name>
