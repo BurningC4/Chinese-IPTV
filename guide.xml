@@ -48,8 +48,14 @@
     <programme start="20210102091000" stop="20210102100000" channel="cctv1">
         <title lang="cn">大侠霍元甲第43集</title>
     </programme>
-    <programme start="20210102100000" stop="20210102113500" channel="cctv1">
+    <programme start="20210102100000" stop="20210102112400" channel="cctv1">
         <title lang="cn">新闻直播间</title>
+    </programme>
+    <programme start="20210102112400" stop="20210102112900" channel="cctv1">
+        <title lang="cn">精彩一刻-2020-101花开中国月季</title>
+    </programme>
+    <programme start="20210102112900" stop="20210102113500" channel="cctv1">
+        <title lang="cn">精彩一刻-2020-103花开中国牡丹</title>
     </programme>
     <programme start="20210102113500" stop="20210102115400" channel="cctv1">
         <title lang="cn">经典咏流传第四季-精编3</title>
@@ -1251,8 +1257,20 @@
     <programme start="20210102053300" stop="20210102060000" channel="cctv13">
         <title lang="cn">法治在线</title>
     </programme>
-    <programme start="20210102060000" stop="20210102090000" channel="cctv13">
+    <programme start="20210102060000" stop="20210102065500" channel="cctv13">
         <title lang="cn">朝闻天下</title>
+    </programme>
+    <programme start="20210102065500" stop="20210102070000" channel="cctv13">
+        <title lang="cn">早间天气预报</title>
+    </programme>
+    <programme start="20210102070000" stop="20210102080000" channel="cctv13">
+        <title lang="cn">朝闻天下</title>
+    </programme>
+    <programme start="20210102080000" stop="20210102085500" channel="cctv13">
+        <title lang="cn">朝闻天下</title>
+    </programme>
+    <programme start="20210102085500" stop="20210102090000" channel="cctv13">
+        <title lang="cn">天气预报</title>
     </programme>
     <programme start="20210102090000" stop="20210102100000" channel="cctv13">
         <title lang="cn">新闻直播间</title>
