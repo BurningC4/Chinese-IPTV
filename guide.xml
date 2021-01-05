@@ -103,13 +103,13 @@
         <title lang="cn">焦点访谈</title>
     </programme>
     <programme start="20210105200100" stop="20210105200600" channel="cctv1">
-        <title lang="cn">前情提要-《跨过鸭绿江》12/40</title>
+        <title lang="cn">前情提要- 《跨过鸭绿江》第12集</title>
     </programme>
     <programme start="20210105200600" stop="20210105205500" channel="cctv1">
         <title lang="cn">跨过鸭绿江12/40</title>
     </programme>
     <programme start="20210105205500" stop="20210105205900" channel="cctv1">
-        <title lang="cn">前情提要-《跨过鸭绿江》13/40</title>
+        <title lang="cn">前情提要- 《跨过鸭绿江》第13集</title>
     </programme>
     <programme start="20210105205900" stop="20210105215100" channel="cctv1">
         <title lang="cn">跨过鸭绿江13/40</title>
@@ -579,47 +579,53 @@
     <programme start="20210105010400" stop="20210105023400" channel="cctv6">
         <title lang="cn">神勇双星</title>
     </programme>
-    <programme start="20210105023400" stop="20210105040100" channel="cctv6">
+    <programme start="20210105023400" stop="20210105050100" channel="cctv6">
         <title lang="cn">午夜邂逅</title>
     </programme>
-    <programme start="20210105040100" stop="20210105071500" channel="cctv6">
-        <title lang="cn">天剑绝刀之独孤九剑</title>
+    <programme start="20210105050100" stop="20210105064200" channel="cctv6">
+        <title lang="cn">胡同里的阳光</title>
     </programme>
-    <programme start="20210105071500" stop="20210105085200" channel="cctv6">
+    <programme start="20210105064200" stop="20210105071000" channel="cctv6">
+        <title lang="cn">第二届电影类型短片创投季作品《喜劫良缘》</title>
+    </programme>
+    <programme start="20210105071000" stop="20210105084700" channel="cctv6">
         <title lang="cn">内联升传奇</title>
     </programme>
-    <programme start="20210105085200" stop="20210105104400" channel="cctv6">
+    <programme start="20210105084700" stop="20210105104000" channel="cctv6">
         <title lang="cn">绝招</title>
     </programme>
-    <programme start="20210105104400" stop="20210105123100" channel="cctv6">
+    <programme start="20210105104000" stop="20210105122700" channel="cctv6">
         <title lang="cn">天净沙</title>
     </programme>
-    <programme start="20210105123100" stop="20210105123800" channel="cctv6">
+    <programme start="20210105122700" stop="20210105123400" channel="cctv6">
         <title lang="cn">音乐电影欣赏</title>
     </programme>
-    <programme start="20210105123800" stop="20210105142400" channel="cctv6">
+    <programme start="20210105123400" stop="20210105142600" channel="cctv6">
         <title lang="cn">甩尾王2</title>
     </programme>
-    <programme start="20210105142400" stop="20210105161200" channel="cctv6">
+    <programme start="20210105142600" stop="20210105161300" channel="cctv6">
         <title lang="cn">鹈鹕的故事</title>
     </programme>
-    <programme start="20210105161200" stop="20210105175400" channel="cctv6">
+    <programme start="20210105161300" stop="20210105180100" channel="cctv6">
         <title lang="cn">反诈风暴之情爱迷局</title>
     </programme>
-    <programme start="20210105175400" stop="20210105182400" channel="cctv6">
+    <programme start="20210105180100" stop="20210105183200" channel="cctv6">
         <title lang="cn">中国电影报道2021-005</title>
     </programme>
-    <programme start="20210105182400" stop="20210105201300" channel="cctv6">
+    <programme start="20210105183200" stop="20210105201500" channel="cctv6">
         <title lang="cn">疯狂的麻将</title>
     </programme>
-    <programme start="20210105201300" stop="20210105220500" channel="cctv6">
+    <programme start="20210105201500" stop="20210105220000" channel="cctv6">
         <title lang="cn">洛杉矶捣蛋计划</title>
     </programme>
-    <programme start="20210105220500" stop="20210105221600" channel="cctv6">
+    <programme start="20210105220000" stop="20210105220900" channel="cctv6">
         <title lang="cn">今日影评2021-003</title>
     </programme>
-    <programme start="20210105221600" stop="20210105235900" channel="cctv6">
+    <programme start="20210105220900" stop="20210105235700" channel="cctv6">
         <title lang="cn">毒龙潭</title>
+    </programme>
+    <programme start="20210105235700" stop="20210105235900" channel="cctv6">
+        <title lang="cn">今日影评2021-003</title>
     </programme>
     <channel id="cctv7">
         <display-name lang="cn">CCTV-7 国防军事</display-name>
@@ -850,10 +856,10 @@
         <title lang="cn">最初的相遇，最后的别离第12集</title>
     </programme>
     <programme start="20210105221400" stop="20210105230300" channel="cctv8">
-        <title lang="cn">最初的相遇，最后的别离13/39</title>
+        <title lang="cn">最初的相遇，最后的别离第13集</title>
     </programme>
     <programme start="20210105230300" stop="20210105234900" channel="cctv8">
-        <title lang="cn">最初的相遇，最后的别离14/39</title>
+        <title lang="cn">最初的相遇，最后的别离第14集</title>
     </programme>
     <programme start="20210105234900" stop="20210105235600" channel="cctv8">
         <title lang="cn">星推荐-2021年1月-5</title>
@@ -1323,25 +1329,28 @@
     <programme start="20210105180000" stop="20210105190000" channel="cctv13">
         <title lang="cn">共同关注</title>
     </programme>
-    <programme start="20210105190000" stop="20210105195200" channel="cctv13">
+    <programme start="20210105190000" stop="20210105193100" channel="cctv13">
         <title lang="cn">新闻联播</title>
     </programme>
-    <programme start="20210105195200" stop="20210105200000" channel="cctv13">
+    <programme start="20210105193100" stop="20210105194000" channel="cctv13">
         <title lang="cn">天气预报</title>
     </programme>
-    <programme start="20210105200000" stop="20210105201600" channel="cctv13">
+    <programme start="20210105194000" stop="20210105200000" channel="cctv13">
         <title lang="cn">焦点访谈</title>
     </programme>
-    <programme start="20210105201600" stop="20210105210000" channel="cctv13">
+    <programme start="20210105200000" stop="20210105210000" channel="cctv13">
         <title lang="cn">东方时空</title>
     </programme>
-    <programme start="20210105210000" stop="20210105215000" channel="cctv13">
+    <programme start="20210105210000" stop="20210105213000" channel="cctv13">
         <title lang="cn">新闻联播</title>
     </programme>
-    <programme start="20210105215000" stop="20210105222000" channel="cctv13">
+    <programme start="20210105213000" stop="20210105220000" channel="cctv13">
         <title lang="cn">新闻1+1</title>
     </programme>
-    <programme start="20210105222000" stop="20210105230000" channel="cctv13">
+    <programme start="20210105220000" stop="20210105223000" channel="cctv13">
+        <title lang="cn">国际时讯</title>
+    </programme>
+    <programme start="20210105223000" stop="20210105230000" channel="cctv13">
         <title lang="cn">环球视线</title>
     </programme>
     <programme start="20210105230000" stop="20210105235900" channel="cctv13">
