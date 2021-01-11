@@ -1299,10 +1299,10 @@
     <programme start="20210111180000" stop="20210111190000" channel="cctv13">
         <title lang="cn">共同关注</title>
     </programme>
-    <programme start="20210111190000" stop="20210111193200" channel="cctv13">
+    <programme start="20210111190000" stop="20210111193100" channel="cctv13">
         <title lang="cn">新闻联播</title>
     </programme>
-    <programme start="20210111193200" stop="20210111194000" channel="cctv13">
+    <programme start="20210111193100" stop="20210111194000" channel="cctv13">
         <title lang="cn">天气预报</title>
     </programme>
     <programme start="20210111194000" stop="20210111200000" channel="cctv13">
@@ -1548,98 +1548,170 @@
     <channel id="cetv1">
         <display-name lang="cn">CETV-1</display-name>
     </channel>
-    <programme start="20210111042200" stop="20210111050800" channel="cetv1">
-        <title lang="cn">博物馆之夜</title>
+    <programme start="20210111041500" stop="20210111041600" channel="cetv1">
+        <title lang="cn">导视</title>
     </programme>
-    <programme start="20210111050800" stop="20210111060500" channel="cetv1">
-        <title lang="cn">电视剧</title>
+    <programme start="20210111041600" stop="20210111050100" channel="cetv1">
+        <title lang="cn">博物馆之夜(18)</title>
     </programme>
-    <programme start="20210111060500" stop="20210111070000" channel="cetv1">
-        <title lang="cn">电视剧</title>
+    <programme start="20210111050100" stop="20210111050200" channel="cetv1">
+        <title lang="cn">导视</title>
+    </programme>
+    <programme start="20210111050200" stop="20210111060000" channel="cetv1">
+        <title lang="cn">飞哥大英雄(28)</title>
+    </programme>
+    <programme start="20210111060000" stop="20210111065800" channel="cetv1">
+        <title lang="cn">飞哥大英雄(29)</title>
+    </programme>
+    <programme start="20210111065800" stop="20210111070000" channel="cetv1">
+        <title lang="cn">导视</title>
     </programme>
     <programme start="20210111070000" stop="20210111070100" channel="cetv1">
         <title lang="cn">中华人民共和国国歌</title>
     </programme>
-    <programme start="20210111070100" stop="20210111084100" channel="cetv1">
-        <title lang="cn">电视剧</title>
+    <programme start="20210111070100" stop="20210111070200" channel="cetv1">
+        <title lang="cn">导视</title>
     </programme>
-    <programme start="20210111084100" stop="20210111093200" channel="cetv1">
-        <title lang="cn">电视剧</title>
+    <programme start="20210111070200" stop="20210111075200" channel="cetv1">
+        <title lang="cn">薛丁山(6)</title>
     </programme>
-    <programme start="20210111093200" stop="20210111102300" channel="cetv1">
-        <title lang="cn">电视剧</title>
+    <programme start="20210111075200" stop="20210111084200" channel="cetv1">
+        <title lang="cn">薛丁山(7)</title>
+    </programme>
+    <programme start="20210111084200" stop="20210111084300" channel="cetv1">
+        <title lang="cn">导视</title>
+    </programme>
+    <programme start="20210111084300" stop="20210111093300" channel="cetv1">
+        <title lang="cn">薛丁山(8)</title>
+    </programme>
+    <programme start="20210111093300" stop="20210111102300" channel="cetv1">
+        <title lang="cn">薛丁山(9)</title>
     </programme>
     <programme start="20210111102300" stop="20210111111300" channel="cetv1">
-        <title lang="cn">电视剧</title>
+        <title lang="cn">薛丁山(10)</title>
     </programme>
-    <programme start="20210111111300" stop="20210111120500" channel="cetv1">
-        <title lang="cn">妈妈咪呀</title>
+    <programme start="20210111111300" stop="20210111113300" channel="cetv1">
+        <title lang="cn">等着我</title>
+    </programme>
+    <programme start="20210111113300" stop="20210111120300" channel="cetv1">
+        <title lang="cn">美丽人生</title>
+    </programme>
+    <programme start="20210111120300" stop="20210111120500" channel="cetv1">
+        <title lang="cn">导视</title>
     </programme>
     <programme start="20210111120500" stop="20210111121500" channel="cetv1">
         <title lang="cn">教育新闻直播间</title>
     </programme>
     <programme start="20210111121500" stop="20210111121700" channel="cetv1">
-        <title lang="cn">城市天气预报</title>
+        <title lang="cn">华风气象</title>
     </programme>
     <programme start="20210111121700" stop="20210111130100" channel="cetv1">
-        <title lang="cn">留学为你来</title>
+        <title lang="cn">法治天下(5)</title>
     </programme>
-    <programme start="20210111130100" stop="20210111133000" channel="cetv1">
-        <title lang="cn">发现中国</title>
+    <programme start="20210111130100" stop="20210111132700" channel="cetv1">
+        <title lang="cn">发现中国(136)</title>
+    </programme>
+    <programme start="20210111132700" stop="20210111133000" channel="cetv1">
+        <title lang="cn">导视</title>
     </programme>
     <programme start="20210111133000" stop="20210111142000" channel="cetv1">
-        <title lang="cn">电视剧</title>
+        <title lang="cn">薛平贵与王宝钏(32)</title>
     </programme>
     <programme start="20210111142000" stop="20210111151000" channel="cetv1">
-        <title lang="cn">电视剧</title>
+        <title lang="cn">薛平贵与王宝钏(33)</title>
     </programme>
-    <programme start="20210111151000" stop="20210111152100" channel="cetv1">
+    <programme start="20210111151000" stop="20210111152000" channel="cetv1">
         <title lang="cn">教育新闻直播间</title>
     </programme>
-    <programme start="20210111152100" stop="20210111161300" channel="cetv1">
-        <title lang="cn">电视剧</title>
+    <programme start="20210111152000" stop="20210111152100" channel="cetv1">
+        <title lang="cn">导视</title>
     </programme>
-    <programme start="20210111161300" stop="20210111170500" channel="cetv1">
-        <title lang="cn">电视剧</title>
+    <programme start="20210111152100" stop="20210111161100" channel="cetv1">
+        <title lang="cn">薛平贵与王宝钏(34)</title>
+    </programme>
+    <programme start="20210111161100" stop="20210111161300" channel="cetv1">
+        <title lang="cn">导视</title>
+    </programme>
+    <programme start="20210111161300" stop="20210111170300" channel="cetv1">
+        <title lang="cn">薛平贵与王宝钏(35)</title>
+    </programme>
+    <programme start="20210111170300" stop="20210111170500" channel="cetv1">
+        <title lang="cn">导视</title>
     </programme>
     <programme start="20210111170500" stop="20210111171500" channel="cetv1">
         <title lang="cn">教育新闻直播间</title>
     </programme>
-    <programme start="20210111171500" stop="20210111180500" channel="cetv1">
+    <programme start="20210111171500" stop="20210111173500" channel="cetv1">
         <title lang="cn">妈妈咪呀</title>
     </programme>
-    <programme start="20210111180500" stop="20210111183000" channel="cetv1">
-        <title lang="cn">动画片</title>
+    <programme start="20210111173500" stop="20210111180500" channel="cetv1">
+        <title lang="cn">美丽人生</title>
+    </programme>
+    <programme start="20210111180500" stop="20210111182700" channel="cetv1">
+        <title lang="cn">海豚帮帮号(17)</title>
+    </programme>
+    <programme start="20210111182700" stop="20210111183000" channel="cetv1">
+        <title lang="cn">导视</title>
     </programme>
     <programme start="20210111183000" stop="20210111185600" channel="cetv1">
         <title lang="cn">全国教育新闻联播</title>
     </programme>
-    <programme start="20210111185600" stop="20210111190000" channel="cetv1">
-        <title lang="cn">城市天气预报</title>
+    <programme start="20210111185600" stop="20210111185800" channel="cetv1">
+        <title lang="cn">华风气象</title>
+    </programme>
+    <programme start="20210111185800" stop="20210111190000" channel="cetv1">
+        <title lang="cn">导视</title>
     </programme>
     <programme start="20210111190000" stop="20210111193000" channel="cetv1">
         <title lang="cn">新闻联播</title>
     </programme>
-    <programme start="20210111193000" stop="20210111200000" channel="cetv1">
-        <title lang="cn">法治天下</title>
+    <programme start="20210111193000" stop="20210111193200" channel="cetv1">
+        <title lang="cn">导视</title>
     </programme>
-    <programme start="20210111200000" stop="20210111203000" channel="cetv1">
-        <title lang="cn">国史演义</title>
+    <programme start="20210111193200" stop="20210111195700" channel="cetv1">
+        <title lang="cn">发现中国(2)</title>
     </programme>
-    <programme start="20210111203000" stop="20210111211500" channel="cetv1">
+    <programme start="20210111195700" stop="20210111200000" channel="cetv1">
+        <title lang="cn">导视</title>
+    </programme>
+    <programme start="20210111200000" stop="20210111204300" channel="cetv1">
         <title lang="cn">e视界</title>
     </programme>
-    <programme start="20210111211500" stop="20210111212400" channel="cetv1">
+    <programme start="20210111204300" stop="20210111204500" channel="cetv1">
+        <title lang="cn">导视</title>
+    </programme>
+    <programme start="20210111204500" stop="20210111211000" channel="cetv1">
+        <title lang="cn">青春的旋律(9)</title>
+    </programme>
+    <programme start="20210111211000" stop="20210111211500" channel="cetv1">
+        <title lang="cn">导视</title>
+    </programme>
+    <programme start="20210111211500" stop="20210111212300" channel="cetv1">
         <title lang="cn">福彩开奖</title>
     </programme>
-    <programme start="20210111212400" stop="20210111223000" channel="cetv1">
-        <title lang="cn">健康公开课</title>
+    <programme start="20210111212300" stop="20210111213000" channel="cetv1">
+        <title lang="cn">导视</title>
     </programme>
-    <programme start="20210111223000" stop="20210111233000" channel="cetv1">
-        <title lang="cn">妈妈咪呀</title>
+    <programme start="20210111213000" stop="20210111215500" channel="cetv1">
+        <title lang="cn">美丽中国乡村行(7)</title>
+    </programme>
+    <programme start="20210111215500" stop="20210111222000" channel="cetv1">
+        <title lang="cn">美丽中国乡村行(8)</title>
+    </programme>
+    <programme start="20210111222000" stop="20210111223000" channel="cetv1">
+        <title lang="cn">导视</title>
+    </programme>
+    <programme start="20210111223000" stop="20210111225400" channel="cetv1">
+        <title lang="cn">法治天下(1)</title>
+    </programme>
+    <programme start="20210111225400" stop="20210111230000" channel="cetv1">
+        <title lang="cn">导视</title>
+    </programme>
+    <programme start="20210111230000" stop="20210111233000" channel="cetv1">
+        <title lang="cn">美丽人生</title>
     </programme>
     <programme start="20210111233000" stop="20210111235900" channel="cetv1">
-        <title lang="cn">电视剧</title>
+        <title lang="cn">战神(71)</title>
     </programme>
     <channel id="cetv2">
         <display-name lang="cn">CETV-2</display-name>
