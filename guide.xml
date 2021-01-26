@@ -112,7 +112,7 @@
         <title lang="cn">晚间新闻</title>
     </programme>
     <programme start="20210126223000" stop="20210126225100" channel="cctv1">
-        <title lang="cn">专题节目-1</title>
+        <title lang="cn">美术经典中的党史-2</title>
     </programme>
     <programme start="20210126225100" stop="20210126235900" channel="cctv1">
         <title lang="cn">国家宝藏(第三季)-4</title>
@@ -1056,26 +1056,29 @@
     <programme start="20210126172700" stop="20210126180500" channel="cctv10">
         <title lang="cn">地理·中国-2021-26</title>
     </programme>
-    <programme start="20210126180500" stop="20210126185400" channel="cctv10">
+    <programme start="20210126180500" stop="20210126183000" channel="cctv10">
+        <title lang="cn">人物故事-2021-20</title>
+    </programme>
+    <programme start="20210126183000" stop="20210126184500" channel="cctv10">
+        <title lang="cn">美术经典中的党史-1</title>
+    </programme>
+    <programme start="20210126184500" stop="20210126193300" channel="cctv10">
         <title lang="cn">健康之路-2021-26</title>
     </programme>
-    <programme start="20210126185400" stop="20210126193100" channel="cctv10">
+    <programme start="20210126193300" stop="20210126201100" channel="cctv10">
         <title lang="cn">美味寒假-16</title>
     </programme>
-    <programme start="20210126193100" stop="20210126204100" channel="cctv10">
+    <programme start="20210126201100" stop="20210126212200" channel="cctv10">
         <title lang="cn">2021奥秘-16</title>
     </programme>
-    <programme start="20210126204100" stop="20210126214000" channel="cctv10">
+    <programme start="20210126212200" stop="20210126222200" channel="cctv10">
         <title lang="cn">自然传奇-2021-26</title>
     </programme>
-    <programme start="20210126214000" stop="20210126222900" channel="cctv10">
+    <programme start="20210126222200" stop="20210126230900" channel="cctv10">
         <title lang="cn">探索·发现-2021-26</title>
     </programme>
-    <programme start="20210126222900" stop="20210126232600" channel="cctv10">
+    <programme start="20210126230900" stop="20210126235900" channel="cctv10">
         <title lang="cn">2021自然中的奥秘-3</title>
-    </programme>
-    <programme start="20210126232600" stop="20210126235900" channel="cctv10">
-        <title lang="cn">2021中国影像方志-12</title>
     </programme>
     <channel id="cctv11">
         <display-name lang="cn">CCTV-11 戏曲</display-name>
