@@ -102,7 +102,10 @@
     <programme start="20210204220000" stop="20210204223700" channel="cctv1">
         <title lang="cn">晚间新闻</title>
     </programme>
-    <programme start="20210204223700" stop="20210204235900" channel="cctv1">
+    <programme start="20210204223700" stop="20210204230900" channel="cctv1">
+        <title lang="cn">北京冬奥会倒计时一周年特别节目-逐梦冬奥</title>
+    </programme>
+    <programme start="20210204230900" stop="20210204235900" channel="cctv1">
         <title lang="cn">星光大道-2021-12</title>
     </programme>
     <channel id="cctv2">
@@ -1023,20 +1026,17 @@
     <programme start="20210204185400" stop="20210204193100" channel="cctv10">
         <title lang="cn">美味寒假-23</title>
     </programme>
-    <programme start="20210204193100" stop="20210204204100" channel="cctv10">
-        <title lang="cn">2021奥秘-23</title>
+    <programme start="20210204193100" stop="20210204211500" channel="cctv10">
+        <title lang="cn">典赞2020科普中国-1</title>
     </programme>
-    <programme start="20210204204100" stop="20210204214000" channel="cctv10">
+    <programme start="20210204211500" stop="20210204221500" channel="cctv10">
         <title lang="cn">自然传奇-2021-35</title>
     </programme>
-    <programme start="20210204214000" stop="20210204222900" channel="cctv10">
+    <programme start="20210204221500" stop="20210204230300" channel="cctv10">
         <title lang="cn">探索·发现-2021-35</title>
     </programme>
-    <programme start="20210204222900" stop="20210204232600" channel="cctv10">
+    <programme start="20210204230300" stop="20210204235900" channel="cctv10">
         <title lang="cn">2021自然中的奥秘-9</title>
-    </programme>
-    <programme start="20210204232600" stop="20210204235900" channel="cctv10">
-        <title lang="cn">自然传奇-2021-35</title>
     </programme>
     <channel id="cctv11">
         <display-name lang="cn">CCTV-11 戏曲</display-name>
