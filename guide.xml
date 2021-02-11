@@ -3,34 +3,25 @@
     <channel id="cctv1">
         <display-name lang="cn">CCTV-1 综合</display-name>
     </channel>
-    <programme start="20210212003900" stop="20210212021600" channel="cctv1">
+    <programme start="20210212010600" stop="20210212024300" channel="cctv1">
         <title lang="cn">中央广播电视总台2021网络春晚-1</title>
     </programme>
-    <programme start="20210212021600" stop="20210212022700" channel="cctv1">
-        <title lang="cn">精彩一刻-2020-156新航拍中国第三季安徽山村</title>
+    <programme start="20210212024300" stop="20210212025000" channel="cctv1">
+        <title lang="cn">经典咏流传-《可爱的中国》</title>
     </programme>
-    <programme start="20210212022700" stop="20210212023500" channel="cctv1">
-        <title lang="cn">精彩一刻-2020-157新航拍中国第三季安徽水道</title>
-    </programme>
-    <programme start="20210212023500" stop="20210212024400" channel="cctv1">
-        <title lang="cn">精彩一刻-2020-159新航拍中国第三季安徽民生</title>
-    </programme>
-    <programme start="20210212024400" stop="20210212025200" channel="cctv1">
-        <title lang="cn">精彩一刻-2020-155新航拍中国第三季安徽黄山</title>
-    </programme>
-    <programme start="20210212025200" stop="20210212025500" channel="cctv1">
+    <programme start="20210212025000" stop="20210212025300" channel="cctv1">
         <title lang="cn">第八批中国梦主题新创作歌曲-起大樑</title>
     </programme>
-    <programme start="20210212025500" stop="20210212025900" channel="cctv1">
+    <programme start="20210212025300" stop="20210212025700" channel="cctv1">
         <title lang="cn">第八批中国梦主题新创作歌曲-人民是天</title>
     </programme>
-    <programme start="20210212025900" stop="20210212030300" channel="cctv1">
+    <programme start="20210212025700" stop="20210212030100" channel="cctv1">
         <title lang="cn">第八批中国梦主题新创作歌曲-国旗之下</title>
     </programme>
-    <programme start="20210212030300" stop="20210212031000" channel="cctv1">
+    <programme start="20210212030100" stop="20210212030800" channel="cctv1">
         <title lang="cn">经典咏流传-《为祖国而歌》</title>
     </programme>
-    <programme start="20210212031000" stop="20210212034400" channel="cctv1">
+    <programme start="20210212030800" stop="20210212034400" channel="cctv1">
         <title lang="cn">动物世界-2021-30</title>
     </programme>
     <programme start="20210212034400" stop="20210212042900" channel="cctv1">
@@ -78,10 +69,10 @@
     <programme start="20210212194100" stop="20210212200600" channel="cctv1">
         <title lang="cn">焦点访谈</title>
     </programme>
-    <programme start="20210212200600" stop="20210212213600" channel="cctv1">
+    <programme start="20210212200600" stop="20210212213800" channel="cctv1">
         <title lang="cn">典籍里的中国-1</title>
     </programme>
-    <programme start="20210212213600" stop="20210212220000" channel="cctv1">
+    <programme start="20210212213800" stop="20210212220000" channel="cctv1">
         <title lang="cn">有“典”意思-《尚书》</title>
     </programme>
     <programme start="20210212220000" stop="20210212223700" channel="cctv1">
@@ -171,14 +162,17 @@
     <channel id="cctv3">
         <display-name lang="cn">CCTV-3 综艺</display-name>
     </channel>
-    <programme start="20210212004700" stop="20210212051800" channel="cctv3">
+    <programme start="20210212011300" stop="20210212061100" channel="cctv3">
         <title lang="cn">2021年春节联欢晚会-直播</title>
     </programme>
-    <programme start="20210212051800" stop="20210212055100" channel="cctv3">
-        <title lang="cn">综艺喜乐汇-2021-1</title>
+    <programme start="20210212061100" stop="20210212062200" channel="cctv3">
+        <title lang="cn">文化十分-2021-30</title>
     </programme>
-    <programme start="20210212055100" stop="20210212071900" channel="cctv3">
-        <title lang="cn">金牌喜剧班-2020-1</title>
+    <programme start="20210212062200" stop="20210212071300" channel="cctv3">
+        <title lang="cn">非常6+1-2021-5</title>
+    </programme>
+    <programme start="20210212071300" stop="20210212071900" channel="cctv3">
+        <title lang="cn">第八批中国梦主题新创作歌曲-年画</title>
     </programme>
     <programme start="20210212071900" stop="20210212073100" channel="cctv3">
         <title lang="cn">文化十分-2021-30</title>
@@ -213,11 +207,8 @@
     <channel id="cctv4">
         <display-name lang="cn">CCTV-4 (亚洲)</display-name>
     </channel>
-    <programme start="20210212003900" stop="20210212010700" channel="cctv4">
+    <programme start="20210212010600" stop="20210212013500" channel="cctv4">
         <title lang="cn">中国文艺-2021-22</title>
-    </programme>
-    <programme start="20210212010700" stop="20210212013500" channel="cctv4">
-        <title lang="cn">中国文艺-2021-23</title>
     </programme>
     <programme start="20210212013500" stop="20210212014300" channel="cctv4">
         <title lang="cn">寻找两岸文化传人-传承-碎片5分钟版1</title>
@@ -486,7 +477,7 @@
     <channel id="cctv7">
         <display-name lang="cn">CCTV-7 国防军事</display-name>
     </channel>
-    <programme start="20210212004800" stop="20210212060300" channel="cctv7">
+    <programme start="20210212011400" stop="20210212060300" channel="cctv7">
         <title lang="cn">再见</title>
     </programme>
     <programme start="20210212060300" stop="20210212063400" channel="cctv7">
@@ -1167,7 +1158,7 @@
     <channel id="cctvchild">
         <display-name lang="cn">CCTV-14 少儿</display-name>
     </channel>
-    <programme start="20210212003000" stop="20210212060000" channel="cctvchild">
+    <programme start="20210212005600" stop="20210212060000" channel="cctvchild">
         <title lang="cn">再见</title>
     </programme>
     <programme start="20210212060000" stop="20210212070000" channel="cctvchild">
@@ -1266,7 +1257,7 @@
     <channel id="cctv17">
         <display-name lang="cn">CCTV-17农业农村</display-name>
     </channel>
-    <programme start="20210212004400" stop="20210212055600" channel="cctv17">
+    <programme start="20210212011100" stop="20210212055600" channel="cctv17">
         <title lang="cn">再见</title>
     </programme>
     <programme start="20210212055600" stop="20210212060000" channel="cctv17">
