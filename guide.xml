@@ -45,19 +45,28 @@
     <programme start="20210212060000" stop="20210212083000" channel="cctv1">
         <title lang="cn">朝闻天下</title>
     </programme>
-    <programme start="20210212083000" stop="20210212120000" channel="cctv1">
+    <programme start="20210212083000" stop="20210212083700" channel="cctv1">
+        <title lang="cn">经典咏流传-《可爱的中国》</title>
+    </programme>
+    <programme start="20210212083700" stop="20210212084300" channel="cctv1">
+        <title lang="cn">经典咏流传-《为祖国而歌》</title>
+    </programme>
+    <programme start="20210212084300" stop="20210212143400" channel="cctv1">
         <title lang="cn">2021年春节联欢晚会-直送（初一）</title>
     </programme>
-    <programme start="20210212120000" stop="20210212123000" channel="cctv1">
-        <title lang="cn">新闻30分</title>
-    </programme>
-    <programme start="20210212123000" stop="20210212144800" channel="cctv1">
-        <title lang="cn">2021年春节联欢晚会-直送（初一）</title>
-    </programme>
-    <programme start="20210212144800" stop="20210212164100" channel="cctv1">
+    <programme start="20210212143400" stop="20210212161900" channel="cctv1">
         <title lang="cn">中央广播电视总台2021网络春晚-1</title>
     </programme>
-    <programme start="20210212164100" stop="20210212185100" channel="cctv1">
+    <programme start="20210212161900" stop="20210212162500" channel="cctv1">
+        <title lang="cn">经典咏流传-《青春》</title>
+    </programme>
+    <programme start="20210212162500" stop="20210212163000" channel="cctv1">
+        <title lang="cn">经典咏流传-《为祖国而歌》</title>
+    </programme>
+    <programme start="20210212163000" stop="20210212164500" channel="cctv1">
+        <title lang="cn">经典咏流传-《可爱的中国》</title>
+    </programme>
+    <programme start="20210212164500" stop="20210212185100" channel="cctv1">
         <title lang="cn">2021年春节联欢晚会-语言节目集锦（初一）直送</title>
     </programme>
     <programme start="20210212185100" stop="20210212190000" channel="cctv1">
@@ -126,23 +135,11 @@
     <programme start="20210212111800" stop="20210212113000" channel="cctv2">
         <title lang="cn">周末特供2021-43</title>
     </programme>
-    <programme start="20210212113000" stop="20210212161300" channel="cctv2">
+    <programme start="20210212113000" stop="20210212164200" channel="cctv2">
         <title lang="cn">2021年春节联欢晚会-直送（初一）</title>
     </programme>
-    <programme start="20210212161300" stop="20210212164300" channel="cctv2">
+    <programme start="20210212164200" stop="20210212171200" channel="cctv2">
         <title lang="cn">生财有道-云聚中国年特别节目-2</title>
-    </programme>
-    <programme start="20210212164300" stop="20210212165300" channel="cctv2">
-        <title lang="cn">周末特供2021-46</title>
-    </programme>
-    <programme start="20210212165300" stop="20210212170200" channel="cctv2">
-        <title lang="cn">周末特供2021-47</title>
-    </programme>
-    <programme start="20210212170200" stop="20210212170800" channel="cctv2">
-        <title lang="cn">周末特供2021-41</title>
-    </programme>
-    <programme start="20210212170800" stop="20210212171200" channel="cctv2">
-        <title lang="cn">周末特供2021-52</title>
     </programme>
     <programme start="20210212171200" stop="20210212173700" channel="cctv2">
         <title lang="cn">2021精品财经纪录-千年陕菜-2</title>
@@ -183,14 +180,20 @@
     <programme start="20210212084400" stop="20210212090000" channel="cctv3">
         <title lang="cn">文化十分-2021-31</title>
     </programme>
-    <programme start="20210212090000" stop="20210212112800" channel="cctv3">
+    <programme start="20210212090000" stop="20210212112500" channel="cctv3">
         <title lang="cn">2021年春节联欢晚会-语言节目集锦（初一）直送</title>
     </programme>
-    <programme start="20210212112800" stop="20210212162200" channel="cctv3">
+    <programme start="20210212112500" stop="20210212163900" channel="cctv3">
         <title lang="cn">2021年春节联欢晚会-直送（初一）</title>
     </programme>
-    <programme start="20210212162200" stop="20210212170600" channel="cctv3">
-        <title lang="cn">综艺喜乐汇-2021-21</title>
+    <programme start="20210212163900" stop="20210212165500" channel="cctv3">
+        <title lang="cn">文化十分-2021-31</title>
+    </programme>
+    <programme start="20210212165500" stop="20210212165800" channel="cctv3">
+        <title lang="cn">第八批中国梦主题新创作歌曲-春风十万里(2020年版)</title>
+    </programme>
+    <programme start="20210212165800" stop="20210212170600" channel="cctv3">
+        <title lang="cn">第八批中国梦主题新创作歌曲-青春的起点</title>
     </programme>
     <programme start="20210212170600" stop="20210212182700" channel="cctv3">
         <title lang="cn">2021年春节联欢晚会-春晚进行时</title>
@@ -202,7 +205,7 @@
         <title lang="cn">2021新春喜剧之夜-1</title>
     </programme>
     <programme start="20210212222300" stop="20210212235900" channel="cctv3">
-        <title lang="cn">2021年春节联欢晚会-语言节目集锦（初一）超时备用</title>
+        <title lang="cn">2021年春节联欢晚会-语言节目集锦（初一）直送</title>
     </programme>
     <channel id="cctv4">
         <display-name lang="cn">CCTV-4 (亚洲)</display-name>
@@ -246,26 +249,17 @@
     <programme start="20210212070200" stop="20210212080000" channel="cctv4">
         <title lang="cn">中国文艺-致敬经典2021-9</title>
     </programme>
-    <programme start="20210212080000" stop="20210212090000" channel="cctv4">
+    <programme start="20210212080000" stop="20210212090100" channel="cctv4">
         <title lang="cn">今日环球</title>
     </programme>
-    <programme start="20210212090000" stop="20210212120000" channel="cctv4">
+    <programme start="20210212090100" stop="20210212151200" channel="cctv4">
         <title lang="cn">2021年春节联欢晚会-直送（初一）</title>
     </programme>
-    <programme start="20210212120000" stop="20210212130000" channel="cctv4">
-        <title lang="cn">中国新闻</title>
+    <programme start="20210212151200" stop="20210212151400" channel="cctv4">
+        <title lang="cn">请您欣赏：北京风光 3</title>
     </programme>
-    <programme start="20210212130000" stop="20210212144500" channel="cctv4">
+    <programme start="20210212151400" stop="20210212203000" channel="cctv4">
         <title lang="cn">2021年春节联欢晚会-直送（初一）</title>
-    </programme>
-    <programme start="20210212144500" stop="20210212192900" channel="cctv4">
-        <title lang="cn">2021年春节联欢晚会-直送（初一）</title>
-    </programme>
-    <programme start="20210212192900" stop="20210212195900" channel="cctv4">
-        <title lang="cn">中国文艺-2021-26</title>
-    </programme>
-    <programme start="20210212195900" stop="20210212203000" channel="cctv4">
-        <title lang="cn">中国文艺-2021-27</title>
     </programme>
     <programme start="20210212203000" stop="20210212210000" channel="cctv4">
         <title lang="cn">海峡两岸-2021-43</title>
@@ -1296,25 +1290,25 @@
     <programme start="20210212132200" stop="20210212141500" channel="cctv17">
         <title lang="cn">我在北京，挺好的第2集</title>
     </programme>
-    <programme start="20210212141500" stop="20210212190000" channel="cctv17">
+    <programme start="20210212141500" stop="20210212192600" channel="cctv17">
         <title lang="cn">2021年春节联欢晚会-直送（初一）</title>
     </programme>
-    <programme start="20210212190000" stop="20210212194500" channel="cctv17">
+    <programme start="20210212192600" stop="20210212201100" channel="cctv17">
         <title lang="cn">乡村剧场（栏目剧）-双喜盈门12</title>
     </programme>
-    <programme start="20210212194500" stop="20210212203000" channel="cctv17">
+    <programme start="20210212201100" stop="20210212205600" channel="cctv17">
         <title lang="cn">乡村剧场（栏目剧）-双喜盈门13</title>
     </programme>
-    <programme start="20210212203000" stop="20210212210000" channel="cctv17">
+    <programme start="20210212205600" stop="20210212212600" channel="cctv17">
         <title lang="cn">年画画年-2021-1</title>
     </programme>
-    <programme start="20210212210000" stop="20210212213000" channel="cctv17">
+    <programme start="20210212212600" stop="20210212215600" channel="cctv17">
         <title lang="cn">中国三农报道</title>
     </programme>
-    <programme start="20210212213000" stop="20210212230000" channel="cctv17">
+    <programme start="20210212215600" stop="20210212232600" channel="cctv17">
         <title lang="cn">幸福节节高-1</title>
     </programme>
-    <programme start="20210212230000" stop="20210212235900" channel="cctv17">
+    <programme start="20210212232600" stop="20210212235900" channel="cctv17">
         <title lang="cn">大地讲堂-2021-6</title>
     </programme>
     <channel id="cetv1">
