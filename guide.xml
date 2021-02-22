@@ -159,11 +159,11 @@
     <programme start="20210222120000" stop="20210222130000" channel="cctv2">
         <title lang="cn">天下财经</title>
     </programme>
-    <programme start="20210222130000" stop="20210222145600" channel="cctv2">
-        <title lang="cn">2021年春节联欢晚会-语言节目集锦（初二）</title>
+    <programme start="20210222130000" stop="20210222141500" channel="cctv2">
+        <title lang="cn">开门大吉-3</title>
     </programme>
-    <programme start="20210222145600" stop="20210222150000" channel="cctv2">
-        <title lang="cn">周末特供2021-53</title>
+    <programme start="20210222141500" stop="20210222150000" channel="cctv2">
+        <title lang="cn">2020精品财经纪录-老广的味道第五季-6</title>
     </programme>
     <programme start="20210222150000" stop="20210222153400" channel="cctv2">
         <title lang="cn">正点财经</title>
@@ -357,11 +357,8 @@
     <programme start="20210222090000" stop="20210222100000" channel="cctv4">
         <title lang="cn">中国舆论场-2021-7</title>
     </programme>
-    <programme start="20210222100000" stop="20210222110000" channel="cctv4">
+    <programme start="20210222100000" stop="20210222113000" channel="cctv4">
         <title lang="cn">2021年国新办发布会-4</title>
-    </programme>
-    <programme start="20210222110000" stop="20210222113000" channel="cctv4">
-        <title lang="cn">美食中国-2021-52</title>
     </programme>
     <programme start="20210222113000" stop="20210222120000" channel="cctv4">
         <title lang="cn">海峡两岸-2021-52</title>
@@ -1581,98 +1578,170 @@
     <channel id="cetv1">
         <display-name lang="cn">CETV-1</display-name>
     </channel>
-    <programme start="20210222042200" stop="20210222050800" channel="cetv1">
-        <title lang="cn">博物馆之夜</title>
+    <programme start="20210222041500" stop="20210222041600" channel="cetv1">
+        <title lang="cn">导视</title>
     </programme>
-    <programme start="20210222050800" stop="20210222060500" channel="cetv1">
-        <title lang="cn">电视剧</title>
+    <programme start="20210222041600" stop="20210222050100" channel="cetv1">
+        <title lang="cn">博物馆之夜国庆特别节目(1)</title>
     </programme>
-    <programme start="20210222060500" stop="20210222070000" channel="cetv1">
-        <title lang="cn">电视剧</title>
+    <programme start="20210222050100" stop="20210222050200" channel="cetv1">
+        <title lang="cn">导视</title>
+    </programme>
+    <programme start="20210222050200" stop="20210222060000" channel="cetv1">
+        <title lang="cn">大刀记(7)</title>
+    </programme>
+    <programme start="20210222060000" stop="20210222065800" channel="cetv1">
+        <title lang="cn">大刀记(8)</title>
+    </programme>
+    <programme start="20210222065800" stop="20210222070000" channel="cetv1">
+        <title lang="cn">导视</title>
     </programme>
     <programme start="20210222070000" stop="20210222070100" channel="cetv1">
         <title lang="cn">中华人民共和国国歌</title>
     </programme>
-    <programme start="20210222070100" stop="20210222084100" channel="cetv1">
-        <title lang="cn">电视剧</title>
+    <programme start="20210222070100" stop="20210222070200" channel="cetv1">
+        <title lang="cn">导视</title>
     </programme>
-    <programme start="20210222084100" stop="20210222093200" channel="cetv1">
-        <title lang="cn">电视剧</title>
+    <programme start="20210222070200" stop="20210222075200" channel="cetv1">
+        <title lang="cn">雪豹坚强岁月(4)</title>
     </programme>
-    <programme start="20210222093200" stop="20210222102300" channel="cetv1">
-        <title lang="cn">电视剧</title>
+    <programme start="20210222075200" stop="20210222084200" channel="cetv1">
+        <title lang="cn">雪豹坚强岁月(5)</title>
+    </programme>
+    <programme start="20210222084200" stop="20210222084300" channel="cetv1">
+        <title lang="cn">导视</title>
+    </programme>
+    <programme start="20210222084300" stop="20210222093300" channel="cetv1">
+        <title lang="cn">雪豹坚强岁月(6)</title>
+    </programme>
+    <programme start="20210222093300" stop="20210222102300" channel="cetv1">
+        <title lang="cn">雪豹坚强岁月(7)</title>
     </programme>
     <programme start="20210222102300" stop="20210222111300" channel="cetv1">
-        <title lang="cn">电视剧</title>
+        <title lang="cn">雪豹坚强岁月(8)</title>
     </programme>
-    <programme start="20210222111300" stop="20210222120500" channel="cetv1">
+    <programme start="20210222111300" stop="20210222113300" channel="cetv1">
         <title lang="cn">妈妈咪呀</title>
+    </programme>
+    <programme start="20210222113300" stop="20210222120300" channel="cetv1">
+        <title lang="cn">美丽人生</title>
+    </programme>
+    <programme start="20210222120300" stop="20210222120500" channel="cetv1">
+        <title lang="cn">导视</title>
     </programme>
     <programme start="20210222120500" stop="20210222121500" channel="cetv1">
         <title lang="cn">教育新闻直播间</title>
     </programme>
     <programme start="20210222121500" stop="20210222121700" channel="cetv1">
-        <title lang="cn">城市天气预报</title>
+        <title lang="cn">华风气象</title>
     </programme>
     <programme start="20210222121700" stop="20210222130100" channel="cetv1">
-        <title lang="cn">留学为你来</title>
+        <title lang="cn">法治天下(9)</title>
     </programme>
-    <programme start="20210222130100" stop="20210222133000" channel="cetv1">
-        <title lang="cn">发现中国</title>
+    <programme start="20210222130100" stop="20210222130200" channel="cetv1">
+        <title lang="cn">导视</title>
+    </programme>
+    <programme start="20210222130200" stop="20210222132700" channel="cetv1">
+        <title lang="cn">2020读懂中国微视频展播(2)</title>
+    </programme>
+    <programme start="20210222132700" stop="20210222133000" channel="cetv1">
+        <title lang="cn">导视</title>
     </programme>
     <programme start="20210222133000" stop="20210222142000" channel="cetv1">
-        <title lang="cn">电视剧</title>
+        <title lang="cn">飞虎队(14)</title>
     </programme>
     <programme start="20210222142000" stop="20210222151000" channel="cetv1">
-        <title lang="cn">电视剧</title>
+        <title lang="cn">飞虎队(15)</title>
     </programme>
-    <programme start="20210222151000" stop="20210222152100" channel="cetv1">
+    <programme start="20210222151000" stop="20210222152000" channel="cetv1">
         <title lang="cn">教育新闻直播间</title>
     </programme>
-    <programme start="20210222152100" stop="20210222161300" channel="cetv1">
-        <title lang="cn">电视剧</title>
+    <programme start="20210222152000" stop="20210222152100" channel="cetv1">
+        <title lang="cn">导视</title>
     </programme>
-    <programme start="20210222161300" stop="20210222170500" channel="cetv1">
-        <title lang="cn">电视剧</title>
+    <programme start="20210222152100" stop="20210222161100" channel="cetv1">
+        <title lang="cn">飞虎队(16)</title>
+    </programme>
+    <programme start="20210222161100" stop="20210222161300" channel="cetv1">
+        <title lang="cn">导视</title>
+    </programme>
+    <programme start="20210222161300" stop="20210222170300" channel="cetv1">
+        <title lang="cn">飞虎队(17)</title>
+    </programme>
+    <programme start="20210222170300" stop="20210222170500" channel="cetv1">
+        <title lang="cn">导视</title>
     </programme>
     <programme start="20210222170500" stop="20210222171500" channel="cetv1">
         <title lang="cn">教育新闻直播间</title>
     </programme>
-    <programme start="20210222171500" stop="20210222180500" channel="cetv1">
+    <programme start="20210222171500" stop="20210222173500" channel="cetv1">
         <title lang="cn">妈妈咪呀</title>
     </programme>
-    <programme start="20210222180500" stop="20210222183000" channel="cetv1">
-        <title lang="cn">动画片</title>
+    <programme start="20210222173500" stop="20210222180500" channel="cetv1">
+        <title lang="cn">美丽人生</title>
+    </programme>
+    <programme start="20210222180500" stop="20210222182500" channel="cetv1">
+        <title lang="cn">舒克贝塔2(8)</title>
+    </programme>
+    <programme start="20210222182500" stop="20210222183000" channel="cetv1">
+        <title lang="cn">导视</title>
     </programme>
     <programme start="20210222183000" stop="20210222185600" channel="cetv1">
         <title lang="cn">全国教育新闻联播</title>
     </programme>
-    <programme start="20210222185600" stop="20210222190000" channel="cetv1">
-        <title lang="cn">城市天气预报</title>
+    <programme start="20210222185600" stop="20210222185800" channel="cetv1">
+        <title lang="cn">华风气象</title>
+    </programme>
+    <programme start="20210222185800" stop="20210222190000" channel="cetv1">
+        <title lang="cn">导视</title>
     </programme>
     <programme start="20210222190000" stop="20210222193000" channel="cetv1">
         <title lang="cn">新闻联播</title>
     </programme>
     <programme start="20210222193000" stop="20210222200000" channel="cetv1">
-        <title lang="cn">法治天下</title>
+        <title lang="cn">健康公开课(18)</title>
     </programme>
-    <programme start="20210222200000" stop="20210222203000" channel="cetv1">
-        <title lang="cn">国史演义</title>
-    </programme>
-    <programme start="20210222203000" stop="20210222211500" channel="cetv1">
+    <programme start="20210222200000" stop="20210222204300" channel="cetv1">
         <title lang="cn">e视界</title>
     </programme>
-    <programme start="20210222211500" stop="20210222212400" channel="cetv1">
+    <programme start="20210222204300" stop="20210222204500" channel="cetv1">
+        <title lang="cn">导视</title>
+    </programme>
+    <programme start="20210222204500" stop="20210222210900" channel="cetv1">
+        <title lang="cn">长安书院春节特别节目(1)</title>
+    </programme>
+    <programme start="20210222210900" stop="20210222211500" channel="cetv1">
+        <title lang="cn">导视</title>
+    </programme>
+    <programme start="20210222211500" stop="20210222212300" channel="cetv1">
         <title lang="cn">福彩开奖</title>
     </programme>
-    <programme start="20210222212400" stop="20210222223000" channel="cetv1">
-        <title lang="cn">健康公开课</title>
+    <programme start="20210222212300" stop="20210222213000" channel="cetv1">
+        <title lang="cn">导视</title>
     </programme>
-    <programme start="20210222223000" stop="20210222233000" channel="cetv1">
+    <programme start="20210222213000" stop="20210222220000" channel="cetv1">
+        <title lang="cn">发现中国(37)</title>
+    </programme>
+    <programme start="20210222220000" stop="20210222220500" channel="cetv1">
+        <title lang="cn">导视</title>
+    </programme>
+    <programme start="20210222220500" stop="20210222221000" channel="cetv1">
+        <title lang="cn">学写字2021春节特别节目(23)</title>
+    </programme>
+    <programme start="20210222221000" stop="20210222221500" channel="cetv1">
+        <title lang="cn">学写字2021春节特别节目(24)</title>
+    </programme>
+    <programme start="20210222221500" stop="20210222223000" channel="cetv1">
+        <title lang="cn">导视</title>
+    </programme>
+    <programme start="20210222223000" stop="20210222230000" channel="cetv1">
         <title lang="cn">妈妈咪呀</title>
     </programme>
+    <programme start="20210222230000" stop="20210222233000" channel="cetv1">
+        <title lang="cn">美丽人生</title>
+    </programme>
     <programme start="20210222233000" stop="20210222235900" channel="cetv1">
-        <title lang="cn">电视剧</title>
+        <title lang="cn">决战燕子门(52)</title>
     </programme>
     <channel id="cetv2">
         <display-name lang="cn">CETV-2</display-name>
@@ -2088,19 +2157,28 @@
     <channel id="dongfang">
         <display-name lang="cn">东方卫视</display-name>
     </channel>
-    <programme start="20210222044200" stop="20210222054900" channel="dongfang">
-        <title lang="cn">梦想改造家3(10)</title>
-    </programme>
-    <programme start="20210222054900" stop="20210222055200" channel="dongfang">
+    <programme start="20210222042700" stop="20210222043100" channel="dongfang">
         <title lang="cn">明日精彩看点</title>
     </programme>
-    <programme start="20210222055200" stop="20210222063400" channel="dongfang">
-        <title lang="cn">急诊室故事</title>
+    <programme start="20210222043100" stop="20210222052900" channel="dongfang">
+        <title lang="cn">梦想改造家6(2)</title>
     </programme>
-    <programme start="20210222063400" stop="20210222063500" channel="dongfang">
+    <programme start="20210222052900" stop="20210222062400" channel="dongfang">
+        <title lang="cn">梦想改造家1精编(8)</title>
+    </programme>
+    <programme start="20210222062400" stop="20210222062600" channel="dongfang">
+        <title lang="cn">片花</title>
+    </programme>
+    <programme start="20210222062600" stop="20210222062800" channel="dongfang">
         <title lang="cn">第八批爱国歌曲:青春的起点</title>
     </programme>
-    <programme start="20210222063500" stop="20210222070000" channel="dongfang">
+    <programme start="20210222062800" stop="20210222063300" channel="dongfang">
+        <title lang="cn">第八批爱国歌曲:此生最爱是梨园</title>
+    </programme>
+    <programme start="20210222063300" stop="20210222063700" channel="dongfang">
+        <title lang="cn">明日精彩看点</title>
+    </programme>
+    <programme start="20210222063700" stop="20210222070000" channel="dongfang">
         <title lang="cn">1/7(459)</title>
     </programme>
     <programme start="20210222070000" stop="20210222070100" channel="dongfang">
@@ -2109,37 +2187,40 @@
     <programme start="20210222070100" stop="20210222085900" channel="dongfang">
         <title lang="cn">看东方</title>
     </programme>
-    <programme start="20210222085900" stop="20210222090200" channel="dongfang">
+    <programme start="20210222085900" stop="20210222090100" channel="dongfang">
         <title lang="cn">天气预报</title>
     </programme>
-    <programme start="20210222090200" stop="20210222093100" channel="dongfang">
-        <title lang="cn">潮童天下精编(508)</title>
+    <programme start="20210222090100" stop="20210222092600" channel="dongfang">
+        <title lang="cn">潮童天下精编(506)</title>
     </programme>
-    <programme start="20210222093100" stop="20210222105100" channel="dongfang">
-        <title lang="cn">妈妈咪呀精编</title>
+    <programme start="20210222092600" stop="20210222105800" channel="dongfang">
+        <title lang="cn">妈妈咪呀1(5)</title>
     </programme>
-    <programme start="20210222105100" stop="20210222120000" channel="dongfang">
-        <title lang="cn">妈妈咪呀精编</title>
+    <programme start="20210222105800" stop="20210222120000" channel="dongfang">
+        <title lang="cn">妈妈咪呀2(8)</title>
     </programme>
     <programme start="20210222120000" stop="20210222122600" channel="dongfang">
         <title lang="cn">午间30分</title>
     </programme>
-    <programme start="20210222122600" stop="20210222123100" channel="dongfang">
+    <programme start="20210222122600" stop="20210222122900" channel="dongfang">
         <title lang="cn">天气预报</title>
     </programme>
-    <programme start="20210222123100" stop="20210222141700" channel="dongfang">
-        <title lang="cn">东方综艺大赏:歌曲,小品,相声</title>
+    <programme start="20210222122900" stop="20210222133500" channel="dongfang">
+        <title lang="cn">东方贺新春(7)</title>
     </programme>
-    <programme start="20210222141700" stop="20210222155200" channel="dongfang">
-        <title lang="cn">东方综艺大赏:歌曲,小品,相声</title>
+    <programme start="20210222133500" stop="20210222142900" channel="dongfang">
+        <title lang="cn">历年和2021年东方卫视春节晚会</title>
     </programme>
-    <programme start="20210222155200" stop="20210222171100" channel="dongfang">
+    <programme start="20210222142900" stop="20210222153200" channel="dongfang">
+        <title lang="cn">历年和2021年东方卫视春节晚会</title>
+    </programme>
+    <programme start="20210222153200" stop="20210222171900" channel="dongfang">
         <title lang="cn">欢乐喜剧人7</title>
     </programme>
-    <programme start="20210222171100" stop="20210222173300" channel="dongfang">
+    <programme start="20210222171900" stop="20210222173700" channel="dongfang">
         <title lang="cn">文娱新天地</title>
     </programme>
-    <programme start="20210222173300" stop="20210222180000" channel="dongfang">
+    <programme start="20210222173700" stop="20210222180000" channel="dongfang">
         <title lang="cn">名医话养生(288):响在耳边的警报</title>
     </programme>
     <programme start="20210222180000" stop="20210222185700" channel="dongfang">
@@ -2148,32 +2229,32 @@
     <programme start="20210222185700" stop="20210222190000" channel="dongfang">
         <title lang="cn">天气预报</title>
     </programme>
-    <programme start="20210222190000" stop="20210222193400" channel="dongfang">
+    <programme start="20210222190000" stop="20210222193200" channel="dongfang">
         <title lang="cn">新闻联播</title>
     </programme>
-    <programme start="20210222193400" stop="20210222202200" channel="dongfang">
+    <programme start="20210222193200" stop="20210222202200" channel="dongfang">
         <title lang="cn">电视剧：正青春(45)</title>
     </programme>
-    <programme start="20210222202200" stop="20210222205700" channel="dongfang">
+    <programme start="20210222202200" stop="20210222210400" channel="dongfang">
         <title lang="cn">电视剧：正青春(46)</title>
     </programme>
-    <programme start="20210222205700" stop="20210222210900" channel="dongfang">
+    <programme start="20210222210400" stop="20210222211400" channel="dongfang">
         <title lang="cn">明日精彩看点</title>
     </programme>
-    <programme start="20210222210900" stop="20210222212000" channel="dongfang">
+    <programme start="20210222211400" stop="20210222212000" channel="dongfang">
         <title lang="cn">东方看大剧</title>
     </programme>
     <programme start="20210222212000" stop="20210222215900" channel="dongfang">
         <title lang="cn">今晚</title>
     </programme>
-    <programme start="20210222215900" stop="20210222220200" channel="dongfang">
+    <programme start="20210222215900" stop="20210222220000" channel="dongfang">
         <title lang="cn">天气预报</title>
     </programme>
-    <programme start="20210222220200" stop="20210222230100" channel="dongfang">
+    <programme start="20210222220000" stop="20210222225200" channel="dongfang">
         <title lang="cn">东方大看点</title>
     </programme>
-    <programme start="20210222230100" stop="20210222235900" channel="dongfang">
-        <title lang="cn">东方综艺大赏:歌曲,小品,相声</title>
+    <programme start="20210222225200" stop="20210222235900" channel="dongfang">
+        <title lang="cn">东方贺新春(4)</title>
     </programme>
     <channel id="hunan">
         <display-name lang="cn">湖南卫视</display-name>
@@ -2992,52 +3073,52 @@
         <title lang="cn">等着我</title>
     </programme>
     <programme start="20210222093700" stop="20210222095700" channel="travel">
-        <title lang="cn">电视剧</title>
+        <title lang="cn">电视剧:薛平贵与王宝钏 96</title>
     </programme>
-    <programme start="20210222095700" stop="20210222103700" channel="travel">
-        <title lang="cn">电视剧</title>
+    <programme start="20210222095700" stop="20210222103800" channel="travel">
+        <title lang="cn">电视剧:薛平贵与王宝钏 97</title>
     </programme>
-    <programme start="20210222103700" stop="20210222105700" channel="travel">
-        <title lang="cn">电视剧</title>
+    <programme start="20210222103800" stop="20210222105800" channel="travel">
+        <title lang="cn">电视剧:薛平贵与王宝钏 98</title>
     </programme>
-    <programme start="20210222105700" stop="20210222113900" channel="travel">
-        <title lang="cn">电视剧</title>
+    <programme start="20210222105800" stop="20210222113800" channel="travel">
+        <title lang="cn">电视剧:薛平贵与王宝钏 99</title>
     </programme>
-    <programme start="20210222113900" stop="20210222115800" channel="travel">
-        <title lang="cn">电视剧</title>
+    <programme start="20210222113800" stop="20210222115900" channel="travel">
+        <title lang="cn">电视剧:薛平贵与王宝钏 100</title>
     </programme>
-    <programme start="20210222115800" stop="20210222123900" channel="travel">
-        <title lang="cn">电视剧</title>
+    <programme start="20210222115900" stop="20210222123900" channel="travel">
+        <title lang="cn">电视剧:薛平贵与王宝钏101</title>
     </programme>
     <programme start="20210222123900" stop="20210222130000" channel="travel">
-        <title lang="cn">电视剧</title>
+        <title lang="cn">电视剧:黑狐之风影51</title>
     </programme>
-    <programme start="20210222130000" stop="20210222134000" channel="travel">
-        <title lang="cn">电视剧</title>
+    <programme start="20210222130000" stop="20210222134100" channel="travel">
+        <title lang="cn">电视剧:黑狐之风影52</title>
     </programme>
-    <programme start="20210222134000" stop="20210222140100" channel="travel">
-        <title lang="cn">电视剧</title>
+    <programme start="20210222134100" stop="20210222140100" channel="travel">
+        <title lang="cn">电视剧:黑狐之风影53</title>
     </programme>
-    <programme start="20210222140100" stop="20210222144100" channel="travel">
-        <title lang="cn">电视剧</title>
+    <programme start="20210222140100" stop="20210222144200" channel="travel">
+        <title lang="cn">电视剧:黑狐之风影54</title>
     </programme>
-    <programme start="20210222144100" stop="20210222150100" channel="travel">
-        <title lang="cn">电视剧</title>
+    <programme start="20210222144200" stop="20210222150200" channel="travel">
+        <title lang="cn">电视剧:黑狐之风影55</title>
     </programme>
-    <programme start="20210222150100" stop="20210222154200" channel="travel">
-        <title lang="cn">电视剧</title>
+    <programme start="20210222150200" stop="20210222154300" channel="travel">
+        <title lang="cn">电视剧:穆桂英挂帅 5</title>
     </programme>
-    <programme start="20210222154200" stop="20210222160200" channel="travel">
-        <title lang="cn">电视剧</title>
+    <programme start="20210222154300" stop="20210222160300" channel="travel">
+        <title lang="cn">电视剧:穆桂英挂帅 6</title>
     </programme>
-    <programme start="20210222160200" stop="20210222164400" channel="travel">
-        <title lang="cn">电视剧</title>
+    <programme start="20210222160300" stop="20210222164400" channel="travel">
+        <title lang="cn">电视剧:穆桂英挂帅 7</title>
     </programme>
     <programme start="20210222164400" stop="20210222170400" channel="travel">
-        <title lang="cn">电视剧</title>
+        <title lang="cn">电视剧:穆桂英挂帅 8</title>
     </programme>
     <programme start="20210222170400" stop="20210222174500" channel="travel">
-        <title lang="cn">电视剧</title>
+        <title lang="cn">电视剧:穆桂英挂帅 9</title>
     </programme>
     <programme start="20210222174500" stop="20210222175600" channel="travel">
         <title lang="cn">点赞海南</title>
@@ -4810,13 +4891,13 @@
         <display-name lang="cn">西藏卫视</display-name>
     </channel>
     <programme start="20210222041900" stop="20210222050800" channel="xizang">
-        <title lang="cn">电视剧:水浒传(28)</title>
+        <title lang="cn">电视剧：水浒传(28)</title>
     </programme>
     <programme start="20210222050800" stop="20210222055400" channel="xizang">
-        <title lang="cn">电视剧:水浒传(29)</title>
+        <title lang="cn">电视剧：水浒传(29)</title>
     </programme>
     <programme start="20210222055400" stop="20210222063900" channel="xizang">
-        <title lang="cn">电视剧:水浒传(30)</title>
+        <title lang="cn">电视剧：水浒传(30)</title>
     </programme>
     <programme start="20210222063900" stop="20210222070000" channel="xizang">
         <title lang="cn">创收栏目</title>
@@ -4825,7 +4906,7 @@
         <title lang="cn">中华人民共和国国歌</title>
     </programme>
     <programme start="20210222070500" stop="20210222075000" channel="xizang">
-        <title lang="cn">电视剧:水浒传(31)</title>
+        <title lang="cn">电视剧：水浒传(31)</title>
     </programme>
     <programme start="20210222075000" stop="20210222081400" channel="xizang">
         <title lang="cn">创收栏目</title>
@@ -4833,32 +4914,20 @@
     <programme start="20210222081400" stop="20210222083000" channel="xizang">
         <title lang="cn">跟我学藏语(312)</title>
     </programme>
-    <programme start="20210222083000" stop="20210222090300" channel="xizang">
+    <programme start="20210222083000" stop="20210222090200" channel="xizang">
         <title lang="cn">西藏新闻联播</title>
     </programme>
-    <programme start="20210222090300" stop="20210222094800" channel="xizang">
-        <title lang="cn">电视剧:铁齿铜牙纪晓岚1(1)</title>
+    <programme start="20210222090200" stop="20210222100100" channel="xizang">
+        <title lang="cn">电视剧：铁齿铜牙纪晓岚1(1)</title>
     </programme>
-    <programme start="20210222094800" stop="20210222100100" channel="xizang">
-        <title lang="cn">创收栏目</title>
+    <programme start="20210222100100" stop="20210222110000" channel="xizang">
+        <title lang="cn">电视剧：铁齿铜牙纪晓岚1(2)</title>
     </programme>
-    <programme start="20210222100100" stop="20210222104600" channel="xizang">
-        <title lang="cn">电视剧:铁齿铜牙纪晓岚1(2)</title>
+    <programme start="20210222110000" stop="20210222115900" channel="xizang">
+        <title lang="cn">电视剧：铁齿铜牙纪晓岚1(3)</title>
     </programme>
-    <programme start="20210222104600" stop="20210222110000" channel="xizang">
-        <title lang="cn">创收栏目</title>
-    </programme>
-    <programme start="20210222110000" stop="20210222114500" channel="xizang">
-        <title lang="cn">电视剧:铁齿铜牙纪晓岚1(3)</title>
-    </programme>
-    <programme start="20210222114500" stop="20210222115900" channel="xizang">
-        <title lang="cn">创收栏目</title>
-    </programme>
-    <programme start="20210222115900" stop="20210222124400" channel="xizang">
-        <title lang="cn">电视剧:铁齿铜牙纪晓岚1(4)</title>
-    </programme>
-    <programme start="20210222124400" stop="20210222130000" channel="xizang">
-        <title lang="cn">创收栏目</title>
+    <programme start="20210222115900" stop="20210222130000" channel="xizang">
+        <title lang="cn">电视剧：铁齿铜牙纪晓岚1(4)</title>
     </programme>
     <programme start="20210222130000" stop="20210222131600" channel="xizang">
         <title lang="cn">午间新闻</title>
@@ -4866,11 +4935,8 @@
     <programme start="20210222131600" stop="20210222140200" channel="xizang">
         <title lang="cn">远方的家</title>
     </programme>
-    <programme start="20210222140200" stop="20210222144700" channel="xizang">
-        <title lang="cn">电视剧:薛平贵与王宝钏(33)</title>
-    </programme>
-    <programme start="20210222144700" stop="20210222150000" channel="xizang">
-        <title lang="cn">创收栏目</title>
+    <programme start="20210222140200" stop="20210222150000" channel="xizang">
+        <title lang="cn">电视剧：薛平贵与王宝钏(33)</title>
     </programme>
     <programme start="20210222150000" stop="20210222151600" channel="xizang">
         <title lang="cn">午间新闻</title>
@@ -4878,23 +4944,14 @@
     <programme start="20210222151600" stop="20210222152900" channel="xizang">
         <title lang="cn">梦娃</title>
     </programme>
-    <programme start="20210222152900" stop="20210222161400" channel="xizang">
-        <title lang="cn">电视剧:薛平贵与王宝钏(34)</title>
+    <programme start="20210222152900" stop="20210222162700" channel="xizang">
+        <title lang="cn">电视剧：薛平贵与王宝钏(34)</title>
     </programme>
-    <programme start="20210222161400" stop="20210222162700" channel="xizang">
-        <title lang="cn">创收栏目</title>
+    <programme start="20210222162700" stop="20210222172600" channel="xizang">
+        <title lang="cn">电视剧：薛平贵与王宝钏(35)</title>
     </programme>
-    <programme start="20210222162700" stop="20210222171200" channel="xizang">
-        <title lang="cn">电视剧:薛平贵与王宝钏(35)</title>
-    </programme>
-    <programme start="20210222171200" stop="20210222172600" channel="xizang">
-        <title lang="cn">创收栏目</title>
-    </programme>
-    <programme start="20210222172600" stop="20210222181100" channel="xizang">
-        <title lang="cn">电视剧:薛平贵与王宝钏(36)</title>
-    </programme>
-    <programme start="20210222181100" stop="20210222182400" channel="xizang">
-        <title lang="cn">创收栏目</title>
+    <programme start="20210222172600" stop="20210222182400" channel="xizang">
+        <title lang="cn">电视剧：薛平贵与王宝钏(36)</title>
     </programme>
     <programme start="20210222182400" stop="20210222190000" channel="xizang">
         <title lang="cn">邦锦梅朵:动画乐园</title>
@@ -4909,10 +4966,10 @@
         <title lang="cn">天气预报</title>
     </programme>
     <programme start="20210222201100" stop="20210222205900" channel="xizang">
-        <title lang="cn">电视剧:勿忘初心(20)</title>
+        <title lang="cn">电视剧：勿忘初心(20)</title>
     </programme>
     <programme start="20210222205900" stop="20210222215000" channel="xizang">
-        <title lang="cn">电视剧:勿忘初心(21)</title>
+        <title lang="cn">电视剧：勿忘初心(21)</title>
     </programme>
     <programme start="20210222215000" stop="20210222222000" channel="xizang">
         <title lang="cn">西藏诱惑(37)</title>
@@ -4924,7 +4981,7 @@
         <title lang="cn">西藏新闻联播</title>
     </programme>
     <programme start="20210222230400" stop="20210222234900" channel="xizang">
-        <title lang="cn">电视剧:康熙王朝(14)</title>
+        <title lang="cn">电视剧：康熙王朝(14)</title>
     </programme>
     <programme start="20210222234900" stop="20210222235900" channel="xizang">
         <title lang="cn">创收栏目</title>
@@ -5103,80 +5160,26 @@
     <channel id="btvchild">
         <display-name lang="cn">BTV卡酷少儿</display-name>
     </channel>
-    <programme start="20210222042000" stop="20210222052000" channel="btvchild">
-        <title lang="cn">动画片</title>
-    </programme>
-    <programme start="20210222052000" stop="20210222060000" channel="btvchild">
-        <title lang="cn">动画片</title>
-    </programme>
     <programme start="20210222060000" stop="20210222070000" channel="btvchild">
         <title lang="cn">可可剧场</title>
     </programme>
     <programme start="20210222070000" stop="20210222071600" channel="btvchild">
         <title lang="cn">KAKU幼儿园</title>
     </programme>
-    <programme start="20210222071600" stop="20210222080300" channel="btvchild">
+    <programme start="20210222071600" stop="20210222131600" channel="btvchild">
         <title lang="cn">派派牛剧场</title>
     </programme>
-    <programme start="20210222080300" stop="20210222091300" channel="btvchild">
+    <programme start="20210222131600" stop="20210222171500" channel="btvchild">
         <title lang="cn">派派牛剧场</title>
     </programme>
-    <programme start="20210222091300" stop="20210222101300" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
-    </programme>
-    <programme start="20210222101300" stop="20210222110900" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
-    </programme>
-    <programme start="20210222110900" stop="20210222121000" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
-    </programme>
-    <programme start="20210222121000" stop="20210222130700" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
-    </programme>
-    <programme start="20210222130700" stop="20210222140300" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
-    </programme>
-    <programme start="20210222140300" stop="20210222150000" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
-    </programme>
-    <programme start="20210222150000" stop="20210222160300" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
-    </programme>
-    <programme start="20210222160300" stop="20210222170000" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
-    </programme>
-    <programme start="20210222170000" stop="20210222171000" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
-    </programme>
-    <programme start="20210222171000" stop="20210222171300" channel="btvchild">
+    <programme start="20210222171500" stop="20210222172600" channel="btvchild">
         <title lang="cn">大玩家</title>
     </programme>
-    <programme start="20210222171300" stop="20210222180800" channel="btvchild">
+    <programme start="20210222172600" stop="20210222200700" channel="btvchild">
         <title lang="cn">卡小酷剧场</title>
     </programme>
-    <programme start="20210222180800" stop="20210222190100" channel="btvchild">
-        <title lang="cn">卡小酷剧场</title>
-    </programme>
-    <programme start="20210222190100" stop="20210222201000" channel="btvchild">
-        <title lang="cn">卡小酷剧场</title>
-    </programme>
-    <programme start="20210222201000" stop="20210222210700" channel="btvchild">
-        <title lang="cn">卡小酷剧场</title>
-    </programme>
-    <programme start="20210222210700" stop="20210222215000" channel="btvchild">
-        <title lang="cn">卡小酷剧场</title>
-    </programme>
-    <programme start="20210222215000" stop="20210222220000" channel="btvchild">
+    <programme start="20210222200700" stop="20210222235900" channel="btvchild">
         <title lang="cn">2KAU剧场</title>
-    </programme>
-    <programme start="20210222220000" stop="20210222231200" channel="btvchild">
-        <title lang="cn">2KAU剧场</title>
-    </programme>
-    <programme start="20210222231200" stop="20210222235300" channel="btvchild">
-        <title lang="cn">2KAU剧场</title>
-    </programme>
-    <programme start="20210222235300" stop="20210222235900" channel="btvchild">
-        <title lang="cn">动画片</title>
     </programme>
     <channel id="gaoerfu">
         <display-name lang="cn">高尔夫</display-name>
