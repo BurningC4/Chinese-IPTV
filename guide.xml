@@ -88,13 +88,13 @@
         <title lang="cn">焦点访谈</title>
     </programme>
     <programme start="20210226200600" stop="20210226220000" channel="cctv1">
-        <title lang="cn">2021年元宵晚会-1（录播）</title>
+        <title lang="cn">2021年元宵晚会-3（录播）</title>
     </programme>
     <programme start="20210226220000" stop="20210226223600" channel="cctv1">
         <title lang="cn">晚间新闻</title>
     </programme>
     <programme start="20210226223600" stop="20210226235900" channel="cctv1">
-        <title lang="cn">专题节目-1</title>
+        <title lang="cn">典籍里的中国-1</title>
     </programme>
     <channel id="cctv2">
         <display-name lang="cn">CCTV-2 财经</display-name>
@@ -276,29 +276,26 @@
     <programme start="20210226121800" stop="20210226134800" channel="cctv3">
         <title lang="cn">星光大道-2021-12</title>
     </programme>
-    <programme start="20210226134800" stop="20210226144300" channel="cctv3">
+    <programme start="20210226134800" stop="20210226144700" channel="cctv3">
         <title lang="cn">我的艺术清单-2021-6</title>
     </programme>
-    <programme start="20210226144300" stop="20210226144800" channel="cctv3">
-        <title lang="cn">第八批中国梦主题新创作歌曲-长子</title>
-    </programme>
-    <programme start="20210226144800" stop="20210226145600" channel="cctv3">
-        <title lang="cn">第八批中国梦主题新创作歌曲-听到花儿就想家</title>
-    </programme>
-    <programme start="20210226145600" stop="20210226162100" channel="cctv3">
+    <programme start="20210226144700" stop="20210226161200" channel="cctv3">
         <title lang="cn">综艺喜乐汇-2021-94</title>
     </programme>
-    <programme start="20210226162100" stop="20210226172000" channel="cctv3">
+    <programme start="20210226161200" stop="20210226171500" channel="cctv3">
         <title lang="cn">2021新春相声大会-5</title>
+    </programme>
+    <programme start="20210226171500" stop="20210226172000" channel="cctv3">
+        <title lang="cn">第八批中国梦主题新创作歌曲-人民是天</title>
     </programme>
     <programme start="20210226172000" stop="20210226200600" channel="cctv3">
         <title lang="cn">2021新春喜剧之夜-1</title>
     </programme>
     <programme start="20210226200600" stop="20210226220600" channel="cctv3">
-        <title lang="cn">2021年元宵晚会-1（录播）</title>
+        <title lang="cn">2021年元宵晚会-3（录播）</title>
     </programme>
     <programme start="20210226220600" stop="20210226235900" channel="cctv3">
-        <title lang="cn">2021年元宵晚会-1（录播）</title>
+        <title lang="cn">2021年元宵晚会-（完整版）</title>
     </programme>
     <channel id="cctv4">
         <display-name lang="cn">CCTV-4 (亚洲)</display-name>
@@ -378,20 +375,20 @@
     <programme start="20210226140300" stop="20210226150000" channel="cctv4">
         <title lang="cn">摆脱贫困-第7集-命运与共</title>
     </programme>
-    <programme start="20210226150000" stop="20210226160200" channel="cctv4">
+    <programme start="20210226150000" stop="20210226162200" channel="cctv4">
         <title lang="cn">2021年国新办发布会-9</title>
     </programme>
-    <programme start="20210226160200" stop="20210226164600" channel="cctv4">
+    <programme start="20210226162200" stop="20210226163400" channel="cctv4">
+        <title lang="cn">记住乡愁2018片段展播-10</title>
+    </programme>
+    <programme start="20210226163400" stop="20210226172100" channel="cctv4">
         <title lang="cn">历史转折中的邓小平-（四套2）-21/48</title>
     </programme>
-    <programme start="20210226164600" stop="20210226173000" channel="cctv4">
+    <programme start="20210226172100" stop="20210226180800" channel="cctv4">
         <title lang="cn">历史转折中的邓小平-（四套2）-22/48</title>
     </programme>
-    <programme start="20210226173000" stop="20210226181400" channel="cctv4">
+    <programme start="20210226180800" stop="20210226190000" channel="cctv4">
         <title lang="cn">历史转折中的邓小平-（四套2）-23/48</title>
-    </programme>
-    <programme start="20210226181400" stop="20210226190000" channel="cctv4">
-        <title lang="cn">历史转折中的邓小平-（四套2）-24/48</title>
     </programme>
     <programme start="20210226190000" stop="20210226193000" channel="cctv4">
         <title lang="cn">中国新闻</title>
@@ -400,18 +397,18 @@
         <title lang="cn">今日亚洲</title>
     </programme>
     <programme start="20210226200600" stop="20210226220000" channel="cctv4">
-        <title lang="cn">2021年元宵晚会-1（录播）</title>
+        <title lang="cn">2021年元宵晚会-3（录播）</title>
     </programme>
     <programme start="20210226220000" stop="20210226223000" channel="cctv4">
         <title lang="cn">美食中国-2021-55</title>
     </programme>
-    <programme start="20210226223000" stop="20210226230200" channel="cctv4">
+    <programme start="20210226223000" stop="20210226230800" channel="cctv4">
         <title lang="cn">新闻联播</title>
     </programme>
-    <programme start="20210226230200" stop="20210226234300" channel="cctv4">
+    <programme start="20210226230800" stop="20210226234900" channel="cctv4">
         <title lang="cn">上将洪学智-（四套）-3/29</title>
     </programme>
-    <programme start="20210226234300" stop="20210226235900" channel="cctv4">
+    <programme start="20210226234900" stop="20210226235900" channel="cctv4">
         <title lang="cn">上将洪学智-（四套）-4/29</title>
     </programme>
     <channel id="cctv5">
