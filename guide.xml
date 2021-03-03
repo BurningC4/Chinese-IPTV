@@ -1308,13 +1308,13 @@
     <programme start="20210303130000" stop="20210303140000" channel="cctv13">
         <title lang="cn">新闻直播间</title>
     </programme>
-    <programme start="20210303140000" stop="20210303150000" channel="cctv13">
+    <programme start="20210303140000" stop="20210303144500" channel="cctv13">
         <title lang="cn">新闻直播间</title>
     </programme>
-    <programme start="20210303150000" stop="20210303160000" channel="cctv13">
+    <programme start="20210303144500" stop="20210303163400" channel="cctv13">
         <title lang="cn">新闻直播间</title>
     </programme>
-    <programme start="20210303160000" stop="20210303170000" channel="cctv13">
+    <programme start="20210303163400" stop="20210303170000" channel="cctv13">
         <title lang="cn">新闻直播间</title>
     </programme>
     <programme start="20210303170000" stop="20210303180000" channel="cctv13">
@@ -5574,10 +5574,7 @@
     <programme start="20210303013000" stop="20210303021000" channel="btvchild">
         <title lang="cn">新大头儿子和小头爸爸之英雄梦</title>
     </programme>
-    <programme start="20210303021000" stop="20210303023100" channel="btvchild">
-        <title lang="cn">新大头儿子和小头爸爸之英雄梦</title>
-    </programme>
-    <programme start="20210303023100" stop="20210303031100" channel="btvchild">
+    <programme start="20210303021000" stop="20210303031100" channel="btvchild">
         <title lang="cn">新大头儿子和小头爸爸之英雄梦</title>
     </programme>
     <programme start="20210303031100" stop="20210303035100" channel="btvchild">
@@ -5721,8 +5718,26 @@
     <programme start="20210303212500" stop="20210303214600" channel="btvchild">
         <title lang="cn">熊出没之怪兽计划</title>
     </programme>
-    <programme start="20210303214600" stop="20210303235900" channel="btvchild">
+    <programme start="20210303214600" stop="20210303220600" channel="btvchild">
         <title lang="cn">熊出没之怪兽计划</title>
+    </programme>
+    <programme start="20210303220600" stop="20210303222700" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
+    </programme>
+    <programme start="20210303222700" stop="20210303224700" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
+    </programme>
+    <programme start="20210303224700" stop="20210303230800" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
+    </programme>
+    <programme start="20210303230800" stop="20210303232800" channel="btvchild">
+        <title lang="cn">熊出没之怪兽计划</title>
+    </programme>
+    <programme start="20210303232800" stop="20210303234900" channel="btvchild">
+        <title lang="cn">熊出没之探险日记1</title>
+    </programme>
+    <programme start="20210303234900" stop="20210303235900" channel="btvchild">
+        <title lang="cn">猪猪侠之深海小英雄4</title>
     </programme>
     <channel id="gaoerfu">
         <display-name lang="cn">高尔夫</display-name>
