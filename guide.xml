@@ -90,22 +90,19 @@
     <programme start="20210407190000" stop="20210407194000" channel="cctv1">
         <title lang="cn">新闻联播</title>
     </programme>
-    <programme start="20210407194000" stop="20210407200100" channel="cctv1">
+    <programme start="20210407194000" stop="20210407200600" channel="cctv1">
         <title lang="cn">焦点访谈</title>
     </programme>
-    <programme start="20210407200100" stop="20210407200600" channel="cctv1">
-        <title lang="cn">前情提要- 《经山历海》第22集</title>
+    <programme start="20210407200600" stop="20210407212800" channel="cctv1">
+        <title lang="cn">致敬扫黑英雄-1</title>
     </programme>
-    <programme start="20210407200600" stop="20210407205600" channel="cctv1">
-        <title lang="cn">经山历海第22集</title>
+    <programme start="20210407212800" stop="20210407213500" channel="cctv1">
+        <title lang="cn">精彩一刻-2020-100花开中国杜鹃</title>
     </programme>
-    <programme start="20210407205600" stop="20210407210100" channel="cctv1">
-        <title lang="cn">前情提要- 《经山历海》第23集</title>
+    <programme start="20210407213500" stop="20210407214400" channel="cctv1">
+        <title lang="cn">精彩一刻-2020-103花开中国牡丹</title>
     </programme>
-    <programme start="20210407210100" stop="20210407215000" channel="cctv1">
-        <title lang="cn">经山历海第23集</title>
-    </programme>
-    <programme start="20210407215000" stop="20210407220000" channel="cctv1">
+    <programme start="20210407214400" stop="20210407220000" channel="cctv1">
         <title lang="cn">2021秘境之眼-36</title>
     </programme>
     <programme start="20210407220000" stop="20210407223400" channel="cctv1">
@@ -570,47 +567,56 @@
     <programme start="20210407011700" stop="20210407025400" channel="cctv6">
         <title lang="cn">陈州雪冤</title>
     </programme>
-    <programme start="20210407025400" stop="20210407065800" channel="cctv6">
+    <programme start="20210407025400" stop="20210407042100" channel="cctv6">
         <title lang="cn">迷失亚美尼亚</title>
     </programme>
-    <programme start="20210407065800" stop="20210407084000" channel="cctv6">
+    <programme start="20210407042100" stop="20210407063000" channel="cctv6">
+        <title lang="cn">夺冠</title>
+    </programme>
+    <programme start="20210407063000" stop="20210407065700" channel="cctv6">
+        <title lang="cn">我和我的家乡：北京好人</title>
+    </programme>
+    <programme start="20210407065700" stop="20210407083700" channel="cctv6">
         <title lang="cn">如梅开店</title>
     </programme>
-    <programme start="20210407084000" stop="20210407103400" channel="cctv6">
+    <programme start="20210407083700" stop="20210407103200" channel="cctv6">
         <title lang="cn">半步崩拳</title>
     </programme>
-    <programme start="20210407103400" stop="20210407121800" channel="cctv6">
+    <programme start="20210407103200" stop="20210407121800" channel="cctv6">
         <title lang="cn">遇见你真好</title>
     </programme>
-    <programme start="20210407121800" stop="20210407122400" channel="cctv6">
+    <programme start="20210407121800" stop="20210407122600" channel="cctv6">
         <title lang="cn">音乐电影欣赏</title>
     </programme>
-    <programme start="20210407122400" stop="20210407140800" channel="cctv6">
+    <programme start="20210407122600" stop="20210407141300" channel="cctv6">
         <title lang="cn">古田会议</title>
     </programme>
-    <programme start="20210407140800" stop="20210407155900" channel="cctv6">
+    <programme start="20210407141300" stop="20210407160200" channel="cctv6">
         <title lang="cn">马洛探长—重生</title>
     </programme>
-    <programme start="20210407155900" stop="20210407174200" channel="cctv6">
+    <programme start="20210407160200" stop="20210407174700" channel="cctv6">
         <title lang="cn">广东十虎苏灿之卧龙在田</title>
     </programme>
-    <programme start="20210407174200" stop="20210407181200" channel="cctv6">
+    <programme start="20210407174700" stop="20210407181400" channel="cctv6">
         <title lang="cn">中国电影报道2021-097</title>
     </programme>
-    <programme start="20210407181200" stop="20210407201700" channel="cctv6">
+    <programme start="20210407181400" stop="20210407201500" channel="cctv6">
         <title lang="cn">神跤</title>
     </programme>
-    <programme start="20210407201700" stop="20210407220500" channel="cctv6">
+    <programme start="20210407201500" stop="20210407215700" channel="cctv6">
         <title lang="cn">二杠三</title>
     </programme>
-    <programme start="20210407220500" stop="20210407221600" channel="cctv6">
+    <programme start="20210407215700" stop="20210407220500" channel="cctv6">
         <title lang="cn">今日影评2021-069</title>
     </programme>
-    <programme start="20210407221600" stop="20210407235500" channel="cctv6">
+    <programme start="20210407220500" stop="20210407233600" channel="cctv6">
         <title lang="cn">完美陌生人</title>
     </programme>
-    <programme start="20210407235500" stop="20210407235900" channel="cctv6">
+    <programme start="20210407233600" stop="20210407234400" channel="cctv6">
         <title lang="cn">今日影评2021-069</title>
+    </programme>
+    <programme start="20210407234400" stop="20210407235900" channel="cctv6">
+        <title lang="cn">音乐电影欣赏</title>
     </programme>
     <channel id="cctv7">
         <display-name lang="cn">CCTV-7 国防军事</display-name>
