@@ -90,22 +90,19 @@
     <programme start="20210426190000" stop="20210426194000" channel="cctv1">
         <title lang="cn">新闻联播</title>
     </programme>
-    <programme start="20210426194000" stop="20210426200100" channel="cctv1">
+    <programme start="20210426194000" stop="20210426200600" channel="cctv1">
         <title lang="cn">焦点访谈</title>
     </programme>
-    <programme start="20210426200100" stop="20210426200600" channel="cctv1">
+    <programme start="20210426200600" stop="20210426205200" channel="cctv1">
+        <title lang="cn">情怀与担当--脱贫攻坚子弟兵在行动-1</title>
+    </programme>
+    <programme start="20210426205200" stop="20210426205700" channel="cctv1">
         <title lang="cn">前情提要- 《绝密使命》第12集</title>
     </programme>
-    <programme start="20210426200600" stop="20210426205700" channel="cctv1">
+    <programme start="20210426205700" stop="20210426214900" channel="cctv1">
         <title lang="cn">绝密使命第12集</title>
     </programme>
-    <programme start="20210426205700" stop="20210426210200" channel="cctv1">
-        <title lang="cn">前情提要- 《绝密使命》第13集</title>
-    </programme>
-    <programme start="20210426210200" stop="20210426215100" channel="cctv1">
-        <title lang="cn">绝密使命第13集</title>
-    </programme>
-    <programme start="20210426215100" stop="20210426220000" channel="cctv1">
+    <programme start="20210426214900" stop="20210426220000" channel="cctv1">
         <title lang="cn">2021秘境之眼-55</title>
     </programme>
     <programme start="20210426220000" stop="20210426223400" channel="cctv1">
@@ -948,10 +945,10 @@
     <programme start="20210426190300" stop="20210426192300" channel="cctvjilu">
         <title lang="cn">9视频2021-116</title>
     </programme>
-    <programme start="20210426192300" stop="20210426200100" channel="cctvjilu">
+    <programme start="20210426192300" stop="20210426200300" channel="cctvjilu">
         <title lang="cn">活力·源2021-116</title>
     </programme>
-    <programme start="20210426200100" stop="20210426210000" channel="cctvjilu">
+    <programme start="20210426200300" stop="20210426210000" channel="cctvjilu">
         <title lang="cn">特别呈现2021-116</title>
     </programme>
     <programme start="20210426210000" stop="20210426220000" channel="cctvjilu">
@@ -5076,68 +5073,155 @@
     <channel id="btvchild">
         <display-name lang="cn">BTV卡酷少儿</display-name>
     </channel>
-    <programme start="20210426040000" stop="20210426060000" channel="btvchild">
-        <title lang="cn">动画片</title>
+    <programme start="20210426041400" stop="20210426044000" channel="btvchild">
+        <title lang="cn">新大头儿子和小头爸爸之英雄梦</title>
     </programme>
-    <programme start="20210426060000" stop="20210426070000" channel="btvchild">
-        <title lang="cn">可可剧场</title>
+    <programme start="20210426044000" stop="20210426050000" channel="btvchild">
+        <title lang="cn">熊熊乐园3(12)</title>
     </programme>
-    <programme start="20210426070000" stop="20210426071600" channel="btvchild">
-        <title lang="cn">KAKU幼儿园</title>
+    <programme start="20210426050000" stop="20210426052000" channel="btvchild">
+        <title lang="cn">熊熊乐园3(13)</title>
     </programme>
-    <programme start="20210426071600" stop="20210426082100" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
+    <programme start="20210426052000" stop="20210426054000" channel="btvchild">
+        <title lang="cn">熊熊乐园3(14)</title>
     </programme>
-    <programme start="20210426082100" stop="20210426090900" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
+    <programme start="20210426054000" stop="20210426060000" channel="btvchild">
+        <title lang="cn">熊熊乐园3(15)</title>
     </programme>
-    <programme start="20210426090900" stop="20210426102000" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
+    <programme start="20210426060000" stop="20210426063000" channel="btvchild">
+        <title lang="cn">熊出没之丛林总动员(8)</title>
     </programme>
-    <programme start="20210426102000" stop="20210426111100" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
+    <programme start="20210426063000" stop="20210426070000" channel="btvchild">
+        <title lang="cn">熊出没之丛林总动员(9)</title>
     </programme>
-    <programme start="20210426111100" stop="20210426120000" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
+    <programme start="20210426070000" stop="20210426072100" channel="btvchild">
+        <title lang="cn">熊出没之丛林总动员(10)</title>
     </programme>
-    <programme start="20210426120000" stop="20210426130400" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
+    <programme start="20210426072100" stop="20210426074300" channel="btvchild">
+        <title lang="cn">熊出没之丛林总动员(11)</title>
     </programme>
-    <programme start="20210426130400" stop="20210426140400" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
+    <programme start="20210426074300" stop="20210426081200" channel="btvchild">
+        <title lang="cn">熊出没之丛林总动员(12)</title>
     </programme>
-    <programme start="20210426140400" stop="20210426151400" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
+    <programme start="20210426081200" stop="20210426083300" channel="btvchild">
+        <title lang="cn">熊出没之丛林总动员(13)</title>
     </programme>
-    <programme start="20210426151400" stop="20210426160300" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
+    <programme start="20210426083300" stop="20210426085400" channel="btvchild">
+        <title lang="cn">熊出没之丛林总动员(14)</title>
     </programme>
-    <programme start="20210426160300" stop="20210426171500" channel="btvchild">
-        <title lang="cn">派派牛剧场</title>
+    <programme start="20210426085400" stop="20210426091000" channel="btvchild">
+        <title lang="cn">卡酷幼儿园</title>
     </programme>
-    <programme start="20210426171500" stop="20210426172600" channel="btvchild">
-        <title lang="cn">大玩家</title>
+    <programme start="20210426091000" stop="20210426093100" channel="btvchild">
+        <title lang="cn">熊出没之夏日连连看(8)</title>
     </programme>
-    <programme start="20210426172600" stop="20210426181200" channel="btvchild">
-        <title lang="cn">卡小酷剧场</title>
+    <programme start="20210426093100" stop="20210426100000" channel="btvchild">
+        <title lang="cn">熊出没之夏日连连看(9)</title>
     </programme>
-    <programme start="20210426181200" stop="20210426190700" channel="btvchild">
-        <title lang="cn">卡小酷剧场</title>
+    <programme start="20210426100000" stop="20210426102200" channel="btvchild">
+        <title lang="cn">熊出没之夏日连连看(10)</title>
     </programme>
-    <programme start="20210426190700" stop="20210426200700" channel="btvchild">
-        <title lang="cn">卡小酷剧场</title>
+    <programme start="20210426102200" stop="20210426104500" channel="btvchild">
+        <title lang="cn">熊出没之夏日连连看(11)</title>
     </programme>
-    <programme start="20210426200700" stop="20210426211500" channel="btvchild">
-        <title lang="cn">2KAU剧场</title>
+    <programme start="20210426104500" stop="20210426110700" channel="btvchild">
+        <title lang="cn">熊出没之夏日连连看(12)</title>
     </programme>
-    <programme start="20210426211500" stop="20210426224000" channel="btvchild">
-        <title lang="cn">2KAU剧场</title>
+    <programme start="20210426110700" stop="20210426113000" channel="btvchild">
+        <title lang="cn">熊出没之夏日连连看(13)</title>
     </programme>
-    <programme start="20210426224000" stop="20210426232100" channel="btvchild">
-        <title lang="cn">2KAU剧场</title>
+    <programme start="20210426113000" stop="20210426115100" channel="btvchild">
+        <title lang="cn">熊出没之夏日连连看(14)</title>
     </programme>
-    <programme start="20210426232100" stop="20210426235900" channel="btvchild">
-        <title lang="cn">2KAU剧场</title>
+    <programme start="20210426115100" stop="20210426121400" channel="btvchild">
+        <title lang="cn">熊出没之夏日连连看(15)</title>
+    </programme>
+    <programme start="20210426121400" stop="20210426123700" channel="btvchild">
+        <title lang="cn">熊出没之夏日连连看(16)</title>
+    </programme>
+    <programme start="20210426123700" stop="20210426125900" channel="btvchild">
+        <title lang="cn">熊出没之夏日连连看(17)</title>
+    </programme>
+    <programme start="20210426125900" stop="20210426131900" channel="btvchild">
+        <title lang="cn">熊出没之夏日连连看(18)</title>
+    </programme>
+    <programme start="20210426131900" stop="20210426134100" channel="btvchild">
+        <title lang="cn">熊出没之夏日连连看(19)</title>
+    </programme>
+    <programme start="20210426134100" stop="20210426140700" channel="btvchild">
+        <title lang="cn">熊出没之夏日连连看(20)</title>
+    </programme>
+    <programme start="20210426140700" stop="20210426142900" channel="btvchild">
+        <title lang="cn">熊出没之探险日记1(22)</title>
+    </programme>
+    <programme start="20210426142900" stop="20210426145100" channel="btvchild">
+        <title lang="cn">熊出没之探险日记1(23)</title>
+    </programme>
+    <programme start="20210426145100" stop="20210426151300" channel="btvchild">
+        <title lang="cn">熊出没之探险日记1(24)</title>
+    </programme>
+    <programme start="20210426151300" stop="20210426153500" channel="btvchild">
+        <title lang="cn">熊出没之探险日记1(25)</title>
+    </programme>
+    <programme start="20210426153500" stop="20210426155600" channel="btvchild">
+        <title lang="cn">熊出没之探险日记1(26)</title>
+    </programme>
+    <programme start="20210426155600" stop="20210426161900" channel="btvchild">
+        <title lang="cn">熊出没之探险日记2(1)</title>
+    </programme>
+    <programme start="20210426161900" stop="20210426164200" channel="btvchild">
+        <title lang="cn">熊出没之探险日记2(2)</title>
+    </programme>
+    <programme start="20210426164200" stop="20210426170300" channel="btvchild">
+        <title lang="cn">旗旗号巡洋舰(11)</title>
+    </programme>
+    <programme start="20210426170300" stop="20210426172500" channel="btvchild">
+        <title lang="cn">熊出没之探险日记2(3)</title>
+    </programme>
+    <programme start="20210426172500" stop="20210426173700" channel="btvchild">
+        <title lang="cn">大玩家精编版</title>
+    </programme>
+    <programme start="20210426173700" stop="20210426180000" channel="btvchild">
+        <title lang="cn">超变战陀-爆甲战陀精编版(20)</title>
+    </programme>
+    <programme start="20210426180000" stop="20210426182300" channel="btvchild">
+        <title lang="cn">熊出没之夏日连连看(23)</title>
+    </programme>
+    <programme start="20210426182300" stop="20210426184600" channel="btvchild">
+        <title lang="cn">熊出没之夏日连连看(24)</title>
+    </programme>
+    <programme start="20210426184600" stop="20210426195400" channel="btvchild">
+        <title lang="cn">卡小酷剧场(上)</title>
+    </programme>
+    <programme start="20210426195400" stop="20210426210000" channel="btvchild">
+        <title lang="cn">卡小酷剧场(下)</title>
+    </programme>
+    <programme start="20210426210000" stop="20210426212200" channel="btvchild">
+        <title lang="cn">熊出没之秋日团团转(2)</title>
+    </programme>
+    <programme start="20210426212200" stop="20210426214300" channel="btvchild">
+        <title lang="cn">熊出没之秋日团团转(3)</title>
+    </programme>
+    <programme start="20210426214300" stop="20210426220300" channel="btvchild">
+        <title lang="cn">熊出没之秋日团团转(4)</title>
+    </programme>
+    <programme start="20210426220300" stop="20210426222400" channel="btvchild">
+        <title lang="cn">熊出没之秋日团团转(5)</title>
+    </programme>
+    <programme start="20210426222400" stop="20210426224400" channel="btvchild">
+        <title lang="cn">熊出没之秋日团团转(6)</title>
+    </programme>
+    <programme start="20210426224400" stop="20210426230500" channel="btvchild">
+        <title lang="cn">熊出没之秋日团团转(7)</title>
+    </programme>
+    <programme start="20210426230500" stop="20210426232500" channel="btvchild">
+        <title lang="cn">熊出没之秋日团团转(8)</title>
+    </programme>
+    <programme start="20210426232500" stop="20210426234600" channel="btvchild">
+        <title lang="cn">熊出没之秋日团团转(9)</title>
+    </programme>
+    <programme start="20210426234600" stop="20210426235900" channel="btvchild">
+        <title lang="cn">猪猪侠之深海小英雄3(11)</title>
     </programme>
     <channel id="gaoerfu">
         <display-name lang="cn">高尔夫</display-name>
