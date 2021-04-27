@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <tv>
+<?xml version="1.0" encoding="utf-8" ?>
+<tv>
     <channel id="cctv1">
         <display-name lang="cn">CCTV-1 综合</display-name>
     </channel>
@@ -219,14 +221,17 @@
     <programme start="20210427215500" stop="20210427220000" channel="cctv2">
         <title lang="cn">2021中国福利彩票公益开奖-57</title>
     </programme>
-    <programme start="20210427220000" stop="20210427224600" channel="cctv2">
-        <title lang="cn">2021精品财经纪录-老广的味道第六季-4</title>
+    <programme start="20210427220000" stop="20210427223600" channel="cctv2">
+        <title lang="cn">2021精品财经纪录-万物滋养第一季-2</title>
     </programme>
-    <programme start="20210427224600" stop="20210427233100" channel="cctv2">
+    <programme start="20210427223600" stop="20210427232100" channel="cctv2">
         <title lang="cn">中国经济大讲堂-2021-14</title>
     </programme>
-    <programme start="20210427233100" stop="20210427235900" channel="cctv2">
+    <programme start="20210427232100" stop="20210427235500" channel="cctv2">
         <title lang="cn">经济半小时</title>
+    </programme>
+    <programme start="20210427235500" stop="20210427235900" channel="cctv2">
+        <title lang="cn">一槌定音-2021-16</title>
     </programme>
     <channel id="cctv3">
         <display-name lang="cn">CCTV-3 综艺</display-name>
@@ -1968,71 +1973,95 @@
     <channel id="btv1">
         <display-name lang="cn">北京卫视</display-name>
     </channel>
-    <programme start="20210427003200" stop="20210427012700" channel="btv1">
-        <title lang="cn">光阴</title>
+    <programme start="20210427002000" stop="20210427002400" channel="btv1">
+        <title lang="cn">晚间气象服务</title>
     </programme>
-    <programme start="20210427012700" stop="20210427021500" channel="btv1">
-        <title lang="cn">上新了故宫2</title>
+    <programme start="20210427002400" stop="20210427011100" channel="btv1">
+        <title lang="cn">档案</title>
     </programme>
-    <programme start="20210427021500" stop="20210427030800" channel="btv1">
-        <title lang="cn">上新了故宫2</title>
+    <programme start="20210427011100" stop="20210427020100" channel="btv1">
+        <title lang="cn">胜利之盾(11)</title>
     </programme>
-    <programme start="20210427030800" stop="20210427040800" channel="btv1">
-        <title lang="cn">音乐大师课</title>
+    <programme start="20210427020100" stop="20210427024700" channel="btv1">
+        <title lang="cn">胜利之盾(12)</title>
     </programme>
-    <programme start="20210427040800" stop="20210427050700" channel="btv1">
-        <title lang="cn">上新了故宫2</title>
+    <programme start="20210427024700" stop="20210427031200" channel="btv1">
+        <title lang="cn">大阅兵2019(4)</title>
     </programme>
-    <programme start="20210427050700" stop="20210427054500" channel="btv1">
-        <title lang="cn">养生堂</title>
+    <programme start="20210427031200" stop="20210427033700" channel="btv1">
+        <title lang="cn">大阅兵2019(5)</title>
     </programme>
-    <programme start="20210427054500" stop="20210427060000" channel="btv1">
+    <programme start="20210427033700" stop="20210427040300" channel="btv1">
+        <title lang="cn">大阅兵2019(6)</title>
+    </programme>
+    <programme start="20210427040300" stop="20210427045000" channel="btv1">
+        <title lang="cn">上新了故宫3纯享版(2)</title>
+    </programme>
+    <programme start="20210427045000" stop="20210427053700" channel="btv1">
+        <title lang="cn">上新了故宫3纯享版(3)</title>
+    </programme>
+    <programme start="20210427053700" stop="20210427054200" channel="btv1">
+        <title lang="cn">大美北京</title>
+    </programme>
+    <programme start="20210427054200" stop="20210427062500" channel="btv1">
         <title lang="cn">法治进行时</title>
     </programme>
-    <programme start="20210427060000" stop="20210427062000" channel="btv1">
-        <title lang="cn">法治进行时</title>
-    </programme>
-    <programme start="20210427062000" stop="20210427065500" channel="btv1">
+    <programme start="20210427062500" stop="20210427065500" channel="btv1">
         <title lang="cn">养生堂精编版</title>
     </programme>
     <programme start="20210427065500" stop="20210427070000" channel="btv1">
         <title lang="cn">早间气象服务</title>
     </programme>
-    <programme start="20210427070000" stop="20210427091000" channel="btv1">
+    <programme start="20210427070000" stop="20210427070100" channel="btv1">
+        <title lang="cn">中华人民共和国国歌</title>
+    </programme>
+    <programme start="20210427070100" stop="20210427090600" channel="btv1">
         <title lang="cn">北京您早</title>
     </programme>
-    <programme start="20210427091000" stop="20210427092300" channel="btv1">
-        <title lang="cn">音乐大师课第二季</title>
+    <programme start="20210427090600" stop="20210427091300" channel="btv1">
+        <title lang="cn">早餐中国2(25)</title>
     </programme>
-    <programme start="20210427092300" stop="20210427101800" channel="btv1">
-        <title lang="cn">电视剧:东四牌楼东(33)</title>
+    <programme start="20210427091300" stop="20210427091800" channel="btv1">
+        <title lang="cn">早餐中国2(26)</title>
     </programme>
-    <programme start="20210427101800" stop="20210427110800" channel="btv1">
-        <title lang="cn">电视剧:东四牌楼东(34)</title>
+    <programme start="20210427091800" stop="20210427092500" channel="btv1">
+        <title lang="cn">早餐中国2(27)</title>
     </programme>
-    <programme start="20210427110800" stop="20210427120000" channel="btv1">
-        <title lang="cn">电视剧:东四牌楼东(35)</title>
+    <programme start="20210427092500" stop="20210427101700" channel="btv1">
+        <title lang="cn">电视剧:父母爱情(17)</title>
+    </programme>
+    <programme start="20210427101700" stop="20210427110900" channel="btv1">
+        <title lang="cn">电视剧:父母爱情(18)</title>
+    </programme>
+    <programme start="20210427110900" stop="20210427120000" channel="btv1">
+        <title lang="cn">电视剧:父母爱情(19)</title>
     </programme>
     <programme start="20210427120000" stop="20210427125800" channel="btv1">
         <title lang="cn">特别关注</title>
     </programme>
-    <programme start="20210427125800" stop="20210427131000" channel="btv1">
+    <programme start="20210427125800" stop="20210427130600" channel="btv1">
         <title lang="cn">午间气象服务</title>
     </programme>
-    <programme start="20210427131000" stop="20210427140200" channel="btv1">
-        <title lang="cn">电视剧:刑警之海外行动(32)</title>
+    <programme start="20210427130600" stop="20210427135400" channel="btv1">
+        <title lang="cn">电视剧:东四牌楼东(30)</title>
     </programme>
-    <programme start="20210427140200" stop="20210427145500" channel="btv1">
-        <title lang="cn">电视剧:刑警之海外行动(33)</title>
+    <programme start="20210427135400" stop="20210427144200" channel="btv1">
+        <title lang="cn">电视剧:东四牌楼东(31)</title>
     </programme>
-    <programme start="20210427145500" stop="20210427154800" channel="btv1">
-        <title lang="cn">电视剧:刑警之海外行动(34)</title>
+    <programme start="20210427144200" stop="20210427153100" channel="btv1">
+        <title lang="cn">电视剧:东四牌楼东(32)</title>
     </programme>
-    <programme start="20210427154800" stop="20210427164000" channel="btv1">
-        <title lang="cn">电视剧:刑警之海外行动(35)</title>
+    <programme start="20210427153100" stop="20210427162000" channel="btv1">
+        <title lang="cn">电视剧:东四牌楼东(33)</title>
     </programme>
-    <programme start="20210427164000" stop="20210427172500" channel="btv1">
-        <title lang="cn">暖暖的味道</title>
+    <programme start="20210427162000" stop="20210427162800" channel="btv1">
+        <title lang="cn">百炼成钢-中国共产党的100年(11)</title>
+    </programme>
+    <programme start="20210427162800" stop="20210427163600" channel="btv1">
+        <title lang="cn">百炼成钢-中国共产党的100年(12)</title>
+    </programme>
+    <programme start="20210427163600" stop="20210427172500" channel="btv1">
+        <title lang="cn">暖暖的味道精华版</title>
     </programme>
     <programme start="20210427172500" stop="20210427183000" channel="btv1">
         <title lang="cn">养生堂</title>
@@ -2047,22 +2076,25 @@
         <title lang="cn">新闻联播</title>
     </programme>
     <programme start="20210427193200" stop="20210427202000" channel="btv1">
-        <title lang="cn">电视剧:东四牌楼东(35)</title>
+        <title lang="cn">电视剧:东四牌楼东(34)</title>
     </programme>
     <programme start="20210427202000" stop="20210427210000" channel="btv1">
-        <title lang="cn">电视剧:东四牌楼东(36)</title>
+        <title lang="cn">电视剧:东四牌楼东(35)</title>
     </programme>
-    <programme start="20210427210000" stop="20210427214600" channel="btv1">
-        <title lang="cn">我是规划师</title>
+    <programme start="20210427210000" stop="20210427213000" channel="btv1">
+        <title lang="cn">我为百姓办实事</title>
     </programme>
-    <programme start="20210427214600" stop="20210427222400" channel="btv1">
-        <title lang="cn">我的桃花源</title>
+    <programme start="20210427213000" stop="20210427215800" channel="btv1">
+        <title lang="cn">为你喝彩</title>
     </programme>
-    <programme start="20210427222400" stop="20210427235400" channel="btv1">
-        <title lang="cn">上新了故宫3</title>
+    <programme start="20210427215800" stop="20210427224400" channel="btv1">
+        <title lang="cn">亮剑(24)</title>
     </programme>
-    <programme start="20210427235400" stop="20210427235900" channel="btv1">
-        <title lang="cn">上新了故宫3纯享版</title>
+    <programme start="20210427224400" stop="20210427233200" channel="btv1">
+        <title lang="cn">亮剑(25)</title>
+    </programme>
+    <programme start="20210427233200" stop="20210427235900" channel="btv1">
+        <title lang="cn">我为百姓办实事</title>
     </programme>
     <channel id="btvjishi">
         <display-name lang="cn">BTV纪实</display-name>
