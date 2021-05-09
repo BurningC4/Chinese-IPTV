@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <tv>
-<?xml version="1.0" encoding="utf-8" ?>
-<tv>
     <channel id="cctv1">
         <display-name lang="cn">CCTV-1 综合</display-name>
     </channel>
@@ -95,8 +93,14 @@
     <programme start="20210509193900" stop="20210509200600" channel="cctv1">
         <title lang="cn">焦点访谈</title>
     </programme>
-    <programme start="20210509200600" stop="20210509215100" channel="cctv1">
+    <programme start="20210509200600" stop="20210509214100" channel="cctv1">
         <title lang="cn">经典咏流传第四季-11</title>
+    </programme>
+    <programme start="20210509214100" stop="20210509214800" channel="cctv1">
+        <title lang="cn">精彩一刻-2021-36新编航拍中国海南海口</title>
+    </programme>
+    <programme start="20210509214800" stop="20210509215100" channel="cctv1">
+        <title lang="cn">精彩一刻-2021-35新编航拍中国海南博鳌</title>
     </programme>
     <programme start="20210509215100" stop="20210509220000" channel="cctv1">
         <title lang="cn">2021秘境之眼-68</title>
