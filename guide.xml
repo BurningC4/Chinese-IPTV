@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <tv>
-<?xml version="1.0" encoding="utf-8" ?>
-<tv>
     <channel id="cctv1">
         <display-name lang="cn">CCTV-1 综合</display-name>
     </channel>
@@ -102,10 +100,10 @@
         <title lang="cn">山河岁月-4</title>
     </programme>
     <programme start="20210519205900" stop="20210519210400" channel="cctv1">
-        <title lang="cn">前情提要-《中流击水》8/30</title>
+        <title lang="cn">前情提要- 《中流击水》第8集</title>
     </programme>
     <programme start="20210519210400" stop="20210519215200" channel="cctv1">
-        <title lang="cn">中流击水8/30</title>
+        <title lang="cn">中流击水第8集</title>
     </programme>
     <programme start="20210519215200" stop="20210519220000" channel="cctv1">
         <title lang="cn">2021秘境之眼-78</title>
@@ -120,7 +118,7 @@
         <title lang="cn">记住乡愁2021-9（第七季）</title>
     </programme>
     <programme start="20210519234600" stop="20210519235900" channel="cctv1">
-        <title lang="cn">中国诗词大会(第六季)-2</title>
+        <title lang="cn">经典咏流传第四季-10</title>
     </programme>
     <channel id="cctv2">
         <display-name lang="cn">CCTV-2 财经</display-name>
@@ -416,13 +414,13 @@
     <programme start="20210519171500" stop="20210519180000" channel="cctv4">
         <title lang="cn">远方的家2021-49</title>
     </programme>
-    <programme start="20210519180000" stop="20210519181000" channel="cctv4">
+    <programme start="20210519180000" stop="20210519180900" channel="cctv4">
         <title lang="cn">中国新闻</title>
     </programme>
-    <programme start="20210519181000" stop="20210519183500" channel="cctv4">
+    <programme start="20210519180900" stop="20210519183400" channel="cctv4">
         <title lang="cn">山河岁月-1</title>
     </programme>
-    <programme start="20210519183500" stop="20210519190000" channel="cctv4">
+    <programme start="20210519183400" stop="20210519190000" channel="cctv4">
         <title lang="cn">山河岁月-2</title>
     </programme>
     <programme start="20210519190000" stop="20210519193000" channel="cctv4">
