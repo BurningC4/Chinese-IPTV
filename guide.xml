@@ -90,32 +90,32 @@
     <programme start="20210526105200" stop="20210526110000" channel="cctv1">
         <title lang="cn">2021秘境之眼-136</title>
     </programme>
-    <programme start="20210526110000" stop="20210526114000" channel="cctv1">
+    <programme start="20210526110000" stop="20210526114600" channel="cctv1">
         <title lang="cn">新闻联播</title>
     </programme>
-    <programme start="20210526114000" stop="20210526120600" channel="cctv1">
+    <programme start="20210526114600" stop="20210526120900" channel="cctv1">
         <title lang="cn">焦点访谈</title>
     </programme>
-    <programme start="20210526120600" stop="20210526123100" channel="cctv1">
+    <programme start="20210526120900" stop="20210526123400" channel="cctv1">
         <title lang="cn">山河岁月-17</title>
     </programme>
-    <programme start="20210526123100" stop="20210526130000" channel="cctv1">
+    <programme start="20210526123400" stop="20210526130200" channel="cctv1">
         <title lang="cn">山河岁月-18</title>
     </programme>
-    <programme start="20210526130000" stop="20210526134900" channel="cctv1">
+    <programme start="20210526130200" stop="20210526135200" channel="cctv1">
         <title lang="cn">时代楷模发布厅-2021-5</title>
     </programme>
-    <programme start="20210526134900" stop="20210526140000" channel="cctv1">
+    <programme start="20210526135200" stop="20210526140000" channel="cctv1">
         <title lang="cn">2021秘境之眼-85</title>
     </programme>
     <programme start="20210526140000" stop="20210526143300" channel="cctv1">
         <title lang="cn">晚间新闻</title>
     </programme>
     <programme start="20210526143300" stop="20210526151100" channel="cctv1">
-        <title lang="cn">记住乡愁2021-12（第七季）</title>
+        <title lang="cn">记住乡愁2021-36（第七季）</title>
     </programme>
     <programme start="20210526151100" stop="20210526154600" channel="cctv1">
-        <title lang="cn">记住乡愁2021-13（第七季）</title>
+        <title lang="cn">记住乡愁2021-37（第七季）</title>
     </programme>
     <programme start="20210526154600" stop="20210526155900" channel="cctv1">
         <title lang="cn">中国地名大会(第二季)-2</title>
@@ -453,13 +453,13 @@
     <programme start="20210526140000" stop="20210526143000" channel="cctv4">
         <title lang="cn">国宝发现-2021-33</title>
     </programme>
-    <programme start="20210526143000" stop="20210526150400" channel="cctv4">
+    <programme start="20210526143000" stop="20210526151000" channel="cctv4">
         <title lang="cn">新闻联播</title>
     </programme>
-    <programme start="20210526150400" stop="20210526154600" channel="cctv4">
+    <programme start="20210526151000" stop="20210526155200" channel="cctv4">
         <title lang="cn">雄关漫道-（四套）-15/20</title>
     </programme>
-    <programme start="20210526154600" stop="20210526155900" channel="cctv4">
+    <programme start="20210526155200" stop="20210526155900" channel="cctv4">
         <title lang="cn">雄关漫道-（四套）-16/20</title>
     </programme>
     <channel id="cctv5">
@@ -597,43 +597,52 @@
     <programme start="20210525173800" stop="20210525190800" channel="cctv6">
         <title lang="cn">天字号密令</title>
     </programme>
-    <programme start="20210525190800" stop="20210525231600" channel="cctv6">
+    <programme start="20210525190800" stop="20210525204100" channel="cctv6">
         <title lang="cn">三个世界</title>
     </programme>
-    <programme start="20210525231600" stop="20210526005300" channel="cctv6">
+    <programme start="20210525204100" stop="20210525215600" channel="cctv6">
+        <title lang="cn">大进军--南线大追歼（上）</title>
+    </programme>
+    <programme start="20210525215600" stop="20210525231200" channel="cctv6">
+        <title lang="cn">大进军--南线大追歼（下）</title>
+    </programme>
+    <programme start="20210525231200" stop="20210526004700" channel="cctv6">
         <title lang="cn">快递丘比特</title>
     </programme>
-    <programme start="20210526005300" stop="20210526025500" channel="cctv6">
+    <programme start="20210526004700" stop="20210526024900" channel="cctv6">
         <title lang="cn">分手再说我爱你</title>
     </programme>
-    <programme start="20210526025500" stop="20210526042800" channel="cctv6">
+    <programme start="20210526024900" stop="20210526042200" channel="cctv6">
         <title lang="cn">大进军--解放大西北（上）</title>
     </programme>
-    <programme start="20210526042800" stop="20210526043400" channel="cctv6">
+    <programme start="20210526042200" stop="20210526043000" channel="cctv6">
         <title lang="cn">音乐电影欣赏</title>
     </programme>
-    <programme start="20210526043400" stop="20210526060300" channel="cctv6">
+    <programme start="20210526043000" stop="20210526060200" channel="cctv6">
         <title lang="cn">大进军--解放大西北（下）</title>
     </programme>
-    <programme start="20210526060300" stop="20210526075900" channel="cctv6">
-        <title lang="cn">疯橙记</title>
+    <programme start="20210526060200" stop="20210526073700" channel="cctv6">
+        <title lang="cn">鱼味男孩</title>
     </programme>
-    <programme start="20210526075900" stop="20210526094100" channel="cctv6">
+    <programme start="20210526073700" stop="20210526080100" channel="cctv6">
+        <title lang="cn">我和我的祖国：相遇</title>
+    </programme>
+    <programme start="20210526080100" stop="20210526095000" channel="cctv6">
         <title lang="cn">武僧传奇之蹴鞠之战</title>
     </programme>
-    <programme start="20210526094100" stop="20210526101100" channel="cctv6">
+    <programme start="20210526095000" stop="20210526101800" channel="cctv6">
         <title lang="cn">中国电影报道2021-146</title>
     </programme>
-    <programme start="20210526101100" stop="20210526121500" channel="cctv6">
+    <programme start="20210526101800" stop="20210526121500" channel="cctv6">
         <title lang="cn">动物出击</title>
     </programme>
-    <programme start="20210526121500" stop="20210526135900" channel="cctv6">
+    <programme start="20210526121500" stop="20210526135500" channel="cctv6">
         <title lang="cn">神龙策2</title>
     </programme>
-    <programme start="20210526135900" stop="20210526141000" channel="cctv6">
+    <programme start="20210526135500" stop="20210526140300" channel="cctv6">
         <title lang="cn">今日影评2021-104</title>
     </programme>
-    <programme start="20210526141000" stop="20210526155900" channel="cctv6">
+    <programme start="20210526140300" stop="20210526155900" channel="cctv6">
         <title lang="cn">银河护卫队2</title>
     </programme>
     <channel id="cctv7">
@@ -726,31 +735,31 @@
     <programme start="20210526102900" stop="20210526110000" channel="cctv7">
         <title lang="cn">国防故事-2021-79</title>
     </programme>
-    <programme start="20210526110000" stop="20210526113300" channel="cctv7">
+    <programme start="20210526110000" stop="20210526113900" channel="cctv7">
         <title lang="cn">新闻联播</title>
     </programme>
-    <programme start="20210526113300" stop="20210526120300" channel="cctv7">
+    <programme start="20210526113900" stop="20210526120900" channel="cctv7">
         <title lang="cn">军事报道</title>
     </programme>
-    <programme start="20210526120300" stop="20210526121000" channel="cctv7">
+    <programme start="20210526120900" stop="20210526121600" channel="cctv7">
         <title lang="cn">国防微视频-军歌嘹亮-南沙吹来蓝色的风</title>
     </programme>
-    <programme start="20210526121000" stop="20210526124600" channel="cctv7">
+    <programme start="20210526121600" stop="20210526125200" channel="cctv7">
         <title lang="cn">防务新观察-2021-103</title>
     </programme>
-    <programme start="20210526124600" stop="20210526132000" channel="cctv7">
+    <programme start="20210526125200" stop="20210526132600" channel="cctv7">
         <title lang="cn">军事纪实-2021-104</title>
     </programme>
-    <programme start="20210526132000" stop="20210526135600" channel="cctv7">
+    <programme start="20210526132600" stop="20210526140200" channel="cctv7">
         <title lang="cn">军迷行天下-2021-21</title>
     </programme>
-    <programme start="20210526135600" stop="20210526144500" channel="cctv7">
+    <programme start="20210526140200" stop="20210526145100" channel="cctv7">
         <title lang="cn">胭脂43/45</title>
     </programme>
-    <programme start="20210526144500" stop="20210526153600" channel="cctv7">
+    <programme start="20210526145100" stop="20210526154200" channel="cctv7">
         <title lang="cn">胭脂44/45</title>
     </programme>
-    <programme start="20210526153600" stop="20210526155900" channel="cctv7">
+    <programme start="20210526154200" stop="20210526155900" channel="cctv7">
         <title lang="cn">军事纪实-2021-104</title>
     </programme>
     <channel id="cctv8">
@@ -1371,13 +1380,13 @@
     <programme start="20210526120000" stop="20210526130000" channel="cctv13">
         <title lang="cn">东方时空</title>
     </programme>
-    <programme start="20210526130000" stop="20210526133000" channel="cctv13">
+    <programme start="20210526130000" stop="20210526133600" channel="cctv13">
         <title lang="cn">新闻联播</title>
     </programme>
-    <programme start="20210526133000" stop="20210526140000" channel="cctv13">
+    <programme start="20210526133600" stop="20210526140600" channel="cctv13">
         <title lang="cn">新闻1+1</title>
     </programme>
-    <programme start="20210526140000" stop="20210526143000" channel="cctv13">
+    <programme start="20210526140600" stop="20210526143000" channel="cctv13">
         <title lang="cn">国际时讯</title>
     </programme>
     <programme start="20210526143000" stop="20210526150000" channel="cctv13">
