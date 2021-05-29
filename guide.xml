@@ -18,10 +18,10 @@
     <programme start="20210528185600" stop="20210528202900" channel="cctv1">
         <title lang="cn">中国诗词大会(第六季)-2</title>
     </programme>
-    <programme start="20210528202900" stop="20210528205700" channel="cctv1">
-        <title lang="cn">今日说法-2021-148</title>
+    <programme start="20210528202900" stop="20210528204000" channel="cctv1">
+        <title lang="cn">精彩一刻-2021-40新编航拍中国海南科技与发展</title>
     </programme>
-    <programme start="20210528205700" stop="20210528212700" channel="cctv1">
+    <programme start="20210528204000" stop="20210528212700" channel="cctv1">
         <title lang="cn">新闻联播</title>
     </programme>
     <programme start="20210528212700" stop="20210528220000" channel="cctv1">
@@ -102,23 +102,23 @@
     <programme start="20210529120600" stop="20210529125300" channel="cctv1">
         <title lang="cn">中流击水第17集</title>
     </programme>
-    <programme start="20210529125300" stop="20210529125400" channel="cctv1">
-        <title lang="cn">前情提要-《中流击水》18/30</title>
+    <programme start="20210529125300" stop="20210529125500" channel="cctv1">
+        <title lang="cn">前情提要- 《中流击水》第18集</title>
     </programme>
-    <programme start="20210529125400" stop="20210529134200" channel="cctv1">
-        <title lang="cn">中流击水18/30</title>
+    <programme start="20210529125500" stop="20210529134500" channel="cctv1">
+        <title lang="cn">中流击水第18集</title>
     </programme>
-    <programme start="20210529134200" stop="20210529135100" channel="cctv1">
+    <programme start="20210529134500" stop="20210529135300" channel="cctv1">
         <title lang="cn">精彩一刻-2021-109美丽中国尖峰岭(4K)</title>
     </programme>
-    <programme start="20210529135100" stop="20210529140000" channel="cctv1">
+    <programme start="20210529135300" stop="20210529140000" channel="cctv1">
         <title lang="cn">2021秘境之眼-88</title>
     </programme>
     <programme start="20210529140000" stop="20210529143400" channel="cctv1">
         <title lang="cn">晚间新闻</title>
     </programme>
     <programme start="20210529143400" stop="20210529153000" channel="cctv1">
-        <title lang="cn">专题节目</title>
+        <title lang="cn">党课特别节目-1</title>
     </programme>
     <programme start="20210529153000" stop="20210529155900" channel="cctv1">
         <title lang="cn">经典咏流传第四季-精编5</title>
@@ -324,23 +324,20 @@
     <channel id="cctv4">
         <display-name lang="cn">CCTV-4 (亚洲)</display-name>
     </channel>
-    <programme start="20210528162700" stop="20210528171000" channel="cctv4">
+    <programme start="20210528160200" stop="20210528164400" channel="cctv4">
+        <title lang="cn">彝海结盟-（四套）-2/34</title>
+    </programme>
+    <programme start="20210528164400" stop="20210528172700" channel="cctv4">
         <title lang="cn">彝海结盟-（四套）-3/34</title>
     </programme>
-    <programme start="20210528171000" stop="20210528172000" channel="cctv4">
-        <title lang="cn">记住乡愁2018片段展播-9</title>
-    </programme>
-    <programme start="20210528172000" stop="20210528175000" channel="cctv4">
+    <programme start="20210528172700" stop="20210528180000" channel="cctv4">
         <title lang="cn">中国文艺-2021-106</title>
     </programme>
-    <programme start="20210528175000" stop="20210528180000" channel="cctv4">
-        <title lang="cn">记住乡愁2018片段展播-10</title>
-    </programme>
-    <programme start="20210528180000" stop="20210528183000" channel="cctv4">
+    <programme start="20210528180000" stop="20210528184700" channel="cctv4">
         <title lang="cn">新闻联播</title>
     </programme>
-    <programme start="20210528183000" stop="20210528190000" channel="cctv4">
-        <title lang="cn">鲁健访谈2021-9</title>
+    <programme start="20210528184700" stop="20210528190000" channel="cctv4">
+        <title lang="cn">记住乡愁2018片段展播-9</title>
     </programme>
     <programme start="20210528190000" stop="20210528191000" channel="cctv4">
         <title lang="cn">中国新闻</title>
@@ -633,10 +630,10 @@
     <channel id="cctv7">
         <display-name lang="cn">CCTV-7 国防军事</display-name>
     </channel>
-    <programme start="20210528161000" stop="20210528164800" channel="cctv7">
+    <programme start="20210528162700" stop="20210528170500" channel="cctv7">
         <title lang="cn">兵器面面观-2020-125</title>
     </programme>
-    <programme start="20210528164800" stop="20210528220300" channel="cctv7">
+    <programme start="20210528170500" stop="20210528220300" channel="cctv7">
         <title lang="cn">再见</title>
     </programme>
     <programme start="20210528220300" stop="20210528223400" channel="cctv7">
@@ -847,22 +844,22 @@
         <title lang="cn">插花-2015-3</title>
     </programme>
     <programme start="20210529112600" stop="20210529113000" channel="cctv8">
-        <title lang="cn">本集提要-《向警予》12/36</title>
+        <title lang="cn">本集提要- 《向警予》第12集</title>
     </programme>
     <programme start="20210529113000" stop="20210529122500" channel="cctv8">
         <title lang="cn">向警予第12集</title>
     </programme>
     <programme start="20210529122500" stop="20210529122900" channel="cctv8">
-        <title lang="cn">本集提要-《向警予》13/36</title>
+        <title lang="cn">本集提要- 《向警予》第13集</title>
     </programme>
     <programme start="20210529122900" stop="20210529132300" channel="cctv8">
-        <title lang="cn">向警予13/36</title>
+        <title lang="cn">向警予第13集</title>
     </programme>
     <programme start="20210529132300" stop="20210529132800" channel="cctv8">
-        <title lang="cn">本集提要-《向警予》14/36</title>
+        <title lang="cn">本集提要- 《向警予》第14集</title>
     </programme>
     <programme start="20210529132800" stop="20210529141600" channel="cctv8">
-        <title lang="cn">向警予14/36</title>
+        <title lang="cn">向警予第14集</title>
     </programme>
     <programme start="20210529141600" stop="20210529150400" channel="cctv8">
         <title lang="cn">你是我的城池营垒第5集</title>
