@@ -37,13 +37,13 @@
         <title lang="cn">朝闻天下</title>
     </programme>
     <programme start="20210616083000" stop="20210616100200" channel="cctv1">
-        <title lang="cn">新闻直播间</title>
+        <title lang="cn">新闻直播间（特别节目1）</title>
     </programme>
     <programme start="20210616100200" stop="20210616105000" channel="cctv1">
         <title lang="cn">中流击水第16集</title>
     </programme>
     <programme start="20210616105000" stop="20210616120000" channel="cctv1">
-        <title lang="cn">新闻直播间</title>
+        <title lang="cn">新闻直播间（特别节目2）</title>
     </programme>
     <programme start="20210616120000" stop="20210616123600" channel="cctv1">
         <title lang="cn">新闻30分</title>
@@ -441,6 +441,9 @@
     <channel id="cctv5">
         <display-name lang="cn">CCTV-5 体育</display-name>
     </channel>
+    <programme start="20210616000000" stop="20210616015500" channel="cctv5">
+        <title lang="cn">2020欧洲杯-小组赛F组（匈牙利-葡萄牙）</title>
+    </programme>
     <programme start="20210616015500" stop="20210616040500" channel="cctv5">
         <title lang="cn">2022卡塔尔世界杯-亚洲区预选赛（中国—叙利亚）</title>
     </programme>
@@ -472,7 +475,7 @@
         <title lang="cn">冠军欧洲-2020欧洲杯特别节目星耀金杯日间版（下午）5</title>
     </programme>
     <programme start="20210616142500" stop="20210616163000" channel="cctv5">
-        <title lang="cn">2021年男篮亚洲杯-预选赛（日本-中国）</title>
+        <title lang="cn">录像-全国田径冠军赛暨东京奥运会选拔赛</title>
     </programme>
     <programme start="20210616163000" stop="20210616180000" channel="cctv5">
         <title lang="cn">实况录像-2022卡塔尔世界杯亚洲区预选赛 中国队-叙利亚队</title>
@@ -492,6 +495,9 @@
     <channel id="cctv5plus">
         <display-name lang="cn">CCTV-5+ 体育赛事</display-name>
     </channel>
+    <programme start="20210616000000" stop="20210616021000" channel="cctv5plus">
+        <title lang="cn">2020欧洲杯-小组赛F组（匈牙利队-葡萄牙队）</title>
+    </programme>
     <programme start="20210616021000" stop="20210616023500" channel="cctv5plus">
         <title lang="cn">赛事集锦-ATP周刊11</title>
     </programme>
@@ -1272,14 +1278,17 @@
     <programme start="20210616054100" stop="20210616060000" channel="cctv13">
         <title lang="cn">焦点访谈</title>
     </programme>
-    <programme start="20210616060000" stop="20210616090000" channel="cctv13">
+    <programme start="20210616060000" stop="20210616083000" channel="cctv13">
         <title lang="cn">朝闻天下</title>
     </programme>
-    <programme start="20210616090000" stop="20210616100000" channel="cctv13">
+    <programme start="20210616083000" stop="20210616100000" channel="cctv13">
+        <title lang="cn">新闻直播间（特别节目1）</title>
+    </programme>
+    <programme start="20210616100000" stop="20210616105000" channel="cctv13">
         <title lang="cn">新闻直播间</title>
     </programme>
-    <programme start="20210616100000" stop="20210616120000" channel="cctv13">
-        <title lang="cn">新闻直播间(《今日中国》特别节目)</title>
+    <programme start="20210616105000" stop="20210616120000" channel="cctv13">
+        <title lang="cn">新闻直播间（特别节目2）</title>
     </programme>
     <programme start="20210616120000" stop="20210616123300" channel="cctv13">
         <title lang="cn">新闻30分</title>
