@@ -30,11 +30,17 @@
     <programme start="20210624052700" stop="20210624060000" channel="cctv1">
         <title lang="cn">人与自然-2021-165</title>
     </programme>
-    <programme start="20210624060000" stop="20210624083800" channel="cctv1">
+    <programme start="20210624060000" stop="20210624083500" channel="cctv1">
         <title lang="cn">朝闻天下</title>
     </programme>
-    <programme start="20210624083800" stop="20210624092900" channel="cctv1">
+    <programme start="20210624083500" stop="20210624083800" channel="cctv1">
+        <title lang="cn">广告</title>
+    </programme>
+    <programme start="20210624083800" stop="20210624092500" channel="cctv1">
         <title lang="cn">生活早参考-特别节目（生活圈）2021-125</title>
+    </programme>
+    <programme start="20210624092500" stop="20210624092900" channel="cctv1">
+        <title lang="cn">广告</title>
     </programme>
     <programme start="20210624092900" stop="20210624102100" channel="cctv1">
         <title lang="cn">中流击水第26集</title>
@@ -153,8 +159,11 @@
     <programme start="20210624100000" stop="20210624103000" channel="cctv2">
         <title lang="cn">正点财经</title>
     </programme>
-    <programme start="20210624103000" stop="20210624110000" channel="cctv2">
+    <programme start="20210624103000" stop="20210624105500" channel="cctv2">
         <title lang="cn">经济半小时</title>
+    </programme>
+    <programme start="20210624105500" stop="20210624110000" channel="cctv2">
+        <title lang="cn">广告</title>
     </programme>
     <programme start="20210624110000" stop="20210624113000" channel="cctv2">
         <title lang="cn">正点财经</title>
@@ -345,11 +354,17 @@
     <programme start="20210624050000" stop="20210624053000" channel="cctv4">
         <title lang="cn">国家记忆-2021-72</title>
     </programme>
-    <programme start="20210624053000" stop="20210624060000" channel="cctv4">
+    <programme start="20210624053000" stop="20210624055700" channel="cctv4">
         <title lang="cn">国宝发现-2021-24</title>
     </programme>
-    <programme start="20210624060000" stop="20210624063000" channel="cctv4">
+    <programme start="20210624055700" stop="20210624060000" channel="cctv4">
+        <title lang="cn">广告</title>
+    </programme>
+    <programme start="20210624060000" stop="20210624062800" channel="cctv4">
         <title lang="cn">海峡两岸-2021-174</title>
+    </programme>
+    <programme start="20210624062800" stop="20210624063000" channel="cctv4">
+        <title lang="cn">广告</title>
     </programme>
     <programme start="20210624063000" stop="20210624070000" channel="cctv4">
         <title lang="cn">今日亚洲</title>
@@ -450,14 +465,29 @@
     <programme start="20210624023000" stop="20210624050500" channel="cctv5">
         <title lang="cn">2020欧洲杯-小组赛F组（葡萄牙—法国）</title>
     </programme>
-    <programme start="20210624050500" stop="20210624060000" channel="cctv5">
+    <programme start="20210624050500" stop="20210624052700" channel="cctv5">
         <title lang="cn">实况录像-2021年亚洲举重锦标赛 女子76公斤级决赛</title>
     </programme>
-    <programme start="20210624060000" stop="20210624073000" channel="cctv5">
+    <programme start="20210624052700" stop="20210624052900" channel="cctv5">
+        <title lang="cn">2019年国际乒联世界巡回赛集锦1</title>
+    </programme>
+    <programme start="20210624052900" stop="20210624060000" channel="cctv5">
+        <title lang="cn">实况录像-2021年亚洲举重锦标赛 女子76公斤级决赛</title>
+    </programme>
+    <programme start="20210624060000" stop="20210624062900" channel="cctv5">
         <title lang="cn">实况录像-2021中国平安足球协会超级联赛第一阶段第3轮 北京国安-大连人</title>
     </programme>
-    <programme start="20210624073000" stop="20210624080000" channel="cctv5">
+    <programme start="20210624062900" stop="20210624063100" channel="cctv5">
+        <title lang="cn">2019年国际乒联世界巡回赛集锦2</title>
+    </programme>
+    <programme start="20210624063100" stop="20210624073000" channel="cctv5">
+        <title lang="cn">实况录像-2021中国平安足球协会超级联赛第一阶段第3轮 北京国安-大连人</title>
+    </programme>
+    <programme start="20210624073000" stop="20210624075800" channel="cctv5">
         <title lang="cn">健身动起来</title>
+    </programme>
+    <programme start="20210624075800" stop="20210624080000" channel="cctv5">
+        <title lang="cn">2019年国际乒联世界巡回赛集锦3</title>
     </programme>
     <programme start="20210624080000" stop="20210624100500" channel="cctv5">
         <title lang="cn">2021年美洲杯-小组赛B组（巴西—哥伦比亚）</title>
@@ -513,13 +543,31 @@
     <programme start="20210624063000" stop="20210624080000" channel="cctv5plus">
         <title lang="cn">实况录像-2020欧洲杯小组赛D组 苏格兰队-捷克队</title>
     </programme>
-    <programme start="20210624080000" stop="20210624110500" channel="cctv5plus">
+    <programme start="20210624080000" stop="20210624085200" channel="cctv5plus">
         <title lang="cn">2020/2021赛季北美冰球职业联赛-半决赛11（坦帕湾闪电—纽约岛人）</title>
     </programme>
-    <programme start="20210624110500" stop="20210624122500" channel="cctv5plus">
+    <programme start="20210624085200" stop="20210624085400" channel="cctv5plus">
+        <title lang="cn">2019年国际乒联世界巡回赛集锦3</title>
+    </programme>
+    <programme start="20210624085400" stop="20210624095200" channel="cctv5plus">
+        <title lang="cn">2020/2021赛季北美冰球职业联赛-半决赛11（坦帕湾闪电—纽约岛人）</title>
+    </programme>
+    <programme start="20210624095200" stop="20210624095400" channel="cctv5plus">
+        <title lang="cn">2019年国际乒联世界巡回赛集锦5</title>
+    </programme>
+    <programme start="20210624095400" stop="20210624104400" channel="cctv5plus">
         <title lang="cn">2021年世界男排联赛-巴西—意大利</title>
     </programme>
-    <programme start="20210624122500" stop="20210624135000" channel="cctv5plus">
+    <programme start="20210624104400" stop="20210624104600" channel="cctv5plus">
+        <title lang="cn">2019年国际乒联世界巡回赛集锦6</title>
+    </programme>
+    <programme start="20210624104600" stop="20210624123100" channel="cctv5plus">
+        <title lang="cn">2021年世界男排联赛-巴西—意大利</title>
+    </programme>
+    <programme start="20210624123100" stop="20210624123300" channel="cctv5plus">
+        <title lang="cn">2019年国际乒联世界巡回赛集锦7</title>
+    </programme>
+    <programme start="20210624123300" stop="20210624135000" channel="cctv5plus">
         <title lang="cn">实况录像-2021年美洲杯小组赛A组 乌拉圭队-智利队</title>
     </programme>
     <programme start="20210624135000" stop="20210624150500" channel="cctv5plus">
@@ -544,7 +592,7 @@
         <title lang="cn">赛事集锦-2021年田径杂志6</title>
     </programme>
     <programme start="20210624224500" stop="20210624235900" channel="cctv5plus">
-        <title lang="cn">实况录像-2020欧洲杯小组赛F组 葡萄牙队-法国队</title>
+        <title lang="cn">录像-2020欧洲杯小组赛D组 克罗地亚队-苏格兰队</title>
     </programme>
     <channel id="cctv6">
         <display-name lang="cn">CCTV-6 电影</display-name>
@@ -999,8 +1047,11 @@
     <programme start="20210624071900" stop="20210624082800" channel="cctv10">
         <title lang="cn">解码科技史-2021-43</title>
     </programme>
-    <programme start="20210624082800" stop="20210624091700" channel="cctv10">
+    <programme start="20210624082800" stop="20210624091500" channel="cctv10">
         <title lang="cn">健康之路-2021-174</title>
+    </programme>
+    <programme start="20210624091500" stop="20210624091700" channel="cctv10">
+        <title lang="cn">广告</title>
     </programme>
     <programme start="20210624091700" stop="20210624100400" channel="cctv10">
         <title lang="cn">探索·发现-2021-178</title>
@@ -1020,8 +1071,11 @@
     <programme start="20210624120000" stop="20210624124900" channel="cctv10">
         <title lang="cn">百家讲坛-2021-175</title>
     </programme>
-    <programme start="20210624124900" stop="20210624132700" channel="cctv10">
+    <programme start="20210624124900" stop="20210624132300" channel="cctv10">
         <title lang="cn">味道-2021-37</title>
+    </programme>
+    <programme start="20210624132300" stop="20210624132700" channel="cctv10">
+        <title lang="cn">广告</title>
     </programme>
     <programme start="20210624132700" stop="20210624142600" channel="cctv10">
         <title lang="cn">自然传奇-2021-148</title>
@@ -1098,14 +1152,20 @@
     <programme start="20210624014800" stop="20210624060600" channel="cctv11">
         <title lang="cn">再见</title>
     </programme>
-    <programme start="20210624060600" stop="20210624071600" channel="cctv11">
+    <programme start="20210624060600" stop="20210624071400" channel="cctv11">
         <title lang="cn">九州大戏台-2020-60好戏连连看 黄梅戏《天仙配》选场</title>
     </programme>
-    <programme start="20210624071600" stop="20210624083100" channel="cctv11">
+    <programme start="20210624071400" stop="20210624072400" channel="cctv11">
+        <title lang="cn">广告</title>
+    </programme>
+    <programme start="20210624072400" stop="20210624083100" channel="cctv11">
         <title lang="cn">宝贝亮相吧-2021-25</title>
     </programme>
-    <programme start="20210624083100" stop="20210624091500" channel="cctv11">
+    <programme start="20210624083100" stop="20210624091300" channel="cctv11">
         <title lang="cn">名家书场-2021-159《虎胆英雄杨子荣》第2回</title>
+    </programme>
+    <programme start="20210624091300" stop="20210624091500" channel="cctv11">
+        <title lang="cn">广告</title>
     </programme>
     <programme start="20210624091500" stop="20210624114300" channel="cctv11">
         <title lang="cn">中国京剧像音像集萃-2018-40评剧《闹严府》</title>
@@ -1113,10 +1173,13 @@
     <programme start="20210624114300" stop="20210624123300" channel="cctv11">
         <title lang="cn">三十而已第21集</title>
     </programme>
-    <programme start="20210624123300" stop="20210624132400" channel="cctv11">
+    <programme start="20210624123300" stop="20210624132700" channel="cctv11">
         <title lang="cn">三十而已第22集</title>
     </programme>
-    <programme start="20210624132400" stop="20210624160000" channel="cctv11">
+    <programme start="20210624132700" stop="20210624133000" channel="cctv11">
+        <title lang="cn">广告</title>
+    </programme>
+    <programme start="20210624133000" stop="20210624160000" channel="cctv11">
         <title lang="cn">CCTV空中剧院-2020-207 京剧《红娘》</title>
     </programme>
     <programme start="20210624160000" stop="20210624172100" channel="cctv11">
@@ -1161,10 +1224,13 @@
     <programme start="20210624015500" stop="20210624060300" channel="cctv12">
         <title lang="cn">再见</title>
     </programme>
-    <programme start="20210624060300" stop="20210624063600" channel="cctv12">
+    <programme start="20210624060300" stop="20210624062900" channel="cctv12">
         <title lang="cn">夕阳红-2021-174</title>
     </programme>
-    <programme start="20210624063600" stop="20210624071000" channel="cctv12">
+    <programme start="20210624062900" stop="20210624064100" channel="cctv12">
+        <title lang="cn">广告</title>
+    </programme>
+    <programme start="20210624064100" stop="20210624071000" channel="cctv12">
         <title lang="cn">法律讲堂（文史版）-2021-124</title>
     </programme>
     <programme start="20210624071000" stop="20210624080500" channel="cctv12">
@@ -1176,8 +1242,11 @@
     <programme start="20210624082500" stop="20210624090000" channel="cctv12">
         <title lang="cn">夕阳红-2021-175</title>
     </programme>
-    <programme start="20210624090000" stop="20210624092400" channel="cctv12">
+    <programme start="20210624090000" stop="20210624092100" channel="cctv12">
         <title lang="cn">道德观察(日播版)-2021-174</title>
+    </programme>
+    <programme start="20210624092100" stop="20210624092400" channel="cctv12">
+        <title lang="cn">广告</title>
     </programme>
     <programme start="20210624092400" stop="20210624095600" channel="cctv12">
         <title lang="cn">法律讲堂-2021-174</title>
@@ -1425,13 +1494,25 @@
     <programme start="20210624060000" stop="20210624063100" channel="cctv15">
         <title lang="cn">中国节拍-2021-78</title>
     </programme>
-    <programme start="20210624063100" stop="20210624074600" channel="cctv15">
+    <programme start="20210624063100" stop="20210624065600" channel="cctv15">
+        <title lang="cn">民歌·中国-2021-118我们的生活充满阳光（一）</title>
+    </programme>
+    <programme start="20210624065600" stop="20210624065800" channel="cctv15">
+        <title lang="cn">广告</title>
+    </programme>
+    <programme start="20210624065800" stop="20210624074600" channel="cctv15">
         <title lang="cn">民歌·中国-2021-118我们的生活充满阳光（一）</title>
     </programme>
     <programme start="20210624074600" stop="20210624081900" channel="cctv15">
         <title lang="cn">风华国乐-2021-176</title>
     </programme>
-    <programme start="20210624081900" stop="20210624085600" channel="cctv15">
+    <programme start="20210624081900" stop="20210624083600" channel="cctv15">
+        <title lang="cn">中国音乐电视-2021-175</title>
+    </programme>
+    <programme start="20210624083600" stop="20210624083900" channel="cctv15">
+        <title lang="cn">广告</title>
+    </programme>
+    <programme start="20210624083900" stop="20210624085600" channel="cctv15">
         <title lang="cn">中国音乐电视-2021-175</title>
     </programme>
     <programme start="20210624085600" stop="20210624104400" channel="cctv15">
@@ -1440,11 +1521,17 @@
     <programme start="20210624104400" stop="20210624120000" channel="cctv15">
         <title lang="cn">民歌·中国-2021-118我们的生活充满阳光（一）</title>
     </programme>
-    <programme start="20210624120000" stop="20210624134800" channel="cctv15">
+    <programme start="20210624120000" stop="20210624134400" channel="cctv15">
         <title lang="cn">精彩音乐汇-2021-169</title>
     </programme>
-    <programme start="20210624134800" stop="20210624142500" channel="cctv15">
+    <programme start="20210624134400" stop="20210624134800" channel="cctv15">
+        <title lang="cn">广告</title>
+    </programme>
+    <programme start="20210624134800" stop="20210624142300" channel="cctv15">
         <title lang="cn">中国节拍-2021-78</title>
+    </programme>
+    <programme start="20210624142300" stop="20210624142500" channel="cctv15">
+        <title lang="cn">广告</title>
     </programme>
     <programme start="20210624142500" stop="20210624160400" channel="cctv15">
         <title lang="cn">合唱先锋2021-46-和光同行</title>
@@ -1494,10 +1581,13 @@
     <programme start="20210624065400" stop="20210624070000" channel="cctv17">
         <title lang="cn">农业气象</title>
     </programme>
-    <programme start="20210624070000" stop="20210624073000" channel="cctv17">
+    <programme start="20210624070000" stop="20210624072800" channel="cctv17">
         <title lang="cn">中国三农报道</title>
     </programme>
-    <programme start="20210624073000" stop="20210624080000" channel="cctv17">
+    <programme start="20210624072800" stop="20210624073100" channel="cctv17">
+        <title lang="cn">广告</title>
+    </programme>
+    <programme start="20210624073100" stop="20210624080000" channel="cctv17">
         <title lang="cn">一村一寨总关情--30</title>
     </programme>
     <programme start="20210624080000" stop="20210624083000" channel="cctv17">
