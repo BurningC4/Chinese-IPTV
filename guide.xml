@@ -372,11 +372,11 @@
     <programme start="20210628080000" stop="20210628090000" channel="cctv4">
         <title lang="cn">今日环球</title>
     </programme>
-    <programme start="20210628090000" stop="20210628100000" channel="cctv4">
+    <programme start="20210628090000" stop="20210628104000" channel="cctv4">
         <title lang="cn">庆祝中国共产党成立100周年活动新闻中心新闻发布会-2</title>
     </programme>
-    <programme start="20210628100000" stop="20210628110000" channel="cctv4">
-        <title lang="cn">中国舆论场-2021-25</title>
+    <programme start="20210628104000" stop="20210628110000" channel="cctv4">
+        <title lang="cn">中国新闻</title>
     </programme>
     <programme start="20210628110000" stop="20210628113000" channel="cctv4">
         <title lang="cn">记住乡愁2021-7（第七季）</title>
@@ -547,7 +547,7 @@
         <title lang="cn">实况录像-2020欧洲杯1/8决赛4</title>
     </programme>
     <programme start="20210628200000" stop="20210628235900" channel="cctv5plus">
-        <title lang="cn">2021年温网-第一轮1</title>
+        <title lang="cn">2021年温网-第一轮1（王欣瑜-肯宁）等</title>
     </programme>
     <channel id="cctv6">
         <display-name lang="cn">CCTV-6 电影</display-name>
@@ -1281,8 +1281,11 @@
     <programme start="20210628034000" stop="20210628040000" channel="cctv13">
         <title lang="cn">每周质量报告</title>
     </programme>
-    <programme start="20210628040000" stop="20210628050000" channel="cctv13">
+    <programme start="20210628040000" stop="20210628041500" channel="cctv13">
         <title lang="cn">新闻直播间</title>
+    </programme>
+    <programme start="20210628041500" stop="20210628050000" channel="cctv13">
+        <title lang="cn">世界周刊</title>
     </programme>
     <programme start="20210628050000" stop="20210628051200" channel="cctv13">
         <title lang="cn">新闻直播间</title>
@@ -1306,7 +1309,7 @@
         <title lang="cn">新闻30分</title>
     </programme>
     <programme start="20210628123300" stop="20210628130000" channel="cctv13">
-        <title lang="cn">法治在线</title>
+        <title lang="cn">新闻直播间(新闻直播间特别版)</title>
     </programme>
     <programme start="20210628130000" stop="20210628140000" channel="cctv13">
         <title lang="cn">新闻直播间</title>
@@ -1332,10 +1335,10 @@
     <programme start="20210628190000" stop="20210628193200" channel="cctv13">
         <title lang="cn">新闻联播</title>
     </programme>
-    <programme start="20210628193200" stop="20210628194000" channel="cctv13">
+    <programme start="20210628193200" stop="20210628193900" channel="cctv13">
         <title lang="cn">天气预报</title>
     </programme>
-    <programme start="20210628194000" stop="20210628200000" channel="cctv13">
+    <programme start="20210628193900" stop="20210628200000" channel="cctv13">
         <title lang="cn">焦点访谈</title>
     </programme>
     <programme start="20210628200000" stop="20210628210000" channel="cctv13">
@@ -2061,16 +2064,34 @@
     <channel id="dongfang">
         <display-name lang="cn">东方卫视</display-name>
     </channel>
-    <programme start="20210628041400" stop="20210628051000" channel="dongfang">
-        <title lang="cn">梦想改造家1精编(8)</title>
+    <programme start="20210628041200" stop="20210628050800" channel="dongfang">
+        <title lang="cn">梦想改造家1(8)</title>
     </programme>
-    <programme start="20210628051000" stop="20210628061500" channel="dongfang">
-        <title lang="cn">梦想改造家1精编(10)</title>
+    <programme start="20210628050800" stop="20210628051100" channel="dongfang">
+        <title lang="cn">麦杰克好儿歌</title>
     </programme>
-    <programme start="20210628061500" stop="20210628061900" channel="dongfang">
-        <title lang="cn">精彩看点</title>
+    <programme start="20210628051100" stop="20210628051400" channel="dongfang">
+        <title lang="cn">第八批爱国歌曲:青春的起点</title>
     </programme>
-    <programme start="20210628061900" stop="20210628070000" channel="dongfang">
+    <programme start="20210628051400" stop="20210628051800" channel="dongfang">
+        <title lang="cn">第八批爱国歌曲:春风十万里</title>
+    </programme>
+    <programme start="20210628051800" stop="20210628052100" channel="dongfang">
+        <title lang="cn">第八批爱国歌曲:此生最爱是梨园</title>
+    </programme>
+    <programme start="20210628052100" stop="20210628052500" channel="dongfang">
+        <title lang="cn">第八批爱国歌曲:平凡英雄</title>
+    </programme>
+    <programme start="20210628052500" stop="20210628052900" channel="dongfang">
+        <title lang="cn">第八批爱国歌曲:国旗之下</title>
+    </programme>
+    <programme start="20210628052900" stop="20210628053200" channel="dongfang">
+        <title lang="cn">第八批爱国歌曲:边寨喜讯</title>
+    </programme>
+    <programme start="20210628053200" stop="20210628063700" channel="dongfang">
+        <title lang="cn">梦想改造家1(10)</title>
+    </programme>
+    <programme start="20210628063700" stop="20210628070000" channel="dongfang">
         <title lang="cn">1/7(477)</title>
     </programme>
     <programme start="20210628070000" stop="20210628070100" channel="dongfang">
@@ -2097,23 +2118,29 @@
     <programme start="20210628114100" stop="20210628120000" channel="dongfang">
         <title lang="cn">电视剧：我们的新时代-美丽的你(4)</title>
     </programme>
-    <programme start="20210628120000" stop="20210628125900" channel="dongfang">
+    <programme start="20210628120000" stop="20210628125600" channel="dongfang">
         <title lang="cn">百年初心薪火相传(3)</title>
     </programme>
-    <programme start="20210628125900" stop="20210628144400" channel="dongfang">
-        <title lang="cn">百年正芳华·越剧专场</title>
+    <programme start="20210628125600" stop="20210628134700" channel="dongfang">
+        <title lang="cn">东方之韵名家经典戏曲演唱会精编</title>
     </programme>
-    <programme start="20210628144400" stop="20210628152800" channel="dongfang">
+    <programme start="20210628134700" stop="20210628143300" channel="dongfang">
         <title lang="cn">电视剧：瞄准(16)</title>
     </programme>
-    <programme start="20210628152800" stop="20210628161400" channel="dongfang">
+    <programme start="20210628143300" stop="20210628151900" channel="dongfang">
         <title lang="cn">电视剧：瞄准(17)</title>
     </programme>
-    <programme start="20210628161400" stop="20210628165600" channel="dongfang">
+    <programme start="20210628151900" stop="20210628160700" channel="dongfang">
         <title lang="cn">电视剧：瞄准(18)</title>
     </programme>
-    <programme start="20210628165600" stop="20210628180000" channel="dongfang">
-        <title lang="cn">时间的答卷(2)</title>
+    <programme start="20210628160700" stop="20210628164800" channel="dongfang">
+        <title lang="cn">电视剧：瞄准(19)</title>
+    </programme>
+    <programme start="20210628164800" stop="20210628165700" channel="dongfang">
+        <title lang="cn">电视剧：瞄准(20)</title>
+    </programme>
+    <programme start="20210628165700" stop="20210628180000" channel="dongfang">
+        <title lang="cn">时间的答卷(1)</title>
     </programme>
     <programme start="20210628180000" stop="20210628185700" channel="dongfang">
         <title lang="cn">东方新闻</title>
@@ -2124,31 +2151,31 @@
     <programme start="20210628190000" stop="20210628193200" channel="dongfang">
         <title lang="cn">新闻联播</title>
     </programme>
-    <programme start="20210628193200" stop="20210628201300" channel="dongfang">
-        <title lang="cn">电视剧：我们的新时代-腾飞(7)</title>
+    <programme start="20210628193200" stop="20210628201800" channel="dongfang">
+        <title lang="cn">电视剧：我们的新时代(15)</title>
     </programme>
-    <programme start="20210628201300" stop="20210628202400" channel="dongfang">
-        <title lang="cn">明日精彩看点</title>
+    <programme start="20210628201800" stop="20210628202900" channel="dongfang">
+        <title lang="cn">精彩看点</title>
     </programme>
-    <programme start="20210628202400" stop="20210628205200" channel="dongfang">
+    <programme start="20210628202900" stop="20210628205600" channel="dongfang">
         <title lang="cn">理想照耀中国:家是玉麦，国是中国</title>
     </programme>
-    <programme start="20210628205200" stop="20210628212300" channel="dongfang">
+    <programme start="20210628205600" stop="20210628212800" channel="dongfang">
         <title lang="cn">理想照耀中国(18):希望的田野</title>
     </programme>
-    <programme start="20210628212300" stop="20210628213100" channel="dongfang">
+    <programme start="20210628212800" stop="20210628214000" channel="dongfang">
         <title lang="cn">东方看大剧</title>
     </programme>
-    <programme start="20210628213100" stop="20210628224000" channel="dongfang">
+    <programme start="20210628214000" stop="20210628223100" channel="dongfang">
         <title lang="cn">诞生地(1)</title>
     </programme>
-    <programme start="20210628224000" stop="20210628231900" channel="dongfang">
+    <programme start="20210628223100" stop="20210628231000" channel="dongfang">
         <title lang="cn">今晚</title>
     </programme>
-    <programme start="20210628231900" stop="20210628232000" channel="dongfang">
+    <programme start="20210628231000" stop="20210628231300" channel="dongfang">
         <title lang="cn">天气预报</title>
     </programme>
-    <programme start="20210628232000" stop="20210628235900" channel="dongfang">
+    <programme start="20210628231300" stop="20210628235900" channel="dongfang">
         <title lang="cn">百架钢琴大型户外交响合唱音乐会</title>
     </programme>
     <channel id="hunan">
@@ -2928,77 +2955,77 @@
     <channel id="travel">
         <display-name lang="cn">旅游卫视</display-name>
     </channel>
-    <programme start="20210628041300" stop="20210628043300" channel="travel">
-        <title lang="cn">文明中华行</title>
-    </programme>
-    <programme start="20210628043300" stop="20210628045100" channel="travel">
+    <programme start="20210628042000" stop="20210628043500" channel="travel">
         <title lang="cn">善行天下</title>
     </programme>
-    <programme start="20210628045100" stop="20210628052700" channel="travel">
-        <title lang="cn">第一时尚</title>
+    <programme start="20210628043500" stop="20210628044900" channel="travel">
+        <title lang="cn">天天成长记(2)</title>
     </programme>
-    <programme start="20210628052700" stop="20210628062800" channel="travel">
-        <title lang="cn">纪录中国</title>
-    </programme>
-    <programme start="20210628062800" stop="20210628070000" channel="travel">
-        <title lang="cn">潮起海之南</title>
+    <programme start="20210628044900" stop="20210628070000" channel="travel">
+        <title lang="cn">凌晨剧场</title>
     </programme>
     <programme start="20210628070000" stop="20210628070100" channel="travel">
         <title lang="cn">中华人民共和国国歌</title>
     </programme>
-    <programme start="20210628070100" stop="20210628073100" channel="travel">
+    <programme start="20210628070100" stop="20210628073600" channel="travel">
         <title lang="cn">海南新闻联播</title>
     </programme>
-    <programme start="20210628073100" stop="20210628080000" channel="travel">
-        <title lang="cn">动画片剧场</title>
+    <programme start="20210628073600" stop="20210628075000" channel="travel">
+        <title lang="cn">天天成长记(2)</title>
     </programme>
-    <programme start="20210628080000" stop="20210628083400" channel="travel">
-        <title lang="cn">等着我</title>
+    <programme start="20210628075000" stop="20210628091400" channel="travel">
+        <title lang="cn">阳光剧场</title>
     </programme>
-    <programme start="20210628083400" stop="20210628091100" channel="travel">
-        <title lang="cn">等着我</title>
+    <programme start="20210628091400" stop="20210628092700" channel="travel">
+        <title lang="cn">天天成长记(2)</title>
     </programme>
-    <programme start="20210628091100" stop="20210628095100" channel="travel">
-        <title lang="cn">等着我</title>
+    <programme start="20210628092700" stop="20210628095100" channel="travel">
+        <title lang="cn">潮起海之南</title>
     </programme>
-    <programme start="20210628095100" stop="20210628103100" channel="travel">
-        <title lang="cn">电视剧</title>
+    <programme start="20210628095100" stop="20210628101200" channel="travel">
+        <title lang="cn">电视剧:妇道(59)</title>
     </programme>
-    <programme start="20210628103100" stop="20210628111400" channel="travel">
-        <title lang="cn">电视剧</title>
+    <programme start="20210628101200" stop="20210628103200" channel="travel">
+        <title lang="cn">电视剧:穆桂英挂帅(51)</title>
     </programme>
-    <programme start="20210628111400" stop="20210628120000" channel="travel">
-        <title lang="cn">电视剧</title>
+    <programme start="20210628103200" stop="20210628111400" channel="travel">
+        <title lang="cn">电视剧:穆桂英挂帅(52)</title>
+    </programme>
+    <programme start="20210628111400" stop="20210628113500" channel="travel">
+        <title lang="cn">电视剧:穆桂英挂帅(53)</title>
+    </programme>
+    <programme start="20210628113500" stop="20210628120000" channel="travel">
+        <title lang="cn">电视剧:穆桂英挂帅(54)</title>
     </programme>
     <programme start="20210628120000" stop="20210628123000" channel="travel">
         <title lang="cn">全媒体大直播</title>
     </programme>
     <programme start="20210628123000" stop="20210628131000" channel="travel">
-        <title lang="cn">电视剧</title>
+        <title lang="cn">电视剧:穆桂英挂帅(55)</title>
     </programme>
     <programme start="20210628131000" stop="20210628135100" channel="travel">
-        <title lang="cn">电视剧</title>
+        <title lang="cn">电视剧:穆桂英挂帅(56)</title>
     </programme>
     <programme start="20210628135100" stop="20210628143100" channel="travel">
-        <title lang="cn">电视剧</title>
+        <title lang="cn">电视剧:武松(69)</title>
     </programme>
     <programme start="20210628143100" stop="20210628151200" channel="travel">
-        <title lang="cn">电视剧</title>
+        <title lang="cn">电视剧:武松(70)</title>
     </programme>
     <programme start="20210628151200" stop="20210628155200" channel="travel">
-        <title lang="cn">电视剧</title>
+        <title lang="cn">电视剧:武松(71)</title>
     </programme>
     <programme start="20210628155200" stop="20210628163300" channel="travel">
-        <title lang="cn">电视剧</title>
+        <title lang="cn">电视剧:武松(72)</title>
     </programme>
     <programme start="20210628163300" stop="20210628171400" channel="travel">
-        <title lang="cn">电视剧</title>
+        <title lang="cn">电视剧:武松(73)</title>
     </programme>
-    <programme start="20210628171400" stop="20210628175600" channel="travel">
-        <title lang="cn">电视剧</title>
+    <programme start="20210628171400" stop="20210628175500" channel="travel">
+        <title lang="cn">电视剧:武松(74)</title>
     </programme>
-    <programme start="20210628175600" stop="20210628181600" channel="travel">
-        <title lang="cn">动画片剧场</title>
+    <programme start="20210628175500" stop="20210628181600" channel="travel">
+        <title lang="cn">梦娃(2)</title>
     </programme>
     <programme start="20210628181600" stop="20210628183000" channel="travel">
         <title lang="cn">海南天气预报</title>
@@ -3013,21 +3040,21 @@
         <title lang="cn">潮起海之南</title>
     </programme>
     <programme start="20210628195500" stop="20210628200000" channel="travel">
-        <title lang="cn">点赞海南</title>
+        <title lang="cn">Bravo Hainan</title>
     </programme>
-    <programme start="20210628200000" stop="20210628203400" channel="travel">
+    <programme start="20210628200000" stop="20210628203000" channel="travel">
         <title lang="cn">直通自贸港</title>
     </programme>
-    <programme start="20210628203400" stop="20210628211500" channel="travel">
-        <title lang="cn">电视剧:国家命运(24)</title>
+    <programme start="20210628203000" stop="20210628211600" channel="travel">
+        <title lang="cn">国家命运(24)</title>
     </programme>
-    <programme start="20210628211500" stop="20210628223200" channel="travel">
-        <title lang="cn">电视剧:国家命运(25)</title>
+    <programme start="20210628211600" stop="20210628223000" channel="travel">
+        <title lang="cn">国家命运(25)</title>
     </programme>
-    <programme start="20210628223200" stop="20210628230800" channel="travel">
-        <title lang="cn">潮起海之南</title>
+    <programme start="20210628223000" stop="20210628232000" channel="travel">
+        <title lang="cn">电视剧：小欢喜(81)</title>
     </programme>
-    <programme start="20210628230800" stop="20210628235900" channel="travel">
+    <programme start="20210628232000" stop="20210628235900" channel="travel">
         <title lang="cn">卫视高尔夫</title>
     </programme>
     <channel id="neimenggu">
@@ -4767,62 +4794,77 @@
     <channel id="xizang">
         <display-name lang="cn">西藏卫视</display-name>
     </channel>
-    <programme start="20210628042000" stop="20210628043700" channel="xizang">
-        <title lang="cn">跟我学藏语</title>
+    <programme start="20210628040400" stop="20210628044100" channel="xizang">
+        <title lang="cn">西藏新闻联播</title>
     </programme>
-    <programme start="20210628043700" stop="20210628052600" channel="xizang">
-        <title lang="cn">电视剧</title>
+    <programme start="20210628044100" stop="20210628052700" channel="xizang">
+        <title lang="cn">电视剧：亮剑(8)</title>
     </programme>
-    <programme start="20210628052600" stop="20210628061200" channel="xizang">
-        <title lang="cn">电视剧</title>
+    <programme start="20210628052700" stop="20210628060600" channel="xizang">
+        <title lang="cn">电视剧：亮剑(9)</title>
     </programme>
-    <programme start="20210628061200" stop="20210628070000" channel="xizang">
-        <title lang="cn">电视剧</title>
+    <programme start="20210628060600" stop="20210628070000" channel="xizang">
+        <title lang="cn">电视剧：亮剑(10)</title>
     </programme>
     <programme start="20210628070000" stop="20210628070500" channel="xizang">
         <title lang="cn">中华人民共和国国歌</title>
     </programme>
-    <programme start="20210628070500" stop="20210628081700" channel="xizang">
-        <title lang="cn">电视剧</title>
+    <programme start="20210628070500" stop="20210628075000" channel="xizang">
+        <title lang="cn">电视剧：亮剑(11)</title>
     </programme>
-    <programme start="20210628081700" stop="20210628083000" channel="xizang">
-        <title lang="cn">跟我学藏语</title>
+    <programme start="20210628075000" stop="20210628081600" channel="xizang">
+        <title lang="cn">创收栏目</title>
     </programme>
-    <programme start="20210628083000" stop="20210628090200" channel="xizang">
+    <programme start="20210628081600" stop="20210628083000" channel="xizang">
+        <title lang="cn">跟我学藏语(330)</title>
+    </programme>
+    <programme start="20210628083000" stop="20210628090500" channel="xizang">
         <title lang="cn">西藏新闻联播</title>
     </programme>
-    <programme start="20210628090200" stop="20210628105800" channel="xizang">
-        <title lang="cn">电视剧</title>
+    <programme start="20210628090500" stop="20210628095100" channel="xizang">
+        <title lang="cn">电视剧：薛平贵与王宝钏(48)</title>
     </programme>
-    <programme start="20210628105800" stop="20210628115900" channel="xizang">
-        <title lang="cn">电视剧</title>
+    <programme start="20210628095100" stop="20210628104200" channel="xizang">
+        <title lang="cn">电视剧：武则天(1)</title>
     </programme>
-    <programme start="20210628115900" stop="20210628130000" channel="xizang">
-        <title lang="cn">电视剧</title>
+    <programme start="20210628104200" stop="20210628113300" channel="xizang">
+        <title lang="cn">电视剧：武则天(2)</title>
     </programme>
-    <programme start="20210628130000" stop="20210628131600" channel="xizang">
+    <programme start="20210628113300" stop="20210628122400" channel="xizang">
+        <title lang="cn">电视剧：武则天(3)</title>
+    </programme>
+    <programme start="20210628122400" stop="20210628130000" channel="xizang">
+        <title lang="cn">珠峰讲堂(298)</title>
+    </programme>
+    <programme start="20210628130000" stop="20210628131900" channel="xizang">
         <title lang="cn">午间新闻</title>
     </programme>
-    <programme start="20210628131600" stop="20210628140100" channel="xizang">
-        <title lang="cn">远方的家</title>
+    <programme start="20210628131900" stop="20210628135900" channel="xizang">
+        <title lang="cn">深情的申请(2)</title>
     </programme>
-    <programme start="20210628140100" stop="20210628150000" channel="xizang">
-        <title lang="cn">电视剧</title>
+    <programme start="20210628135900" stop="20210628144800" channel="xizang">
+        <title lang="cn">电视剧：亮剑(3)</title>
     </programme>
-    <programme start="20210628150000" stop="20210628152700" channel="xizang">
+    <programme start="20210628144800" stop="20210628150000" channel="xizang">
+        <title lang="cn">跟我学藏语(330)</title>
+    </programme>
+    <programme start="20210628150000" stop="20210628151900" channel="xizang">
         <title lang="cn">午间新闻</title>
     </programme>
-    <programme start="20210628152700" stop="20210628162500" channel="xizang">
-        <title lang="cn">电视剧</title>
+    <programme start="20210628151900" stop="20210628160700" channel="xizang">
+        <title lang="cn">电视剧：亮剑(4)</title>
     </programme>
-    <programme start="20210628162500" stop="20210628172400" channel="xizang">
-        <title lang="cn">电视剧</title>
+    <programme start="20210628160700" stop="20210628165600" channel="xizang">
+        <title lang="cn">电视剧：亮剑(5)</title>
     </programme>
-    <programme start="20210628172400" stop="20210628182600" channel="xizang">
-        <title lang="cn">电视剧</title>
+    <programme start="20210628165600" stop="20210628174600" channel="xizang">
+        <title lang="cn">电视剧：亮剑(6)</title>
     </programme>
-    <programme start="20210628182600" stop="20210628190000" channel="xizang">
-        <title lang="cn">邦锦梅朵</title>
+    <programme start="20210628174600" stop="20210628182100" channel="xizang">
+        <title lang="cn">珠峰讲堂(298)</title>
+    </programme>
+    <programme start="20210628182100" stop="20210628190000" channel="xizang">
+        <title lang="cn">邦锦梅朵:动画乐园</title>
     </programme>
     <programme start="20210628190000" stop="20210628193000" channel="xizang">
         <title lang="cn">新闻联播</title>
@@ -4830,23 +4872,29 @@
     <programme start="20210628193000" stop="20210628200400" channel="xizang">
         <title lang="cn">西藏新闻联播</title>
     </programme>
-    <programme start="20210628200400" stop="20210628201100" channel="xizang">
+    <programme start="20210628200400" stop="20210628201000" channel="xizang">
         <title lang="cn">天气预报</title>
     </programme>
-    <programme start="20210628201100" stop="20210628214900" channel="xizang">
-        <title lang="cn">电视剧</title>
+    <programme start="20210628201000" stop="20210628205900" channel="xizang">
+        <title lang="cn">电视剧：可爱的中国(5)</title>
     </programme>
-    <programme start="20210628214900" stop="20210628222000" channel="xizang">
-        <title lang="cn">西藏诱惑</title>
+    <programme start="20210628205900" stop="20210628214900" channel="xizang">
+        <title lang="cn">电视剧：可爱的中国(6)</title>
     </programme>
-    <programme start="20210628222000" stop="20210628223000" channel="xizang">
-        <title lang="cn">晚间气象服务</title>
+    <programme start="20210628214900" stop="20210628221900" channel="xizang">
+        <title lang="cn">西藏诱惑(127)</title>
     </programme>
-    <programme start="20210628223000" stop="20210628230700" channel="xizang">
+    <programme start="20210628221900" stop="20210628223000" channel="xizang">
+        <title lang="cn">晚间气象</title>
+    </programme>
+    <programme start="20210628223000" stop="20210628230400" channel="xizang">
         <title lang="cn">西藏新闻联播</title>
     </programme>
-    <programme start="20210628230700" stop="20210628235900" channel="xizang">
-        <title lang="cn">电视剧</title>
+    <programme start="20210628230400" stop="20210628235200" channel="xizang">
+        <title lang="cn">电视剧：武则天(24)</title>
+    </programme>
+    <programme start="20210628235200" stop="20210628235900" channel="xizang">
+        <title lang="cn">电视剧：武则天(25)</title>
     </programme>
     <channel id="xinjiang">
         <display-name lang="cn">新疆卫视</display-name>
