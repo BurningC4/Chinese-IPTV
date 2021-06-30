@@ -459,11 +459,8 @@
     <programme start="20210630000000" stop="20210630023000" channel="cctv5">
         <title lang="cn">2020欧洲杯-1/8决赛：英格兰-德国</title>
     </programme>
-    <programme start="20210630023000" stop="20210630050500" channel="cctv5">
+    <programme start="20210630023000" stop="20210630060000" channel="cctv5">
         <title lang="cn">2020欧洲杯-1/8决赛：瑞典-乌克兰</title>
-    </programme>
-    <programme start="20210630050500" stop="20210630060000" channel="cctv5">
-        <title lang="cn">实况录像-2021年世界职业拳王争霸赛 精选25</title>
     </programme>
     <programme start="20210630060000" stop="20210630073000" channel="cctv5">
         <title lang="cn">实况录像-2020/2021赛季中国男子篮球职业联赛 总决赛3</title>
@@ -1296,20 +1293,11 @@
     <programme start="20210630034400" stop="20210630040000" channel="cctv13">
         <title lang="cn">焦点访谈</title>
     </programme>
-    <programme start="20210630040000" stop="20210630043300" channel="cctv13">
+    <programme start="20210630040000" stop="20210630050000" channel="cctv13">
         <title lang="cn">新闻直播间</title>
     </programme>
-    <programme start="20210630043300" stop="20210630050000" channel="cctv13">
-        <title lang="cn">新闻1+1</title>
-    </programme>
-    <programme start="20210630050000" stop="20210630051700" channel="cctv13">
+    <programme start="20210630050000" stop="20210630060000" channel="cctv13">
         <title lang="cn">新闻直播间</title>
-    </programme>
-    <programme start="20210630051700" stop="20210630053300" channel="cctv13">
-        <title lang="cn">焦点访谈</title>
-    </programme>
-    <programme start="20210630053300" stop="20210630060000" channel="cctv13">
-        <title lang="cn">法治在线</title>
     </programme>
     <programme start="20210630060000" stop="20210630090000" channel="cctv13">
         <title lang="cn">朝闻天下</title>
@@ -1327,7 +1315,7 @@
         <title lang="cn">新闻30分</title>
     </programme>
     <programme start="20210630123300" stop="20210630130000" channel="cctv13">
-        <title lang="cn">法治在线</title>
+        <title lang="cn">新闻直播间(新闻直播间特别版)</title>
     </programme>
     <programme start="20210630130000" stop="20210630140000" channel="cctv13">
         <title lang="cn">新闻直播间</title>
@@ -1365,13 +1353,13 @@
     <programme start="20210630213000" stop="20210630220000" channel="cctv13">
         <title lang="cn">新闻1+1</title>
     </programme>
-    <programme start="20210630220000" stop="20210630223000" channel="cctv13">
+    <programme start="20210630220000" stop="20210630221700" channel="cctv13">
         <title lang="cn">国际时讯</title>
     </programme>
-    <programme start="20210630223000" stop="20210630230000" channel="cctv13">
+    <programme start="20210630221700" stop="20210630224700" channel="cctv13">
         <title lang="cn">环球视线</title>
     </programme>
-    <programme start="20210630230000" stop="20210630235900" channel="cctv13">
+    <programme start="20210630224700" stop="20210630235900" channel="cctv13">
         <title lang="cn">24小时</title>
     </programme>
     <channel id="cctvchild">
