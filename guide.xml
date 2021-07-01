@@ -61,16 +61,16 @@
         <title lang="cn">红色档案（精编）</title>
     </programme>
     <programme start="20210701132500" stop="20210701141300" channel="cctv1">
-        <title lang="cn">最美的青春第8集</title>
+        <title lang="cn">最美的青春8/36</title>
     </programme>
     <programme start="20210701141300" stop="20210701150300" channel="cctv1">
-        <title lang="cn">最美的青春第9集</title>
+        <title lang="cn">最美的青春9/36</title>
     </programme>
     <programme start="20210701150300" stop="20210701155300" channel="cctv1">
-        <title lang="cn">最美的青春第10集</title>
+        <title lang="cn">最美的青春10/36</title>
     </programme>
     <programme start="20210701155300" stop="20210701164500" channel="cctv1">
-        <title lang="cn">最美的青春第11集</title>
+        <title lang="cn">最美的青春11/36</title>
     </programme>
     <programme start="20210701164500" stop="20210701173000" channel="cctv1">
         <title lang="cn">第一动画乐园-2021-567</title>
@@ -96,13 +96,13 @@
     <programme start="20210701194000" stop="20210701200000" channel="cctv1">
         <title lang="cn">焦点访谈</title>
     </programme>
-    <programme start="20210701200000" stop="20210701221000" channel="cctv1">
+    <programme start="20210701200000" stop="20210701220500" channel="cctv1">
         <title lang="cn">伟大征程——庆祝中国共产党成立100周年大型情景史诗-1</title>
     </programme>
-    <programme start="20210701221000" stop="20210701224500" channel="cctv1">
+    <programme start="20210701220500" stop="20210701224000" channel="cctv1">
         <title lang="cn">晚间新闻</title>
     </programme>
-    <programme start="20210701224500" stop="20210701235900" channel="cctv1">
+    <programme start="20210701224000" stop="20210701235900" channel="cctv1">
         <title lang="cn">伟大征程——庆祝中国共产党成立100周年大型情景史诗-1</title>
     </programme>
     <channel id="cctv2">
@@ -204,19 +204,19 @@
     <programme start="20210701193000" stop="20210701200000" channel="cctv2">
         <title lang="cn">消费主张</title>
     </programme>
-    <programme start="20210701200000" stop="20210701221000" channel="cctv2">
-        <title lang="cn">伟大征程——庆祝中国共产党成立100周年大型情景史诗-1</title>
+    <programme start="20210701200000" stop="20210701220600" channel="cctv2">
+        <title lang="cn">伟大征程——庆祝中国共产党成立100周年大型情景史诗-2</title>
     </programme>
-    <programme start="20210701221000" stop="20210701222000" channel="cctv2">
+    <programme start="20210701220600" stop="20210701221600" channel="cctv2">
         <title lang="cn">红色财经·信物百年-37</title>
     </programme>
-    <programme start="20210701222000" stop="20210701222300" channel="cctv2">
+    <programme start="20210701221600" stop="20210701221900" channel="cctv2">
         <title lang="cn">2021中国福利彩票公益开奖-113</title>
     </programme>
-    <programme start="20210701222300" stop="20210701231800" channel="cctv2">
+    <programme start="20210701221900" stop="20210701231400" channel="cctv2">
         <title lang="cn">2021大国重器(第三季)-动力澎湃-4</title>
     </programme>
-    <programme start="20210701231800" stop="20210701235900" channel="cctv2">
+    <programme start="20210701231400" stop="20210701235900" channel="cctv2">
         <title lang="cn">一槌定音-2021-24</title>
     </programme>
     <channel id="cctv3">
@@ -408,20 +408,14 @@
     <programme start="20210701190000" stop="20210701200000" channel="cctv4">
         <title lang="cn">中国新闻</title>
     </programme>
-    <programme start="20210701200000" stop="20210701203000" channel="cctv4">
-        <title lang="cn">国家记忆-2021-78</title>
+    <programme start="20210701200000" stop="20210701220500" channel="cctv4">
+        <title lang="cn">伟大征程——庆祝中国共产党成立100周年大型情景史诗-2</title>
     </programme>
-    <programme start="20210701203000" stop="20210701210000" channel="cctv4">
-        <title lang="cn">海峡两岸-2021-182</title>
+    <programme start="20210701220500" stop="20210701222000" channel="cctv4">
+        <title lang="cn">记住乡愁2018片段展播-79</title>
     </programme>
-    <programme start="20210701210000" stop="20210701213000" channel="cctv4">
-        <title lang="cn">中国新闻</title>
-    </programme>
-    <programme start="20210701213000" stop="20210701220000" channel="cctv4">
-        <title lang="cn">今日关注</title>
-    </programme>
-    <programme start="20210701220000" stop="20210701223000" channel="cctv4">
-        <title lang="cn">中国缘-2021-31</title>
+    <programme start="20210701222000" stop="20210701223000" channel="cctv4">
+        <title lang="cn">记住乡愁2018片段展播-56</title>
     </programme>
     <programme start="20210701223000" stop="20210701230300" channel="cctv4">
         <title lang="cn">新闻联播</title>
@@ -697,13 +691,13 @@
         <title lang="cn">军事纪录-2020-125</title>
     </programme>
     <programme start="20210701200000" stop="20210701220900" channel="cctv7">
-        <title lang="cn">伟大征程——庆祝中国共产党成立100周年大型情景史诗-1</title>
+        <title lang="cn">伟大征程——庆祝中国共产党成立100周年大型情景史诗-2</title>
     </programme>
     <programme start="20210701220900" stop="20210701224500" channel="cctv7">
         <title lang="cn">军事纪实-2021-130</title>
     </programme>
     <programme start="20210701224500" stop="20210701232100" channel="cctv7">
-        <title lang="cn">国防科工-2021-26</title>
+        <title lang="cn">国防科工-2021-7</title>
     </programme>
     <programme start="20210701232100" stop="20210701235000" channel="cctv7">
         <title lang="cn">兵器面面观-2020-189</title>
@@ -1090,7 +1084,7 @@
         <title lang="cn">典藏-2021-92</title>
     </programme>
     <programme start="20210701200000" stop="20210701222000" channel="cctv11">
-        <title lang="cn">伟大征程——庆祝中国共产党成立100周年大型情景史诗-1</title>
+        <title lang="cn">伟大征程——庆祝中国共产党成立100周年大型情景史诗-2</title>
     </programme>
     <programme start="20210701222000" stop="20210701235900" channel="cctv11">
         <title lang="cn">京剧电影《智取威虎山》</title>
@@ -1225,7 +1219,7 @@
         <title lang="cn">新闻直播间</title>
     </programme>
     <programme start="20210701042000" stop="20210701050000" channel="cctv13">
-        <title lang="cn">品格-建党100周年</title>
+        <title lang="cn">品格-建党100周年1</title>
     </programme>
     <programme start="20210701050000" stop="20210701054100" channel="cctv13">
         <title lang="cn">新闻直播间</title>
@@ -1234,7 +1228,7 @@
         <title lang="cn">焦点访谈</title>
     </programme>
     <programme start="20210701060000" stop="20210701061600" channel="cctv13">
-        <title lang="cn">新闻直播间(七一特别节目)</title>
+        <title lang="cn">新闻直播间</title>
     </programme>
     <programme start="20210701061600" stop="20210701094500" channel="cctv13">
         <title lang="cn">新闻直播间</title>
@@ -1252,7 +1246,7 @@
         <title lang="cn">新闻30分</title>
     </programme>
     <programme start="20210701123300" stop="20210701130000" channel="cctv13">
-        <title lang="cn">新闻直播间(新闻直播间特别版)</title>
+        <title lang="cn">新闻直播间</title>
     </programme>
     <programme start="20210701130000" stop="20210701140000" channel="cctv13">
         <title lang="cn">新闻直播间</title>
@@ -1287,16 +1281,10 @@
     <programme start="20210701210000" stop="20210701213000" channel="cctv13">
         <title lang="cn">新闻联播</title>
     </programme>
-    <programme start="20210701213000" stop="20210701221800" channel="cctv13">
-        <title lang="cn">品格-建党100周年</title>
+    <programme start="20210701213000" stop="20210701232800" channel="cctv13">
+        <title lang="cn">新闻直播间</title>
     </programme>
-    <programme start="20210701221800" stop="20210701223000" channel="cctv13">
-        <title lang="cn">国际时讯</title>
-    </programme>
-    <programme start="20210701223000" stop="20210701230000" channel="cctv13">
-        <title lang="cn">环球视线</title>
-    </programme>
-    <programme start="20210701230000" stop="20210701235900" channel="cctv13">
+    <programme start="20210701232800" stop="20210701235900" channel="cctv13">
         <title lang="cn">24小时</title>
     </programme>
     <channel id="cctvchild">
@@ -1390,7 +1378,7 @@
         <title lang="cn">中国音乐电视-2021-182</title>
     </programme>
     <programme start="20210701200000" stop="20210701220900" channel="cctv15">
-        <title lang="cn">伟大征程——庆祝中国共产党成立100周年大型情景史诗-1</title>
+        <title lang="cn">伟大征程——庆祝中国共产党成立100周年大型情景史诗-2</title>
     </programme>
     <programme start="20210701220900" stop="20210701231700" channel="cctv15">
         <title lang="cn">乐享汇-2021-92壮丽航程主题歌会三(4K)</title>
@@ -1462,10 +1450,10 @@
         <title lang="cn">三农群英汇-2021-213</title>
     </programme>
     <programme start="20210701130000" stop="20210701135200" channel="cctv17">
-        <title lang="cn">大侠霍元甲第27集</title>
+        <title lang="cn">大侠霍元甲27/45</title>
     </programme>
     <programme start="20210701135200" stop="20210701144900" channel="cctv17">
-        <title lang="cn">大侠霍元甲第28集</title>
+        <title lang="cn">大侠霍元甲28/45</title>
     </programme>
     <programme start="20210701144900" stop="20210701152000" channel="cctv17">
         <title lang="cn">我爱发明-2021-133</title>
@@ -1495,7 +1483,7 @@
         <title lang="cn">精彩一刻-2021-39新编航拍中国海南旅游</title>
     </programme>
     <programme start="20210701200000" stop="20210701221300" channel="cctv17">
-        <title lang="cn">伟大征程——庆祝中国共产党成立100周年大型情景史诗-1</title>
+        <title lang="cn">伟大征程——庆祝中国共产党成立100周年大型情景史诗-2</title>
     </programme>
     <programme start="20210701221300" stop="20210701225700" channel="cctv17">
         <title lang="cn">精彩一刻-2021-34新编航拍中国海南</title>
@@ -2100,23 +2088,23 @@
     <programme start="20210701185700" stop="20210701190000" channel="dongfang">
         <title lang="cn">天气预报</title>
     </programme>
-    <programme start="20210701190000" stop="20210701193000" channel="dongfang">
+    <programme start="20210701190000" stop="20210701200000" channel="dongfang">
         <title lang="cn">新闻联播</title>
     </programme>
-    <programme start="20210701193000" stop="20210701213700" channel="dongfang">
-        <title lang="cn">庆祝建党100周年《伟大征程》文艺演出</title>
+    <programme start="20210701200000" stop="20210701214100" channel="dongfang">
+        <title lang="cn">《伟大征程》文艺演出</title>
     </programme>
-    <programme start="20210701213700" stop="20210701221600" channel="dongfang">
+    <programme start="20210701214100" stop="20210701222000" channel="dongfang">
         <title lang="cn">今晚</title>
     </programme>
-    <programme start="20210701221600" stop="20210701221900" channel="dongfang">
+    <programme start="20210701222000" stop="20210701222100" channel="dongfang">
         <title lang="cn">天气预报</title>
     </programme>
-    <programme start="20210701221900" stop="20210701231400" channel="dongfang">
+    <programme start="20210701222100" stop="20210701231500" channel="dongfang">
         <title lang="cn">纪录片：诞生地(4)</title>
     </programme>
-    <programme start="20210701231400" stop="20210701235900" channel="dongfang">
-        <title lang="cn">时间的答卷(5)</title>
+    <programme start="20210701231500" stop="20210701235900" channel="dongfang">
+        <title lang="cn">时间的答卷(2)</title>
     </programme>
     <channel id="hunan">
         <display-name lang="cn">湖南卫视</display-name>
