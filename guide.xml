@@ -755,8 +755,11 @@
     <programme start="20210724090000" stop="20210724112500" channel="cctv5plus">
         <title lang="zh">奥运直播：男子体操资格赛</title>
     </programme>
-    <programme start="20210724112500" stop="20210724130000" channel="cctv5plus">
+    <programme start="20210724112500" stop="20210724124000" channel="cctv5plus">
         <title lang="zh">奥运直播：羽毛球混双小组赛</title>
+    </programme>
+    <programme start="20210724124000" stop="20210724130000" channel="cctv5plus">
+        <title lang="zh">奥运录像：射击女子10米气步枪决赛</title>
     </programme>
     <programme start="20210724130000" stop="20210724140000" channel="cctv5plus">
         <title lang="zh">奥运直播：篮球3对3 女子（俄罗斯-中国） （罗马尼亚-日本）</title>
@@ -828,7 +831,7 @@
         <title lang="zh">消失的凶手</title>
     </programme>
     <programme start="20210724201500" stop="20210724221000" channel="cctv6">
-        <title lang="zh">捍卫者</title>
+        <title lang="zh">夺冠</title>
     </programme>
     <programme start="20210724221000" stop="20210724221900" channel="cctv6">
         <title lang="zh">佳片有约周六推介版2021-030</title>
@@ -1478,8 +1481,11 @@
     <programme start="20210724123300" stop="20210724130000" channel="cctv13">
         <title lang="zh">军情时间到</title>
     </programme>
-    <programme start="20210724130000" stop="20210724140000" channel="cctv13">
+    <programme start="20210724130000" stop="20210724132900" channel="cctv13">
         <title lang="zh">新闻直播间</title>
+    </programme>
+    <programme start="20210724132900" stop="20210724140000" channel="cctv13">
+        <title lang="zh">奥运一点通</title>
     </programme>
     <programme start="20210724140000" stop="20210724150000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
