@@ -315,7 +315,7 @@
         <title lang="zh">前情提要- 《大决战》第48集</title>
     </programme>
     <programme start="20210725205700" stop="20210725214500" channel="cctv1">
-        <title lang="zh">大决战48/49</title>
+        <title lang="zh">大决战第48集</title>
     </programme>
     <programme start="20210725214500" stop="20210725215300" channel="cctv1">
         <title lang="zh">精彩一刻-2021-124美丽中国武夷山慧心如兰(4K)</title>
@@ -662,17 +662,23 @@
     <programme start="20210725122500" stop="20210725124000" channel="cctv5">
         <title lang="zh">《体坛英豪》</title>
     </programme>
-    <programme start="20210725124000" stop="20210725135000" channel="cctv5">
+    <programme start="20210725124000" stop="20210725133000" channel="cctv5">
         <title lang="zh">奥运录像：乒乓球混双1/4决赛</title>
     </programme>
-    <programme start="20210725135000" stop="20210725150000" channel="cctv5">
+    <programme start="20210725133000" stop="20210725135000" channel="cctv5">
+        <title lang="zh">奥运录像：女子个人重剑决赛</title>
+    </programme>
+    <programme start="20210725135000" stop="20210725151000" channel="cctv5">
         <title lang="zh">奥运直播：跳水女子双人3米板决赛</title>
     </programme>
-    <programme start="20210725150000" stop="20210725151000" channel="cctv5">
-        <title lang="zh">《滚动新闻》</title>
+    <programme start="20210725151000" stop="20210725152000" channel="cctv5">
+        <title lang="zh">奥运《滚动新闻》</title>
     </programme>
-    <programme start="20210725151000" stop="20210725172500" channel="cctv5">
+    <programme start="20210725152000" stop="20210725170000" channel="cctv5">
         <title lang="zh">奥运直播：女排小组赛 中国-土耳其</title>
+    </programme>
+    <programme start="20210725170000" stop="20210725172500" channel="cctv5">
+        <title lang="zh">奥运录像：乒乓球混双1/4决赛</title>
     </programme>
     <programme start="20210725172500" stop="20210725175500" channel="cctv5">
         <title lang="zh">体育新闻-奥运新闻</title>
@@ -722,8 +728,17 @@
     <programme start="20210725105500" stop="20210725124500" channel="cctv5plus">
         <title lang="zh">奥运直播：女子体操资格赛</title>
     </programme>
-    <programme start="20210725124500" stop="20210725160500" channel="cctv5plus">
+    <programme start="20210725124500" stop="20210725130000" channel="cctv5plus">
         <title lang="zh">奥运直播：射箭女子团体1/4决赛、半决赛、铜牌赛、决赛</title>
+    </programme>
+    <programme start="20210725130000" stop="20210725133500" channel="cctv5plus">
+        <title lang="zh">奥运直播：跆拳道女子57公斤级、男子68公斤级1/8决赛</title>
+    </programme>
+    <programme start="20210725133500" stop="20210725154000" channel="cctv5plus">
+        <title lang="zh">奥运直播：跆拳道女子57公斤级、男子68公斤级1/4决赛</title>
+    </programme>
+    <programme start="20210725154000" stop="20210725160500" channel="cctv5plus">
+        <title lang="zh">奥运直播：跆拳道女子57公斤级半决赛</title>
     </programme>
     <programme start="20210725160500" stop="20210725170000" channel="cctv5plus">
         <title lang="zh">奥运录像：跳水女子双人3米板决赛</title>
