@@ -513,7 +513,7 @@
         <title lang="zh">综艺喜乐汇-2021-836</title>
     </programme>
     <programme start="20210729193000" stop="20210729205700" channel="cctv3">
-        <title lang="zh">幸福账单-2021-30-欢乐假期1</title>
+        <title lang="zh">星光大道-2021-35</title>
     </programme>
     <programme start="20210729205700" stop="20210729215500" channel="cctv3">
         <title lang="zh">我的艺术清单-2021-26</title>
@@ -602,11 +602,8 @@
     <programme start="20210729134400" stop="20210729143000" channel="cctv4">
         <title lang="zh">天涯浴血-（四套）-1/28</title>
     </programme>
-    <programme start="20210729143000" stop="20210729153100" channel="cctv4">
+    <programme start="20210729143000" stop="20210729154300" channel="cctv4">
         <title lang="zh">2021年国新办发布会-36</title>
-    </programme>
-    <programme start="20210729153100" stop="20210729154300" channel="cctv4">
-        <title lang="zh">记住乡愁2018片段展播-84</title>
     </programme>
     <programme start="20210729154300" stop="20210729163000" channel="cctv4">
         <title lang="zh">天涯浴血-（四套）-2/28</title>
@@ -696,15 +693,18 @@
         <title lang="zh">奥运滚动新闻</title>
     </programme>
     <programme start="20210729130000" stop="20210729132500" channel="cctv5">
-        <title lang="zh">奥运节目-体坛英豪</title>
+        <title lang="zh">奥运录像 乒乓球女子单打半决赛</title>
     </programme>
-    <programme start="20210729132500" stop="20210729143000" channel="cctv5">
+    <programme start="20210729132500" stop="20210729140000" channel="cctv5">
         <title lang="zh">奥运直播-射击女子多向飞碟决赛</title>
     </programme>
-    <programme start="20210729143000" stop="20210729151500" channel="cctv5">
+    <programme start="20210729140000" stop="20210729143000" channel="cctv5">
+        <title lang="zh">体坛英豪</title>
+    </programme>
+    <programme start="20210729143000" stop="20210729152500" channel="cctv5">
         <title lang="zh">奥运直播-射击男子多向飞碟决赛</title>
     </programme>
-    <programme start="20210729151500" stop="20210729175000" channel="cctv5">
+    <programme start="20210729152500" stop="20210729175000" channel="cctv5">
         <title lang="zh">奥运直播-女排小组赛 中国-俄罗斯奥运队</title>
     </programme>
     <programme start="20210729175000" stop="20210729180000" channel="cctv5">
@@ -758,23 +758,26 @@
     <programme start="20210729093000" stop="20210729113000" channel="cctv5plus">
         <title lang="zh">奥运直播:羽毛球混双半决赛 郑思维 /黄雅琼  男双1/4决赛 李俊慧 刘宇晨等</title>
     </programme>
-    <programme start="20210729113000" stop="20210729143000" channel="cctv5plus">
+    <programme start="20210729113000" stop="20210729142000" channel="cctv5plus">
         <title lang="zh">奥运直播-羽毛球比赛</title>
     </programme>
-    <programme start="20210729143000" stop="20210729145500" channel="cctv5plus">
+    <programme start="20210729142000" stop="20210729144000" channel="cctv5plus">
         <title lang="zh">奥运节目:《体坛英豪》</title>
+    </programme>
+    <programme start="20210729144000" stop="20210729145500" channel="cctv5plus">
+        <title lang="zh">奥运直播-赛艇女子四人双桨决赛</title>
     </programme>
     <programme start="20210729145500" stop="20210729153000" channel="cctv5plus">
         <title lang="zh">奥运直播:激流回旋女子单人划艇决赛</title>
     </programme>
-    <programme start="20210729153000" stop="20210729163000" channel="cctv5plus">
+    <programme start="20210729153000" stop="20210729160000" channel="cctv5plus">
         <title lang="zh">奥运录像：今日游泳决赛</title>
     </programme>
-    <programme start="20210729163000" stop="20210729170000" channel="cctv5plus">
-        <title lang="zh">奥运录像:射击女子多向飞碟决赛</title>
+    <programme start="20210729160000" stop="20210729175000" channel="cctv5plus">
+        <title lang="zh">奥运直播-羽毛球女双1/4决赛</title>
     </programme>
-    <programme start="20210729170000" stop="20210729185000" channel="cctv5plus">
-        <title lang="zh">奥运直播:羽毛球男单1/8决赛、女双1/4决赛</title>
+    <programme start="20210729175000" stop="20210729185000" channel="cctv5plus">
+        <title lang="zh">奥运直播:羽毛球男单1/8决赛</title>
     </programme>
     <programme start="20210729185000" stop="20210729210000" channel="cctv5plus">
         <title lang="zh">奥运直播:体操女子个人全能决赛</title>
@@ -936,7 +939,7 @@
         <title lang="zh">兵器面面观-2021-118</title>
     </programme>
     <programme start="20210729182900" stop="20210729190000" channel="cctv7">
-        <title lang="zh">国防故事-2021-112</title>
+        <title lang="zh">国防故事-2021-98</title>
     </programme>
     <programme start="20210729190000" stop="20210729193300" channel="cctv7">
         <title lang="zh">新闻联播</title>
