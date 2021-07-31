@@ -686,10 +686,10 @@
     <programme start="20210731133000" stop="20210731140000" channel="cctv5">
         <title lang="zh">奥运直播-帆板女子RS:X奖牌轮</title>
     </programme>
-    <programme start="20210731140000" stop="20210731152000" channel="cctv5">
+    <programme start="20210731140000" stop="20210731153000" channel="cctv5">
         <title lang="zh">奥运直播-跳水女子3米板半决赛</title>
     </programme>
-    <programme start="20210731152000" stop="20210731173000" channel="cctv5">
+    <programme start="20210731153000" stop="20210731173000" channel="cctv5">
         <title lang="zh">奥运直播-女排小组赛 塞尔维亚-巴西</title>
     </programme>
     <programme start="20210731173000" stop="20210731180000" channel="cctv5">
@@ -722,20 +722,29 @@
     <programme start="20210731070000" stop="20210731075500" channel="cctv5plus">
         <title lang="zh">实况录像-东京奥运会 举重女子55公斤级决赛</title>
     </programme>
-    <programme start="20210731075500" stop="20210731130000" channel="cctv5plus">
+    <programme start="20210731075500" stop="20210731120000" channel="cctv5plus">
         <title lang="zh">奥运直播-羽毛球男单1/4决赛、女双半决赛</title>
     </programme>
-    <programme start="20210731130000" stop="20210731150000" channel="cctv5plus">
-        <title lang="zh">奥运录像-游泳决赛 乒乓球男单决赛</title>
+    <programme start="20210731120000" stop="20210731134000" channel="cctv5plus">
+        <title lang="zh">奥运直播-蹦床男子资格赛</title>
+    </programme>
+    <programme start="20210731134000" stop="20210731143000" channel="cctv5plus">
+        <title lang="zh">奥运录像-游泳决赛</title>
+    </programme>
+    <programme start="20210731143000" stop="20210731150000" channel="cctv5plus">
+        <title lang="zh">东京奥运会-体坛英豪</title>
     </programme>
     <programme start="20210731150000" stop="20210731154500" channel="cctv5plus">
-        <title lang="zh">奥运直播-射击女子50米步枪3姿决赛</title>
+        <title lang="zh">奥运直播-射击女子50米步枪三姿决赛</title>
     </programme>
-    <programme start="20210731154500" stop="20210731160000" channel="cctv5plus">
+    <programme start="20210731154500" stop="20210731161600" channel="cctv5plus">
         <title lang="zh">奥运直播-射箭男子个人决赛</title>
     </programme>
-    <programme start="20210731160000" stop="20210731170000" channel="cctv5plus">
-        <title lang="zh">奥运录像-游泳多项决赛</title>
+    <programme start="20210731161600" stop="20210731164000" channel="cctv5plus">
+        <title lang="zh">奥运录像-帆板女子RS：X奖牌轮</title>
+    </programme>
+    <programme start="20210731164000" stop="20210731170000" channel="cctv5plus">
+        <title lang="zh">体坛英豪</title>
     </programme>
     <programme start="20210731170000" stop="20210731220500" channel="cctv5plus">
         <title lang="zh">奥运直播-羽毛球女单半决赛 男双铜牌赛、决赛</title>
