@@ -309,13 +309,13 @@
         <title lang="zh">前情提要- 《逐梦蓝天》第10集</title>
     </programme>
     <programme start="20210801200600" stop="20210801205300" channel="cctv1">
-        <title lang="zh">逐梦蓝天10/38</title>
+        <title lang="zh">逐梦蓝天第10集</title>
     </programme>
     <programme start="20210801205300" stop="20210801205700" channel="cctv1">
         <title lang="zh">前情提要- 《逐梦蓝天》第11集</title>
     </programme>
     <programme start="20210801205700" stop="20210801214500" channel="cctv1">
-        <title lang="zh">逐梦蓝天11/38</title>
+        <title lang="zh">逐梦蓝天第11集</title>
     </programme>
     <programme start="20210801214500" stop="20210801215300" channel="cctv1">
         <title lang="zh">精彩一刻-2021-141美丽中国贵州水上森林(4K)</title>
@@ -674,11 +674,14 @@
     <programme start="20210801114000" stop="20210801120000" channel="cctv5">
         <title lang="zh">东京奥运会《体坛英豪》</title>
     </programme>
-    <programme start="20210801120000" stop="20210801143000" channel="cctv5">
+    <programme start="20210801120000" stop="20210801140000" channel="cctv5">
         <title lang="zh">奥运直播-羽毛球男单半决赛</title>
     </programme>
-    <programme start="20210801143000" stop="20210801160000" channel="cctv5">
+    <programme start="20210801140000" stop="20210801145500" channel="cctv5">
         <title lang="zh">奥运录像-女子铅球决赛</title>
+    </programme>
+    <programme start="20210801145500" stop="20210801160000" channel="cctv5">
+        <title lang="zh">东京奥运会-体坛英豪</title>
     </programme>
     <programme start="20210801160000" stop="20210801165500" channel="cctv5">
         <title lang="zh">奥运直播-体操男子自由操决赛</title>
@@ -731,14 +734,20 @@
     <programme start="20210801110000" stop="20210801133000" channel="cctv5plus">
         <title lang="zh">奥运直播-高尔夫男子第4轮</title>
     </programme>
-    <programme start="20210801133000" stop="20210801150000" channel="cctv5plus">
+    <programme start="20210801133000" stop="20210801143500" channel="cctv5plus">
         <title lang="zh">奥运直播-乒乓球女团1/8决赛（中国-奥地利）</title>
     </programme>
-    <programme start="20210801150000" stop="20210801154500" channel="cctv5plus">
+    <programme start="20210801143500" stop="20210801145000" channel="cctv5plus">
+        <title lang="zh">奥运典藏</title>
+    </programme>
+    <programme start="20210801145000" stop="20210801150200" channel="cctv5plus">
+        <title lang="zh">东京奥运会-体坛英豪</title>
+    </programme>
+    <programme start="20210801150200" stop="20210801160000" channel="cctv5plus">
         <title lang="zh">奥运录像-田径决赛</title>
     </programme>
-    <programme start="20210801154500" stop="20210801162000" channel="cctv5plus">
-        <title lang="zh">体坛英豪</title>
+    <programme start="20210801160000" stop="20210801162000" channel="cctv5plus">
+        <title lang="zh">奥运典藏</title>
     </programme>
     <programme start="20210801162000" stop="20210801182700" channel="cctv5plus">
         <title lang="zh">奥运直播-男篮小组赛（西班牙-斯洛文尼亚）</title>
