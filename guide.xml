@@ -683,10 +683,13 @@
     <programme start="20210802073000" stop="20210802080000" channel="cctv5">
         <title lang="zh">健身动起来</title>
     </programme>
-    <programme start="20210802080000" stop="20210802110000" channel="cctv5">
+    <programme start="20210802080000" stop="20210802110100" channel="cctv5">
         <title lang="zh">奥运直播-田径（男子链球资格赛、女子1500米第1轮、男子跳远决赛、女子200米第1轮、女子100米栏决赛）</title>
     </programme>
-    <programme start="20210802110000" stop="20210802130000" channel="cctv5">
+    <programme start="20210802110100" stop="20210802113000" channel="cctv5">
+        <title lang="zh">东京奥运会-体坛英豪</title>
+    </programme>
+    <programme start="20210802113000" stop="20210802130000" channel="cctv5">
         <title lang="zh">奥运录像-跳水女子3米板、体操单项精选</title>
     </programme>
     <programme start="20210802130000" stop="20210802143000" channel="cctv5">
@@ -741,7 +744,7 @@
         <title lang="zh">实况录像-东京奥运会 体操女子个人全能决赛</title>
     </programme>
     <programme start="20210802085500" stop="20210802122000" channel="cctv5plus">
-        <title lang="zh">奥运直播-皮划艇预赛</title>
+        <title lang="zh">奥运直播-皮划艇预赛等</title>
     </programme>
     <programme start="20210802122000" stop="20210802133000" channel="cctv5plus">
         <title lang="zh">奥运录像-女子铅球决赛</title>
@@ -1427,25 +1430,25 @@
     <programme start="20210802034000" stop="20210802040000" channel="cctv13">
         <title lang="zh">每周质量报告</title>
     </programme>
-    <programme start="20210802040000" stop="20210802041500" channel="cctv13">
+    <programme start="20210802040000" stop="20210802042500" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20210802041500" stop="20210802050000" channel="cctv13">
+    <programme start="20210802042500" stop="20210802050000" channel="cctv13">
         <title lang="zh">世界周刊</title>
     </programme>
-    <programme start="20210802050000" stop="20210802051600" channel="cctv13">
+    <programme start="20210802050000" stop="20210802053200" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20210802051600" stop="20210802060000" channel="cctv13">
+    <programme start="20210802053200" stop="20210802060000" channel="cctv13">
         <title lang="zh">面对面</title>
     </programme>
     <programme start="20210802060000" stop="20210802090000" channel="cctv13">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme start="20210802090000" stop="20210802091200" channel="cctv13">
+    <programme start="20210802090000" stop="20210802092200" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20210802091200" stop="20210802100000" channel="cctv13">
+    <programme start="20210802092200" stop="20210802100000" channel="cctv13">
         <title lang="zh">世界周刊</title>
     </programme>
     <programme start="20210802100000" stop="20210802110000" channel="cctv13">
@@ -1463,10 +1466,10 @@
     <programme start="20210802130000" stop="20210802140000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20210802140000" stop="20210802141600" channel="cctv13">
+    <programme start="20210802140000" stop="20210802143200" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20210802141600" stop="20210802150000" channel="cctv13">
+    <programme start="20210802143200" stop="20210802150000" channel="cctv13">
         <title lang="zh">面对面</title>
     </programme>
     <programme start="20210802150000" stop="20210802160000" channel="cctv13">
@@ -1481,8 +1484,11 @@
     <programme start="20210802180000" stop="20210802190000" channel="cctv13">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme start="20210802190000" stop="20210802194000" channel="cctv13">
+    <programme start="20210802190000" stop="20210802193200" channel="cctv13">
         <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20210802193200" stop="20210802194000" channel="cctv13">
+        <title lang="zh">天气预报</title>
     </programme>
     <programme start="20210802194000" stop="20210802200000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
@@ -1539,7 +1545,7 @@
         <title lang="zh">动画大放映（黄金版）-2021-142</title>
     </programme>
     <programme start="20210802210000" stop="20210802214500" channel="cctvchild">
-        <title lang="zh">大手牵小手-2021-22</title>
+        <title lang="zh">大手牵小手-2021-23</title>
     </programme>
     <programme start="20210802214500" stop="20210802220000" channel="cctvchild">
         <title lang="zh">新闻袋袋裤</title>
