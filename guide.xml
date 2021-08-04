@@ -318,10 +318,10 @@
         <title lang="zh">人民的小康-3</title>
     </programme>
     <programme start="20210804205500" stop="20210804205700" channel="cctv1">
-        <title lang="zh">前情提要-《逐梦蓝天》14/38</title>
+        <title lang="zh">前情提要- 《逐梦蓝天》第14集</title>
     </programme>
     <programme start="20210804205700" stop="20210804215100" channel="cctv1">
-        <title lang="zh">逐梦蓝天14/38</title>
+        <title lang="zh">逐梦蓝天第14集</title>
     </programme>
     <programme start="20210804215100" stop="20210804220000" channel="cctv1">
         <title lang="zh">2021秘境之眼-166</title>
@@ -695,13 +695,16 @@
     <programme start="20210804113500" stop="20210804114500" channel="cctv5">
         <title lang="zh">《滚动新闻》</title>
     </programme>
-    <programme start="20210804114500" stop="20210804133000" channel="cctv5">
+    <programme start="20210804114500" stop="20210804123000" channel="cctv5">
         <title lang="zh">奥运录像-跳水男子3米板决赛</title>
     </programme>
-    <programme start="20210804133000" stop="20210804140500" channel="cctv5">
+    <programme start="20210804123000" stop="20210804133000" channel="cctv5">
+        <title lang="zh">奥运录像-体操男子双杠决赛等</title>
+    </programme>
+    <programme start="20210804133000" stop="20210804141000" channel="cctv5">
         <title lang="zh">奥运直播-女子拳击69公斤级半决赛</title>
     </programme>
-    <programme start="20210804140500" stop="20210804151000" channel="cctv5">
+    <programme start="20210804141000" stop="20210804151000" channel="cctv5">
         <title lang="zh">奥运录像-花样游泳双人技术自选</title>
     </programme>
     <programme start="20210804151000" stop="20210804173000" channel="cctv5">
@@ -758,17 +761,20 @@
     <programme start="20210804110000" stop="20210804113000" channel="cctv5plus">
         <title lang="zh">奥运录像-男子1000米双人划艇半决赛、决赛</title>
     </programme>
-    <programme start="20210804113000" stop="20210804121000" channel="cctv5plus">
+    <programme start="20210804113000" stop="20210804121500" channel="cctv5plus">
         <title lang="zh">奥运直播-滑板女子碗池决赛</title>
     </programme>
-    <programme start="20210804121000" stop="20210804134000" channel="cctv5plus">
-        <title lang="zh">奥运录像-乒乓球女团半决赛</title>
+    <programme start="20210804121500" stop="20210804134000" channel="cctv5plus">
+        <title lang="zh">奥运录像-女篮1/4决赛：中国-塞尔维亚</title>
     </programme>
     <programme start="20210804134000" stop="20210804160000" channel="cctv5plus">
         <title lang="zh">奥运录像-体操单项决赛</title>
     </programme>
-    <programme start="20210804160000" stop="20210804183000" channel="cctv5plus">
+    <programme start="20210804160000" stop="20210804172500" channel="cctv5plus">
         <title lang="zh">奥运直播-女排1/4决赛 塞尔维亚-意大利</title>
+    </programme>
+    <programme start="20210804172500" stop="20210804183000" channel="cctv5plus">
+        <title lang="zh">奥运典藏</title>
     </programme>
     <programme start="20210804183000" stop="20210804220500" channel="cctv5plus">
         <title lang="zh">奥运直播-乒乓球男团半决赛</title>
