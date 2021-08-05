@@ -686,14 +686,17 @@
     <programme start="20210805121500" stop="20210805130000" channel="cctv5">
         <title lang="zh">奥运录像-花样游泳双人自由自选</title>
     </programme>
-    <programme start="20210805130000" stop="20210805142000" channel="cctv5">
+    <programme start="20210805130000" stop="20210805141000" channel="cctv5">
         <title lang="zh">奥运直播-女子水球5-8名排位赛 中国-荷兰</title>
     </programme>
-    <programme start="20210805142000" stop="20210805152500" channel="cctv5">
+    <programme start="20210805141000" stop="20210805150000" channel="cctv5">
         <title lang="zh">奥运录像-乒乓球女团半决赛 中国-德国</title>
     </programme>
+    <programme start="20210805150000" stop="20210805152500" channel="cctv5">
+        <title lang="zh">东京奥运会-奥运典藏</title>
+    </programme>
     <programme start="20210805152500" stop="20210805170000" channel="cctv5">
-        <title lang="zh">奥运直播-男子20公里竞走</title>
+        <title lang="zh">奥运直播-男子20公里竞走决赛</title>
     </programme>
     <programme start="20210805170000" stop="20210805180000" channel="cctv5">
         <title lang="zh">奥运录像-跳水女子10米台</title>
@@ -749,14 +752,14 @@
     <programme start="20210805113500" stop="20210805120000" channel="cctv5plus">
         <title lang="zh">东京奥运会-奥运典藏</title>
     </programme>
-    <programme start="20210805120000" stop="20210805143000" channel="cctv5plus">
+    <programme start="20210805120000" stop="20210805142000" channel="cctv5plus">
         <title lang="zh">奥运直播-男排半决赛 巴西-俄罗斯奥运队</title>
     </programme>
-    <programme start="20210805143000" stop="20210805172500" channel="cctv5plus">
-        <title lang="zh">奥运直播-场地自行车</title>
+    <programme start="20210805142000" stop="20210805143000" channel="cctv5plus">
+        <title lang="zh">东京奥运会-奥运典藏</title>
     </programme>
-    <programme start="20210805172500" stop="20210805180000" channel="cctv5plus">
-        <title lang="zh">奥运录像-田径多项比赛</title>
+    <programme start="20210805143000" stop="20210805180000" channel="cctv5plus">
+        <title lang="zh">奥运直播-场地自行车</title>
     </programme>
     <programme start="20210805180000" stop="20210805210000" channel="cctv5plus">
         <title lang="zh">奥运直播-田径（男子10项全能标枪、女子撑杆跳高决赛、女子4*400接力第1轮、男子1500米半决赛、男子400米决赛、女子7项全能800米、男子10项全能1500米）</title>
