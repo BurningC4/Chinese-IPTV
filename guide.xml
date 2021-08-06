@@ -315,7 +315,7 @@
         <title lang="zh">前情提要- 《逐梦蓝天》第16集</title>
     </programme>
     <programme start="20210806205700" stop="20210806215100" channel="cctv1">
-        <title lang="zh">逐梦蓝天16/38</title>
+        <title lang="zh">逐梦蓝天第16集</title>
     </programme>
     <programme start="20210806215100" stop="20210806220000" channel="cctv1">
         <title lang="zh">2021秘境之眼-168</title>
@@ -683,14 +683,17 @@
     <programme start="20210806113000" stop="20210806120000" channel="cctv5">
         <title lang="zh">奥运录像-男子双杠决赛</title>
     </programme>
-    <programme start="20210806120000" stop="20210806140000" channel="cctv5">
+    <programme start="20210806120000" stop="20210806133500" channel="cctv5">
         <title lang="zh">奥运直播-女排半决赛 塞尔维亚-美国</title>
     </programme>
-    <programme start="20210806140000" stop="20210806140500" channel="cctv5">
-        <title lang="zh">滚动新闻</title>
+    <programme start="20210806133500" stop="20210806135000" channel="cctv5">
+        <title lang="zh">东京奥运会-体坛英豪</title>
     </programme>
-    <programme start="20210806140500" stop="20210806153000" channel="cctv5">
+    <programme start="20210806135000" stop="20210806151500" channel="cctv5">
         <title lang="zh">奥运录像-乒乓球女团决赛</title>
+    </programme>
+    <programme start="20210806151500" stop="20210806153000" channel="cctv5">
+        <title lang="zh">东京奥运会-体坛英豪</title>
     </programme>
     <programme start="20210806153000" stop="20210806170000" channel="cctv5">
         <title lang="zh">奥运直播-女子20公里竞走</title>
@@ -755,8 +758,11 @@
     <programme start="20210806112500" stop="20210806135500" channel="cctv5plus">
         <title lang="zh">奥运直播-空手道女子组手-61公斤级</title>
     </programme>
-    <programme start="20210806135500" stop="20210806151500" channel="cctv5plus">
+    <programme start="20210806135500" stop="20210806150000" channel="cctv5plus">
         <title lang="zh">奥运录像-攀岩男子决赛</title>
+    </programme>
+    <programme start="20210806150000" stop="20210806151500" channel="cctv5plus">
+        <title lang="zh">东京奥运会-奥运典藏</title>
     </programme>
     <programme start="20210806151500" stop="20210806170000" channel="cctv5plus">
         <title lang="zh">奥运直播-场地自行车</title>
