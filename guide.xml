@@ -309,7 +309,7 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20210807200600" stop="20210807214500" channel="cctv1">
-        <title lang="zh">专题节目</title>
+        <title lang="zh">典籍里的中国-6</title>
     </programme>
     <programme start="20210807214500" stop="20210807220000" channel="cctv1">
         <title lang="zh">典籍里的中国-有“典”意思《孙子兵法》</title>
@@ -651,15 +651,18 @@
         <title lang="zh">《滚动新闻》</title>
     </programme>
     <programme start="20210807115500" stop="20210807131000" channel="cctv5">
-        <title lang="zh">奥运延播-艺术体操集体全能资格赛</title>
+        <title lang="zh">奥运录像-艺术体操集体全能资格赛</title>
     </programme>
-    <programme start="20210807131000" stop="20210807140000" channel="cctv5">
-        <title lang="zh">奥运录像-花样游泳集体自由自选</title>
+    <programme start="20210807131000" stop="20210807134500" channel="cctv5">
+        <title lang="zh">奥运录像-花样游泳集体技术自选</title>
     </programme>
-    <programme start="20210807140000" stop="20210807154000" channel="cctv5">
+    <programme start="20210807134500" stop="20210807140000" channel="cctv5">
+        <title lang="zh">东京奥运会-体坛英豪</title>
+    </programme>
+    <programme start="20210807140000" stop="20210807155000" channel="cctv5">
         <title lang="zh">奥运直播-跳水男子10米台</title>
     </programme>
-    <programme start="20210807154000" stop="20210807171000" channel="cctv5">
+    <programme start="20210807155000" stop="20210807171000" channel="cctv5">
         <title lang="zh">奥运直播-场地自行车</title>
     </programme>
     <programme start="20210807171000" stop="20210807173000" channel="cctv5">
@@ -719,11 +722,11 @@
     <programme start="20210807103000" stop="20210807123000" channel="cctv5plus">
         <title lang="zh">奥运直播-男篮决赛 法国-美国</title>
     </programme>
-    <programme start="20210807123000" stop="20210807143000" channel="cctv5plus">
+    <programme start="20210807123000" stop="20210807150000" channel="cctv5plus">
         <title lang="zh">奥运直播-男排铜牌赛 阿根廷-巴西</title>
     </programme>
-    <programme start="20210807143000" stop="20210807153000" channel="cctv5plus">
-        <title lang="zh">奥运录像-女子20公里竞走</title>
+    <programme start="20210807150000" stop="20210807153000" channel="cctv5plus">
+        <title lang="zh">东京奥运会-奥运典藏</title>
     </programme>
     <programme start="20210807153000" stop="20210807164000" channel="cctv5plus">
         <title lang="zh">奥运直播-女子水球决赛 西班牙-美国</title>
