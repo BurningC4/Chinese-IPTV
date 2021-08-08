@@ -629,11 +629,14 @@
     <programme start="20210808053000" stop="20210808060000" channel="cctv5">
         <title lang="zh">实况录像-东京奥运会 射击精选4</title>
     </programme>
-    <programme start="20210808060000" stop="20210808080000" channel="cctv5">
+    <programme start="20210808060000" stop="20210808081500" channel="cctv5">
         <title lang="zh">奥运直播-男子马拉松</title>
     </programme>
-    <programme start="20210808080000" stop="20210808093000" channel="cctv5">
+    <programme start="20210808081500" stop="20210808091000" channel="cctv5">
         <title lang="zh">奥运录像-男足决赛</title>
+    </programme>
+    <programme start="20210808091000" stop="20210808093000" channel="cctv5">
+        <title lang="zh">体坛英豪</title>
     </programme>
     <programme start="20210808093000" stop="20210808100000" channel="cctv5">
         <title lang="zh">奥运录像-花样游泳集体自由自选</title>
@@ -707,11 +710,17 @@
     <programme start="20210808072500" stop="20210808075500" channel="cctv5plus">
         <title lang="zh">实况录像-东京奥运会 蹦床男子个人决赛</title>
     </programme>
-    <programme start="20210808075500" stop="20210808103000" channel="cctv5plus">
+    <programme start="20210808075500" stop="20210808093000" channel="cctv5plus">
         <title lang="zh">奥运直播-女排铜牌赛 塞尔维亚-韩国</title>
     </programme>
-    <programme start="20210808103000" stop="20210808123000" channel="cctv5plus">
+    <programme start="20210808093000" stop="20210808103000" channel="cctv5plus">
+        <title lang="zh">奥运典藏</title>
+    </programme>
+    <programme start="20210808103000" stop="20210808120000" channel="cctv5plus">
         <title lang="zh">奥运直播-女篮决赛 美国-日本</title>
+    </programme>
+    <programme start="20210808120000" stop="20210808123000" channel="cctv5plus">
+        <title lang="zh">奥运典藏</title>
     </programme>
     <programme start="20210808123000" stop="20210808140000" channel="cctv5plus">
         <title lang="zh">奥运录像-跳水男子10米台+花样游泳集体自由自选</title>
