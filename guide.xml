@@ -644,26 +644,26 @@
     <programme start="20210808100000" stop="20210808113000" channel="cctv5">
         <title lang="zh">奥运直播-艺术体操团体全能决赛</title>
     </programme>
-    <programme start="20210808113000" stop="20210808123000" channel="cctv5">
+    <programme start="20210808113000" stop="20210808122000" channel="cctv5">
         <title lang="zh">奥运录像-跳水男子10米台</title>
     </programme>
-    <programme start="20210808123000" stop="20210808143000" channel="cctv5">
+    <programme start="20210808122000" stop="20210808123000" channel="cctv5">
+        <title lang="zh">体坛英豪</title>
+    </programme>
+    <programme start="20210808123000" stop="20210808144000" channel="cctv5">
         <title lang="zh">奥运直播-女排决赛 美国-巴西</title>
     </programme>
-    <programme start="20210808143000" stop="20210808143500" channel="cctv5">
-        <title lang="zh">《滚动新闻》</title>
+    <programme start="20210808144000" stop="20210808153000" channel="cctv5">
+        <title lang="zh">体坛英豪</title>
     </programme>
-    <programme start="20210808143500" stop="20210808153000" channel="cctv5">
-        <title lang="zh">奥运录像-拳击多项决赛</title>
-    </programme>
-    <programme start="20210808153000" stop="20210808172000" channel="cctv5">
+    <programme start="20210808153000" stop="20210808165000" channel="cctv5">
         <title lang="zh">奥运直播-男子水球决赛 希腊-塞尔维亚</title>
     </programme>
-    <programme start="20210808172000" stop="20210808173000" channel="cctv5">
+    <programme start="20210808165000" stop="20210808171500" channel="cctv5">
         <title lang="zh">奥运录像-场地自行车</title>
     </programme>
-    <programme start="20210808173000" stop="20210808180000" channel="cctv5">
-        <title lang="zh">体育新闻-东京奥运会闭幕式特别节目</title>
+    <programme start="20210808171500" stop="20210808180000" channel="cctv5">
+        <title lang="zh">东京奥运会-体坛英豪</title>
     </programme>
     <programme start="20210808180000" stop="20210808190000" channel="cctv5">
         <title lang="zh">奥运新闻</title>
@@ -725,14 +725,17 @@
     <programme start="20210808123000" stop="20210808140000" channel="cctv5plus">
         <title lang="zh">奥运录像-跳水男子10米台+花样游泳集体自由自选</title>
     </programme>
-    <programme start="20210808140000" stop="20210808160000" channel="cctv5plus">
+    <programme start="20210808140000" stop="20210808153000" channel="cctv5plus">
         <title lang="zh">奥运直播-女子手球决赛 法国-俄罗斯奥运队</title>
     </programme>
-    <programme start="20210808160000" stop="20210808173000" channel="cctv5plus">
+    <programme start="20210808153000" stop="20210808165500" channel="cctv5plus">
         <title lang="zh">奥运录像-男足决赛</title>
     </programme>
-    <programme start="20210808173000" stop="20210808190000" channel="cctv5plus">
+    <programme start="20210808165500" stop="20210808174500" channel="cctv5plus">
         <title lang="zh">奥运录像-女排决赛</title>
+    </programme>
+    <programme start="20210808174500" stop="20210808190000" channel="cctv5plus">
+        <title lang="zh">奥运典藏</title>
     </programme>
     <programme start="20210808190000" stop="20210808211500" channel="cctv5plus">
         <title lang="zh">东京奥运会-闭幕式</title>
