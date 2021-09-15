@@ -329,14 +329,14 @@
     <programme start="20210915193700" stop="20210915214600" channel="cctv1">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20210915214600" stop="20210915214700" channel="cctv1">
-        <title lang="zh">精彩一刻-2021-109美丽中国尖峰岭(4K)</title>
+    <programme start="20210915214600" stop="20210915214900" channel="cctv1">
+        <title lang="zh">精彩一刻-2021-186美丽中国秦岭鸟(4K)</title>
     </programme>
-    <programme start="20210915214700" stop="20210915215400" channel="cctv1">
-        <title lang="zh">精彩一刻-2021-110美丽中国尖峰岭林窗(4K)</title>
+    <programme start="20210915214900" stop="20210915215000" channel="cctv1">
+        <title lang="zh">精彩一刻-2021-187美丽中国秦岭熊猫(4K)</title>
     </programme>
-    <programme start="20210915215400" stop="20210915220000" channel="cctv1">
-        <title lang="zh">2021秘境之眼-208</title>
+    <programme start="20210915215000" stop="20210915220000" channel="cctv1">
+        <title lang="zh">精彩一刻-2021-188美丽中国秦岭朱鹮(4K)</title>
     </programme>
     <programme start="20210915220000" stop="20210915223500" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -458,13 +458,13 @@
     <programme start="20210916200100" stop="20210916200600" channel="cctv1">
         <title lang="zh">前情提要- 《花开山乡》第25集</title>
     </programme>
-    <programme start="20210916200600" stop="20210916205800" channel="cctv1">
+    <programme start="20210916200600" stop="20210916210000" channel="cctv1">
         <title lang="zh">花开山乡第25集</title>
     </programme>
-    <programme start="20210916205800" stop="20210916215200" channel="cctv1">
+    <programme start="20210916210000" stop="20210916215100" channel="cctv1">
         <title lang="zh">时代楷模发布厅-2021-9</title>
     </programme>
-    <programme start="20210916215200" stop="20210916220000" channel="cctv1">
+    <programme start="20210916215100" stop="20210916220000" channel="cctv1">
         <title lang="zh">2021秘境之眼-209</title>
     </programme>
     <programme start="20210916220000" stop="20210916223600" channel="cctv1">
@@ -948,7 +948,7 @@
         <title lang="zh">2021中国福利彩票公益开奖-180</title>
     </programme>
     <programme start="20210917220000" stop="20210917221200" channel="cctv2">
-        <title lang="zh">红色财经·信物百年--24</title>
+        <title lang="zh">红色财经·信物百年-70</title>
     </programme>
     <programme start="20210917221200" stop="20210917230600" channel="cctv2">
         <title lang="zh">大国重器(第二季)--2(重播）</title>
@@ -1187,19 +1187,19 @@
     <programme start="20210917190200" stop="20210917193000" channel="cctv3">
         <title lang="zh">中国文艺报道-2021-228</title>
     </programme>
-    <programme start="20210917193000" stop="20210917203300" channel="cctv3">
+    <programme start="20210917193000" stop="20210917210000" channel="cctv3">
+        <title lang="zh">星光大道-2021-43</title>
+    </programme>
+    <programme start="20210917210000" stop="20210917220000" channel="cctv3">
         <title lang="zh">黄金100秒-2021-36</title>
     </programme>
-    <programme start="20210917203300" stop="20210917213300" channel="cctv3">
-        <title lang="zh">回声嘹亮-2021-35</title>
-    </programme>
-    <programme start="20210917213300" stop="20210917223300" channel="cctv3">
+    <programme start="20210917220000" stop="20210917230000" channel="cctv3">
         <title lang="zh">综艺盛典-2021-6</title>
     </programme>
-    <programme start="20210917223300" stop="20210917232700" channel="cctv3">
+    <programme start="20210917230000" stop="20210917235400" channel="cctv3">
         <title lang="zh">黄金100秒-2021-36</title>
     </programme>
-    <programme start="20210917232700" stop="20210917235900" channel="cctv3">
+    <programme start="20210917235400" stop="20210917235900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2021-1080 月是故乡明17</title>
     </programme>
     <programme start="20210915003200" stop="20210915012000" channel="cctv4">
@@ -1614,7 +1614,7 @@
         <title lang="zh">实况录像-第十四届全国运动会 花样游泳精选</title>
     </programme>
     <programme start="20210915150000" stop="20210915163100" channel="cctv5">
-        <title lang="zh">全运-羽毛球男团决赛</title>
+        <title lang="zh">第13届春兰杯世界职业围棋锦标赛</title>
     </programme>
     <programme start="20210915163100" stop="20210915180000" channel="cctv5">
         <title lang="zh">实况录像-第十四届全国运动会 女篮决赛</title>
@@ -1655,20 +1655,38 @@
     <programme start="20210916080000" stop="20210916093000" channel="cctv5">
         <title lang="zh">实况录像-第十四届全国运动会 女篮决赛</title>
     </programme>
-    <programme start="20210916093000" stop="20210916123000" channel="cctv5">
-        <title lang="zh">第十四届全国运动会</title>
+    <programme start="20210916093000" stop="20210916113000" channel="cctv5">
+        <title lang="zh">全运-羽毛球单项半决赛</title>
+    </programme>
+    <programme start="20210916113000" stop="20210916123000" channel="cctv5">
+        <title lang="zh">全运-射击10米气手枪混合团体决赛</title>
     </programme>
     <programme start="20210916123000" stop="20210916130000" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20210916130000" stop="20210916180000" channel="cctv5">
-        <title lang="zh">第十四届全国运动会</title>
+    <programme start="20210916130000" stop="20210916143000" channel="cctv5">
+        <title lang="zh">全运-羽毛球单项半决赛</title>
+    </programme>
+    <programme start="20210916143000" stop="20210916153000" channel="cctv5">
+        <title lang="zh">全运-射击男子10米气步枪团体决赛</title>
+    </programme>
+    <programme start="20210916153000" stop="20210916160000" channel="cctv5">
+        <title lang="zh">全运典藏</title>
+    </programme>
+    <programme start="20210916160000" stop="20210916180000" channel="cctv5">
+        <title lang="zh">全运-女足 奥运组合-陕西</title>
     </programme>
     <programme start="20210916180000" stop="20210916183000" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20210916183000" stop="20210916213000" channel="cctv5">
-        <title lang="zh">第十四届全国运动会</title>
+    <programme start="20210916183000" stop="20210916190000" channel="cctv5">
+        <title lang="zh">录像：第十四届全国运动会小轮车竞速赛决赛</title>
+    </programme>
+    <programme start="20210916190000" stop="20210916210000" channel="cctv5">
+        <title lang="zh">全运-女子举重55公斤级决赛</title>
+    </programme>
+    <programme start="20210916210000" stop="20210916213000" channel="cctv5">
+        <title lang="zh">录像：今日柔道决赛</title>
     </programme>
     <programme start="20210916213000" stop="20210916230500" channel="cctv5">
         <title lang="zh">体育世界-全景全运会-16</title>
@@ -1796,8 +1814,32 @@
     <programme start="20210916090000" stop="20210916100000" channel="cctv5plus">
         <title lang="zh">实况录像-第十四届全国运动会 跳水男子3米板决赛</title>
     </programme>
-    <programme start="20210916100000" stop="20210916223500" channel="cctv5plus">
-        <title lang="zh">全运-羽毛球单项半决赛、女排小组赛等</title>
+    <programme start="20210916100000" stop="20210916120000" channel="cctv5plus">
+        <title lang="zh">全运-七人制橄榄球女子</title>
+    </programme>
+    <programme start="20210916120000" stop="20210916130000" channel="cctv5plus">
+        <title lang="zh">全运-羽毛球单项半决赛</title>
+    </programme>
+    <programme start="20210916130000" stop="20210916150000" channel="cctv5plus">
+        <title lang="zh">全运-女排小组赛 河南-上海</title>
+    </programme>
+    <programme start="20210916150000" stop="20210916163000" channel="cctv5plus">
+        <title lang="zh">全运-女子举重49公斤级决赛</title>
+    </programme>
+    <programme start="20210916163000" stop="20210916165000" channel="cctv5plus">
+        <title lang="zh">全运-小轮车竞速赛女子、男子决赛</title>
+    </programme>
+    <programme start="20210916165000" stop="20210916170000" channel="cctv5plus">
+        <title lang="zh">全运典藏</title>
+    </programme>
+    <programme start="20210916170000" stop="20210916190000" channel="cctv5plus">
+        <title lang="zh">全运-女排小组赛 天津-江苏</title>
+    </programme>
+    <programme start="20210916190000" stop="20210916193000" channel="cctv5plus">
+        <title lang="zh">录像：第十四届全运会射击男子10米气步枪团体决赛</title>
+    </programme>
+    <programme start="20210916193000" stop="20210916223500" channel="cctv5plus">
+        <title lang="zh">全运-羽毛球铜牌赛</title>
     </programme>
     <programme start="20210916223500" stop="20210916235900" channel="cctv5plus">
         <title lang="zh">实况录像-第十四届全国运动会 女篮决赛</title>
@@ -2121,7 +2163,7 @@
         <title lang="zh">军事纪实-2021-184</title>
     </programme>
     <programme start="20210916063400" stop="20210916065900" channel="cctv7">
-        <title lang="zh">国防故事-2021-144</title>
+        <title lang="zh">国防故事-2021-107</title>
     </programme>
     <programme start="20210916065900" stop="20210916070200" channel="cctv7">
         <title lang="zh">国防微视频-军歌嘹亮-摩步四营营歌</title>
@@ -2144,17 +2186,14 @@
     <programme start="20210916100400" stop="20210916103300" channel="cctv7">
         <title lang="zh">兵器面面观-2021-147</title>
     </programme>
-    <programme start="20210916103300" stop="20210916105900" channel="cctv7">
+    <programme start="20210916103300" stop="20210916105800" channel="cctv7">
         <title lang="zh">世界战史-2021-110</title>
     </programme>
-    <programme start="20210916105900" stop="20210916112800" channel="cctv7">
-        <title lang="zh">国防故事-2021-144</title>
+    <programme start="20210916105800" stop="20210916112500" channel="cctv7">
+        <title lang="zh">国防故事-2021-107</title>
     </programme>
-    <programme start="20210916112800" stop="20210916115300" channel="cctv7">
+    <programme start="20210916112500" stop="20210916120000" channel="cctv7">
         <title lang="zh">军事纪录-2021-126</title>
-    </programme>
-    <programme start="20210916115300" stop="20210916120000" channel="cctv7">
-        <title lang="zh">国防微视频-军歌嘹亮-有我在-2</title>
     </programme>
     <programme start="20210916120000" stop="20210916123200" channel="cctv7">
         <title lang="zh">正午国防军事</title>
@@ -2183,16 +2222,16 @@
     <programme start="20210916161600" stop="20210916170500" channel="cctv7">
         <title lang="zh">伟大的转折36/38</title>
     </programme>
-    <programme start="20210916170500" stop="20210916173200" channel="cctv7">
+    <programme start="20210916170500" stop="20210916173000" channel="cctv7">
         <title lang="zh">世界战史-2021-111</title>
     </programme>
-    <programme start="20210916173200" stop="20210916180300" channel="cctv7">
+    <programme start="20210916173000" stop="20210916180100" channel="cctv7">
         <title lang="zh">军事纪录-2021-127</title>
     </programme>
-    <programme start="20210916180300" stop="20210916182900" channel="cctv7">
+    <programme start="20210916180100" stop="20210916182600" channel="cctv7">
         <title lang="zh">兵器面面观-2021-148</title>
     </programme>
-    <programme start="20210916182900" stop="20210916190000" channel="cctv7">
+    <programme start="20210916182600" stop="20210916190000" channel="cctv7">
         <title lang="zh">国防故事-2021-145</title>
     </programme>
     <programme start="20210916190000" stop="20210916193300" channel="cctv7">
@@ -2261,17 +2300,14 @@
     <programme start="20210917100400" stop="20210917103300" channel="cctv7">
         <title lang="zh">兵器面面观-2021-148</title>
     </programme>
-    <programme start="20210917103300" stop="20210917105900" channel="cctv7">
+    <programme start="20210917103300" stop="20210917105800" channel="cctv7">
         <title lang="zh">世界战史-2021-111</title>
     </programme>
-    <programme start="20210917105900" stop="20210917112800" channel="cctv7">
+    <programme start="20210917105800" stop="20210917112500" channel="cctv7">
         <title lang="zh">国防故事-2021-145</title>
     </programme>
-    <programme start="20210917112800" stop="20210917115300" channel="cctv7">
+    <programme start="20210917112500" stop="20210917120000" channel="cctv7">
         <title lang="zh">军事纪录-2021-127</title>
-    </programme>
-    <programme start="20210917115300" stop="20210917120000" channel="cctv7">
-        <title lang="zh">国防微视频-军歌嘹亮-钢铁的战士 钢铁的墙</title>
     </programme>
     <programme start="20210917120000" stop="20210917123200" channel="cctv7">
         <title lang="zh">正午国防军事</title>
@@ -2597,34 +2633,37 @@
     <programme start="20210916212400" stop="20210916212800" channel="cctv8">
         <title lang="zh">本集提要-《铁道风云》3/34</title>
     </programme>
-    <programme start="20210916212800" stop="20210916221900" channel="cctv8">
+    <programme start="20210916212800" stop="20210916221800" channel="cctv8">
         <title lang="zh">铁道风云3/34</title>
     </programme>
-    <programme start="20210916221900" stop="20210916230600" channel="cctv8">
+    <programme start="20210916221800" stop="20210916221900" channel="cctv8">
+        <title lang="zh">本集提要-《铁道风云》4/34</title>
+    </programme>
+    <programme start="20210916221900" stop="20210916230700" channel="cctv8">
+        <title lang="zh">铁道风云4/34</title>
+    </programme>
+    <programme start="20210916230700" stop="20210916235300" channel="cctv8">
         <title lang="zh">暴风眼第22集</title>
     </programme>
-    <programme start="20210916230600" stop="20210916235200" channel="cctv8">
-        <title lang="zh">暴风眼第23集</title>
-    </programme>
-    <programme start="20210916235200" stop="20210916235900" channel="cctv8">
+    <programme start="20210916235300" stop="20210916235900" channel="cctv8">
         <title lang="zh">星推荐-2021年9月-16</title>
     </programme>
-    <programme start="20210917000000" stop="20210917004600" channel="cctv8">
+    <programme start="20210917000100" stop="20210917004700" channel="cctv8">
         <title lang="zh">吉他兄弟第15集</title>
     </programme>
-    <programme start="20210917004600" stop="20210917013200" channel="cctv8">
+    <programme start="20210917004700" stop="20210917013300" channel="cctv8">
         <title lang="zh">吉他兄弟第16集</title>
     </programme>
-    <programme start="20210917013200" stop="20210917021800" channel="cctv8">
+    <programme start="20210917013300" stop="20210917021900" channel="cctv8">
         <title lang="zh">吉他兄弟第17集</title>
     </programme>
-    <programme start="20210917021800" stop="20210917030400" channel="cctv8">
+    <programme start="20210917021900" stop="20210917030500" channel="cctv8">
         <title lang="zh">吉他兄弟第18集</title>
     </programme>
-    <programme start="20210917030400" stop="20210917035000" channel="cctv8">
+    <programme start="20210917030500" stop="20210917035100" channel="cctv8">
         <title lang="zh">吉他兄弟第19集</title>
     </programme>
-    <programme start="20210917035000" stop="20210917041500" channel="cctv8">
+    <programme start="20210917035100" stop="20210917041500" channel="cctv8">
         <title lang="zh">吉他兄弟第20集</title>
     </programme>
     <programme start="20210917041500" stop="20210917042200" channel="cctv8">
@@ -3258,7 +3297,7 @@
         <title lang="zh">欣赏-2019-4</title>
     </programme>
     <programme start="20210917143400" stop="20210917151900" channel="cctv10">
-        <title lang="zh">探索·发现-2021-263</title>
+        <title lang="zh">时代楷模发布厅-2021-9</title>
     </programme>
     <programme start="20210917151900" stop="20210917164700" channel="cctv10">
         <title lang="zh">中国地名大会(第二季)-12</title>
@@ -3788,14 +3827,11 @@
     <programme start="20210917215500" stop="20210917222500" channel="cctv12">
         <title lang="zh">法律讲堂（文史版）-2021-185</title>
     </programme>
-    <programme start="20210917222500" stop="20210917225500" channel="cctv12">
-        <title lang="zh">热线12-2021-186</title>
+    <programme start="20210917222500" stop="20210917231000" channel="cctv12">
+        <title lang="zh">时代楷模发布厅-2021-9</title>
     </programme>
-    <programme start="20210917225500" stop="20210917234800" channel="cctv12">
+    <programme start="20210917231000" stop="20210917235900" channel="cctv12">
         <title lang="zh">方圆剧阵2021-261</title>
-    </programme>
-    <programme start="20210917234800" stop="20210917235900" channel="cctv12">
-        <title lang="zh">一线-2021-181</title>
     </programme>
     <programme start="20210915000000" stop="20210915010000" channel="cctv13">
         <title lang="zh">午夜新闻</title>
@@ -3875,26 +3911,17 @@
     <programme start="20210915190000" stop="20210915193100" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20210915193100" stop="20210915194000" channel="cctv13">
+    <programme start="20210915193100" stop="20210915193700" channel="cctv13">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme start="20210915194000" stop="20210915200000" channel="cctv13">
-        <title lang="zh">焦点访谈</title>
+    <programme start="20210915193700" stop="20210915214000" channel="cctv13">
+        <title lang="zh">新闻直播间（全运会特别节目)</title>
     </programme>
-    <programme start="20210915200000" stop="20210915210000" channel="cctv13">
-        <title lang="zh">东方时空</title>
-    </programme>
-    <programme start="20210915210000" stop="20210915213000" channel="cctv13">
+    <programme start="20210915214000" stop="20210915221000" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20210915213000" stop="20210915220000" channel="cctv13">
-        <title lang="zh">新闻1+1</title>
-    </programme>
-    <programme start="20210915220000" stop="20210915223000" channel="cctv13">
+    <programme start="20210915221000" stop="20210915230000" channel="cctv13">
         <title lang="zh">国际时讯</title>
-    </programme>
-    <programme start="20210915223000" stop="20210915230000" channel="cctv13">
-        <title lang="zh">环球视线</title>
     </programme>
     <programme start="20210915230000" stop="20210915235900" channel="cctv13">
         <title lang="zh">24小时</title>
@@ -3902,26 +3929,17 @@
     <programme start="20210916000000" stop="20210916010000" channel="cctv13">
         <title lang="zh">午夜新闻</title>
     </programme>
-    <programme start="20210916010000" stop="20210916012000" channel="cctv13">
+    <programme start="20210916010000" stop="20210916013600" channel="cctv13">
         <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme start="20210916012000" stop="20210916013600" channel="cctv13">
-        <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20210916013600" stop="20210916020000" channel="cctv13">
         <title lang="zh">法治在线</title>
     </programme>
-    <programme start="20210916020000" stop="20210916023300" channel="cctv13">
+    <programme start="20210916020000" stop="20210916030000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20210916023300" stop="20210916030000" channel="cctv13">
-        <title lang="zh">新闻1+1</title>
-    </programme>
-    <programme start="20210916030000" stop="20210916034400" channel="cctv13">
+    <programme start="20210916030000" stop="20210916040000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme start="20210916034400" stop="20210916040000" channel="cctv13">
-        <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20210916040000" stop="20210916043300" channel="cctv13">
         <title lang="zh">新闻直播间</title>
