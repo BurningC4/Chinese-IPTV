@@ -1337,7 +1337,7 @@
     <programme start="20210921230000" stop="20210921235900" channel="cctv4">
         <title lang="zh">2021年中央广播电视总台中秋晚会-重播</title>
     </programme>
-    <programme start="20210922005300" stop="20210922020000" channel="cctv4">
+    <programme start="20210922005400" stop="20210922020000" channel="cctv4">
         <title lang="zh">致敬红色经典-1</title>
     </programme>
     <programme start="20210922020000" stop="20210922023000" channel="cctv4">
@@ -1376,11 +1376,17 @@
     <programme start="20210922080000" stop="20210922090000" channel="cctv4">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme start="20210922090000" stop="20210922093300" channel="cctv4">
+    <programme start="20210922090000" stop="20210922093000" channel="cctv4">
         <title lang="zh">国家记忆2019--84</title>
     </programme>
-    <programme start="20210922093300" stop="20210922113000" channel="cctv4">
-        <title lang="zh">2021年中央广播电视总台中秋晚会-重播</title>
+    <programme start="20210922093000" stop="20210922100000" channel="cctv4">
+        <title lang="zh">中国文艺-2021-188</title>
+    </programme>
+    <programme start="20210922100000" stop="20210922110200" channel="cctv4">
+        <title lang="zh">2021年国新办发布会-53</title>
+    </programme>
+    <programme start="20210922110200" stop="20210922113000" channel="cctv4">
+        <title lang="zh">国家记忆-2021-136</title>
     </programme>
     <programme start="20210922113000" stop="20210922120000" channel="cctv4">
         <title lang="zh">海峡两岸-2021-264</title>
@@ -1529,22 +1535,40 @@
     <programme start="20210921080000" stop="20210921092500" channel="cctv5">
         <title lang="zh">第十四届全国运动会-羽毛球单项精选1</title>
     </programme>
-    <programme start="20210921092500" stop="20210921120000" channel="cctv5">
-        <title lang="zh">第十四届全国运动会</title>
+    <programme start="20210921092500" stop="20210921100000" channel="cctv5">
+        <title lang="zh">全运-田径女子跳高决赛、女子、男子800米预赛</title>
+    </programme>
+    <programme start="20210921100000" stop="20210921120000" channel="cctv5">
+        <title lang="zh">全运-男篮U22小组赛 辽宁-陕西</title>
     </programme>
     <programme start="20210921120000" stop="20210921123000" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20210921123000" stop="20210921180000" channel="cctv5">
-        <title lang="zh">第十四届全国运动会</title>
+    <programme start="20210921123000" stop="20210921133000" channel="cctv5">
+        <title lang="zh">全运录像-20日田径决赛</title>
+    </programme>
+    <programme start="20210921133000" stop="20210921143000" channel="cctv5">
+        <title lang="zh">全运录像-20日攀岩速度决赛</title>
+    </programme>
+    <programme start="20210921143000" stop="20210921170000" channel="cctv5">
+        <title lang="zh">全运-乒乓球女团决赛</title>
+    </programme>
+    <programme start="20210921170000" stop="20210921180000" channel="cctv5">
+        <title lang="zh">全运录像-拳击女子51、69公斤级；男子52、75公斤级</title>
     </programme>
     <programme start="20210921180000" stop="20210921183000" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20210921183000" stop="20210921220000" channel="cctv5">
-        <title lang="zh">第十四届全国运动会</title>
+    <programme start="20210921183000" stop="20210921190000" channel="cctv5">
+        <title lang="zh">全运-田径男子撑杆跳高决赛、女子三级跳远决赛</title>
     </programme>
-    <programme start="20210921220000" stop="20210921230500" channel="cctv5">
+    <programme start="20210921190000" stop="20210921194500" channel="cctv5">
+        <title lang="zh">全运-游泳女子200米自由泳半决赛、男子200米自由泳、女子100米仰泳、男子100米仰泳、女子100米蛙泳决赛</title>
+    </programme>
+    <programme start="20210921194500" stop="20210921214500" channel="cctv5">
+        <title lang="zh">全运-田径男子10000米决赛、男子100米决赛、女子铁饼决赛、女子400米决赛、男子400米决赛</title>
+    </programme>
+    <programme start="20210921214500" stop="20210921230500" channel="cctv5">
         <title lang="zh">体育世界-全景全运会-21</title>
     </programme>
     <programme start="20210921230500" stop="20210921235900" channel="cctv5">
@@ -1667,8 +1691,23 @@
     <programme start="20210921090000" stop="20210921100000" channel="cctv5plus">
         <title lang="zh">实况录像-第十四届全国运动会 举重女子87公斤以上级决赛</title>
     </programme>
-    <programme start="20210921100000" stop="20210921223500" channel="cctv5plus">
-        <title lang="zh">第十四届全国运动会-体操男团决赛、田径决赛等</title>
+    <programme start="20210921100000" stop="20210921130000" channel="cctv5plus">
+        <title lang="zh">全运-乒乓球团体铜牌赛</title>
+    </programme>
+    <programme start="20210921130000" stop="20210921143000" channel="cctv5plus">
+        <title lang="zh">全运-女排小组赛 辽宁-广东</title>
+    </programme>
+    <programme start="20210921143000" stop="20210921175000" channel="cctv5plus">
+        <title lang="zh">全运-体操男团决赛</title>
+    </programme>
+    <programme start="20210921175000" stop="20210921190000" channel="cctv5plus">
+        <title lang="zh">全运录像-20日游泳决赛</title>
+    </programme>
+    <programme start="20210921190000" stop="20210921213000" channel="cctv5plus">
+        <title lang="zh">全运-乒乓球男团决赛</title>
+    </programme>
+    <programme start="20210921213000" stop="20210921223500" channel="cctv5plus">
+        <title lang="zh">全运录像-举重男子61公斤级决赛</title>
     </programme>
     <programme start="20210921223500" stop="20210921233500" channel="cctv5plus">
         <title lang="zh">实况录像-第十四届全国运动会 攀岩女子全能</title>
@@ -2058,7 +2097,7 @@
         <title lang="zh">兵器面面观-2021-150</title>
     </programme>
     <programme start="20210921182600" stop="20210921190000" channel="cctv7">
-        <title lang="zh">国防故事-2021-147</title>
+        <title lang="zh">国防故事-2021-104</title>
     </programme>
     <programme start="20210921190000" stop="20210921193300" channel="cctv7">
         <title lang="zh">新闻联播</title>
@@ -2097,7 +2136,7 @@
         <title lang="zh">军事纪实-2021-188</title>
     </programme>
     <programme start="20210922063400" stop="20210922065900" channel="cctv7">
-        <title lang="zh">国防故事-2021-147</title>
+        <title lang="zh">国防故事-2021-104</title>
     </programme>
     <programme start="20210922065900" stop="20210922070200" channel="cctv7">
         <title lang="zh">国防微视频-军歌嘹亮-我们一起走过</title>
@@ -2127,7 +2166,7 @@
         <title lang="zh">世界战史-2021-114</title>
     </programme>
     <programme start="20210922105800" stop="20210922112500" channel="cctv7">
-        <title lang="zh">国防故事-2021-147</title>
+        <title lang="zh">国防故事-2021-104</title>
     </programme>
     <programme start="20210922112500" stop="20210922120000" channel="cctv7">
         <title lang="zh">军事纪录-2021-130</title>
@@ -10341,7 +10380,7 @@
         <title lang="zh">两岸新新闻（首）</title>
     </programme>
     <programme start="20210920220000" stop="20210920223500" channel="xiamen">
-        <title lang="zh">两岸直航</title>
+        <title lang="zh">两岸直航（战疫心力量）</title>
     </programme>
     <programme start="20210920223500" stop="20210920235900" channel="xiamen">
         <title lang="zh">红鲨突击47-48；我的故乡晋察冀1</title>
@@ -10380,7 +10419,7 @@
         <title lang="zh">两岸新新闻（重）</title>
     </programme>
     <programme start="20210921073000" stop="20210921080000" channel="xiamen">
-        <title lang="zh">两岸直航（重）</title>
+        <title lang="zh">两岸直航（战疫心力量）（重）</title>
     </programme>
     <programme start="20210921080000" stop="20210921083000" channel="xiamen">
         <title lang="zh">新闻斗阵讲（重）</title>
@@ -10412,19 +10451,19 @@
     <programme start="20210921183000" stop="20210921190000" channel="xiamen">
         <title lang="zh">厦视新闻</title>
     </programme>
-    <programme start="20210921190000" stop="20210921204000" channel="xiamen">
-        <title lang="zh">红蔷薇8-9</title>
+    <programme start="20210921190000" stop="20210921200000" channel="xiamen">
+        <title lang="zh">红蔷薇8</title>
     </programme>
-    <programme start="20210921204000" stop="20210921213000" channel="xiamen">
-        <title lang="zh">两岸秘密档案</title>
+    <programme start="20210921200000" stop="20210921220000" channel="xiamen">
+        <title lang="zh">转播2021年中央广播电视总台中秋晚会</title>
     </programme>
-    <programme start="20210921213000" stop="20210921220000" channel="xiamen">
-        <title lang="zh">两岸新新闻（首）</title>
+    <programme start="20210921220000" stop="20210921223000" channel="xiamen">
+        <title lang="zh">两岸新新闻（直播）</title>
     </programme>
-    <programme start="20210921220000" stop="20210921223500" channel="xiamen">
-        <title lang="zh">两岸直航</title>
+    <programme start="20210921223000" stop="20210921230000" channel="xiamen">
+        <title lang="zh">两岸直航（战疫心力量）</title>
     </programme>
-    <programme start="20210921223500" stop="20210921235900" channel="xiamen">
+    <programme start="20210921230000" stop="20210921235900" channel="xiamen">
         <title lang="zh">我的故乡晋察冀2-4</title>
     </programme>
     <programme start="20210922010000" stop="20210922013000" channel="xiamen">
@@ -10461,7 +10500,7 @@
         <title lang="zh">两岸新新闻（重）</title>
     </programme>
     <programme start="20210922073000" stop="20210922080000" channel="xiamen">
-        <title lang="zh">两岸直航（重）</title>
+        <title lang="zh">两岸直航（战疫心力量）（重）</title>
     </programme>
     <programme start="20210922080000" stop="20210922083000" channel="xiamen">
         <title lang="zh">新闻斗阵讲（重）</title>
@@ -10503,7 +10542,7 @@
         <title lang="zh">两岸新新闻（首）</title>
     </programme>
     <programme start="20210922220000" stop="20210922223500" channel="xiamen">
-        <title lang="zh">两岸直航</title>
+        <title lang="zh">两岸直航（战疫心力量）</title>
     </programme>
     <programme start="20210922223500" stop="20210922235900" channel="xiamen">
         <title lang="zh">我的故乡晋察冀5-7</title>
