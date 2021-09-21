@@ -425,13 +425,13 @@
     <programme start="20210922200100" stop="20210922200600" channel="cctv1">
         <title lang="zh">前情提要- 《花开山乡》第30集</title>
     </programme>
-    <programme start="20210922200600" stop="20210922205700" channel="cctv1">
+    <programme start="20210922200600" stop="20210922205500" channel="cctv1">
         <title lang="zh">花开山乡第30集</title>
     </programme>
-    <programme start="20210922205700" stop="20210922210000" channel="cctv1">
+    <programme start="20210922205500" stop="20210922205700" channel="cctv1">
         <title lang="zh">前情提要- 《花开山乡》第31集</title>
     </programme>
-    <programme start="20210922210000" stop="20210922215100" channel="cctv1">
+    <programme start="20210922205700" stop="20210922215100" channel="cctv1">
         <title lang="zh">花开山乡第31集</title>
     </programme>
     <programme start="20210922215100" stop="20210922220000" channel="cctv1">
@@ -1001,8 +1001,17 @@
     <programme start="20210922013600" stop="20210922022000" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2021-1096 月是故乡明33</title>
     </programme>
-    <programme start="20210922022000" stop="20210922030500" channel="cctv3">
+    <programme start="20210922022000" stop="20210922030200" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2021-1097 月是故乡明34</title>
+    </programme>
+    <programme start="20210922030200" stop="20210922030300" channel="cctv3">
+        <title lang="zh">中国文艺报道-2021-298第十一届北京国际电影节开幕式1</title>
+    </programme>
+    <programme start="20210922030300" stop="20210922030300" channel="cctv3">
+        <title lang="zh">中国文艺报道-2021-299第十一届北京国际电影节开幕式2</title>
+    </programme>
+    <programme start="20210922030300" stop="20210922030500" channel="cctv3">
+        <title lang="zh">中国文艺报道-2021-300第十一届北京国际电影节开幕式3</title>
     </programme>
     <programme start="20210922030500" stop="20210922043000" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2021-1216</title>
@@ -1508,10 +1517,10 @@
     <programme start="20210921133000" stop="20210921143000" channel="cctv5">
         <title lang="zh">全运录像-20日攀岩速度决赛</title>
     </programme>
-    <programme start="20210921143000" stop="20210921170000" channel="cctv5">
+    <programme start="20210921143000" stop="20210921173000" channel="cctv5">
         <title lang="zh">全运-乒乓球女团决赛</title>
     </programme>
-    <programme start="20210921170000" stop="20210921180000" channel="cctv5">
+    <programme start="20210921173000" stop="20210921180000" channel="cctv5">
         <title lang="zh">全运录像-拳击女子51、69公斤级；男子52、75公斤级</title>
     </programme>
     <programme start="20210921180000" stop="20210921183000" channel="cctv5">
@@ -1545,7 +1554,7 @@
         <title lang="zh">实况录像-2022卡塔尔世界杯欧洲区预选赛 瑞典队-西班牙队</title>
     </programme>
     <programme start="20210922053000" stop="20210922060000" channel="cctv5">
-        <title lang="zh">实况录像-第十四届全国运动会 射击精选1</title>
+        <title lang="zh">全运录像-射击精选1</title>
     </programme>
     <programme start="20210922060000" stop="20210922073000" channel="cctv5">
         <title lang="zh">实况录像-2021中国平安中国足球协会超级联赛第一阶段第8轮 北京国安-上海申花</title>
@@ -1554,22 +1563,40 @@
         <title lang="zh">健身动起来</title>
     </programme>
     <programme start="20210922080000" stop="20210922090000" channel="cctv5">
-        <title lang="zh">实况录像-第十四届全国运动会 赛艇精选</title>
+        <title lang="zh">全运录像-赛艇精选</title>
     </programme>
-    <programme start="20210922090000" stop="20210922120000" channel="cctv5">
-        <title lang="zh">第十四届全国运动会</title>
+    <programme start="20210922090000" stop="20210922104000" channel="cctv5">
+        <title lang="zh">全运-田径男子标枪决赛、男子400米栏、女子400米栏预赛、女子200米、男子200米预赛</title>
+    </programme>
+    <programme start="20210922104000" stop="20210922120000" channel="cctv5">
+        <title lang="zh">全运录像-21日体操男团决赛</title>
     </programme>
     <programme start="20210922120000" stop="20210922123000" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20210922123000" stop="20210922180000" channel="cctv5">
-        <title lang="zh">第十四届全国运动会</title>
+    <programme start="20210922123000" stop="20210922130000" channel="cctv5">
+        <title lang="zh">全运录像-21日举重男子61公斤级</title>
+    </programme>
+    <programme start="20210922130000" stop="20210922150000" channel="cctv5">
+        <title lang="zh">全运-女排小组赛 江苏-辽宁</title>
+    </programme>
+    <programme start="20210922150000" stop="20210922180000" channel="cctv5">
+        <title lang="zh">全运-举重男子73公斤级决赛</title>
     </programme>
     <programme start="20210922180000" stop="20210922183000" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20210922183000" stop="20210922213000" channel="cctv5">
-        <title lang="zh">第十四届全国运动会</title>
+    <programme start="20210922183000" stop="20210922190500" channel="cctv5">
+        <title lang="zh">全运-田径女子撑杆跳高决赛、女子100米栏决赛</title>
+    </programme>
+    <programme start="20210922190500" stop="20210922192500" channel="cctv5">
+        <title lang="zh">全运-游泳男子100米自由泳半决赛、女子200米自由泳、男子200米蝶泳决赛</title>
+    </programme>
+    <programme start="20210922192500" stop="20210922205000" channel="cctv5">
+        <title lang="zh">全运-男子110米栏决赛、男子跳远决赛、女子5000米决赛、女子200米复赛、男子200米决赛、女子800米、男子800米决赛</title>
+    </programme>
+    <programme start="20210922205000" stop="20210922213000" channel="cctv5">
+        <title lang="zh">全运-游泳女子200米个人混合泳、女子1500米自由泳、男子4*200米自由泳接力决赛</title>
     </programme>
     <programme start="20210922213000" stop="20210922230500" channel="cctv5">
         <title lang="zh">体育世界-全景全运会-22</title>
@@ -1683,16 +1710,40 @@
         <title lang="zh">实况录像-2020/2021赛季世界斯诺克锦标赛 精选1</title>
     </programme>
     <programme start="20210922080000" stop="20210922090000" channel="cctv5plus">
-        <title lang="zh">实况录像-第十四届全国运动会 攀岩女子全能</title>
+        <title lang="zh">全运录像-攀岩女子全能</title>
     </programme>
     <programme start="20210922090000" stop="20210922100000" channel="cctv5plus">
-        <title lang="zh">实况录像-第十四届全国运动会 举重男子61公斤级决赛</title>
+        <title lang="zh">全运录像-举重男子61公斤级决赛</title>
     </programme>
-    <programme start="20210922100000" stop="20210922223500" channel="cctv5plus">
-        <title lang="zh">第十四届全国运动会-体操女团决赛、游泳决赛等</title>
+    <programme start="20210922100000" stop="20210922120000" channel="cctv5plus">
+        <title lang="zh">全运-男篮U22小组赛 陕西-北京</title>
+    </programme>
+    <programme start="20210922120000" stop="20210922130000" channel="cctv5plus">
+        <title lang="zh">全运录像-21日男子举重67公斤级决赛</title>
+    </programme>
+    <programme start="20210922130000" stop="20210922140000" channel="cctv5plus">
+        <title lang="zh">全运录像-21日攀岩女子全能决赛</title>
+    </programme>
+    <programme start="20210922140000" stop="20210922150000" channel="cctv5plus">
+        <title lang="zh">全运-三人篮球女子 湖北-福建、广东-辽宁</title>
+    </programme>
+    <programme start="20210922150000" stop="20210922173000" channel="cctv5plus">
+        <title lang="zh">全运-体操女团决赛</title>
+    </programme>
+    <programme start="20210922173000" stop="20210922183000" channel="cctv5plus">
+        <title lang="zh">全运录像-射箭女子个人半决赛、决赛</title>
+    </programme>
+    <programme start="20210922183000" stop="20210922190000" channel="cctv5plus">
+        <title lang="zh">全运录像-21日田径决赛</title>
+    </programme>
+    <programme start="20210922190000" stop="20210922213000" channel="cctv5plus">
+        <title lang="zh">全运-男子举重81公斤级决赛</title>
+    </programme>
+    <programme start="20210922213000" stop="20210922223500" channel="cctv5plus">
+        <title lang="zh">全运录像-女子水球决赛</title>
     </programme>
     <programme start="20210922223500" stop="20210922235900" channel="cctv5plus">
-        <title lang="zh">第十四届全国运动会-乒乓球男团决赛</title>
+        <title lang="zh">全运录像-乒乓球男团决赛</title>
     </programme>
     <programme start="20210923000500" stop="20210923013600" channel="cctv5plus">
         <title lang="zh">实况录像-2021年国际田联钻石联赛 巴黎站精选</title>
