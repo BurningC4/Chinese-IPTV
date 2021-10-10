@@ -1604,17 +1604,20 @@
     <programme start="20211010090100" stop="20211010103000" channel="cctv5">
         <title lang="zh">实况录像-第十四届全国运动会 女排决赛</title>
     </programme>
-    <programme start="20211010103000" stop="20211010130000" channel="cctv5">
+    <programme start="20211010103000" stop="20211010124500" channel="cctv5">
         <title lang="zh">直播 2021年WBC重量级拳王争霸赛-（富里-维尔德）</title>
     </programme>
-    <programme start="20211010130000" stop="20211010133000" channel="cctv5">
+    <programme start="20211010124500" stop="20211010131800" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20211010133000" stop="20211010140500" channel="cctv5">
+    <programme start="20211010131800" stop="20211010133000" channel="cctv5">
+        <title lang="zh">2021年国际田联钻石联赛 布鲁塞尔站</title>
+    </programme>
+    <programme start="20211010133000" stop="20211010150000" channel="cctv5">
         <title lang="zh">实况录像-东京残奥会 乒乓球、射击精选</title>
     </programme>
-    <programme start="20211010140500" stop="20211010153000" channel="cctv5">
-        <title lang="zh">2021年世界职业拳王争霸赛-36</title>
+    <programme start="20211010150000" stop="20211010153000" channel="cctv5">
+        <title lang="zh">第十四届全国运动会 滑板街式决赛</title>
     </programme>
     <programme start="20211010153000" stop="20211010173000" channel="cctv5">
         <title lang="zh">相约北京-速度滑冰中国公开赛3</title>
@@ -3896,11 +3899,8 @@
     <programme start="20211010130000" stop="20211010140000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20211010140000" stop="20211010141200" channel="cctv13">
-        <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme start="20211010141200" stop="20211010150000" channel="cctv13">
-        <title lang="zh">新闻调查</title>
+    <programme start="20211010140000" stop="20211010150000" channel="cctv13">
+        <title lang="zh">冬奥来了</title>
     </programme>
     <programme start="20211010150000" stop="20211010160000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
