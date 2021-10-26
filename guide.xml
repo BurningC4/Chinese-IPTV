@@ -323,22 +323,22 @@
     <programme start="20211026190000" stop="20211026194100" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20211026194100" stop="20211026200100" channel="cctv1">
+    <programme start="20211026194100" stop="20211026200000" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20211026200100" stop="20211026200600" channel="cctv1">
+    <programme start="20211026200000" stop="20211026202400" channel="cctv1">
+        <title lang="zh">一起向未来-北京2022年冬奥会倒计时100天主题活动-1</title>
+    </programme>
+    <programme start="20211026202400" stop="20211026205300" channel="cctv1">
+        <title lang="zh">一起向未来-北京2022年冬奥会倒计时100天主题活动-2</title>
+    </programme>
+    <programme start="20211026205300" stop="20211026205800" channel="cctv1">
         <title lang="zh">前情提要- 《红旗渠》第17集</title>
     </programme>
-    <programme start="20211026200600" stop="20211026205600" channel="cctv1">
+    <programme start="20211026205800" stop="20211026215200" channel="cctv1">
         <title lang="zh">红旗渠第17集</title>
     </programme>
-    <programme start="20211026205600" stop="20211026205700" channel="cctv1">
-        <title lang="zh">前情提要- 《红旗渠》第18集</title>
-    </programme>
-    <programme start="20211026205700" stop="20211026215100" channel="cctv1">
-        <title lang="zh">红旗渠第18集</title>
-    </programme>
-    <programme start="20211026215100" stop="20211026220000" channel="cctv1">
+    <programme start="20211026215200" stop="20211026220000" channel="cctv1">
         <title lang="zh">2021秘境之眼-249</title>
     </programme>
     <programme start="20211026220000" stop="20211026223300" channel="cctv1">
@@ -444,18 +444,18 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20211027200100" stop="20211027200600" channel="cctv1">
+        <title lang="zh">前情提要- 《红旗渠》第18集</title>
+    </programme>
+    <programme start="20211027200600" stop="20211027205500" channel="cctv1">
+        <title lang="zh">红旗渠第18集</title>
+    </programme>
+    <programme start="20211027205500" stop="20211027205700" channel="cctv1">
         <title lang="zh">前情提要- 《红旗渠》第19集</title>
     </programme>
-    <programme start="20211027200600" stop="20211027205400" channel="cctv1">
+    <programme start="20211027205700" stop="20211027215100" channel="cctv1">
         <title lang="zh">红旗渠19/31</title>
     </programme>
-    <programme start="20211027205400" stop="20211027205700" channel="cctv1">
-        <title lang="zh">前情提要-《红旗渠》20/31</title>
-    </programme>
-    <programme start="20211027205700" stop="20211027214900" channel="cctv1">
-        <title lang="zh">红旗渠20/31</title>
-    </programme>
-    <programme start="20211027214900" stop="20211027220000" channel="cctv1">
+    <programme start="20211027215100" stop="20211027220000" channel="cctv1">
         <title lang="zh">2021秘境之眼-250</title>
     </programme>
     <programme start="20211027220000" stop="20211027223400" channel="cctv1">
@@ -567,16 +567,16 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20211028200100" stop="20211028200600" channel="cctv1">
-        <title lang="zh">前情提要-《红旗渠》21/31</title>
+        <title lang="zh">前情提要-《红旗渠》20/31</title>
     </programme>
     <programme start="20211028200600" stop="20211028205600" channel="cctv1">
-        <title lang="zh">红旗渠21/31</title>
+        <title lang="zh">红旗渠20/31</title>
     </programme>
     <programme start="20211028205600" stop="20211028210000" channel="cctv1">
-        <title lang="zh">前情提要-《红旗渠》22/31</title>
+        <title lang="zh">前情提要-《红旗渠》21/31</title>
     </programme>
     <programme start="20211028210000" stop="20211028215300" channel="cctv1">
-        <title lang="zh">红旗渠22/31</title>
+        <title lang="zh">红旗渠21/31</title>
     </programme>
     <programme start="20211028215300" stop="20211028220000" channel="cctv1">
         <title lang="zh">2021秘境之眼-251</title>
@@ -1010,50 +1010,59 @@
     <programme start="20211026153900" stop="20211026164600" channel="cctv3">
         <title lang="zh">走在回家的路上-4徐帆</title>
     </programme>
-    <programme start="20211026164600" stop="20211026181100" channel="cctv3">
+    <programme start="20211026164600" stop="20211026181400" channel="cctv3">
         <title lang="zh">星光大道-2021-48</title>
     </programme>
-    <programme start="20211026181100" stop="20211026181800" channel="cctv3">
-        <title lang="zh">综艺喜乐汇-2021-1610 第九批中国梦歌曲—本色</title>
-    </programme>
-    <programme start="20211026181800" stop="20211026193500" channel="cctv3">
+    <programme start="20211026181400" stop="20211026192800" channel="cctv3">
         <title lang="zh">国家宝藏(展演季)-1</title>
     </programme>
-    <programme start="20211026193500" stop="20211026200600" channel="cctv3">
+    <programme start="20211026192800" stop="20211026200000" channel="cctv3">
         <title lang="zh">中国文艺报道-2021-261</title>
     </programme>
-    <programme start="20211026200600" stop="20211026211000" channel="cctv3">
-        <title lang="zh">艺览天下-2021-36</title>
+    <programme start="20211026200000" stop="20211026202400" channel="cctv3">
+        <title lang="zh">一起向未来-北京2022年冬奥会倒计时100天主题活动-1</title>
     </programme>
-    <programme start="20211026211000" stop="20211026221000" channel="cctv3">
+    <programme start="20211026202400" stop="20211026205800" channel="cctv3">
+        <title lang="zh">一起向未来-北京2022年冬奥会倒计时100天主题活动-2</title>
+    </programme>
+    <programme start="20211026205800" stop="20211026215700" channel="cctv3">
         <title lang="zh">我的艺术清单-2021-39</title>
     </programme>
-    <programme start="20211026221000" stop="20211026230500" channel="cctv3">
+    <programme start="20211026215700" stop="20211026225300" channel="cctv3">
         <title lang="zh">艺览天下-2021-39</title>
     </programme>
-    <programme start="20211026230500" stop="20211026231500" channel="cctv3">
+    <programme start="20211026225300" stop="20211026230300" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2021-1607 第九批中国梦歌曲—丰收中国年</title>
     </programme>
-    <programme start="20211026231500" stop="20211026235900" channel="cctv3">
+    <programme start="20211026230300" stop="20211026235900" channel="cctv3">
         <title lang="zh">幸福账单-为你买单2021-40</title>
     </programme>
-    <programme start="20211027003600" stop="20211027012000" channel="cctv3">
+    <programme start="20211027002300" stop="20211027010700" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2021-904 塞上风云记33</title>
     </programme>
-    <programme start="20211027012000" stop="20211027020300" channel="cctv3">
+    <programme start="20211027010700" stop="20211027015100" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2021-905 塞上风云记34</title>
     </programme>
-    <programme start="20211027020300" stop="20211027024700" channel="cctv3">
+    <programme start="20211027015100" stop="20211027023400" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2021-906 塞上风云记35</title>
     </programme>
-    <programme start="20211027024700" stop="20211027033100" channel="cctv3">
+    <programme start="20211027023400" stop="20211027023400" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2021-1596 第九批中国梦歌曲—誓言</title>
+    </programme>
+    <programme start="20211027023400" stop="20211027023500" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2021-1610 第九批中国梦歌曲—本色</title>
+    </programme>
+    <programme start="20211027023500" stop="20211027031800" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2021-907 塞上风云记36</title>
     </programme>
-    <programme start="20211027033100" stop="20211027042300" channel="cctv3">
+    <programme start="20211027031800" stop="20211027041000" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2021-1650</title>
     </programme>
-    <programme start="20211027042300" stop="20211027052700" channel="cctv3">
-        <title lang="zh">走在回家的路上-3张国立</title>
+    <programme start="20211027041000" stop="20211027041500" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2021-1615 第九批中国梦歌曲—陕西绿了 百姓笑了</title>
+    </programme>
+    <programme start="20211027041500" stop="20211027052700" channel="cctv3">
+        <title lang="zh">走在回家的路上-宋轶</title>
     </programme>
     <programme start="20211027052700" stop="20211027061900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2021-1350</title>
@@ -1403,19 +1412,16 @@
     <programme start="20211027080000" stop="20211027090000" channel="cctv4">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme start="20211027090000" stop="20211027093000" channel="cctv4">
+    <programme start="20211027090000" stop="20211027092800" channel="cctv4">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme start="20211027093000" stop="20211027100000" channel="cctv4">
+    <programme start="20211027092800" stop="20211027100000" channel="cctv4">
         <title lang="zh">中国文艺-2021-213</title>
     </programme>
-    <programme start="20211027100000" stop="20211027101200" channel="cctv4">
-        <title lang="zh">中国新闻</title>
+    <programme start="20211027100000" stop="20211027110300" channel="cctv4">
+        <title lang="zh">2021年国新办发布会-60</title>
     </programme>
-    <programme start="20211027101200" stop="20211027110000" channel="cctv4">
-        <title lang="zh">远方的家2021-116(4K)</title>
-    </programme>
-    <programme start="20211027110000" stop="20211027113000" channel="cctv4">
+    <programme start="20211027110300" stop="20211027113000" channel="cctv4">
         <title lang="zh">国家记忆-2021-161</title>
     </programme>
     <programme start="20211027113000" stop="20211027120000" channel="cctv4">
