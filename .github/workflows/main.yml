@@ -47,8 +47,8 @@ jobs:
           sudo python3 getepg/getepg.py --file release/guide.xml
       - name: push release
         run: |
-          git -C release config --local user.name "${{ github.actor }}"
-          git -C release config --local user.email "${{ github.actor }}@users.noreply.github.com"
+          git -C release config --local user.name github-actions
+          git -C release config --local user.email github-actions@github.com
           git -C release add guide.xml
           git -C release commit -m "update by actions at ${{ env.UPDATE_TIME }}"
           git -C release push
