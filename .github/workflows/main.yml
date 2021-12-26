@@ -27,6 +27,12 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: prepare release
+        uses: actions/checkout@v2
+        with: 
+          path: release
+          ref: master
+
       - name: prepare generater
         uses: actions/checkout@v2
         with: 
@@ -34,12 +40,6 @@ jobs:
           ssh-key: ${{ secrets.GETEPG }}
           path: getepg
           ref: main
-
-      - name: prepare release
-        uses: actions/checkout@v2
-        with: 
-          path: release
-          ref: master
 
       - name: get new epg file
         run: |
