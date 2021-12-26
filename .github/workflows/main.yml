@@ -3,7 +3,7 @@ name: Update Chinese EPG File
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"
+    - cron: 0 * * * *
   push:
     branches:
       - master
@@ -13,14 +13,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: set variables
-        run: |
-          echo "UPDATE_TIME=$(date +%Y-%m-%d\ %H:%M)" >> $GITHUB_ENV
-
       - name: set timezone
         uses: szenius/set-timezone@v1.0
         with:
           timezoneLinux: "Asia/Shanghai"
+
+      - name: set variables
+        run: |
+          echo "UPDATE_TIME=$(date +%Y-%m-%d\ %H:%M)" >> $GITHUB_ENV
 
       - name: set up python 3
         uses: actions/setup-python@v2
