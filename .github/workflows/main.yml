@@ -50,5 +50,5 @@ jobs:
           git -C release config --local user.name github-actions
           git -C release config --local user.email github-actions@github.com
           git -C release add guide.xml
-          git -C release commit -m "update by actions at ${{ env.UPDATE_TIME }}"
+          git -C release commit -m "auto update at ${{ env.UPDATE_TIME }}"
           git -C release push
