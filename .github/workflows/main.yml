@@ -1,0 +1,49 @@
+name: Update Chinese EPG File
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
+  push:
+    branches:
+      - auto_update
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: set variables
+        run: |
+          echo "UPDATE_TIME=$(date +%Y-%m-%d\ %H:%M)" >> $GITHUB_ENV
+      - name: set up python 3
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: prepare generater
+        uses: actions/checkout@v2
+        with: 
+          repository: BurningC4/getepg
+          ssh-key: ${{ secrets.GETEPG }}
+          path: getepg
+          ref: main
+          persist-credentials: false
+
+      - name: prepare release
+        uses: actions/checkout@v2
+        with: 
+          path: release
+          ref: master
+
+      - name: get new epg file
+        run: |
+          sudo pip3 install -r getepg/requirements.txt
+          sudo python3 getepg/getepg.py --file release/guide.xml
+      - name: push release
+        run: |
+          git -C release config --local user.name "${{ github.actor }}"
+          git -C release config --local user.email "${{ github.actor }}@users.noreply.github.com"
+          git -C release add guide.xml
+          git -C release commit -m "update by actions at ${{ env.UPDATE_TIME }}"
+          git -C release push
