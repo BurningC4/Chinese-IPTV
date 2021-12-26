@@ -6,7 +6,7 @@ on:
     - cron: "0 * * * *"
   push:
     branches:
-      - auto_update
+      - master
 
 jobs:
   update:
