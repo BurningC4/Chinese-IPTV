@@ -416,8 +416,11 @@
     <programme start="20220101162200" stop="20220101164300" channel="cctv1">
         <title lang="zh">美术经典中的党史-85</title>
     </programme>
-    <programme start="20220101164300" stop="20220101170400" channel="cctv1">
+    <programme start="20220101164300" stop="20220101164900" channel="cctv1">
         <title lang="zh">奥秘无穷-2021-2</title>
+    </programme>
+    <programme start="20220101164900" stop="20220101170400" channel="cctv1">
+        <title lang="zh">领航-1</title>
     </programme>
     <programme start="20220101170400" stop="20220101171000" channel="cctv1">
         <title lang="zh">体坛英豪（冬奥版）-5</title>
@@ -491,10 +494,10 @@
     <programme start="20220102100000" stop="20220102110100" channel="cctv1">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20220102110100" stop="20220102115000" channel="cctv1">
+    <programme start="20220102110100" stop="20220102115300" channel="cctv1">
         <title lang="zh">对手4/37</title>
     </programme>
-    <programme start="20220102115000" stop="20220102120000" channel="cctv1">
+    <programme start="20220102115300" stop="20220102120000" channel="cctv1">
         <title lang="zh">领航-1</title>
     </programme>
     <programme start="20220102120000" stop="20220102123000" channel="cctv1">
@@ -515,10 +518,10 @@
     <programme start="20220102150600" stop="20220102155900" channel="cctv1">
         <title lang="zh">理想之城26/40</title>
     </programme>
-    <programme start="20220102155900" stop="20220102164600" channel="cctv1">
+    <programme start="20220102155900" stop="20220102165100" channel="cctv1">
         <title lang="zh">理想之城27/40</title>
     </programme>
-    <programme start="20220102164600" stop="20220102165800" channel="cctv1">
+    <programme start="20220102165100" stop="20220102165800" channel="cctv1">
         <title lang="zh">领航-1</title>
     </programme>
     <programme start="20220102165800" stop="20220102170600" channel="cctv1">
@@ -1247,32 +1250,29 @@
     <programme start="20211231220000" stop="20211231223000" channel="cctv4">
         <title lang="zh">鲁健访谈-2021-40</title>
     </programme>
-    <programme start="20211231223000" stop="20211231230000" channel="cctv4">
+    <programme start="20211231223000" stop="20211231231500" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20211231230000" stop="20211231230700" channel="cctv4">
+    <programme start="20211231231500" stop="20211231232200" channel="cctv4">
         <title lang="zh">综艺喜乐汇-2022-24领航-1</title>
     </programme>
-    <programme start="20211231230700" stop="20211231234900" channel="cctv4">
+    <programme start="20211231232200" stop="20211231235900" channel="cctv4">
         <title lang="zh">特赦1959-（四套）-12/39</title>
     </programme>
-    <programme start="20211231234900" stop="20211231235900" channel="cctv4">
+    <programme start="20220101000400" stop="20220101004500" channel="cctv4">
         <title lang="zh">特赦1959-（四套）-13/39</title>
     </programme>
-    <programme start="20220101003000" stop="20220101012000" channel="cctv4">
+    <programme start="20220101004500" stop="20220101013000" channel="cctv4">
         <title lang="zh">特赦1959-（四套）-14/39</title>
     </programme>
-    <programme start="20220101012000" stop="20220101015000" channel="cctv4">
+    <programme start="20220101013000" stop="20220101020000" channel="cctv4">
         <title lang="zh">中国文艺-2021-261</title>
     </programme>
-    <programme start="20220101015000" stop="20220101020000" channel="cctv4">
-        <title lang="zh">记住乡愁2018片段展播-52</title>
-    </programme>
-    <programme start="20220101020000" stop="20220101023000" channel="cctv4">
+    <programme start="20220101020000" stop="20220101024500" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20220101023000" stop="20220101030000" channel="cctv4">
-        <title lang="zh">鲁健访谈-2021-40</title>
+    <programme start="20220101024500" stop="20220101030000" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-52</title>
     </programme>
     <programme start="20220101030000" stop="20220101031000" channel="cctv4">
         <title lang="zh">中国新闻</title>
