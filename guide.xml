@@ -326,11 +326,8 @@
     <programme start="20211231180000" stop="20211231190000" channel="cctv1">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20211231190000" stop="20211231194000" channel="cctv1">
+    <programme start="20211231190000" stop="20211231200000" channel="cctv1">
         <title lang="zh">新闻联播</title>
-    </programme>
-    <programme start="20211231194000" stop="20211231200000" channel="cctv1">
-        <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20211231200000" stop="20211231210600" channel="cctv1">
         <title lang="zh">启航2022--1上</title>
@@ -359,16 +356,25 @@
     <programme start="20220101021400" stop="20220101022000" channel="cctv1">
         <title lang="zh">生活提示</title>
     </programme>
-    <programme start="20220101022000" stop="20220101025900" channel="cctv1">
+    <programme start="20220101022000" stop="20220101025800" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20220101025900" stop="20220101042900" channel="cctv1">
+    <programme start="20220101025800" stop="20220101042800" channel="cctv1">
         <title lang="zh">星光大道-2021-57</title>
     </programme>
-    <programme start="20220101042900" stop="20220101045700" channel="cctv1">
-        <title lang="zh">今日说法-2021-365</title>
+    <programme start="20220101042800" stop="20220101043300" channel="cctv1">
+        <title lang="zh">精彩一刻-2021-201美丽中国桂西南瀑布(4K)</title>
     </programme>
-    <programme start="20220101045700" stop="20220101052700" channel="cctv1">
+    <programme start="20220101043300" stop="20220101043400" channel="cctv1">
+        <title lang="zh">一套导视-2021-12-31_1分钟2</title>
+    </programme>
+    <programme start="20220101043400" stop="20220101044000" channel="cctv1">
+        <title lang="zh">精彩一刻-2021-202美丽中国桂西南弄岗穗鹛(4K)</title>
+    </programme>
+    <programme start="20220101044000" stop="20220101044200" channel="cctv1">
+        <title lang="zh">一套导视-2021-12-31_2分钟</title>
+    </programme>
+    <programme start="20220101044200" stop="20220101052700" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
     <programme start="20220101052700" stop="20220101060000" channel="cctv1">
@@ -2078,40 +2084,40 @@
     <programme start="20211231182600" stop="20211231190000" channel="cctv7">
         <title lang="zh">国防故事-2021-201</title>
     </programme>
-    <programme start="20211231190000" stop="20211231193300" channel="cctv7">
+    <programme start="20211231190000" stop="20211231194800" channel="cctv7">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20211231193300" stop="20211231200300" channel="cctv7">
+    <programme start="20211231194800" stop="20211231201800" channel="cctv7">
         <title lang="zh">军事报道</title>
     </programme>
-    <programme start="20211231200300" stop="20211231205300" channel="cctv7">
+    <programme start="20211231201800" stop="20211231210800" channel="cctv7">
         <title lang="zh">改革时刻-1</title>
     </programme>
-    <programme start="20211231205300" stop="20211231215700" channel="cctv7">
+    <programme start="20211231210800" stop="20211231221200" channel="cctv7">
         <title lang="zh">2021强军故事会-6</title>
     </programme>
-    <programme start="20211231215700" stop="20211231223300" channel="cctv7">
+    <programme start="20211231221200" stop="20211231224800" channel="cctv7">
         <title lang="zh">防务新观察-2021-260</title>
     </programme>
-    <programme start="20211231223300" stop="20211231230700" channel="cctv7">
+    <programme start="20211231224800" stop="20211231232200" channel="cctv7">
         <title lang="zh">军事纪实-2021-261</title>
     </programme>
-    <programme start="20211231230700" stop="20211231234300" channel="cctv7">
+    <programme start="20211231232200" stop="20211231235800" channel="cctv7">
         <title lang="zh">国防科工-2021-52</title>
     </programme>
-    <programme start="20211231234300" stop="20211231235900" channel="cctv7">
+    <programme start="20211231235800" stop="20211231235900" channel="cctv7">
         <title lang="zh">擒狼7/33</title>
     </programme>
-    <programme start="20220101003200" stop="20220101012300" channel="cctv7">
+    <programme start="20220101004700" stop="20220101013800" channel="cctv7">
         <title lang="zh">擒狼8/33</title>
     </programme>
-    <programme start="20220101012300" stop="20220101015800" channel="cctv7">
+    <programme start="20220101013800" stop="20220101021300" channel="cctv7">
         <title lang="zh">军事纪实-2021-261</title>
     </programme>
-    <programme start="20220101015800" stop="20220101023600" channel="cctv7">
+    <programme start="20220101021300" stop="20220101025100" channel="cctv7">
         <title lang="zh">兵器面面观-2021-211</title>
     </programme>
-    <programme start="20220101023600" stop="20220101060300" channel="cctv7">
+    <programme start="20220101025100" stop="20220101060300" channel="cctv7">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20220101060300" stop="20220101090200" channel="cctv7">
@@ -2825,14 +2831,14 @@
     <programme start="20220101190300" stop="20220101192300" channel="cctvjilu">
         <title lang="zh">9视频2022-1</title>
     </programme>
-    <programme start="20220101192300" stop="20220101200100" channel="cctvjilu">
+    <programme start="20220101192300" stop="20220101200000" channel="cctvjilu">
         <title lang="zh">活力·源2022-1</title>
     </programme>
-    <programme start="20220101200100" stop="20220101210000" channel="cctvjilu">
+    <programme start="20220101200000" stop="20220101210200" channel="cctvjilu">
         <title lang="zh">特别呈现2022-1</title>
     </programme>
-    <programme start="20220101210000" stop="20220101220000" channel="cctvjilu">
-        <title lang="zh">寰宇视野2022-1</title>
+    <programme start="20220101210200" stop="20220101220000" channel="cctvjilu">
+        <title lang="zh">为人类谋进步-2</title>
     </programme>
     <programme start="20220101220000" stop="20220101230500" channel="cctvjilu">
         <title lang="zh">故事中国2022-1</title>
@@ -3764,13 +3770,10 @@
     <programme start="20211231180000" stop="20211231190000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20211231190000" stop="20211231193200" channel="cctv13">
+    <programme start="20211231190000" stop="20211231194500" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20211231193200" stop="20211231194000" channel="cctv13">
-        <title lang="zh">天气预报</title>
-    </programme>
-    <programme start="20211231194000" stop="20211231200000" channel="cctv13">
+    <programme start="20211231194500" stop="20211231200000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20211231200000" stop="20211231210000" channel="cctv13">
@@ -4208,11 +4211,20 @@
     <programme start="20220101171500" stop="20220101180000" channel="cctv15">
         <title lang="zh">合唱先锋2022-2-绚丽东方</title>
     </programme>
-    <programme start="20220101180000" stop="20220101211000" channel="cctv15">
+    <programme start="20220101180000" stop="20220101205800" channel="cctv15">
         <title lang="zh">2022年维也纳新年音乐会-1</title>
     </programme>
+    <programme start="20220101205800" stop="20220101210200" channel="cctv15">
+        <title lang="zh">音乐里的2021——百年正青春-1</title>
+    </programme>
+    <programme start="20220101210200" stop="20220101210600" channel="cctv15">
+        <title lang="zh">音乐里的2021-体育强国梦-1</title>
+    </programme>
+    <programme start="20220101210600" stop="20220101211000" channel="cctv15">
+        <title lang="zh">音乐里的2021--文艺有新声</title>
+    </programme>
     <programme start="20220101211000" stop="20220101223000" channel="cctv15">
-        <title lang="zh">扬帆远航大湾区——2022新年音乐会-1</title>
+        <title lang="zh">扬帆远航大湾区——2022新年音乐会-2</title>
     </programme>
     <programme start="20220101223000" stop="20220101235300" channel="cctv15">
         <title lang="zh">2022年中央广播电视总台新年音乐会-4K</title>
@@ -4220,7 +4232,19 @@
     <programme start="20220101235300" stop="20220101235900" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2022-2-漫步经典（2）</title>
     </programme>
-    <programme start="20220102004300" stop="20220102060000" channel="cctv15">
+    <programme start="20220102004500" stop="20220102004700" channel="cctv15">
+        <title lang="zh">雪之圆舞曲-片段1</title>
+    </programme>
+    <programme start="20220102004700" stop="20220102004900" channel="cctv15">
+        <title lang="zh">康康舞曲-片段1</title>
+    </programme>
+    <programme start="20220102004900" stop="20220102005000" channel="cctv15">
+        <title lang="zh">降B大调第四交响曲-片段1</title>
+    </programme>
+    <programme start="20220102005000" stop="20220102005200" channel="cctv15">
+        <title lang="zh">莱奥诺拉序曲第三号-片段1</title>
+    </programme>
+    <programme start="20220102005200" stop="20220102060000" channel="cctv15">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20220102060000" stop="20220102063200" channel="cctv15">
@@ -4244,29 +4268,35 @@
     <programme start="20220102111300" stop="20220102120000" channel="cctv15">
         <title lang="zh">合唱先锋2022-2-绚丽东方</title>
     </programme>
-    <programme start="20220102120000" stop="20220102135100" channel="cctv15">
-        <title lang="zh">启航2022——中央广播电视总台跨年晚会-1</title>
+    <programme start="20220102120000" stop="20220102130000" channel="cctv15">
+        <title lang="zh">启航2022--1上</title>
     </programme>
-    <programme start="20220102135100" stop="20220102141900" channel="cctv15">
-        <title lang="zh">启航2022——中央广播电视总台跨年晚会-2</title>
+    <programme start="20220102130000" stop="20220102135100" channel="cctv15">
+        <title lang="zh">启航2022--1下</title>
     </programme>
-    <programme start="20220102141900" stop="20220102144800" channel="cctv15">
-        <title lang="zh">启航2022——中央广播电视总台跨年晚会-3</title>
+    <programme start="20220102135100" stop="20220102142500" channel="cctv15">
+        <title lang="zh">启航2022--2</title>
     </programme>
-    <programme start="20220102144800" stop="20220102162200" channel="cctv15">
+    <programme start="20220102142500" stop="20220102150700" channel="cctv15">
+        <title lang="zh">启航2022--3</title>
+    </programme>
+    <programme start="20220102150700" stop="20220102164000" channel="cctv15">
         <title lang="zh">精彩音乐汇-2022-2</title>
     </programme>
-    <programme start="20220102162200" stop="20220102172500" channel="cctv15">
+    <programme start="20220102164000" stop="20220102164500" channel="cctv15">
+        <title lang="zh">综艺喜乐汇-2021-1598 第九批中国梦歌曲—神圣</title>
+    </programme>
+    <programme start="20220102164500" stop="20220102174500" channel="cctv15">
         <title lang="zh">乐享汇-2021-106“新的唱响”演唱会二十一(4K)</title>
     </programme>
-    <programme start="20220102172500" stop="20220102175500" channel="cctv15">
-        <title lang="zh">中国音乐电视-2022-2</title>
+    <programme start="20220102174500" stop="20220102175300" channel="cctv15">
+        <title lang="zh">综艺喜乐汇-2021-1611 第九批中国梦歌曲—人民幸福</title>
     </programme>
-    <programme start="20220102175500" stop="20220102185500" channel="cctv15">
+    <programme start="20220102175300" stop="20220102185300" channel="cctv15">
         <title lang="zh">民歌·中国-2022-5大地欢歌</title>
     </programme>
-    <programme start="20220102185500" stop="20220102185900" channel="cctv15">
-        <title lang="zh">综艺喜乐汇-2021-1599 第九批中国梦歌曲—振兴乡村唱起来</title>
+    <programme start="20220102185300" stop="20220102185900" channel="cctv15">
+        <title lang="zh">综艺喜乐汇-2021-1603 第九批中国梦歌曲—望春花</title>
     </programme>
     <programme start="20220102185900" stop="20220102192900" channel="cctv15">
         <title lang="zh">风华国乐-2022-4</title>
