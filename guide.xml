@@ -956,8 +956,11 @@
     <programme start="20220101210300" stop="20220101211000" channel="cctv3">
         <title lang="zh">领航-1</title>
     </programme>
-    <programme start="20220101211000" stop="20220101223900" channel="cctv3">
-        <title lang="zh">扬帆远航大湾区——2022新年音乐会-2</title>
+    <programme start="20220101211000" stop="20220101221000" channel="cctv3">
+        <title lang="zh">扬帆远航大湾区——2022新年音乐会-上</title>
+    </programme>
+    <programme start="20220101221000" stop="20220101223900" channel="cctv3">
+        <title lang="zh">扬帆远航大湾区——2022新年音乐会-下</title>
     </programme>
     <programme start="20220101223900" stop="20220101235900" channel="cctv3">
         <title lang="zh">星光大道-2021-57</title>
@@ -1734,7 +1737,7 @@
         <title lang="zh">实况录像- 相约北京-2021/2022国际滑联短道速滑世界杯 精选2</title>
     </programme>
     <programme start="20220101192500" stop="20220101213500" channel="cctv5plus">
-        <title lang="zh">2021年中超联赛-第21轮：河北队-深圳队</title>
+        <title lang="zh">2021年中超联赛-第21轮：北京国安-广州城</title>
     </programme>
     <programme start="20220101213500" stop="20220101223500" channel="cctv5plus">
         <title lang="zh">赛事集锦-逐冰追雪—特辑 冰雪耀新春1</title>
@@ -3773,13 +3776,13 @@
     <programme start="20220101190000" stop="20220101193200" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20220101193200" stop="20220101194000" channel="cctv13">
+    <programme start="20220101193200" stop="20220101193700" channel="cctv13">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme start="20220101194000" stop="20220101200000" channel="cctv13">
-        <title lang="zh">焦点访谈</title>
+    <programme start="20220101193700" stop="20220101204500" channel="cctv13">
+        <title lang="zh">2021时政专题片-非凡的领航2021</title>
     </programme>
-    <programme start="20220101200000" stop="20220101210000" channel="cctv13">
+    <programme start="20220101204500" stop="20220101210000" channel="cctv13">
         <title lang="zh">东方时空</title>
     </programme>
     <programme start="20220101210000" stop="20220101213000" channel="cctv13">
@@ -3794,11 +3797,14 @@
     <programme start="20220101230900" stop="20220101235900" channel="cctv13">
         <title lang="zh">24小时</title>
     </programme>
-    <programme start="20220102000000" stop="20220102010000" channel="cctv13">
+    <programme start="20220102000000" stop="20220102002500" channel="cctv13">
         <title lang="zh">午夜新闻</title>
     </programme>
-    <programme start="20220102010000" stop="20220102020000" channel="cctv13">
+    <programme start="20220102002500" stop="20220102012500" channel="cctv13">
         <title lang="zh">2021 中国故事-</title>
+    </programme>
+    <programme start="20220102012500" stop="20220102020000" channel="cctv13">
+        <title lang="zh">新闻1+1</title>
     </programme>
     <programme start="20220102020000" stop="20220102022500" channel="cctv13">
         <title lang="zh">新闻直播间</title>
