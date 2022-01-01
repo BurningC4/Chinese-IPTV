@@ -335,8 +335,11 @@
     <programme start="20220101200000" stop="20220101211000" channel="cctv1">
         <title lang="zh">2022年新年戏曲晚会-1</title>
     </programme>
-    <programme start="20220101211000" stop="20220101223000" channel="cctv1">
-        <title lang="zh">扬帆远航大湾区——2022新年音乐会-2</title>
+    <programme start="20220101211000" stop="20220101221000" channel="cctv1">
+        <title lang="zh">扬帆远航大湾区——2022新年音乐会-上</title>
+    </programme>
+    <programme start="20220101221000" stop="20220101223000" channel="cctv1">
+        <title lang="zh">扬帆远航大湾区——2022新年音乐会-下</title>
     </programme>
     <programme start="20220101223000" stop="20220101230600" channel="cctv1">
         <title lang="zh">晚间新闻</title>
