@@ -290,17 +290,20 @@
     <programme start="20220101123000" stop="20220101130500" channel="cctv1">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme start="20220101130500" stop="20220101141200" channel="cctv1">
-        <title lang="zh">启航2022——中央广播电视总台跨年晚会-1</title>
+    <programme start="20220101130500" stop="20220101140100" channel="cctv1">
+        <title lang="zh">澳门之味-1</title>
     </programme>
-    <programme start="20220101141200" stop="20220101151200" channel="cctv1">
-        <title lang="zh">启航2022——中央广播电视总台跨年晚会-2</title>
+    <programme start="20220101140100" stop="20220101145500" channel="cctv1">
+        <title lang="zh">澳门之味-2</title>
     </programme>
-    <programme start="20220101151200" stop="20220101162200" channel="cctv1">
-        <title lang="zh">启航2022——中央广播电视总台跨年晚会-3</title>
-    </programme>
-    <programme start="20220101162200" stop="20220101164300" channel="cctv1">
+    <programme start="20220101145500" stop="20220101151400" channel="cctv1">
         <title lang="zh">美术经典中的党史-85</title>
+    </programme>
+    <programme start="20220101151400" stop="20220101155600" channel="cctv1">
+        <title lang="zh">新闻直播间</title>
+    </programme>
+    <programme start="20220101155600" stop="20220101164300" channel="cctv1">
+        <title lang="zh">理想之城第24集</title>
     </programme>
     <programme start="20220101164300" stop="20220101164900" channel="cctv1">
         <title lang="zh">奥秘无穷-2021-2</title>
@@ -3741,7 +3744,7 @@
         <title lang="zh">新闻30分</title>
     </programme>
     <programme start="20220101130000" stop="20220101140000" channel="cctv13">
-        <title lang="zh">新闻直播间</title>
+        <title lang="zh">一起向未来</title>
     </programme>
     <programme start="20220101140000" stop="20220101150000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
