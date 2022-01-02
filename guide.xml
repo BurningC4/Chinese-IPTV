@@ -425,8 +425,11 @@
     <programme start="20220103171200" stop="20220103172000" channel="cctv1">
         <title lang="zh">综艺喜乐汇-2022-24领航-1</title>
     </programme>
-    <programme start="20220103172000" stop="20220103184300" channel="cctv1">
-        <title lang="zh">扬帆远航大湾区——2022新年音乐会-2</title>
+    <programme start="20220103172000" stop="20220103182000" channel="cctv1">
+        <title lang="zh">扬帆远航大湾区——2022新年音乐会-上</title>
+    </programme>
+    <programme start="20220103182000" stop="20220103184300" channel="cctv1">
+        <title lang="zh">扬帆远航大湾区——2022新年音乐会-下</title>
     </programme>
     <programme start="20220103184300" stop="20220103185200" channel="cctv1">
         <title lang="zh">体坛英豪（冬奥版）-7</title>
@@ -440,10 +443,13 @@
     <programme start="20220103194000" stop="20220103200600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20220103200600" stop="20220103213700" channel="cctv1">
+    <programme start="20220103200600" stop="20220103212800" channel="cctv1">
         <title lang="zh">故事里的中国（第三季）-4</title>
     </programme>
-    <programme start="20220103213700" stop="20220103215200" channel="cctv1">
+    <programme start="20220103212800" stop="20220103213600" channel="cctv1">
+        <title lang="zh">故事里的中国（第三季）-故事里的故事4</title>
+    </programme>
+    <programme start="20220103213600" stop="20220103215200" channel="cctv1">
         <title lang="zh">综艺喜乐汇-2022-24领航-1</title>
     </programme>
     <programme start="20220103215200" stop="20220103220000" channel="cctv1">
@@ -461,25 +467,22 @@
     <programme start="20220103225500" stop="20220103235900" channel="cctv1">
         <title lang="zh">故事里的中国（第三季）-4</title>
     </programme>
-    <programme start="20220104003400" stop="20220104004600" channel="cctv1">
+    <programme start="20220104002800" stop="20220104004000" channel="cctv1">
         <title lang="zh">生活提示</title>
     </programme>
-    <programme start="20220104004600" stop="20220104011800" channel="cctv1">
+    <programme start="20220104004000" stop="20220104011200" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20220104011800" stop="20220104014700" channel="cctv1">
+    <programme start="20220104011200" stop="20220104014100" channel="cctv1">
         <title lang="zh">人与自然-2022-3</title>
     </programme>
-    <programme start="20220104014700" stop="20220104023200" channel="cctv1">
+    <programme start="20220104014100" stop="20220104022800" channel="cctv1">
         <title lang="zh">开讲啦-2021-41</title>
     </programme>
-    <programme start="20220104023200" stop="20220104024200" channel="cctv1">
-        <title lang="zh">精彩一刻-2020-191新航拍中国河北城郭</title>
+    <programme start="20220104022800" stop="20220104024800" channel="cctv1">
+        <title lang="zh">精彩一刻-2020-192新航拍中国河北各地</title>
     </programme>
-    <programme start="20220104024200" stop="20220104024900" channel="cctv1">
-        <title lang="zh">精彩一刻-2020-193新航拍中国河北发展</title>
-    </programme>
-    <programme start="20220104024900" stop="20220104030100" channel="cctv1">
+    <programme start="20220104024800" stop="20220104030100" channel="cctv1">
         <title lang="zh">精彩一刻-2020-194新航拍中国河北坝上</title>
     </programme>
     <programme start="20220104030100" stop="20220104042900" channel="cctv1">
