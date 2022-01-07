@@ -596,10 +596,10 @@
     <programme start="20220109220000" stop="20220109223400" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20220109223400" stop="20220109233400" channel="cctv1">
+    <programme start="20220109223400" stop="20220109233100" channel="cctv1">
         <title lang="zh">等着我-2022-1</title>
     </programme>
-    <programme start="20220109233400" stop="20220109235900" channel="cctv1">
+    <programme start="20220109233100" stop="20220109235900" channel="cctv1">
         <title lang="zh">开讲啦-2022-1</title>
     </programme>
     <programme start="20220107003100" stop="20220107013000" channel="cctv2">
@@ -1380,19 +1380,19 @@
         <title lang="zh">中国缘-2022-1</title>
     </programme>
     <programme start="20220108140000" stop="20220108144500" channel="cctv4">
-        <title lang="zh">大决战18/49</title>
+        <title lang="zh">大决战第18集</title>
     </programme>
     <programme start="20220108144500" stop="20220108152800" channel="cctv4">
-        <title lang="zh">大决战19/49</title>
+        <title lang="zh">大决战第19集</title>
     </programme>
     <programme start="20220108152800" stop="20220108161300" channel="cctv4">
-        <title lang="zh">大决战20/49</title>
+        <title lang="zh">大决战第20集</title>
     </programme>
     <programme start="20220108161300" stop="20220108165800" channel="cctv4">
-        <title lang="zh">大决战21/49</title>
+        <title lang="zh">大决战第21集</title>
     </programme>
     <programme start="20220108165800" stop="20220108174500" channel="cctv4">
-        <title lang="zh">大决战22/49</title>
+        <title lang="zh">大决战第22集</title>
     </programme>
     <programme start="20220108174500" stop="20220108180000" channel="cctv4">
         <title lang="zh">平凡匠心-2022-03</title>
@@ -3008,8 +3008,11 @@
     <programme start="20220109180400" stop="20220109190300" channel="cctvjilu">
         <title lang="zh">魅力万象2022-9</title>
     </programme>
-    <programme start="20220109190300" stop="20220109192300" channel="cctvjilu">
-        <title lang="zh">9视频2022-9</title>
+    <programme start="20220109190300" stop="20220109190800" channel="cctvjilu">
+        <title lang="zh">荟萃节目-史话新疆27</title>
+    </programme>
+    <programme start="20220109190800" stop="20220109192300" channel="cctvjilu">
+        <title lang="zh">荟萃节目-史话新疆28</title>
     </programme>
     <programme start="20220109192300" stop="20220109200100" channel="cctvjilu">
         <title lang="zh">活力·源2022-9</title>
@@ -4502,13 +4505,13 @@
     <programme start="20220109193000" stop="20220109210200" channel="cctv15">
         <title lang="zh">唱出我新声-3</title>
     </programme>
-    <programme start="20220109210200" stop="20220109223800" channel="cctv15">
+    <programme start="20220109210200" stop="20220109225000" channel="cctv15">
         <title lang="zh">2022年维也纳新年音乐会-编辑版</title>
     </programme>
-    <programme start="20220109223800" stop="20220109234700" channel="cctv15">
+    <programme start="20220109225000" stop="20220109235900" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2022-51-深圳交响乐团“海派民乐”协奏曲专场音乐会</title>
     </programme>
-    <programme start="20220109234700" stop="20220109235900" channel="cctv15">
+    <programme start="20220109235900" stop="20220109235900" channel="cctv15">
         <title lang="zh">经典-2022-9</title>
     </programme>
     <programme start="20220107000000" stop="20220107003200" channel="cctv17">
