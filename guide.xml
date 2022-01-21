@@ -320,25 +320,25 @@
     <programme start="20220121185200" stop="20220121190000" channel="cctv1">
         <title lang="zh">2022秘境之眼-15</title>
     </programme>
-    <programme start="20220121190000" stop="20220121194000" channel="cctv1">
+    <programme start="20220121190000" stop="20220121194500" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20220121194000" stop="20220121200100" channel="cctv1">
+    <programme start="20220121194500" stop="20220121200400" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20220121200100" stop="20220121200600" channel="cctv1">
+    <programme start="20220121200400" stop="20220121200800" channel="cctv1">
         <title lang="zh">前情提要- 《超越》第19集</title>
     </programme>
-    <programme start="20220121200600" stop="20220121205600" channel="cctv1">
+    <programme start="20220121200800" stop="20220121205900" channel="cctv1">
         <title lang="zh">超越第19集</title>
     </programme>
-    <programme start="20220121205600" stop="20220121205800" channel="cctv1">
+    <programme start="20220121205900" stop="20220121210000" channel="cctv1">
         <title lang="zh">前情提要- 《超越》第20集</title>
     </programme>
-    <programme start="20220121205800" stop="20220121215200" channel="cctv1">
+    <programme start="20220121210000" stop="20220121215300" channel="cctv1">
         <title lang="zh">超越第20集</title>
     </programme>
-    <programme start="20220121215200" stop="20220121220000" channel="cctv1">
+    <programme start="20220121215300" stop="20220121220000" channel="cctv1">
         <title lang="zh">2022秘境之眼-4</title>
     </programme>
     <programme start="20220121220000" stop="20220121223900" channel="cctv1">
@@ -365,13 +365,13 @@
     <programme start="20220122024000" stop="20220122025500" channel="cctv1">
         <title lang="zh">精彩一刻-2020-152新航拍中国第三季云南人居</title>
     </programme>
-    <programme start="20220122025500" stop="20220122042900" channel="cctv1">
+    <programme start="20220122025500" stop="20220122042400" channel="cctv1">
         <title lang="zh">典籍里的中国-5</title>
     </programme>
-    <programme start="20220122042900" stop="20220122045700" channel="cctv1">
+    <programme start="20220122042400" stop="20220122045200" channel="cctv1">
         <title lang="zh">今日说法-2022-21</title>
     </programme>
-    <programme start="20220122045700" stop="20220122052700" channel="cctv1">
+    <programme start="20220122045200" stop="20220122052700" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
     <programme start="20220122052700" stop="20220122060000" channel="cctv1">
@@ -431,16 +431,16 @@
     <programme start="20220122193900" stop="20220122200100" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20220122200100" stop="20220122200500" channel="cctv1">
+    <programme start="20220122200100" stop="20220122200600" channel="cctv1">
         <title lang="zh">前情提要- 《超越》第21集</title>
     </programme>
-    <programme start="20220122200500" stop="20220122205500" channel="cctv1">
+    <programme start="20220122200600" stop="20220122205500" channel="cctv1">
         <title lang="zh">超越21/29</title>
     </programme>
-    <programme start="20220122205500" stop="20220122210000" channel="cctv1">
+    <programme start="20220122205500" stop="20220122210100" channel="cctv1">
         <title lang="zh">前情提要-《超越》22/29</title>
     </programme>
-    <programme start="20220122210000" stop="20220122215100" channel="cctv1">
+    <programme start="20220122210100" stop="20220122215100" channel="cctv1">
         <title lang="zh">超越22/29</title>
     </programme>
     <programme start="20220122215100" stop="20220122220000" channel="cctv1">
@@ -1805,11 +1805,14 @@
     <programme start="20220122163000" stop="20220122180000" channel="cctv5plus">
         <title lang="zh">实况录像-2021/2022赛季中国男子篮球职业联赛 第二十五轮2</title>
     </programme>
-    <programme start="20220122180000" stop="20220122203500" channel="cctv5plus">
-        <title lang="zh">2022年澳大利亚网球公开赛-第三轮4</title>
+    <programme start="20220122180000" stop="20220122190000" channel="cctv5plus">
+        <title lang="zh">逐冰追雪（4K）</title>
     </programme>
-    <programme start="20220122203500" stop="20220122213500" channel="cctv5plus">
-        <title lang="zh">赛事集锦-逐冰追雪</title>
+    <programme start="20220122190000" stop="20220122212000" channel="cctv5plus">
+        <title lang="zh">2022年世界乒乓球职业大联盟（澳门国际乒乓球赛）-女单、男单1/4决赛等</title>
+    </programme>
+    <programme start="20220122212000" stop="20220122213500" channel="cctv5plus">
+        <title lang="zh">实况录像-2021/2022赛季单板滑雪世界杯美国斯蒂姆博特站 苏翊鸣夺冠</title>
     </programme>
     <programme start="20220122213500" stop="20220122230500" channel="cctv5plus">
         <title lang="zh">2021/2022赛季欧洲篮球联赛-常规赛38</title>
@@ -1856,17 +1859,20 @@
     <programme start="20220123163000" stop="20220123180000" channel="cctv5plus">
         <title lang="zh">2021/2022赛季欧洲篮球联赛-常规赛37</title>
     </programme>
-    <programme start="20220123180000" stop="20220123203500" channel="cctv5plus">
+    <programme start="20220123180000" stop="20220123193500" channel="cctv5plus">
         <title lang="zh">2022年澳大利亚网球公开赛-第四轮2</title>
     </programme>
-    <programme start="20220123203500" stop="20220123223500" channel="cctv5plus">
-        <title lang="zh">实况录像-2021/2022赛季雪上项目 中国队精选</title>
+    <programme start="20220123193500" stop="20220123214500" channel="cctv5plus">
+        <title lang="zh">2021/2022赛季中国男子篮球职业联赛-第26轮（九台农商银行—山西汾酒股份）</title>
     </programme>
-    <programme start="20220123223500" stop="20220123233500" channel="cctv5plus">
+    <programme start="20220123214500" stop="20220123224000" channel="cctv5plus">
+        <title lang="zh">逐冰追雪（4K）</title>
+    </programme>
+    <programme start="20220123224000" stop="20220123233500" channel="cctv5plus">
         <title lang="zh">实况录像-2021/2022赛季自由式滑雪世界杯美国鹿谷站 空中技巧</title>
     </programme>
     <programme start="20220123233500" stop="20220123235900" channel="cctv5plus">
-        <title lang="zh">实况录像（奥林匹克）-2021/2022赛季自由式滑雪世界杯美国猛犸山站 坡面障碍技巧</title>
+        <title lang="zh">实况录像（奥林匹克）-2021/2022赛季自由式滑雪世界杯美国猛犸山站 坡面障碍技巧(4K)</title>
     </programme>
     <programme start="20220121000300" stop="20220121015100" channel="cctv6">
         <title lang="zh">新步步惊心</title>
@@ -2123,37 +2129,37 @@
     <programme start="20220121182600" stop="20220121190000" channel="cctv7">
         <title lang="zh">国防故事-2021-200</title>
     </programme>
-    <programme start="20220121190000" stop="20220121193300" channel="cctv7">
+    <programme start="20220121190000" stop="20220121193800" channel="cctv7">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20220121193300" stop="20220121200300" channel="cctv7">
+    <programme start="20220121193800" stop="20220121200800" channel="cctv7">
         <title lang="zh">军事报道</title>
     </programme>
-    <programme start="20220121200300" stop="20220121205700" channel="cctv7">
+    <programme start="20220121200800" stop="20220121210200" channel="cctv7">
         <title lang="zh">改革时刻-4</title>
     </programme>
-    <programme start="20220121205700" stop="20220121213300" channel="cctv7">
+    <programme start="20220121210200" stop="20220121213800" channel="cctv7">
         <title lang="zh">防务新观察-2022-15</title>
     </programme>
-    <programme start="20220121213300" stop="20220121220700" channel="cctv7">
+    <programme start="20220121213800" stop="20220121221200" channel="cctv7">
         <title lang="zh">军事纪实-2022-15</title>
     </programme>
-    <programme start="20220121220700" stop="20220121224300" channel="cctv7">
+    <programme start="20220121221200" stop="20220121224800" channel="cctv7">
         <title lang="zh">国防科工-2022-3</title>
     </programme>
-    <programme start="20220121224300" stop="20220121233200" channel="cctv7">
+    <programme start="20220121224800" stop="20220121233700" channel="cctv7">
         <title lang="zh">隐秘而伟大16/51</title>
     </programme>
-    <programme start="20220121233200" stop="20220121235900" channel="cctv7">
+    <programme start="20220121233700" stop="20220121235900" channel="cctv7">
         <title lang="zh">隐秘而伟大17/51</title>
     </programme>
-    <programme start="20220122002300" stop="20220122005800" channel="cctv7">
+    <programme start="20220122002800" stop="20220122010300" channel="cctv7">
         <title lang="zh">军事纪实-2022-15</title>
     </programme>
-    <programme start="20220122005800" stop="20220122013600" channel="cctv7">
+    <programme start="20220122010300" stop="20220122014100" channel="cctv7">
         <title lang="zh">兵器面面观-2022-15</title>
     </programme>
-    <programme start="20220122013600" stop="20220122060300" channel="cctv7">
+    <programme start="20220122014100" stop="20220122060300" channel="cctv7">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20220122060300" stop="20220122063400" channel="cctv7">
