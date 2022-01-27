@@ -554,7 +554,10 @@
     <programme start="20220129200600" stop="20220129205700" channel="cctv1">
         <title lang="zh">人世间-（高清文件广告版）-3/58</title>
     </programme>
-    <programme start="20220129205700" stop="20220129210200" channel="cctv1">
+    <programme start="20220129205700" stop="20220129205900" channel="cctv1">
+        <title lang="zh">前情提要-《人世间》4/58</title>
+    </programme>
+    <programme start="20220129205900" stop="20220129210200" channel="cctv1">
         <title lang="zh">前情提要-《人世间》4/58</title>
     </programme>
     <programme start="20220129210200" stop="20220129215400" channel="cctv1">
@@ -1334,20 +1337,17 @@
     <programme start="20220128080000" stop="20220128090000" channel="cctv4">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme start="20220128090000" stop="20220128093000" channel="cctv4">
+    <programme start="20220128090000" stop="20220128092800" channel="cctv4">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme start="20220128093000" stop="20220128095900" channel="cctv4">
+    <programme start="20220128092800" stop="20220128100000" channel="cctv4">
         <title lang="zh">美食中国-2022-13</title>
     </programme>
-    <programme start="20220128095900" stop="20220128102900" channel="cctv4">
-        <title lang="zh">美食中国-2022-14</title>
-    </programme>
-    <programme start="20220128102900" stop="20220128110000" channel="cctv4">
-        <title lang="zh">美食中国-2022-15</title>
+    <programme start="20220128100000" stop="20220128110000" channel="cctv4">
+        <title lang="zh">2022年国新办发布会-8</title>
     </programme>
     <programme start="20220128110000" stop="20220128113000" channel="cctv4">
-        <title lang="zh">美食中国-2022-16</title>
+        <title lang="zh">美食中国-2022-14</title>
     </programme>
     <programme start="20220128113000" stop="20220128120000" channel="cctv4">
         <title lang="zh">海峡两岸-2022-27</title>
@@ -2928,7 +2928,7 @@
         <title lang="zh">活力·源2022-27</title>
     </programme>
     <programme start="20220127200100" stop="20220127210000" channel="cctvjilu">
-        <title lang="zh">特别呈现2022-27</title>
+        <title lang="zh">特别呈现2022-10</title>
     </programme>
     <programme start="20220127210000" stop="20220127220000" channel="cctvjilu">
         <title lang="zh">寰宇视野2022-27</title>
@@ -2955,7 +2955,7 @@
         <title lang="zh">9视频2022-27</title>
     </programme>
     <programme start="20220128034600" stop="20220128044600" channel="cctvjilu">
-        <title lang="zh">特别呈现2022-27</title>
+        <title lang="zh">特别呈现2022-10</title>
     </programme>
     <programme start="20220128044600" stop="20220128054600" channel="cctvjilu">
         <title lang="zh">故事中国2022-32</title>
@@ -4005,7 +4005,7 @@
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20220127110000" stop="20220127120000" channel="cctv13">
-        <title lang="zh">新闻直播间</title>
+        <title lang="zh">千家万户中国年</title>
     </programme>
     <programme start="20220127120000" stop="20220127123300" channel="cctv13">
         <title lang="zh">新闻30分</title>
@@ -4014,7 +4014,7 @@
         <title lang="zh">法治在线</title>
     </programme>
     <programme start="20220127130000" stop="20220127140000" channel="cctv13">
-        <title lang="zh">新闻直播间</title>
+        <title lang="zh">新闻直播间(一起向未来)</title>
     </programme>
     <programme start="20220127140000" stop="20220127150000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
