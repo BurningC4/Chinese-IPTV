@@ -596,14 +596,8 @@
     <programme start="20220131023800" stop="20220131033700" channel="cctv2">
         <title lang="zh">是真的吗-2022-5</title>
     </programme>
-    <programme start="20220131033700" stop="20220131033900" channel="cctv2">
+    <programme start="20220131033700" stop="20220131034300" channel="cctv2">
         <title lang="zh">周末特供2021-航拍中国第二季5-6分版</title>
-    </programme>
-    <programme start="20220131033900" stop="20220131034100" channel="cctv2">
-        <title lang="zh">消费主张</title>
-    </programme>
-    <programme start="20220131034100" stop="20220131034300" channel="cctv2">
-        <title lang="zh">消费主张</title>
     </programme>
     <programme start="20220131034300" stop="20220131051100" channel="cctv2">
         <title lang="zh">中国国宝大会-4</title>
@@ -3275,8 +3269,11 @@
     <programme start="20220201010200" stop="20220201015500" channel="cctv12">
         <title lang="zh">方圆剧阵2022-31</title>
     </programme>
-    <programme start="20220201015500" stop="20220201060300" channel="cctv12">
+    <programme start="20220201015500" stop="20220201022600" channel="cctv12">
         <title lang="zh">法律讲堂-2022-31</title>
+    </programme>
+    <programme start="20220201022600" stop="20220201060300" channel="cctv12">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20220201060300" stop="20220201065600" channel="cctv12">
         <title lang="zh">《航拍中国》第三季-《一同飞越》-2</title>
@@ -3760,6 +3757,9 @@
     </programme>
     <programme start="20220131200000" stop="20220131235900" channel="cctvchild">
         <title lang="zh">2022年春节联欢晚会-直播</title>
+    </programme>
+    <programme start="20220201003000" stop="20220201060000" channel="cctvchild">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20220201060000" stop="20220201073000" channel="cctvchild">
         <title lang="zh">动画大放映（早间版）-2022-22</title>
@@ -8530,6 +8530,327 @@
     </programme>
     <programme start="20220130200000" stop="20220130235900" channel="btvchild">
         <title lang="zh">动画片</title>
+    </programme>
+    <programme start="20220131040000" stop="20220131050000" channel="btvchild">
+        <title lang="zh">新大头儿子和小头爸爸之英雄梦</title>
+    </programme>
+    <programme start="20220131050000" stop="20220131060000" channel="btvchild">
+        <title lang="zh">新大头儿子和小头爸爸之英雄梦</title>
+    </programme>
+    <programme start="20220131060000" stop="20220131062100" channel="btvchild">
+        <title lang="zh">喜羊羊与灰太狼之运动英雄传(36)</title>
+    </programme>
+    <programme start="20220131062100" stop="20220131064200" channel="btvchild">
+        <title lang="zh">喜羊羊与灰太狼之运动英雄传(1)</title>
+    </programme>
+    <programme start="20220131064200" stop="20220131070500" channel="btvchild">
+        <title lang="zh">喜羊羊与灰太狼之运动英雄传(2)</title>
+    </programme>
+    <programme start="20220131070500" stop="20220131072600" channel="btvchild">
+        <title lang="zh">喜羊羊与灰太狼之运动英雄传(3)</title>
+    </programme>
+    <programme start="20220131072600" stop="20220131074900" channel="btvchild">
+        <title lang="zh">超级飞侠11(1)</title>
+    </programme>
+    <programme start="20220131074900" stop="20220131081400" channel="btvchild">
+        <title lang="zh">超级飞侠11(2)</title>
+    </programme>
+    <programme start="20220131081400" stop="20220131083900" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(1)</title>
+    </programme>
+    <programme start="20220131083900" stop="20220131090300" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(2)</title>
+    </programme>
+    <programme start="20220131090300" stop="20220131090900" channel="btvchild">
+        <title lang="zh">卡酷幼儿园</title>
+    </programme>
+    <programme start="20220131090900" stop="20220131093600" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(3)</title>
+    </programme>
+    <programme start="20220131093600" stop="20220131100300" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(4)</title>
+    </programme>
+    <programme start="20220131100300" stop="20220131103000" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(5)</title>
+    </programme>
+    <programme start="20220131103000" stop="20220131105700" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(6)</title>
+    </programme>
+    <programme start="20220131105700" stop="20220131112400" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(7)</title>
+    </programme>
+    <programme start="20220131112400" stop="20220131115100" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(8)</title>
+    </programme>
+    <programme start="20220131115100" stop="20220131121800" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(9)</title>
+    </programme>
+    <programme start="20220131121800" stop="20220131124400" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(10)</title>
+    </programme>
+    <programme start="20220131124400" stop="20220131131000" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(11)</title>
+    </programme>
+    <programme start="20220131131000" stop="20220131131200" channel="btvchild">
+        <title lang="zh">易烊千玺版MV</title>
+    </programme>
+    <programme start="20220131131200" stop="20220131133900" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(12)</title>
+    </programme>
+    <programme start="20220131133900" stop="20220131140500" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(13)</title>
+    </programme>
+    <programme start="20220131140500" stop="20220131143000" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(14)</title>
+    </programme>
+    <programme start="20220131143000" stop="20220131145600" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(15)</title>
+    </programme>
+    <programme start="20220131145600" stop="20220131152200" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(16)</title>
+    </programme>
+    <programme start="20220131152200" stop="20220131154900" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(17)</title>
+    </programme>
+    <programme start="20220131154900" stop="20220131161600" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(18)</title>
+    </programme>
+    <programme start="20220131161600" stop="20220131164300" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(19)</title>
+    </programme>
+    <programme start="20220131164300" stop="20220131170600" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(20)</title>
+    </programme>
+    <programme start="20220131170600" stop="20220131173300" channel="btvchild">
+        <title lang="zh">了不起的动画</title>
+    </programme>
+    <programme start="20220131173300" stop="20220131174000" channel="btvchild">
+        <title lang="zh">大玩家周间版(上)</title>
+    </programme>
+    <programme start="20220131174000" stop="20220131180200" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(1)</title>
+    </programme>
+    <programme start="20220131180200" stop="20220131182500" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(2)</title>
+    </programme>
+    <programme start="20220131182500" stop="20220131184800" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(3)</title>
+    </programme>
+    <programme start="20220131184800" stop="20220131191100" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(4)</title>
+    </programme>
+    <programme start="20220131191100" stop="20220131202700" channel="btvchild">
+        <title lang="zh">2022卡酷动画春晚</title>
+    </programme>
+    <programme start="20220131202700" stop="20220131203500" channel="btvchild">
+        <title lang="zh">大玩家周间版(下)</title>
+    </programme>
+    <programme start="20220131203500" stop="20220131211900" channel="btvchild">
+        <title lang="zh">卡卡牛剧场(下)</title>
+    </programme>
+    <programme start="20220131211900" stop="20220131214000" channel="btvchild">
+        <title lang="zh">冰雪冬奥村(3)</title>
+    </programme>
+    <programme start="20220131214000" stop="20220131220200" channel="btvchild">
+        <title lang="zh">喜羊羊与灰太狼之运动英雄传(12)</title>
+    </programme>
+    <programme start="20220131220200" stop="20220131222200" channel="btvchild">
+        <title lang="zh">喜羊羊与灰太狼之运动英雄传(13)</title>
+    </programme>
+    <programme start="20220131222200" stop="20220131222500" channel="btvchild">
+        <title lang="zh">易烊千玺版MV</title>
+    </programme>
+    <programme start="20220131222500" stop="20220131224500" channel="btvchild">
+        <title lang="zh">喜羊羊与灰太狼之运动英雄传(14)</title>
+    </programme>
+    <programme start="20220131224500" stop="20220131230600" channel="btvchild">
+        <title lang="zh">喜羊羊与灰太狼之运动英雄传(15)</title>
+    </programme>
+    <programme start="20220131230600" stop="20220131232600" channel="btvchild">
+        <title lang="zh">喜羊羊与灰太狼之运动英雄传(16)</title>
+    </programme>
+    <programme start="20220131232600" stop="20220131234700" channel="btvchild">
+        <title lang="zh">喜羊羊与灰太狼之运动英雄传(17)</title>
+    </programme>
+    <programme start="20220131234700" stop="20220131235900" channel="btvchild">
+        <title lang="zh">喜羊羊与灰太狼之运动英雄传(18)</title>
+    </programme>
+    <programme start="20220131235900" stop="20220131235900" channel="btvchild">
+        <title lang="zh">结束</title>
+    </programme>
+    <programme start="20220201000000" stop="20220201000700" channel="btvchild">
+        <title lang="zh">喜羊羊与灰太狼之运动英雄传(18)</title>
+    </programme>
+    <programme start="20220201000700" stop="20220201001000" channel="btvchild">
+        <title lang="zh">一起向未来易烊千玺版MV</title>
+    </programme>
+    <programme start="20220201001000" stop="20220201003000" channel="btvchild">
+        <title lang="zh">猪猪侠之深海小英雄4(1)</title>
+    </programme>
+    <programme start="20220201003000" stop="20220201005000" channel="btvchild">
+        <title lang="zh">猪猪侠之深海小英雄4(2)</title>
+    </programme>
+    <programme start="20220201005000" stop="20220201011000" channel="btvchild">
+        <title lang="zh">猪猪侠之深海小英雄4(3)</title>
+    </programme>
+    <programme start="20220201011000" stop="20220201013000" channel="btvchild">
+        <title lang="zh">猪猪侠之深海小英雄4(4)</title>
+    </programme>
+    <programme start="20220201013000" stop="20220201015000" channel="btvchild">
+        <title lang="zh">猪猪侠之深海小英雄4(5)</title>
+    </programme>
+    <programme start="20220201015000" stop="20220201021000" channel="btvchild">
+        <title lang="zh">猪猪侠之深海小英雄4(6)</title>
+    </programme>
+    <programme start="20220201021000" stop="20220201031000" channel="btvchild">
+        <title lang="zh">新大头儿子和小头爸爸之英雄梦</title>
+    </programme>
+    <programme start="20220201031000" stop="20220201031500" channel="btvchild">
+        <title lang="zh">第九批中国梦MV:中国时代</title>
+    </programme>
+    <programme start="20220201031500" stop="20220201043500" channel="btvchild">
+        <title lang="zh">新大头儿子和小头爸爸之英雄梦</title>
+    </programme>
+    <programme start="20220201043500" stop="20220201044000" channel="btvchild">
+        <title lang="zh">第九批中国梦MV:阿秀</title>
+    </programme>
+    <programme start="20220201044000" stop="20220201050000" channel="btvchild">
+        <title lang="zh">熊熊乐园3(17)</title>
+    </programme>
+    <programme start="20220201050000" stop="20220201052000" channel="btvchild">
+        <title lang="zh">熊熊乐园3(18)</title>
+    </programme>
+    <programme start="20220201052000" stop="20220201054000" channel="btvchild">
+        <title lang="zh">熊熊乐园3(19)</title>
+    </programme>
+    <programme start="20220201054000" stop="20220201060000" channel="btvchild">
+        <title lang="zh">熊熊乐园3(20)</title>
+    </programme>
+    <programme start="20220201060000" stop="20220201062100" channel="btvchild">
+        <title lang="zh">喜羊羊与灰太狼之运动英雄传(3)</title>
+    </programme>
+    <programme start="20220201062100" stop="20220201064200" channel="btvchild">
+        <title lang="zh">喜羊羊与灰太狼之运动英雄传(4)</title>
+    </programme>
+    <programme start="20220201064200" stop="20220201070500" channel="btvchild">
+        <title lang="zh">喜羊羊与灰太狼之运动英雄传(5)</title>
+    </programme>
+    <programme start="20220201070500" stop="20220201072600" channel="btvchild">
+        <title lang="zh">喜羊羊与灰太狼之运动英雄传(6)</title>
+    </programme>
+    <programme start="20220201072600" stop="20220201074900" channel="btvchild">
+        <title lang="zh">超级飞侠11(3)</title>
+    </programme>
+    <programme start="20220201074900" stop="20220201081400" channel="btvchild">
+        <title lang="zh">超级飞侠11(4)</title>
+    </programme>
+    <programme start="20220201081400" stop="20220201083800" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(21)</title>
+    </programme>
+    <programme start="20220201083800" stop="20220201090300" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(22)</title>
+    </programme>
+    <programme start="20220201090300" stop="20220201090900" channel="btvchild">
+        <title lang="zh">卡酷幼儿园</title>
+    </programme>
+    <programme start="20220201090900" stop="20220201093600" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(23)</title>
+    </programme>
+    <programme start="20220201093600" stop="20220201100300" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(24)</title>
+    </programme>
+    <programme start="20220201100300" stop="20220201103000" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(25)</title>
+    </programme>
+    <programme start="20220201103000" stop="20220201105700" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(26)</title>
+    </programme>
+    <programme start="20220201105700" stop="20220201112300" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(1)</title>
+    </programme>
+    <programme start="20220201112300" stop="20220201125400" channel="btvchild">
+        <title lang="zh">2022卡酷动画春晚</title>
+    </programme>
+    <programme start="20220201125400" stop="20220201132000" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(2)</title>
+    </programme>
+    <programme start="20220201132000" stop="20220201132200" channel="btvchild">
+        <title lang="zh">一起向未来易烊千玺版MV</title>
+    </programme>
+    <programme start="20220201132200" stop="20220201134800" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(3)</title>
+    </programme>
+    <programme start="20220201134800" stop="20220201141400" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(4)</title>
+    </programme>
+    <programme start="20220201141400" stop="20220201144000" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(5)</title>
+    </programme>
+    <programme start="20220201144000" stop="20220201150500" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(6)</title>
+    </programme>
+    <programme start="20220201150500" stop="20220201153100" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(7)</title>
+    </programme>
+    <programme start="20220201153100" stop="20220201155800" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(8)</title>
+    </programme>
+    <programme start="20220201155800" stop="20220201162500" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(9)</title>
+    </programme>
+    <programme start="20220201162500" stop="20220201165200" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(10)</title>
+    </programme>
+    <programme start="20220201165200" stop="20220201171500" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(11)</title>
+    </programme>
+    <programme start="20220201171500" stop="20220201174200" channel="btvchild">
+        <title lang="zh">了不起的动画</title>
+    </programme>
+    <programme start="20220201174200" stop="20220201174900" channel="btvchild">
+        <title lang="zh">大玩家周间版(上)</title>
+    </programme>
+    <programme start="20220201174900" stop="20220201181200" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(7)</title>
+    </programme>
+    <programme start="20220201181200" stop="20220201183500" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(8)</title>
+    </programme>
+    <programme start="20220201183500" stop="20220201185800" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(9)</title>
+    </programme>
+    <programme start="20220201185800" stop="20220201192100" channel="btvchild">
+        <title lang="zh">熊熊帮帮团(10)</title>
+    </programme>
+    <programme start="20220201192100" stop="20220201202200" channel="btvchild">
+        <title lang="zh">卡卡牛剧场(上)</title>
+    </programme>
+    <programme start="20220201202200" stop="20220201203000" channel="btvchild">
+        <title lang="zh">大玩家周间版(下)</title>
+    </programme>
+    <programme start="20220201203000" stop="20220201211300" channel="btvchild">
+        <title lang="zh">卡卡牛剧场(下)</title>
+    </programme>
+    <programme start="20220201211300" stop="20220201213400" channel="btvchild">
+        <title lang="zh">冰雪冬奥村(4)</title>
+    </programme>
+    <programme start="20220201213400" stop="20220201215600" channel="btvchild">
+        <title lang="zh">喜羊羊与灰太狼之运动英雄传(19)</title>
+    </programme>
+    <programme start="20220201215600" stop="20220201221600" channel="btvchild">
+        <title lang="zh">喜羊羊与灰太狼之运动英雄传(20)</title>
+    </programme>
+    <programme start="20220201221600" stop="20220201221900" channel="btvchild">
+        <title lang="zh">一起向未来易烊千玺版MV</title>
+    </programme>
+    <programme start="20220201221900" stop="20220201233000" channel="btvchild">
+        <title lang="zh">2022卡酷动画春晚</title>
+    </programme>
+    <programme start="20220201233000" stop="20220201235100" channel="btvchild">
+        <title lang="zh">喜羊羊与灰太狼之运动英雄传(21)</title>
+    </programme>
+    <programme start="20220201235100" stop="20220201235900" channel="btvchild">
+        <title lang="zh">喜羊羊与灰太狼之运动英雄传(22)</title>
     </programme>
     <programme start="20220130000000" stop="20220130005300" channel="sdetv">
         <title lang="zh">等着我</title>
