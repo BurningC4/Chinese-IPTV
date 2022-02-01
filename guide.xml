@@ -353,13 +353,13 @@
     <programme start="20220202060000" stop="20220202083900" channel="cctv1">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme start="20220202083900" stop="20220202093500" channel="cctv1">
+    <programme start="20220202083900" stop="20220202085900" channel="cctv1">
+        <title lang="zh">美术经典中的党史-65</title>
+    </programme>
+    <programme start="20220202085900" stop="20220202095600" channel="cctv1">
         <title lang="zh">2022新春相声大会-1</title>
     </programme>
-    <programme start="20220202093500" stop="20220202094700" channel="cctv1">
-        <title lang="zh">奥秘无穷-2022-3</title>
-    </programme>
-    <programme start="20220202094700" stop="20220202115400" channel="cctv1">
+    <programme start="20220202095600" stop="20220202115400" channel="cctv1">
         <title lang="zh">2022年春节联欢晚会-语言节目集锦</title>
     </programme>
     <programme start="20220202115400" stop="20220202120000" channel="cctv1">
@@ -371,8 +371,11 @@
     <programme start="20220202123800" stop="20220202172700" channel="cctv1">
         <title lang="zh">2022年春节联欢晚会-重播</title>
     </programme>
-    <programme start="20220202172700" stop="20220202174400" channel="cctv1">
-        <title lang="zh">美术经典中的党史-65</title>
+    <programme start="20220202172700" stop="20220202173200" channel="cctv1">
+        <title lang="zh">综艺喜乐汇-2022-105</title>
+    </programme>
+    <programme start="20220202173200" stop="20220202174400" channel="cctv1">
+        <title lang="zh">奥秘无穷-2022-3</title>
     </programme>
     <programme start="20220202174400" stop="20220202175400" channel="cctv1">
         <title lang="zh">体坛英豪（冬奥版）-36</title>
@@ -440,10 +443,13 @@
     <programme start="20220203053000" stop="20220203060000" channel="cctv1">
         <title lang="zh">人与自然-2021-330</title>
     </programme>
-    <programme start="20220203060000" stop="20220203084200" channel="cctv1">
+    <programme start="20220203060000" stop="20220203083700" channel="cctv1">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme start="20220203084200" stop="20220203105700" channel="cctv1">
+    <programme start="20220203083700" stop="20220203085300" channel="cctv1">
+        <title lang="zh">奥秘无穷-2021-5</title>
+    </programme>
+    <programme start="20220203085300" stop="20220203105700" channel="cctv1">
         <title lang="zh">2022年春节联欢晚会-语言节目集锦</title>
     </programme>
     <programme start="20220203105700" stop="20220203115400" channel="cctv1">
@@ -455,16 +461,16 @@
     <programme start="20220203120000" stop="20220203124500" channel="cctv1">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme start="20220203124500" stop="20220203135500" channel="cctv1">
+    <programme start="20220203124500" stop="20220203135200" channel="cctv1">
         <title lang="zh">军营大拜年2022-1</title>
     </programme>
-    <programme start="20220203135500" stop="20220203140200" channel="cctv1">
+    <programme start="20220203135200" stop="20220203140000" channel="cctv1">
         <title lang="zh">体坛英豪（冬奥版）-37</title>
     </programme>
-    <programme start="20220203140200" stop="20220203140700" channel="cctv1">
-        <title lang="zh">2022秘境之眼-31</title>
+    <programme start="20220203140000" stop="20220203140500" channel="cctv1">
+        <title lang="zh">综艺喜乐汇-2022-105</title>
     </programme>
-    <programme start="20220203140700" stop="20220203190000" channel="cctv1">
+    <programme start="20220203140500" stop="20220203190000" channel="cctv1">
         <title lang="zh">2022年春节联欢晚会-重播</title>
     </programme>
     <programme start="20220203190000" stop="20220203194000" channel="cctv1">
@@ -770,13 +776,16 @@
     <programme start="20220202032600" stop="20220202040900" channel="cctv3">
         <title lang="zh">2022新春相声大会-1</title>
     </programme>
-    <programme start="20220202040900" stop="20220202050400" channel="cctv3">
-        <title lang="zh">2022年春节联欢晚会-直送（初一）</title>
+    <programme start="20220202040900" stop="20220202050000" channel="cctv3">
+        <title lang="zh">非常6+1-2022-1</title>
     </programme>
-    <programme start="20220202050400" stop="20220202063100" channel="cctv3">
-        <title lang="zh">2022年春节联欢晚会-重播</title>
+    <programme start="20220202050000" stop="20220202051000" channel="cctv3">
+        <title lang="zh">中国文艺报道-2022-31</title>
     </programme>
-    <programme start="20220202063100" stop="20220202064100" channel="cctv3">
+    <programme start="20220202051000" stop="20220202062900" channel="cctv3">
+        <title lang="zh">开门大吉2022-4</title>
+    </programme>
+    <programme start="20220202062900" stop="20220202064100" channel="cctv3">
         <title lang="zh">文化十分-2022-22</title>
     </programme>
     <programme start="20220202064100" stop="20220202074700" channel="cctv3">
@@ -1091,11 +1100,11 @@
     <programme start="20220203120000" stop="20220203130000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20220203130000" stop="20220203144400" channel="cctv4">
+    <programme start="20220203130000" stop="20220203144600" channel="cctv4">
         <title lang="zh">2022年春节联欢晚会-重播</title>
     </programme>
-    <programme start="20220203144400" stop="20220203150400" channel="cctv4">
-        <title lang="zh">记住乡愁2018片段展播-100</title>
+    <programme start="20220203144600" stop="20220203150400" channel="cctv4">
+        <title lang="zh">寻找两岸文化传人-传承-碎片7分钟版1</title>
     </programme>
     <programme start="20220203150400" stop="20220203155000" channel="cctv4">
         <title lang="zh">灵与肉-（四套）-6/42</title>
@@ -4139,17 +4148,17 @@
     <programme start="20220202010400" stop="20220202014700" channel="cctv17">
         <title lang="zh">谁知盘中餐-2022-25</title>
     </programme>
-    <programme start="20220202014700" stop="20220202060000" channel="cctv17">
+    <programme start="20220202014700" stop="20220202055400" channel="cctv17">
         <title lang="zh">再见</title>
     </programme>
-    <programme start="20220202060000" stop="20220202070000" channel="cctv17">
+    <programme start="20220202055400" stop="20220202064800" channel="cctv17">
         <title lang="zh">乡聚中国年-农人篇2022-1</title>
     </programme>
-    <programme start="20220202070000" stop="20220202114200" channel="cctv17">
+    <programme start="20220202064800" stop="20220202113300" channel="cctv17">
         <title lang="zh">2022年春节联欢晚会-重播</title>
     </programme>
-    <programme start="20220202114200" stop="20220202120000" channel="cctv17">
-        <title lang="zh">2022年春节联欢晚会-重播</title>
+    <programme start="20220202113300" stop="20220202120000" channel="cctv17">
+        <title lang="zh">谁知盘中餐-2022-25</title>
     </programme>
     <programme start="20220202120000" stop="20220202123000" channel="cctv17">
         <title lang="zh">中国三农报道</title>
@@ -4157,11 +4166,11 @@
     <programme start="20220202123000" stop="20220202143000" channel="cctv17">
         <title lang="zh">虎虎生“味”团圆饭-1</title>
     </programme>
-    <programme start="20220202143000" stop="20220202163000" channel="cctv17">
+    <programme start="20220202143000" stop="20220202163300" channel="cctv17">
         <title lang="zh">2022年春节联欢晚会-语言节目集锦</title>
     </programme>
-    <programme start="20220202163000" stop="20220202170000" channel="cctv17">
-        <title lang="zh">2022年春节联欢晚会-语言节目集锦</title>
+    <programme start="20220202163300" stop="20220202170000" channel="cctv17">
+        <title lang="zh">谁知盘中餐-2022-25</title>
     </programme>
     <programme start="20220202170000" stop="20220202180000" channel="cctv17">
         <title lang="zh">乡聚中国年-农人篇2022-2</title>
@@ -4211,13 +4220,13 @@
     <programme start="20220203070000" stop="20220203073000" channel="cctv17">
         <title lang="zh">中国三农报道</title>
     </programme>
-    <programme start="20220203073000" stop="20220203093000" channel="cctv17">
+    <programme start="20220203073000" stop="20220203075600" channel="cctv17">
+        <title lang="zh">谁知盘中餐-2022-26</title>
+    </programme>
+    <programme start="20220203075600" stop="20220203095500" channel="cctv17">
         <title lang="zh">2022年春节联欢晚会-语言节目集锦</title>
     </programme>
-    <programme start="20220203093000" stop="20220203095600" channel="cctv17">
-        <title lang="zh">2022年春节联欢晚会-语言节目集锦</title>
-    </programme>
-    <programme start="20220203095600" stop="20220203100000" channel="cctv17">
+    <programme start="20220203095500" stop="20220203100000" channel="cctv17">
         <title lang="zh">农业气象</title>
     </programme>
     <programme start="20220203100000" stop="20220203113000" channel="cctv17">
