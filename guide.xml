@@ -674,8 +674,11 @@
     <programme start="20220204090300" stop="20220204134800" channel="cctv2">
         <title lang="zh">2022年春节联欢晚会-重播</title>
     </programme>
-    <programme start="20220204134800" stop="20220204141100" channel="cctv2">
+    <programme start="20220204134800" stop="20220204134900" channel="cctv2">
         <title lang="zh">周末特供2022-24</title>
+    </programme>
+    <programme start="20220204134900" stop="20220204141100" channel="cctv2">
+        <title lang="zh">周末特供2021-1330</title>
     </programme>
     <programme start="20220204141100" stop="20220204143300" channel="cctv2">
         <title lang="zh">2021精品财经纪录-千年陕菜-3</title>
@@ -1046,16 +1049,10 @@
     <programme start="20220203080000" stop="20220203090000" channel="cctv4">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme start="20220203090000" stop="20220203120000" channel="cctv4">
+    <programme start="20220203090000" stop="20220203144800" channel="cctv4">
         <title lang="zh">2022年春节联欢晚会-重播</title>
     </programme>
-    <programme start="20220203120000" stop="20220203130000" channel="cctv4">
-        <title lang="zh">中国新闻</title>
-    </programme>
-    <programme start="20220203130000" stop="20220203144600" channel="cctv4">
-        <title lang="zh">2022年春节联欢晚会-重播</title>
-    </programme>
-    <programme start="20220203144600" stop="20220203150400" channel="cctv4">
+    <programme start="20220203144800" stop="20220203150400" channel="cctv4">
         <title lang="zh">寻找两岸文化传人-传承-碎片7分钟版1</title>
     </programme>
     <programme start="20220203150400" stop="20220203155000" channel="cctv4">
@@ -4031,16 +4028,19 @@
     <programme start="20220203223800" stop="20220203224500" channel="cctv15">
         <title lang="zh">综艺喜乐汇-2022-106</title>
     </programme>
-    <programme start="20220203224500" stop="20220203235200" channel="cctv15">
+    <programme start="20220203224500" stop="20220203234800" channel="cctv15">
         <title lang="zh">全球中文音乐榜上榜-2022年度盛典精编2</title>
     </programme>
-    <programme start="20220203235200" stop="20220203235900" channel="cctv15">
+    <programme start="20220203234800" stop="20220203235900" channel="cctv15">
+        <title lang="zh">全球百位音乐家共奏《春节序曲》-2022-1</title>
+    </programme>
+    <programme start="20220203235900" stop="20220203235900" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2022-62-喜“乐”迎春专场音乐会（四）</title>
     </programme>
-    <programme start="20220204003700" stop="20220204020900" channel="cctv15">
+    <programme start="20220204004400" stop="20220204021600" channel="cctv15">
         <title lang="zh">精彩音乐汇-2022-31</title>
     </programme>
-    <programme start="20220204020900" stop="20220204060000" channel="cctv15">
+    <programme start="20220204021600" stop="20220204060000" channel="cctv15">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20220204060000" stop="20220204063200" channel="cctv15">
@@ -4119,6 +4119,9 @@
         <title lang="zh">全球中文音乐榜上榜-2022年度盛典精编3</title>
     </programme>
     <programme start="20220204235100" stop="20220204235900" channel="cctv15">
+        <title lang="zh">全球百位音乐家共奏《溜冰圆舞曲》-2022-2</title>
+    </programme>
+    <programme start="20220204235900" stop="20220204235900" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2022-28-漫步经典（28）</title>
     </programme>
     <programme start="20220202000400" stop="20220202010400" channel="cctv17">
