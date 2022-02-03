@@ -353,17 +353,17 @@
     <programme start="20220204060000" stop="20220204083100" channel="cctv1">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme start="20220204083100" stop="20220204135500" channel="cctv1">
+    <programme start="20220204083100" stop="20220204135600" channel="cctv1">
         <title lang="zh">2022年春节联欢晚会-重播</title>
     </programme>
-    <programme start="20220204135500" stop="20220204163300" channel="cctv1">
-        <title lang="zh">古韵新春-精编</title>
+    <programme start="20220204135600" stop="20220204141200" channel="cctv1">
+        <title lang="zh">奥秘无穷-2022-5</title>
     </programme>
-    <programme start="20220204163300" stop="20220204164500" channel="cctv1">
-        <title lang="zh">奥秘无穷-2022-4</title>
-    </programme>
-    <programme start="20220204164500" stop="20220204170000" channel="cctv1">
+    <programme start="20220204141200" stop="20220204142900" channel="cctv1">
         <title lang="zh">体坛英豪（冬奥版）-38</title>
+    </programme>
+    <programme start="20220204142900" stop="20220204170000" channel="cctv1">
+        <title lang="zh">古韵新春-精编</title>
     </programme>
     <programme start="20220204170000" stop="20220204190000" channel="cctv1">
         <title lang="zh">新闻直播间</title>
@@ -395,11 +395,8 @@
     <programme start="20220205015700" stop="20220205022900" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20220205022900" stop="20220205023900" channel="cctv1">
-        <title lang="zh">奥秘无穷-2021-6</title>
-    </programme>
-    <programme start="20220205023900" stop="20220205024400" channel="cctv1">
-        <title lang="zh">体坛英豪（冬奥版）-38</title>
+    <programme start="20220205022900" stop="20220205024400" channel="cctv1">
+        <title lang="zh">美术经典中的党史-65</title>
     </programme>
     <programme start="20220205024400" stop="20220205025900" channel="cctv1">
         <title lang="zh">精彩一刻-2020-183新航拍中国第三季吉林交通</title>
@@ -3401,22 +3398,25 @@
     <programme start="20220203180000" stop="20220203190000" channel="cctv13">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme start="20220203190000" stop="20220203194700" channel="cctv13">
+    <programme start="20220203190000" stop="20220203194500" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20220203194700" stop="20220203200500" channel="cctv13">
+    <programme start="20220203194500" stop="20220203200200" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20220203200500" stop="20220203210000" channel="cctv13">
+    <programme start="20220203200200" stop="20220203204300" channel="cctv13">
+        <title lang="zh">冰雪之约-3</title>
+    </programme>
+    <programme start="20220203204300" stop="20220203210000" channel="cctv13">
         <title lang="zh">东方时空</title>
     </programme>
-    <programme start="20220203210000" stop="20220203213000" channel="cctv13">
+    <programme start="20220203210000" stop="20220203213500" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20220203213000" stop="20220203220000" channel="cctv13">
+    <programme start="20220203213500" stop="20220203221000" channel="cctv13">
         <title lang="zh">吾国吾家-第三集</title>
     </programme>
-    <programme start="20220203220000" stop="20220203223000" channel="cctv13">
+    <programme start="20220203221000" stop="20220203223000" channel="cctv13">
         <title lang="zh">国际时讯</title>
     </programme>
     <programme start="20220203223000" stop="20220203230000" channel="cctv13">
@@ -3437,10 +3437,10 @@
     <programme start="20220204013600" stop="20220204020000" channel="cctv13">
         <title lang="zh">法治在线</title>
     </programme>
-    <programme start="20220204020000" stop="20220204023300" channel="cctv13">
+    <programme start="20220204020000" stop="20220204023700" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20220204023300" stop="20220204030000" channel="cctv13">
+    <programme start="20220204023700" stop="20220204030000" channel="cctv13">
         <title lang="zh">吾国吾家-第三集（重播）</title>
     </programme>
     <programme start="20220204030000" stop="20220204034400" channel="cctv13">
