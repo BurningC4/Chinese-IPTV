@@ -293,22 +293,22 @@
     <programme start="20220203140300" stop="20220203190000" channel="cctv1">
         <title lang="zh">2022年春节联欢晚会-重播</title>
     </programme>
-    <programme start="20220203190000" stop="20220203194000" channel="cctv1">
+    <programme start="20220203190000" stop="20220203194500" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20220203194000" stop="20220203200100" channel="cctv1">
+    <programme start="20220203194500" stop="20220203200500" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20220203200100" stop="20220203200600" channel="cctv1">
+    <programme start="20220203200500" stop="20220203200900" channel="cctv1">
         <title lang="zh">前情提要- 《人世间》第11集</title>
     </programme>
-    <programme start="20220203200600" stop="20220203205900" channel="cctv1">
+    <programme start="20220203200900" stop="20220203210000" channel="cctv1">
         <title lang="zh">人世间-（高清文件首播版）-第11集</title>
     </programme>
-    <programme start="20220203205900" stop="20220203210400" channel="cctv1">
+    <programme start="20220203210000" stop="20220203210500" channel="cctv1">
         <title lang="zh">前情提要- 《人世间》第12集</title>
     </programme>
-    <programme start="20220203210400" stop="20220203215300" channel="cctv1">
+    <programme start="20220203210500" stop="20220203215300" channel="cctv1">
         <title lang="zh">人世间-（高清文件首播版）-第12集</title>
     </programme>
     <programme start="20220203215300" stop="20220203220000" channel="cctv1">
@@ -338,13 +338,13 @@
     <programme start="20220204024900" stop="20220204025900" channel="cctv1">
         <title lang="zh">精彩一刻-2020-161新航拍中国第三季贵州民俗</title>
     </programme>
-    <programme start="20220204025900" stop="20220204042900" channel="cctv1">
+    <programme start="20220204025900" stop="20220204042400" channel="cctv1">
         <title lang="zh">新春的交响春节及元宵特别节目-2022-3</title>
     </programme>
-    <programme start="20220204042900" stop="20220204050000" channel="cctv1">
+    <programme start="20220204042400" stop="20220204045500" channel="cctv1">
         <title lang="zh">动物世界-2022-23</title>
     </programme>
-    <programme start="20220204050000" stop="20220204053000" channel="cctv1">
+    <programme start="20220204045500" stop="20220204053000" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
     <programme start="20220204053000" stop="20220204060000" channel="cctv1">
@@ -1253,8 +1253,14 @@
     <programme start="20220203172500" stop="20220203175500" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20220203175500" stop="20220203215000" channel="cctv5">
+    <programme start="20220203175500" stop="20220203190000" channel="cctv5">
         <title lang="zh">北京冬奥会-自由式滑雪女子雪上技巧资格赛等</title>
+    </programme>
+    <programme start="20220203190000" stop="20220203200000" channel="cctv5">
+        <title lang="zh">录像-冬奥女子冰球小组赛 捷克-中国</title>
+    </programme>
+    <programme start="20220203200000" stop="20220203215000" channel="cctv5">
+        <title lang="zh">直播：冰壶混双小组赛 中国-瑞典</title>
     </programme>
     <programme start="20220203215000" stop="20220203225500" channel="cctv5">
         <title lang="zh">体育世界-(含火炬传递特别节目)</title>
@@ -1676,34 +1682,34 @@
     <programme start="20220203180600" stop="20220203190000" channel="cctv7">
         <title lang="zh">今天我当“兵”(第二季)-4</title>
     </programme>
-    <programme start="20220203190000" stop="20220203193300" channel="cctv7">
+    <programme start="20220203190000" stop="20220203193800" channel="cctv7">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20220203193300" stop="20220203200300" channel="cctv7">
+    <programme start="20220203193800" stop="20220203200800" channel="cctv7">
         <title lang="zh">军事报道</title>
     </programme>
-    <programme start="20220203200300" stop="20220203201000" channel="cctv7">
+    <programme start="20220203200800" stop="20220203201500" channel="cctv7">
         <title lang="zh">国防微视频-军歌嘹亮-假如</title>
     </programme>
-    <programme start="20220203201000" stop="20220203204600" channel="cctv7">
+    <programme start="20220203201500" stop="20220203205100" channel="cctv7">
         <title lang="zh">防务新观察-2022-23</title>
     </programme>
-    <programme start="20220203204600" stop="20220203215600" channel="cctv7">
+    <programme start="20220203205100" stop="20220203220100" channel="cctv7">
         <title lang="zh">军营大拜年2022-3</title>
     </programme>
-    <programme start="20220203215600" stop="20220203223000" channel="cctv7">
+    <programme start="20220203220100" stop="20220203223500" channel="cctv7">
         <title lang="zh">山河铭刻-3</title>
     </programme>
-    <programme start="20220203223000" stop="20220203232100" channel="cctv7">
+    <programme start="20220203223500" stop="20220203232600" channel="cctv7">
         <title lang="zh">隐秘而伟大38/51</title>
     </programme>
-    <programme start="20220203232100" stop="20220203235900" channel="cctv7">
+    <programme start="20220203232600" stop="20220203235900" channel="cctv7">
         <title lang="zh">隐秘而伟大39/51</title>
     </programme>
-    <programme start="20220204001100" stop="20220204002700" channel="cctv7">
+    <programme start="20220204001600" stop="20220204003200" channel="cctv7">
         <title lang="zh">国防微视频-军歌嘹亮-前进吧 陆战队士兵</title>
     </programme>
-    <programme start="20220204002700" stop="20220204060300" channel="cctv7">
+    <programme start="20220204003200" stop="20220204060300" channel="cctv7">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20220204060300" stop="20220204063400" channel="cctv7">
