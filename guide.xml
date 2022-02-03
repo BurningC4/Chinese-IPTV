@@ -323,22 +323,22 @@
     <programme start="20220204001800" stop="20220204004400" channel="cctv1">
         <title lang="zh">人口-2022-5</title>
     </programme>
-    <programme start="20220204004400" stop="20220204011700" channel="cctv1">
+    <programme start="20220204004400" stop="20220204011500" channel="cctv1">
         <title lang="zh">动物世界-2022-23</title>
     </programme>
-    <programme start="20220204011700" stop="20220204014900" channel="cctv1">
+    <programme start="20220204011500" stop="20220204014500" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20220204014900" stop="20220204023900" channel="cctv1">
+    <programme start="20220204014500" stop="20220204023500" channel="cctv1">
         <title lang="zh">2022新春相声大会-1</title>
     </programme>
-    <programme start="20220204023900" stop="20220204024900" channel="cctv1">
+    <programme start="20220204023500" stop="20220204024500" channel="cctv1">
         <title lang="zh">奥秘无穷-2022-5</title>
     </programme>
-    <programme start="20220204024900" stop="20220204025900" channel="cctv1">
+    <programme start="20220204024500" stop="20220204025400" channel="cctv1">
         <title lang="zh">精彩一刻-2020-161新航拍中国第三季贵州民俗</title>
     </programme>
-    <programme start="20220204025900" stop="20220204042400" channel="cctv1">
+    <programme start="20220204025400" stop="20220204042400" channel="cctv1">
         <title lang="zh">新春的交响春节及元宵特别节目-2022-3</title>
     </programme>
     <programme start="20220204042400" stop="20220204045500" channel="cctv1">
@@ -1289,25 +1289,31 @@
     <programme start="20220204073000" stop="20220204080000" channel="cctv5">
         <title lang="zh">健身动起来</title>
     </programme>
-    <programme start="20220204080000" stop="20220204090000" channel="cctv5">
+    <programme start="20220204080000" stop="20220204095500" channel="cctv5">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 冰壶混双循环赛 澳大利亚队-中国队（4K）</title>
     </programme>
-    <programme start="20220204090000" stop="20220204125500" channel="cctv5">
-        <title lang="zh">北京冬奥会-花样滑冰团体男单短节目等</title>
+    <programme start="20220204095500" stop="20220204113500" channel="cctv5">
+        <title lang="zh">直播：花样滑冰团体</title>
+    </programme>
+    <programme start="20220204113500" stop="20220204125500" channel="cctv5">
+        <title lang="zh">直播：花样滑冰团体冰舞韵律舞</title>
     </programme>
     <programme start="20220204125500" stop="20220204132000" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20220204132000" stop="20220204170000" channel="cctv5">
+    <programme start="20220204132000" stop="20220204150000" channel="cctv5">
         <title lang="zh">北京冬奥会-花样滑冰团体双人短节目等</title>
     </programme>
-    <programme start="20220204170000" stop="20220204195500" channel="cctv5">
+    <programme start="20220204150000" stop="20220204170000" channel="cctv5">
+        <title lang="zh">录像：今日冰壶混双 中国-加拿大</title>
+    </programme>
+    <programme start="20220204170000" stop="20220204200000" channel="cctv5">
         <title lang="zh">体育新闻-冬奥会开幕式特别节目</title>
     </programme>
-    <programme start="20220204195500" stop="20220204214500" channel="cctv5">
+    <programme start="20220204200000" stop="20220204214000" channel="cctv5">
         <title lang="zh">北京冬奥会-开幕式</title>
     </programme>
-    <programme start="20220204214500" stop="20220204221000" channel="cctv5">
+    <programme start="20220204214000" stop="20220204221000" channel="cctv5">
         <title lang="zh">体育世界-冬奥会开幕式特别节目</title>
     </programme>
     <programme start="20220204221000" stop="20220204231000" channel="cctv5">
@@ -1424,8 +1430,26 @@
     <programme start="20220204073000" stop="20220204083000" channel="cctv5plus">
         <title lang="zh">实况录像-2021/2022赛季跳台滑雪世界杯德国韦林根站 男子个人大跳台</title>
     </programme>
-    <programme start="20220204083000" stop="20220204190000" channel="cctv5plus">
-        <title lang="zh">北京冬奥会-赛事转播2</title>
+    <programme start="20220204083000" stop="20220204102500" channel="cctv5plus">
+        <title lang="zh">直播：冰壶混双小组赛加拿大-瑞士</title>
+    </programme>
+    <programme start="20220204102500" stop="20220204121000" channel="cctv5plus">
+        <title lang="zh">录像：女子冰球 捷克-中国</title>
+    </programme>
+    <programme start="20220204121000" stop="20220204142500" channel="cctv5plus">
+        <title lang="zh">直播：女子冰球小组赛 丹麦-中国</title>
+    </programme>
+    <programme start="20220204142500" stop="20220204152500" channel="cctv5plus">
+        <title lang="zh">录像：花样滑冰团体男单短节目</title>
+    </programme>
+    <programme start="20220204152500" stop="20220204162500" channel="cctv5plus">
+        <title lang="zh">录像：花样滑冰团体冰舞韵律舞</title>
+    </programme>
+    <programme start="20220204162500" stop="20220204172500" channel="cctv5plus">
+        <title lang="zh">录像：花样滑冰团体双人短节目</title>
+    </programme>
+    <programme start="20220204172500" stop="20220204190000" channel="cctv5plus">
+        <title lang="zh">录像：今日冰壶混双 中国-加拿大</title>
     </programme>
     <programme start="20220204190000" stop="20220204195500" channel="cctv5plus">
         <title lang="zh">大约在冬季-1</title>
