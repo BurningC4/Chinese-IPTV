@@ -297,28 +297,25 @@
         <title lang="zh">晚间新闻</title>
     </programme>
     <programme start="20220204230400" stop="20220204235900" channel="cctv1">
-        <title lang="zh">新春喜剧之夜</title>
+        <title lang="zh">2022新春喜剧之夜-1</title>
     </programme>
-    <programme start="20220205004800" stop="20220205012700" channel="cctv1">
+    <programme start="20220205014800" stop="20220205022000" channel="cctv1">
         <title lang="zh">动物世界-2022-24</title>
     </programme>
-    <programme start="20220205012700" stop="20220205014200" channel="cctv1">
+    <programme start="20220205022000" stop="20220205023700" channel="cctv1">
         <title lang="zh">艺术里的奥林匹克-2022-3</title>
     </programme>
-    <programme start="20220205014200" stop="20220205015700" channel="cctv1">
+    <programme start="20220205023700" stop="20220205025200" channel="cctv1">
         <title lang="zh">艺术里的奥林匹克-2022-4</title>
     </programme>
-    <programme start="20220205015700" stop="20220205022900" channel="cctv1">
+    <programme start="20220205025200" stop="20220205032400" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20220205022900" stop="20220205024400" channel="cctv1">
-        <title lang="zh">美术经典中的党史-65</title>
-    </programme>
-    <programme start="20220205024400" stop="20220205025900" channel="cctv1">
+    <programme start="20220205032400" stop="20220205033900" channel="cctv1">
         <title lang="zh">精彩一刻-2020-183新航拍中国第三季吉林交通</title>
     </programme>
-    <programme start="20220205025900" stop="20220205042900" channel="cctv1">
-        <title lang="zh">新春的交响春节及元宵特别节目-2022-2</title>
+    <programme start="20220205033900" stop="20220205042900" channel="cctv1">
+        <title lang="zh">2022新春相声大会-2</title>
     </programme>
     <programme start="20220205042900" stop="20220205050000" channel="cctv1">
         <title lang="zh">动物世界-2022-24</title>
@@ -2780,8 +2777,11 @@
     <programme start="20220206081800" stop="20220206090700" channel="cctv10">
         <title lang="zh">健康之路-2022-36</title>
     </programme>
-    <programme start="20220206090700" stop="20220206105000" channel="cctv10">
-        <title lang="zh">2022中国诗词大会-2</title>
+    <programme start="20220206090700" stop="20220206095400" channel="cctv10">
+        <title lang="zh">探索·发现-2022-40</title>
+    </programme>
+    <programme start="20220206095400" stop="20220206105000" channel="cctv10">
+        <title lang="zh">自然传奇-2022-36</title>
     </programme>
     <programme start="20220206105000" stop="20220206115000" channel="cctv10">
         <title lang="zh">2022有味道-11</title>
@@ -2805,7 +2805,7 @@
         <title lang="zh">欣赏-2020-2</title>
     </programme>
     <programme start="20220206144100" stop="20220206152500" channel="cctv10">
-        <title lang="zh">探索·发现-2022-41</title>
+        <title lang="zh">探索·发现-2022-40</title>
     </programme>
     <programme start="20220206152500" stop="20220206152900" channel="cctv10">
         <title lang="zh">欣赏-2019-4</title>
@@ -2837,14 +2837,23 @@
     <programme start="20220206193300" stop="20220206203200" channel="cctv10">
         <title lang="zh">2022有味道-12</title>
     </programme>
-    <programme start="20220206203200" stop="20220206222000" channel="cctv10">
-        <title lang="zh">2022中国诗词大会-3</title>
-    </programme>
-    <programme start="20220206222000" stop="20220206232100" channel="cctv10">
+    <programme start="20220206203200" stop="20220206213200" channel="cctv10">
         <title lang="zh">自然传奇-2022-37</title>
     </programme>
-    <programme start="20220206232100" stop="20220206235900" channel="cctv10">
+    <programme start="20220206213200" stop="20220206222100" channel="cctv10">
+        <title lang="zh">探索·发现-2022-41</title>
+    </programme>
+    <programme start="20220206222100" stop="20220206231600" channel="cctv10">
         <title lang="zh">2022大千世界-18</title>
+    </programme>
+    <programme start="20220206231600" stop="20220206233200" channel="cctv10">
+        <title lang="zh">时尚科技秀-2022-38</title>
+    </programme>
+    <programme start="20220206233200" stop="20220206234200" channel="cctv10">
+        <title lang="zh">读书-2022-34</title>
+    </programme>
+    <programme start="20220206234200" stop="20220206235900" channel="cctv10">
+        <title lang="zh">地理·中国-2022-37</title>
     </programme>
     <programme start="20220204002000" stop="20220204024200" channel="cctv11">
         <title lang="zh">CCTV空中剧院-2021-45 京剧《珠帘寨》</title>
