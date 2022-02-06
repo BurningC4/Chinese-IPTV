@@ -1388,11 +1388,11 @@
     <programme start="20220206182000" stop="20220206190500" channel="cctv5">
         <title lang="zh">直播：北京冬奥会 女子冰球小组赛 中国-日本</title>
     </programme>
-    <programme start="20220206190500" stop="20220206210000" channel="cctv5">
+    <programme start="20220206190500" stop="20220206213000" channel="cctv5">
         <title lang="zh">直播：女足亚洲杯决赛-(中国-韩国)</title>
     </programme>
-    <programme start="20220206210000" stop="20220206220000" channel="cctv5">
-        <title lang="zh">录像：北京冬奥会-短道速滑混合团体颁奖仪式 花样滑冰团体</title>
+    <programme start="20220206213000" stop="20220206220000" channel="cctv5">
+        <title lang="zh">冬奥最精彩</title>
     </programme>
     <programme start="20220206220000" stop="20220206230700" channel="cctv5">
         <title lang="zh">体育世界-全景冬奥会</title>
@@ -1427,14 +1427,59 @@
     <programme start="20220207080000" stop="20220207090000" channel="cctv5">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 单板滑雪女子坡面障碍技巧决赛(4K)</title>
     </programme>
-    <programme start="20220207090000" stop="20220207180000" channel="cctv5">
-        <title lang="zh">北京冬奥会-花样滑冰团体女单自由滑等</title>
+    <programme start="20220207090000" stop="20220207091500" channel="cctv5">
+        <title lang="zh">北京冬奥会-今日看点等</title>
+    </programme>
+    <programme start="20220207091500" stop="20220207094500" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会 花样滑冰团体双人自由滑1、2</title>
+    </programme>
+    <programme start="20220207094500" stop="20220207103000" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会 花样滑冰团体双人自由滑3、4</title>
+    </programme>
+    <programme start="20220207103000" stop="20220207120000" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会 花样滑冰团体冰舞自由舞1-5</title>
+    </programme>
+    <programme start="20220207120000" stop="20220207132000" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会 单板滑雪男子坡面障碍技巧决赛 1、2、3</title>
+    </programme>
+    <programme start="20220207132000" stop="20220207140000" channel="cctv5">
+        <title lang="zh">延播：北京冬奥会 花样滑冰团体女单自由滑1-5</title>
+    </programme>
+    <programme start="20220207140000" stop="20220207154500" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会 自由式滑雪男子大跳台资 格赛</title>
+    </programme>
+    <programme start="20220207154500" stop="20220207160000" channel="cctv5">
+        <title lang="zh">滚动新闻</title>
+    </programme>
+    <programme start="20220207160000" stop="20220207163000" channel="cctv5">
+        <title lang="zh">录像：北京冬奥会 高山滑雪女子大回转</title>
+    </programme>
+    <programme start="20220207163000" stop="20220207173200" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会 速度滑冰女子1500米1-8</title>
+    </programme>
+    <programme start="20220207173200" stop="20220207180000" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会 速度滑冰女子1500米9-16</title>
     </programme>
     <programme start="20220207180000" stop="20220207183000" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20220207183000" stop="20220207220000" channel="cctv5">
-        <title lang="zh">北京冬奥会-短道速滑女子500米决赛等</title>
+    <programme start="20220207183000" stop="20220207193000" channel="cctv5">
+        <title lang="zh">录像：北京冬奥会 单板滑雪男子坡面障碍技巧决赛</title>
+    </programme>
+    <programme start="20220207193000" stop="20220207201300" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会 短道速滑女子500米、男子1000 米1/4决赛4组</title>
+    </programme>
+    <programme start="20220207201300" stop="20220207204100" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会 短道速滑女子500米、男子1000 米半决赛2组</title>
+    </programme>
+    <programme start="20220207204100" stop="20220207211000" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会 短道速滑女子500米B组、A组决 赛、男子1000米B组、A组决赛</title>
+    </programme>
+    <programme start="20220207211000" stop="20220207212000" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会 场地颁奖仪式</title>
+    </programme>
+    <programme start="20220207212000" stop="20220207220000" channel="cctv5">
+        <title lang="zh">录像：北京冬奥会 自由式滑雪女子大跳台资格赛</title>
     </programme>
     <programme start="20220207220000" stop="20220207230700" channel="cctv5">
         <title lang="zh">体育世界-全景冬奥会</title>
@@ -3617,10 +3662,10 @@
     <programme start="20220206215500" stop="20220206222500" channel="cctv13">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme start="20220206222500" stop="20220206223000" channel="cctv13">
+    <programme start="20220206222500" stop="20220206225500" channel="cctv13">
         <title lang="zh">吾国吾家-第五集</title>
     </programme>
-    <programme start="20220206223000" stop="20220206231400" channel="cctv13">
+    <programme start="20220206225500" stop="20220206231400" channel="cctv13">
         <title lang="zh">面对面</title>
     </programme>
     <programme start="20220206231400" stop="20220206235900" channel="cctv13">
