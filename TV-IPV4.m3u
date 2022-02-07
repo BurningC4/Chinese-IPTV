@@ -1,5 +1,9 @@
 #EXTM3U url-logos="https://raw.githubusercontent.com/BurningC4/tvg-logo/master/"
 
+#EXTM3U
+#EXTINF:-1,CCTV-16 奥运
+http://223.110.236.4/wh7f454c46tw906577365_2060522254/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8?icpid=3&RTS=1643629056&from=40&popid=40&hms_devid=2051&prioritypopid=40&vqe=3
+
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1.png",CCTV-1 综合
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
 
