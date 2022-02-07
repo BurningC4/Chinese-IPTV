@@ -64,6 +64,10 @@
         <display-name lang="cn">CCTV-15 音乐</display-name>
         <url>https://tv.cntv.cn</url>
     </channel>
+    <channel id="cctv16">
+        <display-name lang="cn">CCTV-16奥林匹克</display-name>
+        <url>https://tv.cntv.cn</url>
+    </channel>
     <channel id="cctv17">
         <display-name lang="cn">CCTV-17农业农村</display-name>
         <url>https://tv.cntv.cn</url>
@@ -4369,6 +4373,153 @@
     </programme>
     <programme start="20220209235100" stop="20220209235900" channel="cctv15">
         <title lang="zh">经典-2022-35</title>
+    </programme>
+    <programme start="20220207003500" stop="20220207013500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 冰壶混双循环赛 中国队-美国队</title>
+    </programme>
+    <programme start="20220207013500" stop="20220207020500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 短道速滑比赛精选1</title>
+    </programme>
+    <programme start="20220207020500" stop="20220207033500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2021年世界乒乓球职业大联盟世界杯总决赛 精选3</title>
+    </programme>
+    <programme start="20220207033500" stop="20220207040000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-东京奥运会 小轮车男子竞速赛</title>
+    </programme>
+    <programme start="20220207040000" stop="20220207043000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 越野滑雪女子双追逐决赛</title>
+    </programme>
+    <programme start="20220207043000" stop="20220207060000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 冰球女子小组赛 丹麦队-中国队（4K）</title>
+    </programme>
+    <programme start="20220207060000" stop="20220207070000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 冰壶混双循环赛 挪威队-中国队</title>
+    </programme>
+    <programme start="20220207070000" stop="20220207073000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 短道速滑比赛精选1</title>
+    </programme>
+    <programme start="20220207073000" stop="20220207080000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 跳台滑雪女子个人标准台决赛</title>
+    </programme>
+    <programme start="20220207080000" stop="20220207090000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 冰壶混双循环赛 英国队-中国队</title>
+    </programme>
+    <programme start="20220207090000" stop="20220207093000" channel="cctv16">
+        <title lang="zh">北京冬奥会-今日看点等</title>
+    </programme>
+    <programme start="20220207093000" stop="20220207101500" channel="cctv16">
+        <title lang="zh">直播：北京冬奥会 自由式滑雪女子大跳台资格赛 第一轮</title>
+    </programme>
+    <programme start="20220207101500" stop="20220207110000" channel="cctv16">
+        <title lang="zh">直播：北京冬奥会 自由式滑雪女子大跳台资格赛 第二轮</title>
+    </programme>
+    <programme start="20220207110000" stop="20220207114500" channel="cctv16">
+        <title lang="zh">直播：北京冬奥会 自由式滑雪女子大跳台资格赛 第三轮</title>
+    </programme>
+    <programme start="20220207114500" stop="20220207121000" channel="cctv16">
+        <title lang="zh">录像：北京冬奥会 女子雪上技巧决赛</title>
+    </programme>
+    <programme start="20220207121000" stop="20220207142500" channel="cctv16">
+        <title lang="zh">直播：北京冬奥会 女子冰球小组赛 俄罗斯-加拿大</title>
+    </programme>
+    <programme start="20220207142500" stop="20220207153000" channel="cctv16">
+        <title lang="zh">录像：北京冬奥会 速度滑冰男子5000米</title>
+    </programme>
+    <programme start="20220207153000" stop="20220207164000" channel="cctv16">
+        <title lang="zh">录像：北京冬奥会 越野滑雪男子双追逐</title>
+    </programme>
+    <programme start="20220207164000" stop="20220207185500" channel="cctv16">
+        <title lang="zh">直播：北京冬奥会 女子冰球小组赛 丹麦-捷克</title>
+    </programme>
+    <programme start="20220207185500" stop="20220207194500" channel="cctv16">
+        <title lang="zh">录像：北京冬奥会 自由式滑雪女子雪上技巧</title>
+    </programme>
+    <programme start="20220207194500" stop="20220207205000" channel="cctv16">
+        <title lang="zh">直播：北京冬奥会 跳台滑雪混合团体标准台决赛1</title>
+    </programme>
+    <programme start="20220207205000" stop="20220207213000" channel="cctv16">
+        <title lang="zh">直播：北京冬奥会 跳台滑雪混合团体标准台决赛2</title>
+    </programme>
+    <programme start="20220207213000" stop="20220207233500" channel="cctv16">
+        <title lang="zh">直播：北京冬奥会 女子冰球小组赛 中国-瑞典</title>
+    </programme>
+    <programme start="20220207233500" stop="20220207235900" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 单板滑雪女子坡面障碍技巧决赛</title>
+    </programme>
+    <programme start="20220208003500" stop="20220208013500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 冰壶混双循环赛 中国队-美国队</title>
+    </programme>
+    <programme start="20220208013500" stop="20220208023500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 自由式滑雪男子雪上技巧决赛</title>
+    </programme>
+    <programme start="20220208023500" stop="20220208033500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 冰壶混双循环赛 挪威队-中国队</title>
+    </programme>
+    <programme start="20220208033500" stop="20220208040000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 越野滑雪女子双追逐决赛（4K）</title>
+    </programme>
+    <programme start="20220208040000" stop="20220208043000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 越野滑雪女子双追逐决赛</title>
+    </programme>
+    <programme start="20220208043000" stop="20220208050000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 跳台滑雪女子个人标准台决赛</title>
+    </programme>
+    <programme start="20220208050000" stop="20220208053000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 短道速滑比赛精选1</title>
+    </programme>
+    <programme start="20220208053000" stop="20220208060000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 冬季两项混合接力决赛</title>
+    </programme>
+    <programme start="20220208060000" stop="20220208070000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 冰壶混双循环赛 意大利队-中国队</title>
+    </programme>
+    <programme start="20220208070000" stop="20220208080000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 自由式滑雪女子雪上技巧决赛</title>
+    </programme>
+    <programme start="20220208080000" stop="20220208090000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 冰壶混双循环赛 捷克队-中国队</title>
+    </programme>
+    <programme start="20220208090000" stop="20220208220500" channel="cctv16">
+        <title lang="zh">北京冬奥会-女子冰球小组赛（美国-加拿大）等</title>
+    </programme>
+    <programme start="20220208220500" stop="20220208233500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 冰球女子小组赛 丹麦队-中国队（4K）</title>
+    </programme>
+    <programme start="20220208233500" stop="20220208235900" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 短道速滑比赛精选2</title>
+    </programme>
+    <programme start="20220209000500" stop="20220209010500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 单板滑雪男子坡面障碍技巧决赛</title>
+    </programme>
+    <programme start="20220209010500" stop="20220209020500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 冰壶混双循环赛 意大利队-中国队</title>
+    </programme>
+    <programme start="20220209020500" stop="20220209023500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 越野滑雪男子双追逐决赛</title>
+    </programme>
+    <programme start="20220209023500" stop="20220209040000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 冰球女子小组赛 中国队-日本队</title>
+    </programme>
+    <programme start="20220209040000" stop="20220209050000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 冰壶混双循环赛 英国队-中国队</title>
+    </programme>
+    <programme start="20220209050000" stop="20220209060000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 单板滑雪女子坡面障碍技巧决赛</title>
+    </programme>
+    <programme start="20220209060000" stop="20220209063000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 高山滑雪男子滑降决赛</title>
+    </programme>
+    <programme start="20220209063000" stop="20220209080000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 花样滑冰团体赛精选</title>
+    </programme>
+    <programme start="20220209080000" stop="20220209090000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 冰壶混双半决赛2</title>
+    </programme>
+    <programme start="20220209090000" stop="20220209230500" channel="cctv16">
+        <title lang="zh">北京冬奥会-冰壶男子循环赛 （中国-瑞典）等</title>
+    </programme>
+    <programme start="20220209230500" stop="20220209235900" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 自由式滑雪女子大跳台决赛</title>
     </programme>
     <programme start="20220207002000" stop="20220207012000" channel="cctv17">
         <title lang="zh">乡聚中国年-农人篇2022-6</title>
