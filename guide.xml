@@ -1548,14 +1548,41 @@
     <programme start="20220210080000" stop="20220210090000" channel="cctv5">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 冰壶混双铜牌赛（4K）</title>
     </programme>
-    <programme start="20220210090000" stop="20220210180000" channel="cctv5">
-        <title lang="zh">北京冬奥会-单板滑雪女子U型池决赛等</title>
+    <programme start="20220210090000" stop="20220210093000" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会-每日看点</title>
+    </programme>
+    <programme start="20220210093000" stop="20220210110000" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会 单板滑雪女子U型池决赛</title>
+    </programme>
+    <programme start="20220210110000" stop="20220210112000" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会 花样滑冰男单自由滑</title>
+    </programme>
+    <programme start="20220210112000" stop="20220210114300" channel="cctv5">
+        <title lang="zh">滚动新闻</title>
+    </programme>
+    <programme start="20220210114300" stop="20220210140000" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会 花样滑冰男单自由滑</title>
+    </programme>
+    <programme start="20220210140000" stop="20220210152500" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会 单板滑雪男子障碍追逐决赛</title>
+    </programme>
+    <programme start="20220210152500" stop="20220210153000" channel="cctv5">
+        <title lang="zh">滚动新闻</title>
+    </programme>
+    <programme start="20220210153000" stop="20220210170000" channel="cctv5">
+        <title lang="zh">录像：北京冬奥会 花样滑冰男单自由滑</title>
+    </programme>
+    <programme start="20220210170000" stop="20220210180000" channel="cctv5">
+        <title lang="zh">录像：北京冬奥会 单板滑雪女子U型池决赛</title>
     </programme>
     <programme start="20220210180000" stop="20220210183000" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20220210183000" stop="20220210224000" channel="cctv5">
+    <programme start="20220210183000" stop="20220210190000" channel="cctv5">
         <title lang="zh">北京冬奥会-自由式滑雪空中技巧混合团体决赛等</title>
+    </programme>
+    <programme start="20220210190000" stop="20220210224000" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会自由式滑雪空中技巧混合团体决</title>
     </programme>
     <programme start="20220210224000" stop="20220210233700" channel="cctv5">
         <title lang="zh">体育世界-全景冬奥会</title>
