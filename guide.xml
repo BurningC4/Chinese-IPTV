@@ -1656,8 +1656,11 @@
     <programme start="20220212121000" stop="20220212142500" channel="cctv5plus">
         <title lang="zh">直播：北京冬奥会 男子冰球小组赛 加拿大-美国</title>
     </programme>
-    <programme start="20220212142500" stop="20220212153000" channel="cctv5plus">
+    <programme start="20220212142500" stop="20220212150000" channel="cctv5plus">
         <title lang="zh">录像：北京冬奥会 单板滑雪障碍追逐混合团体</title>
+    </programme>
+    <programme start="20220212150000" stop="20220212153000" channel="cctv5plus">
+        <title lang="zh">冬奥典藏</title>
     </programme>
     <programme start="20220212153000" stop="20220212170000" channel="cctv5plus">
         <title lang="zh">直播：北京冬奥会 越野滑雪女子4×5公里接力</title>
