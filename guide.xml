@@ -1641,8 +1641,14 @@
     <programme start="20220213121000" stop="20220213142500" channel="cctv5plus">
         <title lang="zh">直播：北京冬奥会 男子冰球小组赛 斯洛伐克-拉脱维亚</title>
     </programme>
-    <programme start="20220213142500" stop="20220213153000" channel="cctv5plus">
+    <programme start="20220213142500" stop="20220213150000" channel="cctv5plus">
         <title lang="zh">录像：北京冬奥会 跳台滑雪男子大跳台决赛</title>
+    </programme>
+    <programme start="20220213150000" stop="20220213151500" channel="cctv5plus">
+        <title lang="zh">录像：北京冬奥会 女子单人雪车</title>
+    </programme>
+    <programme start="20220213151500" stop="20220213153000" channel="cctv5plus">
+        <title lang="zh">冬奥典藏</title>
     </programme>
     <programme start="20220213153000" stop="20220213173000" channel="cctv5plus">
         <title lang="zh">录像：北京冬奥会 花样滑冰冰舞韵律舞</title>
