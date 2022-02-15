@@ -1554,13 +1554,13 @@
     <programme start="20220215203000" stop="20220215205000" channel="cctv5">
         <title lang="zh">冬奥典藏</title>
     </programme>
-    <programme start="20220215205000" stop="20220215215000" channel="cctv5">
+    <programme start="20220215205000" stop="20220215223000" channel="cctv5">
         <title lang="zh">直播：北京冬奥会 花样滑冰女单短节目4、5</title>
     </programme>
-    <programme start="20220215215000" stop="20220215224000" channel="cctv5">
+    <programme start="20220215223000" stop="20220215225000" channel="cctv5">
         <title lang="zh">直播：北京冬奥会 雪车男子双人第4轮</title>
     </programme>
-    <programme start="20220215224000" stop="20220215233700" channel="cctv5">
+    <programme start="20220215225000" stop="20220215233700" channel="cctv5">
         <title lang="zh">体育世界-全景冬奥会</title>
     </programme>
     <programme start="20220215233700" stop="20220215235900" channel="cctv5">
@@ -1596,14 +1596,50 @@
     <programme start="20220216080000" stop="20220216090000" channel="cctv5">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 自由式滑雪女子坡面障碍技巧决赛(4K)</title>
     </programme>
-    <programme start="20220216090000" stop="20220216180000" channel="cctv5">
-        <title lang="zh">北京冬奥会-冰壶女子循环赛（中国-英国）等</title>
+    <programme start="20220216090000" stop="20220216120500" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会 冰壶女子循环赛 中国-英国</title>
     </programme>
-    <programme start="20220216180000" stop="20220216183000" channel="cctv5">
+    <programme start="20220216120500" stop="20220216121000" channel="cctv5">
+        <title lang="zh">《滚动新闻》</title>
+    </programme>
+    <programme start="20220216121000" stop="20220216130000" channel="cctv5">
+        <title lang="zh">录像：北京冬奥会 花样滑冰女单短节目</title>
+    </programme>
+    <programme start="20220216130000" stop="20220216140500" channel="cctv5">
+        <title lang="zh">录像：北京冬奥会 自由式滑雪男子坡面障碍技巧决赛</title>
+    </programme>
+    <programme start="20220216140500" stop="20220216170500" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会 冰壶男子循环赛中国-瑞士</title>
+    </programme>
+    <programme start="20220216170500" stop="20220216180000" channel="cctv5">
+        <title lang="zh">录像：北京冬奥会 高山滑雪男子回转</title>
+    </programme>
+    <programme start="20220216180000" stop="20220216190000" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20220216183000" stop="20220216220000" channel="cctv5">
-        <title lang="zh">北京冬奥会-自由式滑雪男子空中技巧决赛等</title>
+    <programme start="20220216190000" stop="20220216193000" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会 自由式滑雪男子空中技巧决赛1</title>
+    </programme>
+    <programme start="20220216193000" stop="20220216195500" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会 自由式滑雪男子空中技巧决赛2</title>
+    </programme>
+    <programme start="20220216195500" stop="20220216200000" channel="cctv5">
+        <title lang="zh">直播或延播：北京冬奥会 短道速滑女子1500米1/4决赛</title>
+    </programme>
+    <programme start="20220216200000" stop="20220216201500" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会 自由式滑雪男子空中技巧决赛3</title>
+    </programme>
+    <programme start="20220216201500" stop="20220216203000" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会 短道速滑女子1500米半决赛3组</title>
+    </programme>
+    <programme start="20220216203000" stop="20220216211100" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会 短道速滑男子5000米接力决赛B组</title>
+    </programme>
+    <programme start="20220216211100" stop="20220216213200" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会 短道速滑女子1500米决赛</title>
+    </programme>
+    <programme start="20220216213200" stop="20220216220000" channel="cctv5">
+        <title lang="zh">直播：北京冬奥会 场地颁奖</title>
     </programme>
     <programme start="20220216220000" stop="20220216230700" channel="cctv5">
         <title lang="zh">体育世界-全景冬奥会</title>
@@ -1755,8 +1791,29 @@
     <programme start="20220216080000" stop="20220216090000" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 单板滑雪男子U型场地决赛(4K)</title>
     </programme>
-    <programme start="20220216090000" stop="20220216230700" channel="cctv5plus">
-        <title lang="zh">北京冬奥会-赛事转播14</title>
+    <programme start="20220216090000" stop="20220216101500" channel="cctv5plus">
+        <title lang="zh">录像：北京冬奥会 花样滑冰女单短节目</title>
+    </programme>
+    <programme start="20220216101500" stop="20220216120000" channel="cctv5plus">
+        <title lang="zh">直播：北京冬奥会 高山滑雪男子回转1</title>
+    </programme>
+    <programme start="20220216120000" stop="20220216134500" channel="cctv5plus">
+        <title lang="zh">录像：北京冬奥会 自由式滑雪男子空中技巧资格赛</title>
+    </programme>
+    <programme start="20220216134500" stop="20220216154500" channel="cctv5plus">
+        <title lang="zh">直播：北京冬奥会 高山滑雪男子回转2</title>
+    </programme>
+    <programme start="20220216154500" stop="20220216171500" channel="cctv5plus">
+        <title lang="zh">直播：北京冬奥会 冬季两项女子4x6公里接力</title>
+    </programme>
+    <programme start="20220216171500" stop="20220216183500" channel="cctv5plus">
+        <title lang="zh">直播：北京冬奥会 越野滑雪女子、男子团体短距离决赛</title>
+    </programme>
+    <programme start="20220216183500" stop="20220216200000" channel="cctv5plus">
+        <title lang="zh">录像：北京冬奥会 自由式滑雪男子坡面障碍技巧决赛</title>
+    </programme>
+    <programme start="20220216200000" stop="20220216230700" channel="cctv5plus">
+        <title lang="zh">直播：北京冬奥会 冰壶女子循环赛 加拿大-中国</title>
     </programme>
     <programme start="20220216230700" stop="20220216235900" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 单板滑雪女子大跳台决赛(4K)</title>
@@ -2539,7 +2596,7 @@
         <title lang="zh">老闺蜜第37集</title>
     </programme>
     <programme start="20220216212200" stop="20220216212600" channel="cctv8">
-        <title lang="zh">本集提要-《老闺蜜》38/48</title>
+        <title lang="zh">本集提要- 《老闺蜜》第38集</title>
     </programme>
     <programme start="20220216212600" stop="20220216221600" channel="cctv8">
         <title lang="zh">老闺蜜第38集</title>
@@ -4629,11 +4686,23 @@
     <programme start="20220216063000" stop="20220216080000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 花样滑冰冰舞自由舞</title>
     </programme>
-    <programme start="20220216080000" stop="20220216090000" channel="cctv16">
+    <programme start="20220216080000" stop="20220216093000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 自由式滑雪女子空中技巧决赛</title>
     </programme>
-    <programme start="20220216090000" stop="20220216215500" channel="cctv16">
-        <title lang="zh">北京冬奥会-冰壶女子循环赛 （瑞士-韩国）</title>
+    <programme start="20220216093000" stop="20220216110500" channel="cctv16">
+        <title lang="zh">直播：北京冬奥会 自由式滑雪男子坡面障碍技巧决赛</title>
+    </programme>
+    <programme start="20220216110500" stop="20220216164000" channel="cctv16">
+        <title lang="zh">冬奥典藏</title>
+    </programme>
+    <programme start="20220216164000" stop="20220216190000" channel="cctv16">
+        <title lang="zh">直播：北京冬奥会 冰球男子1/4决赛</title>
+    </programme>
+    <programme start="20220216190000" stop="20220216193000" channel="cctv16">
+        <title lang="zh">《体坛英豪》、《冬奥典藏》</title>
+    </programme>
+    <programme start="20220216193000" stop="20220216215500" channel="cctv16">
+        <title lang="zh">直播：北京冬奥会 冰球女子铜牌赛 芬兰-瑞士</title>
     </programme>
     <programme start="20220216215500" stop="20220216225500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 自由式滑雪男子坡面障碍技巧决赛</title>
@@ -4641,11 +4710,8 @@
     <programme start="20220216225500" stop="20220216232500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 高山滑雪女子大回转决赛</title>
     </programme>
-    <programme start="20220216232500" stop="20220216235500" channel="cctv16">
+    <programme start="20220216232500" stop="20220216235900" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 高山滑雪女子滑降决赛</title>
-    </programme>
-    <programme start="20220216235500" stop="20220216235900" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 雪车男子双人决赛</title>
     </programme>
     <programme start="20220217005500" stop="20220217012500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 冬季两项男子4X7.5公里接力决赛</title>
