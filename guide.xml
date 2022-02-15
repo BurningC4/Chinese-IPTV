@@ -691,7 +691,7 @@
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 短道速滑比赛精选5(4K)</title>
     </programme>
     <programme start="20220216134000" stop="20220216144700" channel="cctv2">
-        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 钢架雪车男子决赛（4K）</title>
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 自由式滑雪女子空中技巧决赛(4K)</title>
     </programme>
     <programme start="20220216144700" stop="20220216150000" channel="cctv2">
         <title lang="zh">周末特供2022-14</title>
@@ -1212,11 +1212,14 @@
     <programme start="20220216040000" stop="20220216043000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20220216043000" stop="20220216050000" channel="cctv4">
-        <title lang="zh">今日关注</title>
+    <programme start="20220216043000" stop="20220216051500" channel="cctv4">
+        <title lang="zh">远方的家2022-25</title>
     </programme>
-    <programme start="20220216050000" stop="20220216053000" channel="cctv4">
-        <title lang="zh">记住乡愁2022-27</title>
+    <programme start="20220216051500" stop="20220216052500" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-116</title>
+    </programme>
+    <programme start="20220216052500" stop="20220216053000" channel="cctv4">
+        <title lang="zh">寻找两岸文化传人-传承-碎片5分钟版1</title>
     </programme>
     <programme start="20220216053000" stop="20220216060000" channel="cctv4">
         <title lang="zh">美食中国-2022-33</title>
@@ -1231,25 +1234,16 @@
         <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20220216073000" stop="20220216080000" channel="cctv4">
-        <title lang="zh">今日关注</title>
-    </programme>
-    <programme start="20220216080000" stop="20220216090000" channel="cctv4">
-        <title lang="zh">今日环球</title>
-    </programme>
-    <programme start="20220216090000" stop="20220216093000" channel="cctv4">
-        <title lang="zh">今日亚洲</title>
-    </programme>
-    <programme start="20220216093000" stop="20220216100000" channel="cctv4">
         <title lang="zh">中国文艺-2022-32</title>
     </programme>
-    <programme start="20220216100000" stop="20220216101200" channel="cctv4">
-        <title lang="zh">中国新闻</title>
+    <programme start="20220216080000" stop="20220216090300" channel="cctv4">
+        <title lang="zh">今日环球</title>
     </programme>
-    <programme start="20220216101200" stop="20220216110000" channel="cctv4">
-        <title lang="zh">远方的家2022-25</title>
+    <programme start="20220216090300" stop="20220216105900" channel="cctv4">
+        <title lang="zh">2022年元宵晚会-2</title>
     </programme>
-    <programme start="20220216110000" stop="20220216113000" channel="cctv4">
-        <title lang="zh">记住乡愁2022-27</title>
+    <programme start="20220216105900" stop="20220216113000" channel="cctv4">
+        <title lang="zh">美食中国-2022-33</title>
     </programme>
     <programme start="20220216113000" stop="20220216120000" channel="cctv4">
         <title lang="zh">海峡两岸-2022-46</title>
@@ -4569,8 +4563,11 @@
     <programme start="20220215201500" stop="20220215212000" channel="cctv16">
         <title lang="zh">直播：北京冬奥会 雪车男子双人第3轮</title>
     </programme>
-    <programme start="20220215212000" stop="20220215235900" channel="cctv16">
+    <programme start="20220215212000" stop="20220215230500" channel="cctv16">
         <title lang="zh">直播：北京冬奥会 冰球男子复赛 加拿大-中国</title>
+    </programme>
+    <programme start="20220215230500" stop="20220215235900" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 自由式滑雪女子坡面障碍技巧决赛</title>
     </programme>
     <programme start="20220216000500" stop="20220216013500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 花样滑冰冰舞韵律舞（4K）</title>
