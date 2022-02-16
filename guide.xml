@@ -1290,23 +1290,23 @@
     <programme start="20220217120000" stop="20220217130200" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20220217130200" stop="20220217131400" channel="cctv4">
+    <programme start="20220217130200" stop="20220217131300" channel="cctv4">
         <title lang="zh">记住乡愁2018片段展播-117</title>
     </programme>
-    <programme start="20220217131400" stop="20220217140200" channel="cctv4">
-        <title lang="zh">有你才有家第33集</title>
+    <programme start="20220217131300" stop="20220217140200" channel="cctv4">
+        <title lang="zh">有你才有家第31集</title>
     </programme>
     <programme start="20220217140200" stop="20220217144800" channel="cctv4">
-        <title lang="zh">有你才有家第34集</title>
+        <title lang="zh">有你才有家第32集</title>
     </programme>
     <programme start="20220217144800" stop="20220217153600" channel="cctv4">
-        <title lang="zh">有你才有家第35集</title>
+        <title lang="zh">有你才有家第33集</title>
     </programme>
     <programme start="20220217153600" stop="20220217162400" channel="cctv4">
-        <title lang="zh">有你才有家第36集</title>
+        <title lang="zh">有你才有家第34集</title>
     </programme>
     <programme start="20220217162400" stop="20220217171500" channel="cctv4">
-        <title lang="zh">有你才有家第37集</title>
+        <title lang="zh">有你才有家第35集</title>
     </programme>
     <programme start="20220217171500" stop="20220217180000" channel="cctv4">
         <title lang="zh">远方的家2022-27</title>
@@ -1420,19 +1420,19 @@
         <title lang="zh">记住乡愁2018片段展播-118</title>
     </programme>
     <programme start="20220218131300" stop="20220218140200" channel="cctv4">
-        <title lang="zh">有你才有家38/50</title>
+        <title lang="zh">有你才有家36/50</title>
     </programme>
     <programme start="20220218140200" stop="20220218144800" channel="cctv4">
-        <title lang="zh">有你才有家39/50</title>
+        <title lang="zh">有你才有家37/50</title>
     </programme>
     <programme start="20220218144800" stop="20220218153600" channel="cctv4">
-        <title lang="zh">有你才有家40/50</title>
+        <title lang="zh">有你才有家38/50</title>
     </programme>
     <programme start="20220218153600" stop="20220218162400" channel="cctv4">
-        <title lang="zh">有你才有家41/50</title>
+        <title lang="zh">有你才有家39/50</title>
     </programme>
     <programme start="20220218162400" stop="20220218171500" channel="cctv4">
-        <title lang="zh">有你才有家42/50</title>
+        <title lang="zh">有你才有家40/50</title>
     </programme>
     <programme start="20220218171500" stop="20220218180000" channel="cctv4">
         <title lang="zh">远方的家2022-28</title>
@@ -4578,8 +4578,11 @@
     <programme start="20220216093000" stop="20220216110500" channel="cctv16">
         <title lang="zh">直播：北京冬奥会 自由式滑雪男子坡面障碍技巧决赛</title>
     </programme>
-    <programme start="20220216110500" stop="20220216164000" channel="cctv16">
-        <title lang="zh">《冬奥典藏》等</title>
+    <programme start="20220216110500" stop="20220216111000" channel="cctv16">
+        <title lang="zh">《冬奥典藏》</title>
+    </programme>
+    <programme start="20220216111000" stop="20220216164000" channel="cctv16">
+        <title lang="zh">录像：北京冬奥会 单板滑雪男子坡面障碍技巧决赛</title>
     </programme>
     <programme start="20220216164000" stop="20220216190000" channel="cctv16">
         <title lang="zh">直播：北京冬奥会 冰球男子1/4决赛</title>
@@ -4596,11 +4599,8 @@
     <programme start="20220216225500" stop="20220216232500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 高山滑雪女子大回转决赛</title>
     </programme>
-    <programme start="20220216232500" stop="20220216235500" channel="cctv16">
+    <programme start="20220216232500" stop="20220216235900" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 高山滑雪女子滑降决赛</title>
-    </programme>
-    <programme start="20220216235500" stop="20220216235900" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 雪车男子双人决赛</title>
     </programme>
     <programme start="20220217005500" stop="20220217012500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 冬季两项男子4X7.5公里接力决赛</title>
