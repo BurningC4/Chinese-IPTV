@@ -1681,13 +1681,13 @@
         <title lang="zh">录像：北京冬奥会 速度滑冰男子1000米</title>
     </programme>
     <programme start="20220219093000" stop="20220219103000" channel="cctv5plus">
-        <title lang="zh">直播：北京冬奥会 雪车男子4人第1轮</title>
+        <title lang="zh">直播：北京冬奥会 雪车男子四人第1轮</title>
     </programme>
     <programme start="20220219103000" stop="20220219110500" channel="cctv5plus">
         <title lang="zh">录像：北京冬奥会 自由式滑雪女子U型池决赛</title>
     </programme>
     <programme start="20220219110500" stop="20220219120500" channel="cctv5plus">
-        <title lang="zh">直播：北京冬奥会 雪车男子4人第2轮</title>
+        <title lang="zh">直播：北京冬奥会 雪车男子四人第2轮</title>
     </programme>
     <programme start="20220219120500" stop="20220219140500" channel="cctv5plus">
         <title lang="zh">录像：北京冬奥会 花样滑冰双人短节目</title>
@@ -3415,10 +3415,10 @@
         <title lang="zh">CCTV空中剧院-2022-9 京剧《龙凤呈祥》</title>
     </programme>
     <programme start="20220220122200" stop="20220220131200" channel="cctv11">
-        <title lang="zh">小舍得26/42</title>
+        <title lang="zh">小舍得-（高清文件）-第26集</title>
     </programme>
     <programme start="20220220131200" stop="20220220140300" channel="cctv11">
-        <title lang="zh">小舍得27/42</title>
+        <title lang="zh">小舍得-（高清文件）-第27集</title>
     </programme>
     <programme start="20220220140300" stop="20220220155200" channel="cctv11">
         <title lang="zh">九州大戏台-2021-41黄梅戏《牛郎织女》</title>
@@ -3427,10 +3427,10 @@
         <title lang="zh">青春戏苑-2022-8</title>
     </programme>
     <programme start="20220220171300" stop="20220220180300" channel="cctv11">
-        <title lang="zh">老有所依24/41</title>
+        <title lang="zh">老有所依-（高清文件）-第24集</title>
     </programme>
     <programme start="20220220180300" stop="20220220190000" channel="cctv11">
-        <title lang="zh">老有所依25/41</title>
+        <title lang="zh">老有所依-（高清文件）-第25集</title>
     </programme>
     <programme start="20220220190000" stop="20220220193000" channel="cctv11">
         <title lang="zh">典藏-2022-23</title>
@@ -3445,16 +3445,19 @@
         <title lang="zh">戏曲青年说-2021-9川剧《烈火中永生》</title>
     </programme>
     <programme start="20220220222600" stop="20220220231600" channel="cctv11">
-        <title lang="zh">芝麻胡同29/51</title>
+        <title lang="zh">芝麻胡同-（高清文件）-第29集</title>
     </programme>
     <programme start="20220220231600" stop="20220220235900" channel="cctv11">
-        <title lang="zh">芝麻胡同30/51</title>
+        <title lang="zh">芝麻胡同-（高清文件）-第30集</title>
     </programme>
     <programme start="20220221000700" stop="20220221005700" channel="cctv11">
-        <title lang="zh">芝麻胡同31/51</title>
+        <title lang="zh">芝麻胡同-（高清文件）-第31集</title>
     </programme>
-    <programme start="20220221005700" stop="20220221060600" channel="cctv11">
+    <programme start="20220221005700" stop="20220221022500" channel="cctv11">
         <title lang="zh">CCTV空中剧院-2021-113 京剧《摘缨会》</title>
+    </programme>
+    <programme start="20220221022500" stop="20220221060600" channel="cctv11">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20220221060600" stop="20220221071600" channel="cctv11">
         <title lang="zh">九州大戏台-2020-29好戏连连看 锡剧《董存瑞》选场</title>
@@ -3981,19 +3984,19 @@
     <programme start="20220220041500" stop="20220220050000" channel="cctv13">
         <title lang="zh">新闻周刊</title>
     </programme>
-    <programme start="20220220050000" stop="20220220051200" channel="cctv13">
+    <programme start="20220220050000" stop="20220220053200" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20220220051200" stop="20220220060000" channel="cctv13">
-        <title lang="zh">新闻调查</title>
+    <programme start="20220220053200" stop="20220220060000" channel="cctv13">
+        <title lang="zh">新闻周刊</title>
     </programme>
     <programme start="20220220060000" stop="20220220090000" channel="cctv13">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme start="20220220090000" stop="20220220091200" channel="cctv13">
+    <programme start="20220220090000" stop="20220220093200" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20220220091200" stop="20220220100000" channel="cctv13">
+    <programme start="20220220093200" stop="20220220100000" channel="cctv13">
         <title lang="zh">新闻周刊</title>
     </programme>
     <programme start="20220220100000" stop="20220220110000" channel="cctv13">
@@ -4032,25 +4035,19 @@
     <programme start="20220220190000" stop="20220220193200" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20220220193200" stop="20220220193900" channel="cctv13">
+    <programme start="20220220193200" stop="20220220193700" channel="cctv13">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme start="20220220193900" stop="20220220200000" channel="cctv13">
-        <title lang="zh">焦点访谈</title>
+    <programme start="20220220193700" stop="20220220214000" channel="cctv13">
+        <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20220220200000" stop="20220220210000" channel="cctv13">
-        <title lang="zh">东方时空</title>
-    </programme>
-    <programme start="20220220210000" stop="20220220213000" channel="cctv13">
+    <programme start="20220220214000" stop="20220220221000" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20220220213000" stop="20220220221500" channel="cctv13">
+    <programme start="20220220221000" stop="20220220225500" channel="cctv13">
         <title lang="zh">面对面</title>
     </programme>
-    <programme start="20220220221500" stop="20220220230000" channel="cctv13">
-        <title lang="zh">世界周刊</title>
-    </programme>
-    <programme start="20220220230000" stop="20220220235900" channel="cctv13">
+    <programme start="20220220225500" stop="20220220235900" channel="cctv13">
         <title lang="zh">24小时</title>
     </programme>
     <programme start="20220221000000" stop="20220221001500" channel="cctv13">
