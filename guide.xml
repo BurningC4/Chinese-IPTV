@@ -1485,17 +1485,17 @@
     <programme start="20220219110000" stop="20220219120000" channel="cctv5">
         <title lang="zh">录像：北京冬奥会 花样滑冰双人短节目</title>
     </programme>
-    <programme start="20220219120000" stop="20220219131000" channel="cctv5">
+    <programme start="20220219120000" stop="20220219123000" channel="cctv5">
         <title lang="zh">《滚动新闻》</title>
     </programme>
-    <programme start="20220219131000" stop="20220219133000" channel="cctv5">
-        <title lang="zh">《体坛英豪》</title>
-    </programme>
-    <programme start="20220219133000" stop="20220219140000" channel="cctv5">
+    <programme start="20220219123000" stop="20220219131000" channel="cctv5">
         <title lang="zh">录像：北京冬奥会 自由式滑雪女子U型池决赛</title>
     </programme>
+    <programme start="20220219131000" stop="20220219140000" channel="cctv5">
+        <title lang="zh">《体坛英豪》</title>
+    </programme>
     <programme start="20220219140000" stop="20220219163000" channel="cctv5">
-        <title lang="zh">直播：北京冬奥会 越野滑雪男子50公里</title>
+        <title lang="zh">录像：北京冬奥会 四人雪车</title>
     </programme>
     <programme start="20220219163000" stop="20220219164000" channel="cctv5">
         <title lang="zh">《滚动新闻》</title>
@@ -1680,10 +1680,13 @@
     <programme start="20220219110500" stop="20220219120500" channel="cctv5plus">
         <title lang="zh">直播：北京冬奥会 雪车男子四人第2轮</title>
     </programme>
-    <programme start="20220219120500" stop="20220219140500" channel="cctv5plus">
+    <programme start="20220219120500" stop="20220219143000" channel="cctv5plus">
         <title lang="zh">录像：北京冬奥会 花样滑冰双人短节目</title>
     </programme>
-    <programme start="20220219140500" stop="20220219172000" channel="cctv5plus">
+    <programme start="20220219143000" stop="20220219145000" channel="cctv5plus">
+        <title lang="zh">体坛英豪</title>
+    </programme>
+    <programme start="20220219145000" stop="20220219172000" channel="cctv5plus">
         <title lang="zh">直播：北京冬奥会 冰壶男子决赛</title>
     </programme>
     <programme start="20220219172000" stop="20220219182000" channel="cctv5plus">
