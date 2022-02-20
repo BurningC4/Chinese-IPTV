@@ -1,274 +1,226 @@
 #EXTM3U url-logos="https://raw.githubusercontent.com/BurningC4/tvg-logo/master/"
 
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1.png",CCTV-1 综合
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="cctv2" tvg-logo="cctv2.png",CCTV-2 财经
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="cctv3" tvg-logo="cctv3.png",CCTV-3 综艺
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="cctv4" tvg-logo="cctv4.png",CCTV-4 中文国际
-http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="cctv5" tvg-logo="cctv5.png",CCTV-5 体育
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="cctv5plus" tvg-logo="cctv5+.png",CCTV-5+ 体育赛事
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="cctv6" tvg-logo="cctv6.png",CCTV-6 电影
-http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="cctv7" tvg-logo="cctv7.png",CCTV-7 国防军事
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="cctv8" tvg-logo="cctv8.png",CCTV-8 电视剧
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-1080P-cctv8
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="cctvjilu" tvg-logo="cctv9.png",CCTV-9 纪录
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="cctv10" tvg-logo="cctv10.png",CCTV-10 科教
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="cctv11" tvg-logo="cctv11.png",CCTV-11 戏曲
-http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="cctv12" tvg-logo="cctv12.png",CCTV-12 社会与法
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="cctv13" tvg-logo="cctv13.png",CCTV-13 新闻
-http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="cctvchild" tvg-logo="cctvchild.png",CCTV-14 少儿
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="cctv15" tvg-logo="cctv15.png",CCTV-15 音乐
-http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
-
-#EXTINF:-1 tvg-id="cctv16" tvg-logo="cctv16.png",CCTV-16 奥林匹克
-http://183.207.248.71/cntv/live1/HD-8000k-1080P-cctv16/HD-8000k-1080P-cctv16
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="cctv17" tvg-logo="cctv17.png",CCTV-17 农业农村
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="cetv1" tvg-logo="cetv1.png",CETV-1
-http://183.207.248.71:80/cntv/live1/n-jiaoyutv/n-jiaoyutv
-
-#EXTINF:-1 tvg-id="cetv2" tvg-logo="cetv2.png",CETV-2
-http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiaoyutv2/SD-4000k-576P-jiaoyutv2
-
-#EXTINF:-1 tvg-id="cetv4" tvg-logo="cetv4.png",CETV-4
-http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiaoyutv4/SD-4000k-576P-jiaoyutv4
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000027253&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="guangdong" tvg-logo="guangdong.png",广东卫视
-http://183.207.248.71:80/cntv/live1/n-guangdongstv/n-guangdongstv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="dongnan" tvg-logo="dongnan.png",东南卫视
-http://183.207.248.71:80/cntv/live1/n-dongnanstv/n-dongnanstv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="dongfang" tvg-logo="dongfang.png",东方卫视
-http://183.207.248.71:80/cntv/live1/n-dongfangstv/n-dongfangstv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="btv1" tvg-logo="btv1.png",北京卫视
-http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-beijingstv
-
-#EXTINF:-1 tvg-id="btvjishi" tvg-logo="btvjishi.png",北京纪实
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021288&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="tvs-2" tvg-logo="tvs-2.png",南方卫视
-http://183.207.248.71:80/cntv/live1/SD-4000k-576P-nanfangstv/SD-4000k-576P-nanfangstv
-
-#EXTINF:-1 tvg-id="xiamen" tvg-logo="xiamen.png",厦门卫视
-http://183.207.248.71:80/cntv/live1/SD-4000k-576P-xiamenstv/SD-4000k-576P-xiamenstv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="tianjin" tvg-logo="tianjin.png",天津卫视
-http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tianjinstv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="anhui" tvg-logo="anhui.png",安徽卫视
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-anhuistv/HD-8000k-1080P-anhuistv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="shandong" tvg-logo="shandong.png",山东卫视
-http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="jiangsu" tvg-logo="jiangsu.png",江苏卫视
-http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004684&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="jiangxi" tvg-logo="jiangxi.png",江西卫视
-http://183.207.248.71:80/cntv/live1/jiangxistv/jiangxistv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="hebei" tvg-logo="hebei.png",河北卫视
-http://183.207.248.71:80/cntv/live1/n-hebeistv/n-hebeistv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="zhejiang" tvg-logo="zhejiang.png",浙江卫视
-http://183.207.248.71:80/cntv/live1/zhejiangstv/zhejiangstv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="shenzhen" tvg-logo="shenzhen.png",深圳卫视
-http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011645&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="hubei" tvg-logo="hubei.png",湖北卫视
-http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-hubeistv/HD-2500k-1080P-hubeistv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="hunan" tvg-logo="hunan.png",湖南卫视
-http://183.207.248.71:80/cntv/live1/hunanstv/hunanstv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="chongqing" tvg-logo="chongqing.png",重庆卫视
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="heilongjiang" tvg-logo="heilongjiang.png",黑龙江卫视
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-heilongjiangstv/HD-8000k-1080P-heilongjiangstv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009082&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="sichuan" tvg-logo="sichuan.png",四川卫视
-http://183.207.248.71:80/cntv/live1/n-sichuanstv/n-sichuanstv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="yunnan" tvg-logo="yunnan.png",云南卫视
-http://183.207.248.71:80/cntv/live1/n-yntv1/n-yntv1
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="ningxia" tvg-logo="ningxia.png",宁夏卫视
-http://183.207.248.71:80/cntv/live1/n-ningxiastv/n-ningxiastv
-
-#EXTINF:-1 tvg-id="bingtuan" tvg-logo="bingtuan.png",兵团卫视
-http://183.207.248.71:80/cntv/live1/SD-4000k-576P-bingtuanstv/SD-4000k-576P-bingtuanstv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031451&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="neimenggu" tvg-logo="neimenggu.png",内蒙古卫视
-http://183.207.248.71:80/cntv/live1/n-neimenggustv/n-neimenggustv
-
-#EXTINF:-1 tvg-id="nonglin" tvg-logo="nonglin.png",农林卫视
-http://183.207.248.71:80/cntv/live1/SD-4000k-576P-nonglinstv/SD-4000k-576P-nonglinstv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="shan1xi" tvg-logo="shan1xi.png",山西卫视
-http://183.207.248.71:80/cntv/live1/n-shanxistv/n-shanxistv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="guangxi" tvg-logo="guangxi.png",广西卫视
-http://183.207.248.71:80/cntv/live1/n-guangxistv/n-guangxistv
-
-#EXTINF:-1 tvg-id="kangba" tvg-logo="kangba.png",康巴卫视
-http://183.207.248.71:80/cntv/live1/SD-4000k-576P-kambatv/SD-4000k-576P-kambatv
-
-#EXTINF:-1 tvg-id="yanbian" tvg-logo="yanbian.png",延边卫视
-http://183.207.248.71:80/cntv/live1/SD-4000k-576P-yanbianstv/SD-4000k-576P-yanbianstv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="xinjiang" tvg-logo="xinjiang.png",新疆卫视
-http://183.207.248.71:80/cntv/live1/n-xjtv1/n-xjtv1
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="gansu" tvg-logo="gansu.png",甘肃卫视
-http://183.207.248.71:80/cntv/live1/n-gansustv/n-gansustv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="anduo" tvg-logo="anduo.png",安多卫视
 http://183.207.248.71:80/cntv/live1/anduostv/anduostv
 
-#EXTINF:-1 tvg-id="ningxia" tvg-logo="ningxia.png",宁夏卫视
-http://183.207.248.71:80/cntv/live1/n-ningxiastv/n-ningxiastv
-
 #EXTINF:-1 tvg-id="xizang" tvg-logo="xizang.png",西藏卫视
-http://183.207.248.71:80/cntv/live1/n-xizangstv/n-xizangstv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6603041244077933770&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="guizhou" tvg-logo="guizhou.png",贵州卫视
-http://183.207.248.71:80/cntv/live1/n-guizhoustv/n-guizhoustv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="henan" tvg-logo="henan.png",河南卫视
-http://183.207.248.71:80/cntv/live1/henanstv/henanstv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7384596500152929578&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="liaoning" tvg-logo="liaoning.png",辽宁卫视
-http://183.207.248.71:80/cntv/live1/liaoningstv/liaoningstv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="shanxi" tvg-logo="shanxi.png",陕西卫视
-http://183.207.248.71:80/cntv/live1/n-shanxi1stv/n-shanxi1stv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="qinghai" tvg-logo="qinghai.png",青海卫视
-http://183.207.248.71:80/cntv/live1/n-qinghaistv/n-qinghaistv
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="shanghaijishi" tvg-logo="shanghaijishi.png",纪实人文
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-1080P-shanghaijishi
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010606&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="sdetv" tvg-logo="sdetv.png",山东教育电视台
-http://183.207.248.71:80/cntv/live1/n-shandongjy/n-shandongjy
-
-#EXTINF:-1 tvg-id="newtvbj" tvg-logo="newtvbj.png",NewTV世界搏击
-http://183.207.248.71:80/cntv/live1/n-bokesen/n-bokesen
-
-#EXTINF:-1 tvg-id="newtvjk" tvg-logo="newtvjk.png",NewTV健康有约
-http://183.207.248.71:80/cntv/live1/n-ljiankangyouyue/n-ljiankangyouyue
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="newtvjs" tvg-logo="newtvjs.png",NewTV军事评论
-http://183.207.248.71:80/cntv/live1/n-junshipl/n-junshipl
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="newtvgz" tvg-logo="newtvgz.png",NewTV古装剧场
-http://183.207.248.71:80/cntv/live1/n-guzhuangjc/n-guzhuangjc
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="newjunlv" tvg-logo="newtvjunlv.png",NewTV军旅剧场
-http://183.207.248.71:80/cntv/live1/n-junlvjc/n-junlvjc
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="newtvnongye" tvg-logo="newtvnongye.png",NewTV农业致富
-http://183.207.248.71:80/cntv/live1/n-nongyezf/n-nongyezf
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="newtvdz" tvg-logo="newtvdz.png",NewTV动作电影
-http://183.207.248.71:80/cntv/live1/n-dongzuody/n-dongzuody
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="newtvjt" tvg-logo="newtvjt.png",NewTV家庭剧场
-http://183.207.248.71:80/cntv/live1/n-jiatingjc/n-jiatingjc
-
-#EXTINF:-1 tvg-id="newtvjsdy" tvg-logo="newtvjsdy.png",NewTV惊悚电影
-http://183.207.248.71:80/cntv/live1/n-jingsongxy/n-jingsongxy
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="newtvcmlapo" tvg-logo="newtvcmlapo.png",NewTV潮妈辣婆
-http://183.207.248.71:80/cntv/live1/n-cmlapo/n-cmlapo
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="newtvxwwl" tvg-logo="newtvxwwl.png",NewTV炫舞未来
-http://183.207.248.71:80/cntv/live1/HD-4000k-1080P-xwwl/HD-4000k-1080P-xwwl
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="newtvaqxj" tvg-logo="newtvaqxj.png",NewTV爱情喜剧
-http://183.207.248.71:80/cntv/live1/n-aiqingxj/n-aiqingxj
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="newtvtiyu" tvg-logo="newtvtiyu.png",NewTV精品体育
-http://183.207.248.71:80/cntv/live1/n-jtiyu/n-jtiyu
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="newtvjp" tvg-logo="newtvjp.png",NewTV精品大剧
-http://183.207.248.71:80/cntv/live1/n-jdaju/n-jdaju
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="newtvjl" tvg-logo="newtvjl.png",NewTV精品纪录
-http://183.207.248.71:80/cntv/live1/n-jingpinjl/n-jingpinjl
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="newtvzongyi" tvg-logo="newtvzongyi.png",NewTV金牌综艺
-http://183.207.248.71:80/cntv/live1/n-saishijx/n-saishijx
+,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="newtvgf" tvg-logo="newtvgf.png",NewTV中国功夫
-http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu
-
-#EXTINF:-1 tvg-id="newtvrbjx" tvg-logo="newtvrbjx.png",NewTV热播精选
-http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd
-
-#EXTINF:-1 tvg-id="newtvjpzh" tvg-logo="newtvjpzh.png",NewTV精品综合
-http://183.207.248.71:80/cntv/live1/n-mingxingdp/n-mingxingdp
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="hmdj" tvg-logo="hmdj.png",NewTV黑莓电竞之夜
-http://183.207.248.71:80/cntv/live1/wmyx/wmyx
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="hmdy" tvg-logo="hmdy.png",NewTV黑莓电影
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="hmdh" tvg-logo="hmdh.png",NewTV黑莓动画
-http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="btvchild" tvg-logo="btvchild.png",卡酷少儿
-http://183.207.248.71:80/cntv/live1/n-kakukaton/n-kakukaton
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7589856436881630561&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="jjkt" tvg-logo="jjkt.png",嘉佳卡通
-http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiajiakaton/SD-4000k-576P-jiajiakaton
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="xdkt" tvg-logo="xdkt.png",炫动卡通
 http://183.207.248.71:80/cntv/live1/n-xuandongkaton/n-xuandongkaton
 
 #EXTINF:-1 tvg-id="jykt" tvg-logo="jykt.png",金鹰卡通
-http://183.207.248.71:80/cntv/live1/n-jinyingkaton/n-jinyingkaton
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="JSTV-youmankatong" tvg-logo="ymkt.png",优漫卡通
-http://183.207.248.71:80/cntv/live1/n-youmankaton/n-youmankaton
-
-#EXTINF:-1 tvg-id="meishi" tvg-logo="meishi.png",中华美食
-http://183.207.248.71:80/cntv/live1/SD-4000k-576P-zhmeishi/SD-4000k-576P-zhmeishi
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=2
 
 #EXTINF:-1 tvg-id="4K" tvg-logo="4K.png",纯享4K
-http://183.207.248.71:80/cntv/live1/HD-20M-2160P-chunxiang4k/HD-20M-2160P-chunxiang4k
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=2
