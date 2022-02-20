@@ -307,7 +307,7 @@
         <title lang="zh">新闻联播</title>
     </programme>
     <programme start="20220220193700" stop="20220220214500" channel="cctv1">
-        <title lang="zh">新闻直播间(北京冬奥闭幕式特别节目)</title>
+        <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20220220214500" stop="20220220220000" channel="cctv1">
         <title lang="zh">综艺喜乐汇-2022-106</title>
@@ -315,32 +315,38 @@
     <programme start="20220220220000" stop="20220220223300" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20220220223300" stop="20220220234300" channel="cctv1">
-        <title lang="zh">等着我-2022-4</title>
+    <programme start="20220220223300" stop="20220220235900" channel="cctv1">
+        <title lang="zh">《典籍里的中国》-《尚书》</title>
     </programme>
-    <programme start="20220220234300" stop="20220220235900" channel="cctv1">
+    <programme start="20220221000400" stop="20220221005900" channel="cctv1">
         <title lang="zh">开讲啦-2022-8</title>
     </programme>
-    <programme start="20220221003800" stop="20220221013000" channel="cctv1">
+    <programme start="20220221005900" stop="20220221015100" channel="cctv1">
         <title lang="zh">国际艺苑-2022-8</title>
     </programme>
-    <programme start="20220221013000" stop="20220221014700" channel="cctv1">
+    <programme start="20220221015100" stop="20220221020800" channel="cctv1">
         <title lang="zh">美术经典中的党史-102</title>
     </programme>
-    <programme start="20220221014700" stop="20220221021900" channel="cctv1">
+    <programme start="20220221020800" stop="20220221024000" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20220221021900" stop="20220221032100" channel="cctv1">
-        <title lang="zh">等着我-2022-4</title>
+    <programme start="20220221024000" stop="20220221030900" channel="cctv1">
+        <title lang="zh">人与自然-2022-37</title>
     </programme>
-    <programme start="20220221032100" stop="20220221032700" channel="cctv1">
-        <title lang="zh">综艺喜乐汇-2022-106</title>
+    <programme start="20220221030900" stop="20220221031400" channel="cctv1">
+        <title lang="zh">当非遗遇上冬奥-14</title>
     </programme>
-    <programme start="20220221032700" stop="20220221034100" channel="cctv1">
+    <programme start="20220221031400" stop="20220221031900" channel="cctv1">
+        <title lang="zh">精彩一刻-2021-193美丽中国长白山温泉(4K)</title>
+    </programme>
+    <programme start="20220221031900" stop="20220221032400" channel="cctv1">
+        <title lang="zh">精彩一刻-2021-196美丽中国长白山森林(4K)</title>
+    </programme>
+    <programme start="20220221032400" stop="20220221032900" channel="cctv1">
+        <title lang="zh">精彩一刻-2021-191美丽中国长白山天池(4K)</title>
+    </programme>
+    <programme start="20220221032900" stop="20220221034400" channel="cctv1">
         <title lang="zh">精彩一刻-2020-183新航拍中国第三季吉林交通</title>
-    </programme>
-    <programme start="20220221034100" stop="20220221034400" channel="cctv1">
-        <title lang="zh">综艺喜乐汇-2022-105</title>
     </programme>
     <programme start="20220221034400" stop="20220221042900" channel="cctv1">
         <title lang="zh">开讲啦-2022-6</title>
@@ -1563,10 +1569,10 @@
     <programme start="20220220180000" stop="20220220195500" channel="cctv5">
         <title lang="zh">《全景冬奥会》</title>
     </programme>
-    <programme start="20220220195500" stop="20220220213000" channel="cctv5">
+    <programme start="20220220195500" stop="20220220214500" channel="cctv5">
         <title lang="zh">北京冬奥会-闭幕式</title>
     </programme>
-    <programme start="20220220213000" stop="20220220223200" channel="cctv5">
+    <programme start="20220220214500" stop="20220220223200" channel="cctv5">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 自由式滑雪男子空中技巧决赛(4K)</title>
     </programme>
     <programme start="20220220223200" stop="20220220233400" channel="cctv5">
@@ -1767,10 +1773,10 @@
     <programme start="20220220183000" stop="20220220195500" channel="cctv5plus">
         <title lang="zh">录像：北京冬奥会 越野滑雪女子30公里</title>
     </programme>
-    <programme start="20220220195500" stop="20220220213000" channel="cctv5plus">
+    <programme start="20220220195500" stop="20220220214500" channel="cctv5plus">
         <title lang="zh">北京冬奥会-闭幕式</title>
     </programme>
-    <programme start="20220220213000" stop="20220220220200" channel="cctv5plus">
+    <programme start="20220220214500" stop="20220220220200" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 短道速滑比赛精选1（4K）</title>
     </programme>
     <programme start="20220220220200" stop="20220220233400" channel="cctv5plus">
@@ -4701,10 +4707,10 @@
     <programme start="20220220185500" stop="20220220195500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 自由式滑雪男子空中技巧决赛(4K)</title>
     </programme>
-    <programme start="20220220195500" stop="20220220213000" channel="cctv16">
+    <programme start="20220220195500" stop="20220220214500" channel="cctv16">
         <title lang="zh">北京冬奥会-闭幕式</title>
     </programme>
-    <programme start="20220220213000" stop="20220220220000" channel="cctv16">
+    <programme start="20220220214500" stop="20220220220000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 越野滑雪女子双追逐决赛（4K）</title>
     </programme>
     <programme start="20220220220000" stop="20220220233000" channel="cctv16">
