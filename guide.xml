@@ -1161,10 +1161,10 @@
     <programme start="20220305073000" stop="20220305080000" channel="cctv4">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme start="20220305080000" stop="20220305114900" channel="cctv4">
+    <programme start="20220305080000" stop="20220305115000" channel="cctv4">
         <title lang="zh">2022年全国两会直播报道-4</title>
     </programme>
-    <programme start="20220305114900" stop="20220305120000" channel="cctv4">
+    <programme start="20220305115000" stop="20220305120000" channel="cctv4">
         <title lang="zh">记住乡愁2018片段展播-8</title>
     </programme>
     <programme start="20220305120000" stop="20220305130000" channel="cctv4">
@@ -1477,7 +1477,7 @@
         <title lang="zh">实况录像-2023年国际篮联世界杯欧洲区预选赛 斯洛文尼亚队—芬兰队</title>
     </programme>
     <programme start="20220305100000" stop="20220305112000" channel="cctv5">
-        <title lang="zh">北京冬残奥会- 赛事转播</title>
+        <title lang="zh">北京冬残奥会 冬季两项男子/女子6公里(坐姿)</title>
     </programme>
     <programme start="20220305112000" stop="20220305114500" channel="cctv5">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 短道速滑比赛精选1（4K）</title>
@@ -1485,11 +1485,23 @@
     <programme start="20220305114500" stop="20220305120000" channel="cctv5">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 冬奥典藏5（4K）</title>
     </programme>
-    <programme start="20220305120000" stop="20220305123500" channel="cctv5">
+    <programme start="20220305120000" stop="20220305121500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20220305123500" stop="20220305170000" channel="cctv5">
-        <title lang="zh">北京冬残奥会- 赛事转播</title>
+    <programme start="20220305121500" stop="20220305125000" channel="cctv5">
+        <title lang="zh">北京冬残奥会 冬季两项 站姿女子6公里</title>
+    </programme>
+    <programme start="20220305125000" stop="20220305131500" channel="cctv5">
+        <title lang="zh">北京冬残奥会 冬季两项 站姿男子6公里</title>
+    </programme>
+    <programme start="20220305131500" stop="20220305140000" channel="cctv5">
+        <title lang="zh">实况录像-北京冬残奥会 高山滑雪 滑降女子站姿</title>
+    </programme>
+    <programme start="20220305140000" stop="20220305143500" channel="cctv5">
+        <title lang="zh">北京冬残奥会 冬季两项 视障女子6公里</title>
+    </programme>
+    <programme start="20220305143500" stop="20220305170000" channel="cctv5">
+        <title lang="zh">北京冬残奥会 轮椅冰壶循环赛 中国-加拿大</title>
     </programme>
     <programme start="20220305170000" stop="20220305180000" channel="cctv5">
         <title lang="zh">实况录像-2021/2022赛季斯诺克威尔士公开赛 1/4决赛（录播）</title>
@@ -1497,8 +1509,14 @@
     <programme start="20220305180000" stop="20220305183500" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20220305183500" stop="20220305220000" channel="cctv5">
-        <title lang="zh">北京冬残奥会- 赛事转播</title>
+    <programme start="20220305183500" stop="20220305190000" channel="cctv5">
+        <title lang="zh">实况录像-北京冬残奥会 冬季两项 视障男子6公里</title>
+    </programme>
+    <programme start="20220305190000" stop="20220305200500" channel="cctv5">
+        <title lang="zh">实况录像-北京冬残奥会 高山滑雪 滑降男子坐姿、站姿</title>
+    </programme>
+    <programme start="20220305200500" stop="20220305220000" channel="cctv5">
+        <title lang="zh">北京冬残奥会 冰球 斯洛伐克-中国</title>
     </programme>
     <programme start="20220305220000" stop="20220305225000" channel="cctv5">
         <title lang="zh">体育世界</title>
@@ -2016,31 +2034,31 @@
     <programme start="20220305190000" stop="20220305193300" channel="cctv7">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20220305193300" stop="20220305200300" channel="cctv7">
+    <programme start="20220305193300" stop="20220305203700" channel="cctv7">
         <title lang="zh">军事报道</title>
     </programme>
-    <programme start="20220305200300" stop="20220305200900" channel="cctv7">
+    <programme start="20220305203700" stop="20220305204300" channel="cctv7">
         <title lang="zh">国防微视频-军歌嘹亮-红心向战</title>
     </programme>
-    <programme start="20220305200900" stop="20220305204500" channel="cctv7">
+    <programme start="20220305204300" stop="20220305211900" channel="cctv7">
         <title lang="zh">军事制高点-2022-19</title>
     </programme>
-    <programme start="20220305204500" stop="20220305212100" channel="cctv7">
+    <programme start="20220305211900" stop="20220305215500" channel="cctv7">
         <title lang="zh">军武零距离-2021-42 (4K)</title>
     </programme>
-    <programme start="20220305212100" stop="20220305223000" channel="cctv7">
+    <programme start="20220305215500" stop="20220305230400" channel="cctv7">
         <title lang="zh">老兵你好-2022-10</title>
     </programme>
-    <programme start="20220305223000" stop="20220305231900" channel="cctv7">
+    <programme start="20220305230400" stop="20220305235300" channel="cctv7">
         <title lang="zh">叛逆者6/43</title>
     </programme>
-    <programme start="20220305231900" stop="20220305235900" channel="cctv7">
+    <programme start="20220305235300" stop="20220305235900" channel="cctv7">
         <title lang="zh">叛逆者7/43</title>
     </programme>
-    <programme start="20220306000900" stop="20220306005200" channel="cctv7">
+    <programme start="20220306004300" stop="20220306012600" channel="cctv7">
         <title lang="zh">军事制高点-2022-19</title>
     </programme>
-    <programme start="20220306005200" stop="20220306060300" channel="cctv7">
+    <programme start="20220306012600" stop="20220306060300" channel="cctv7">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20220306060300" stop="20220306063400" channel="cctv7">
@@ -2052,32 +2070,23 @@
     <programme start="20220306070400" stop="20220306073000" channel="cctv7">
         <title lang="zh">世界战史-2020-152</title>
     </programme>
-    <programme start="20220306073000" stop="20220306075800" channel="cctv7">
+    <programme start="20220306073000" stop="20220306081200" channel="cctv7">
         <title lang="zh">国防军事早报</title>
     </programme>
-    <programme start="20220306075800" stop="20220306090000" channel="cctv7">
+    <programme start="20220306081200" stop="20220306091400" channel="cctv7">
         <title lang="zh">老兵你好-2022-10</title>
     </programme>
-    <programme start="20220306090000" stop="20220306090400" channel="cctv7">
-        <title lang="zh">国防微视频-军歌嘹亮-红心向战</title>
-    </programme>
-    <programme start="20220306090400" stop="20220306093800" channel="cctv7">
+    <programme start="20220306091400" stop="20220306094600" channel="cctv7">
         <title lang="zh">军事制高点-2022-19</title>
     </programme>
-    <programme start="20220306093800" stop="20220306101000" channel="cctv7">
+    <programme start="20220306094600" stop="20220306102100" channel="cctv7">
         <title lang="zh">军事科技-2022-9</title>
     </programme>
-    <programme start="20220306101000" stop="20220306101700" channel="cctv7">
-        <title lang="zh">国防微视频-军歌嘹亮-当那一天来临-3</title>
-    </programme>
-    <programme start="20220306101700" stop="20220306105300" channel="cctv7">
+    <programme start="20220306102100" stop="20220306105500" channel="cctv7">
         <title lang="zh">国防科工-2022-9</title>
     </programme>
-    <programme start="20220306105300" stop="20220306115300" channel="cctv7">
+    <programme start="20220306105500" stop="20220306120000" channel="cctv7">
         <title lang="zh">谁是终极英雄-2022-8</title>
-    </programme>
-    <programme start="20220306115300" stop="20220306120000" channel="cctv7">
-        <title lang="zh">国防微视频-军歌嘹亮-红心向战</title>
     </programme>
     <programme start="20220306120000" stop="20220306124700" channel="cctv7">
         <title lang="zh">正午国防军事</title>
@@ -4378,7 +4387,7 @@
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 雪橇团体接力决赛</title>
     </programme>
     <programme start="20220305100000" stop="20220305130500" channel="cctv16">
-        <title lang="zh">北京冬残奥会-赛事转播03.05-1</title>
+        <title lang="zh">北京冬残奥会 高山滑雪 女子/男子滑降</title>
     </programme>
     <programme start="20220305130500" stop="20220305132500" channel="cctv16">
         <title lang="zh">艺术里的奥林匹克-2022-3</title>
