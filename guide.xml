@@ -1620,17 +1620,20 @@
     <programme start="20220310073000" stop="20220310080000" channel="cctv5">
         <title lang="zh">健身动起来</title>
     </programme>
-    <programme start="20220310080000" stop="20220310093000" channel="cctv5">
+    <programme start="20220310080000" stop="20220310093500" channel="cctv5">
         <title lang="zh">实况录像-2021/2022赛季斯诺克威尔士公开赛 精选 1</title>
     </programme>
-    <programme start="20220310093000" stop="20220310120000" channel="cctv5">
-        <title lang="zh">北京冬残奥会-赛事转播3.10-1</title>
+    <programme start="20220310093500" stop="20220310120000" channel="cctv5">
+        <title lang="zh">直播：北京冬残奥会 轮椅冰壶 中国-英国</title>
     </programme>
-    <programme start="20220310120000" stop="20220310123500" channel="cctv5">
+    <programme start="20220310120000" stop="20220310123000" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20220310123500" stop="20220310153200" channel="cctv5">
-        <title lang="zh">北京冬残奥会-赛事转播3.10-2</title>
+    <programme start="20220310123000" stop="20220310140000" channel="cctv5">
+        <title lang="zh">直播：北京冬残奥会 高山滑雪大回转2 男子视障、站姿、坐姿</title>
+    </programme>
+    <programme start="20220310140000" stop="20220310153200" channel="cctv5">
+        <title lang="zh">录像：北京冬残奥会 冰球</title>
     </programme>
     <programme start="20220310153200" stop="20220310163000" channel="cctv5">
         <title lang="zh">实况录像-2022年世界竞走团体锦标赛 精选2</title>
@@ -1641,8 +1644,11 @@
     <programme start="20220310180000" stop="20220310183500" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20220310183500" stop="20220310220000" channel="cctv5">
-        <title lang="zh">北京冬残奥会-赛事转播3.10-3</title>
+    <programme start="20220310183500" stop="20220310193500" channel="cctv5">
+        <title lang="zh">录像：北京冬残奥会 轮椅冰壶 中国-英国</title>
+    </programme>
+    <programme start="20220310193500" stop="20220310220000" channel="cctv5">
+        <title lang="zh">直播：北京冬残奥会 轮椅冰壶 拉脱维亚-中国</title>
     </programme>
     <programme start="20220310220000" stop="20220310225000" channel="cctv5">
         <title lang="zh">体育世界</title>
@@ -3918,28 +3924,25 @@
     <programme start="20220309180000" stop="20220309190000" channel="cctv13">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme start="20220309190000" stop="20220309193100" channel="cctv13">
+    <programme start="20220309190000" stop="20220309194100" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20220309193100" stop="20220309193900" channel="cctv13">
+    <programme start="20220309194100" stop="20220309194800" channel="cctv13">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme start="20220309193900" stop="20220309200000" channel="cctv13">
+    <programme start="20220309194800" stop="20220309200800" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20220309200000" stop="20220309210000" channel="cctv13">
+    <programme start="20220309200800" stop="20220309210000" channel="cctv13">
         <title lang="zh">东方时空</title>
     </programme>
-    <programme start="20220309210000" stop="20220309213000" channel="cctv13">
+    <programme start="20220309210000" stop="20220309213900" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20220309213000" stop="20220309220000" channel="cctv13">
+    <programme start="20220309213900" stop="20220309220900" channel="cctv13">
         <title lang="zh">新闻1+1（两会1+1）</title>
     </programme>
-    <programme start="20220309220000" stop="20220309223000" channel="cctv13">
-        <title lang="zh">国际时讯</title>
-    </programme>
-    <programme start="20220309223000" stop="20220309230000" channel="cctv13">
+    <programme start="20220309220900" stop="20220309230000" channel="cctv13">
         <title lang="zh">环球视线</title>
     </programme>
     <programme start="20220309230000" stop="20220309235900" channel="cctv13">
@@ -4609,7 +4612,7 @@
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 越野滑雪男子4X10公里接力决赛(4K)</title>
     </programme>
     <programme start="20220310083000" stop="20220310102500" channel="cctv16">
-        <title lang="zh">北京冬残奥会-赛事转播03.10-1</title>
+        <title lang="zh">直播：北京冬残奥会 高山滑雪大回转1 男子视障、站姿、坐姿</title>
     </programme>
     <programme start="20220310102500" stop="20220310115000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 短道速滑比赛精选1（4K）</title>
@@ -4641,11 +4644,8 @@
     <programme start="20220310180500" stop="20220310190000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 单板滑雪男子坡面障碍技巧决赛(4K)</title>
     </programme>
-    <programme start="20220310190000" stop="20220310195500" channel="cctv16">
+    <programme start="20220310190000" stop="20220310201000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 速度滑冰比赛精选2(4K)</title>
-    </programme>
-    <programme start="20220310195500" stop="20220310201000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 冬奥典藏7（4K）</title>
     </programme>
     <programme start="20220310201000" stop="20220310203000" channel="cctv16">
         <title lang="zh">艺术里的奥林匹克-2022-3</title>
