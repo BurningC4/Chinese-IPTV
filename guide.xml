@@ -585,13 +585,16 @@
     <programme start="20220311215500" stop="20220311220000" channel="cctv1">
         <title lang="zh">2022秘境之眼-28</title>
     </programme>
-    <programme start="20220311220000" stop="20220311223300" channel="cctv1">
+    <programme start="20220311220000" stop="20220311223200" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20220311223300" stop="20220311225900" channel="cctv1">
+    <programme start="20220311223200" stop="20220311232200" channel="cctv1">
+        <title lang="zh">2022中国诗词大会-7-2/2</title>
+    </programme>
+    <programme start="20220311232200" stop="20220311235200" channel="cctv1">
         <title lang="zh">活力·源2022-71</title>
     </programme>
-    <programme start="20220311225900" stop="20220311235900" channel="cctv1">
+    <programme start="20220311235200" stop="20220311235900" channel="cctv1">
         <title lang="zh">星光大道-2022-10</title>
     </programme>
     <programme start="20220309002200" stop="20220309005600" channel="cctv2">
@@ -2593,13 +2596,13 @@
         <title lang="zh">人世间第18集</title>
     </programme>
     <programme start="20220310202400" stop="20220310202800" channel="cctv8">
-        <title lang="zh">本集提要-《人世间》19/58</title>
+        <title lang="zh">本集提要- 《人世间》第19集</title>
     </programme>
     <programme start="20220310202800" stop="20220310212100" channel="cctv8">
         <title lang="zh">人世间第19集</title>
     </programme>
     <programme start="20220310212100" stop="20220310212500" channel="cctv8">
-        <title lang="zh">本集提要-《人世间》20/58</title>
+        <title lang="zh">本集提要- 《人世间》第20集</title>
     </programme>
     <programme start="20220310212500" stop="20220310221500" channel="cctv8">
         <title lang="zh">人世间第20集</title>
@@ -4573,7 +4576,7 @@
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 单板滑雪男子大跳台决赛</title>
     </programme>
     <programme start="20220309194000" stop="20220309200000" channel="cctv16">
-        <title lang="zh">艺术里的奥林匹克-2022-2</title>
+        <title lang="zh">艺术里的奥林匹克-2022-17</title>
     </programme>
     <programme start="20220309200000" stop="20220309210000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 自由式滑雪女子大跳台决赛(4K)</title>
@@ -4605,26 +4608,23 @@
     <programme start="20220310055600" stop="20220310071900" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2021年世界羽联巡回赛总决赛 精选1</title>
     </programme>
-    <programme start="20220310071900" stop="20220310080600" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2021年世界短池游泳锦标赛 精选3</title>
+    <programme start="20220310071900" stop="20220310080500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2021年世界短池游泳锦标赛 精选3（4K）</title>
     </programme>
-    <programme start="20220310080600" stop="20220310083300" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 越野滑雪男子4X10公里接力决赛</title>
+    <programme start="20220310080500" stop="20220310083000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 越野滑雪男子4X10公里接力决赛(4K)</title>
     </programme>
-    <programme start="20220310083300" stop="20220310093000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 单板滑雪女子障碍追逐决赛</title>
-    </programme>
-    <programme start="20220310093000" stop="20220310100000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 短道速滑比赛精选1</title>
-    </programme>
-    <programme start="20220310100000" stop="20220310115000" channel="cctv16">
+    <programme start="20220310083000" stop="20220310102500" channel="cctv16">
         <title lang="zh">北京冬残奥会-赛事转播03.10-1</title>
+    </programme>
+    <programme start="20220310102500" stop="20220310115000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 短道速滑比赛精选1（4K）</title>
     </programme>
     <programme start="20220310115000" stop="20220310120000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 冬奥典藏1</title>
     </programme>
     <programme start="20220310120000" stop="20220310122000" channel="cctv16">
-        <title lang="zh">艺术里的奥林匹克-2022-2</title>
+        <title lang="zh">艺术里的奥林匹克-2022-17</title>
     </programme>
     <programme start="20220310122000" stop="20220310132000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 自由式滑雪空中技巧混合团体决赛</title>
@@ -4644,8 +4644,14 @@
     <programme start="20220310170700" stop="20220310180500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 高山滑雪混合团体决赛</title>
     </programme>
-    <programme start="20220310180500" stop="20220310201000" channel="cctv16">
-        <title lang="zh">北京冬残奥会-赛事转播03.10-2</title>
+    <programme start="20220310180500" stop="20220310190000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 单板滑雪男子坡面障碍技巧决赛(4K)</title>
+    </programme>
+    <programme start="20220310190000" stop="20220310195500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 速度滑冰比赛精选2(4K)</title>
+    </programme>
+    <programme start="20220310195500" stop="20220310201000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 冬奥典藏7（4K）</title>
     </programme>
     <programme start="20220310201000" stop="20220310203000" channel="cctv16">
         <title lang="zh">艺术里的奥林匹克-2022-3</title>
@@ -4653,11 +4659,8 @@
     <programme start="20220310203000" stop="20220310213000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 自由式滑雪女子空中技巧决赛</title>
     </programme>
-    <programme start="20220310213000" stop="20220310230000" channel="cctv16">
+    <programme start="20220310213000" stop="20220310235900" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 冰壶男子循环赛 意大利队-中国队</title>
-    </programme>
-    <programme start="20220310230000" stop="20220310235900" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 单板滑雪女子U型场地决赛</title>
     </programme>
     <programme start="20220311000000" stop="20220311002700" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 越野滑雪男子个人短距离决赛</title>
