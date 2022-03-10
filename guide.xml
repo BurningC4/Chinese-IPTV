@@ -1557,20 +1557,23 @@
     <programme start="20220311083000" stop="20220311100000" channel="cctv5">
         <title lang="zh">实况录像-2021/2022赛季斯诺克威尔士公开赛 精选 2</title>
     </programme>
-    <programme start="20220311100000" stop="20220311112000" channel="cctv5">
-        <title lang="zh">北京冬残奥会-赛事转播3.11-1</title>
+    <programme start="20220311100000" stop="20220311111500" channel="cctv5">
+        <title lang="zh">直播：北京冬残奥会 冬季两项女子、男子12.5公里坐姿</title>
     </programme>
-    <programme start="20220311112000" stop="20220311114500" channel="cctv5">
-        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 短道速滑比赛精选4(4K)</title>
-    </programme>
-    <programme start="20220311114500" stop="20220311130000" channel="cctv5">
-        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 冬奥典藏5（4K）</title>
-    </programme>
-    <programme start="20220311130000" stop="20220311133000" channel="cctv5">
+    <programme start="20220311111500" stop="20220311114500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20220311133000" stop="20220311170000" channel="cctv5">
-        <title lang="zh">北京冬残奥会-赛事转播3.11-2</title>
+    <programme start="20220311114500" stop="20220311130000" channel="cctv5">
+        <title lang="zh">直播：北京冬残奥会 高山滑雪女子大回转女子视障、站姿、坐姿</title>
+    </programme>
+    <programme start="20220311130000" stop="20220311140000" channel="cctv5">
+        <title lang="zh">录播：北京冬残奥会 冬季两项女子、男子12.5公里站姿</title>
+    </programme>
+    <programme start="20220311140000" stop="20220311143500" channel="cctv5">
+        <title lang="zh">录播：北京冬残奥会 单板滑雪坡面回转精选</title>
+    </programme>
+    <programme start="20220311143500" stop="20220311170000" channel="cctv5">
+        <title lang="zh">直播：北京冬残奥会 轮椅冰壶半决赛</title>
     </programme>
     <programme start="20220311170000" stop="20220311180000" channel="cctv5">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 单板滑雪男子大跳台决赛(4K)</title>
@@ -1578,8 +1581,11 @@
     <programme start="20220311180000" stop="20220311183500" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20220311183500" stop="20220311220000" channel="cctv5">
-        <title lang="zh">北京冬残奥会-赛事转播3.11-3</title>
+    <programme start="20220311183500" stop="20220311200000" channel="cctv5">
+        <title lang="zh">录播：北京冬残奥会 单板滑雪坡面回转精选</title>
+    </programme>
+    <programme start="20220311200000" stop="20220311220000" channel="cctv5">
+        <title lang="zh">直播：北京冬残奥会 冰球半决赛：中国-美国</title>
     </programme>
     <programme start="20220311220000" stop="20220311225000" channel="cctv5">
         <title lang="zh">体育世界</title>
@@ -4534,7 +4540,7 @@
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 花样滑冰双人自由滑(4K)</title>
     </programme>
     <programme start="20220311110000" stop="20220311130000" channel="cctv16">
-        <title lang="zh">北京冬残奥会-赛事转播03.11-1</title>
+        <title lang="zh">直播：北京冬残奥会 单板滑雪坡面回转男子、女子决赛</title>
     </programme>
     <programme start="20220311130000" stop="20220311131500" channel="cctv16">
         <title lang="zh">艺术里的奥林匹克-2022-3</title>
@@ -4567,13 +4573,10 @@
         <title lang="zh">艺术里的奥林匹克-2022-4</title>
     </programme>
     <programme start="20220311193000" stop="20220311220500" channel="cctv16">
-        <title lang="zh">北京冬残奥会-赛事转播03.11-2</title>
+        <title lang="zh">直播：北京冬残奥会 轮椅冰壶铜牌赛</title>
     </programme>
-    <programme start="20220311220500" stop="20220311230500" channel="cctv16">
+    <programme start="20220311220500" stop="20220311235900" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 单板滑雪男子坡面障碍技巧决赛(4K)</title>
-    </programme>
-    <programme start="20220311230500" stop="20220311235900" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 雪车男子四人决赛(4K)</title>
     </programme>
     <programme start="20220312000500" stop="20220312010500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 高山滑雪混合团体决赛(4K)</title>
