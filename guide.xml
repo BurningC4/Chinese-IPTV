@@ -438,13 +438,22 @@
     <programme start="20220315190000" stop="20220315193900" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20220315193900" stop="20220315200600" channel="cctv1">
+    <programme start="20220315193900" stop="20220315200100" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20220315200600" stop="20220315215500" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+    <programme start="20220315200100" stop="20220315200600" channel="cctv1">
+        <title lang="zh">前情提要-《爱拼会赢》1/35</title>
     </programme>
-    <programme start="20220315215500" stop="20220315220000" channel="cctv1">
+    <programme start="20220315200600" stop="20220315205600" channel="cctv1">
+        <title lang="zh">爱拼会赢1/35</title>
+    </programme>
+    <programme start="20220315205600" stop="20220315210000" channel="cctv1">
+        <title lang="zh">前情提要-《爱拼会赢》2/35</title>
+    </programme>
+    <programme start="20220315210000" stop="20220315215200" channel="cctv1">
+        <title lang="zh">爱拼会赢2/35</title>
+    </programme>
+    <programme start="20220315215200" stop="20220315220000" channel="cctv1">
         <title lang="zh">2022秘境之眼-32</title>
     </programme>
     <programme start="20220315220000" stop="20220315223300" channel="cctv1">
