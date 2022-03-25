@@ -468,16 +468,25 @@
     <programme start="20220326190000" stop="20220326193900" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20220326193900" stop="20220326200600" channel="cctv1">
+    <programme start="20220326193900" stop="20220326200100" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20220326200600" stop="20220326214000" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+    <programme start="20220326200100" stop="20220326200600" channel="cctv1">
+        <title lang="zh">前情提要- 《爱拼会赢》第21集</title>
     </programme>
-    <programme start="20220326214000" stop="20220326215700" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+    <programme start="20220326200600" stop="20220326205700" channel="cctv1">
+        <title lang="zh">爱拼会赢21/35</title>
     </programme>
-    <programme start="20220326215700" stop="20220326220000" channel="cctv1">
+    <programme start="20220326205700" stop="20220326205900" channel="cctv1">
+        <title lang="zh">前情提要- 《爱拼会赢》第22集</title>
+    </programme>
+    <programme start="20220326205900" stop="20220326214700" channel="cctv1">
+        <title lang="zh">爱拼会赢22/35</title>
+    </programme>
+    <programme start="20220326214700" stop="20220326215300" channel="cctv1">
+        <title lang="zh">精彩一刻-2022-24春3分30新疆</title>
+    </programme>
+    <programme start="20220326215300" stop="20220326220000" channel="cctv1">
         <title lang="zh">2022秘境之眼-43</title>
     </programme>
     <programme start="20220326220000" stop="20220326223800" channel="cctv1">
@@ -3963,10 +3972,7 @@
     <programme start="20220325213000" stop="20220325220000" channel="cctv13">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme start="20220325220000" stop="20220325223000" channel="cctv13">
-        <title lang="zh">国际时讯</title>
-    </programme>
-    <programme start="20220325223000" stop="20220325230000" channel="cctv13">
+    <programme start="20220325220000" stop="20220325230000" channel="cctv13">
         <title lang="zh">环球视线</title>
     </programme>
     <programme start="20220325230000" stop="20220325235900" channel="cctv13">
