@@ -1584,23 +1584,26 @@
     <programme start="20220515073000" stop="20220515080000" channel="cctv5">
         <title lang="zh">健身动起来</title>
     </programme>
-    <programme start="20220515080000" stop="20220515090000" channel="cctv5">
-        <title lang="zh">实况录像（奥林匹克）-2021年世界技巧锦标赛 精选2(4K)</title>
-    </programme>
-    <programme start="20220515090000" stop="20220515095000" channel="cctv5">
-        <title lang="zh">实况录像-2021年世界艺术体操锦标赛 精选2</title>
-    </programme>
-    <programme start="20220515095000" stop="20220515100500" channel="cctv5">
+    <programme start="20220515080000" stop="20220515081000" channel="cctv5">
         <title lang="zh">实况录像-2021/2022赛季世界斯诺克锦标赛 罗伯逊的147</title>
     </programme>
-    <programme start="20220515100500" stop="20220515120000" channel="cctv5">
+    <programme start="20220515081000" stop="20220515090500" channel="cctv5">
+        <title lang="zh">实况录像-2021年世界艺术体操锦标赛 精选2</title>
+    </programme>
+    <programme start="20220515090500" stop="20220515110000" channel="cctv5">
         <title lang="zh">实况录像-2022年尤伯杯羽毛球赛 决赛</title>
+    </programme>
+    <programme start="20220515110000" stop="20220515120000" channel="cctv5">
+        <title lang="zh">2022年世界职业拳王争霸赛-超次中量级拳王统一赛（查洛-卡斯塔洛）</title>
     </programme>
     <programme start="20220515120000" stop="20220515123500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20220515123500" stop="20220515140000" channel="cctv5">
-        <title lang="zh">2022年世界职业拳王争霸赛-16</title>
+    <programme start="20220515123500" stop="20220515133000" channel="cctv5">
+        <title lang="zh">2022年世界职业拳王争霸赛-超次中量级拳王统一赛（查洛-卡斯塔洛）</title>
+    </programme>
+    <programme start="20220515133000" stop="20220515140000" channel="cctv5">
+        <title lang="zh">实况录像-2022年射箭世界杯安塔利亚站精选 1</title>
     </programme>
     <programme start="20220515140000" stop="20220515180000" channel="cctv5">
         <title lang="zh">2022年汤姆斯杯羽毛球赛-决赛</title>
@@ -1731,14 +1734,20 @@
     <programme start="20220515080000" stop="20220515090000" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 单板滑雪男子U型场地决赛(4K)</title>
     </programme>
-    <programme start="20220515090000" stop="20220515103000" channel="cctv5plus">
-        <title lang="zh">国际足球赛场-21-22赛季德甲联赛第22轮 波鸿—拜仁慕尼黑</title>
+    <programme start="20220515090000" stop="20220515100000" channel="cctv5plus">
+        <title lang="zh">实况录像（奥林匹克）-2021年世界技巧锦标赛 精选2(4K)</title>
     </programme>
-    <programme start="20220515103000" stop="20220515120000" channel="cctv5plus">
-        <title lang="zh">实况录像-2021/2022赛季中国男子篮球职业联赛 季后赛 总决赛3</title>
+    <programme start="20220515100000" stop="20220515130500" channel="cctv5plus">
+        <title lang="zh">2021/2022赛季北美冰球职业联赛-季后赛2（洛杉矶国王-埃德蒙顿油人）</title>
     </programme>
-    <programme start="20220515120000" stop="20220515140000" channel="cctv5plus">
-        <title lang="zh">实况录像-2021/2022赛季世界斯诺克锦标赛 精选2</title>
+    <programme start="20220515130500" stop="20220515131500" channel="cctv5plus">
+        <title lang="zh">实况录像-2021/2022赛季世界斯诺克锦标赛 罗伯逊的147</title>
+    </programme>
+    <programme start="20220515131500" stop="20220515133500" channel="cctv5plus">
+        <title lang="zh">天下足球-你好，世界杯6</title>
+    </programme>
+    <programme start="20220515133500" stop="20220515140000" channel="cctv5plus">
+        <title lang="zh">天下足球-你好，世界杯7</title>
     </programme>
     <programme start="20220515140000" stop="20220515153000" channel="cctv5plus">
         <title lang="zh">实况录像-2022年世界室内田径锦标赛 精选2</title>
