@@ -468,13 +468,13 @@
     <programme start="20220519200600" stop="20220519205600" channel="cctv1">
         <title lang="zh">新居之约第30集</title>
     </programme>
-    <programme start="20220519205600" stop="20220519205900" channel="cctv1">
+    <programme start="20220519205600" stop="20220519210100" channel="cctv1">
         <title lang="zh">前情提要- 《新居之约》第31集</title>
     </programme>
-    <programme start="20220519205900" stop="20220519215000" channel="cctv1">
+    <programme start="20220519210100" stop="20220519215200" channel="cctv1">
         <title lang="zh">新居之约第31集</title>
     </programme>
-    <programme start="20220519215000" stop="20220519220000" channel="cctv1">
+    <programme start="20220519215200" stop="20220519220000" channel="cctv1">
         <title lang="zh">2022秘境之眼-97</title>
     </programme>
     <programme start="20220519220000" stop="20220519223600" channel="cctv1">
@@ -1797,11 +1797,11 @@
     <programme start="20220519080000" stop="20220519093000" channel="cctv5plus">
         <title lang="zh">国际足球赛场-21-22赛季法甲联赛第34轮 巴黎圣日耳曼—朗斯</title>
     </programme>
-    <programme start="20220519093000" stop="20220519110000" channel="cctv5plus">
-        <title lang="zh">实况录像-2021/2022赛季中国男子篮球职业联赛 季后赛 总决赛4</title>
+    <programme start="20220519093000" stop="20220519123500" channel="cctv5plus">
+        <title lang="zh">2021/2022赛季北美冰球职业联赛-季后赛4（埃德蒙顿油人—卡尔加里火焰）</title>
     </programme>
-    <programme start="20220519110000" stop="20220519130000" channel="cctv5plus">
-        <title lang="zh">实况录像-2022年尤伯杯羽毛球赛 决赛</title>
+    <programme start="20220519123500" stop="20220519130000" channel="cctv5plus">
+        <title lang="zh">天下足球-你好，世界杯7</title>
     </programme>
     <programme start="20220519130000" stop="20220519145800" channel="cctv5plus">
         <title lang="zh">实况录像-2021/2022赛季世界斯诺克锦标赛 精选6</title>
@@ -1849,13 +1849,16 @@
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 跳台滑雪女子个人标准台决赛（4K）</title>
     </programme>
     <programme start="20220520083000" stop="20220520100000" channel="cctv5plus">
-        <title lang="zh">国际足球赛场-2022年南美解放者杯小组赛  巴西科林蒂安—阿根廷博卡青年</title>
+        <title lang="zh">实况录像（奥林匹克）-2021年世界技巧锦标赛 精选1(4K)</title>
     </programme>
-    <programme start="20220520100000" stop="20220520113000" channel="cctv5plus">
+    <programme start="20220520100000" stop="20220520123500" channel="cctv5plus">
         <title lang="zh">实况录像-2021/2022赛季中国男子篮球职业联赛 季后赛 总决赛1</title>
     </programme>
-    <programme start="20220520113000" stop="20220520133000" channel="cctv5plus">
-        <title lang="zh">实况录像-2022年汤姆斯杯羽毛球赛 半决赛</title>
+    <programme start="20220520123500" stop="20220520130000" channel="cctv5plus">
+        <title lang="zh">天下足球-你好，世界杯8</title>
+    </programme>
+    <programme start="20220520130000" stop="20220520133000" channel="cctv5plus">
+        <title lang="zh">实况录像-2021年世界蹦床锦标赛 女子个人决赛</title>
     </programme>
     <programme start="20220520133000" stop="20220520153000" channel="cctv5plus">
         <title lang="zh">实况录像-2021/2022赛季世界斯诺克锦标赛 决赛</title>
@@ -4899,8 +4902,11 @@
     <programme start="20220520165500" stop="20220520173000" channel="cctv16">
         <title lang="zh">五环纪事-2022-10 幕后9（点火仪式）</title>
     </programme>
-    <programme start="20220520173000" stop="20220520192500" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2022年尤伯杯羽毛球赛 决赛</title>
+    <programme start="20220520173000" stop="20220520185500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 花样滑冰双人自由滑(4K)</title>
+    </programme>
+    <programme start="20220520185500" stop="20220520192500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2021年世界蹦床锦标赛 男子个人决赛（4K）</title>
     </programme>
     <programme start="20220520192500" stop="20220520195500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 短道速滑比赛精选2</title>
@@ -4917,11 +4923,8 @@
     <programme start="20220520212500" stop="20220520225000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2022年世界女子冰壶锦标赛 精选2</title>
     </programme>
-    <programme start="20220520225000" stop="20220520234800" channel="cctv16">
+    <programme start="20220520225000" stop="20220520235900" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-北京冬奥会 单板滑雪男子坡面障碍技巧决赛</title>
-    </programme>
-    <programme start="20220520234800" stop="20220520235900" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 高山滑雪女子超级大回转决赛</title>
     </programme>
     <programme start="20220518002000" stop="20220518005000" channel="cctv17">
         <title lang="zh">三农群英汇-2022-157</title>
