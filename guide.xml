@@ -1656,8 +1656,11 @@
     <programme start="20220612120000" stop="20220612123500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20220612123500" stop="20220612143000" channel="cctv5">
+    <programme start="20220612123500" stop="20220612133000" channel="cctv5">
         <title lang="zh">2022年世界职业拳王争霸赛</title>
+    </programme>
+    <programme start="20220612133000" stop="20220612143000" channel="cctv5">
+        <title lang="zh">实况录像-2022年赛艇世界杯贝尔格莱德站 精选</title>
     </programme>
     <programme start="20220612143000" stop="20220612163000" channel="cctv5">
         <title lang="zh">实况录像-2022年法国网球公开赛 男单决赛</title>
@@ -1668,14 +1671,17 @@
     <programme start="20220612180000" stop="20220612183500" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20220612183500" stop="20220612193000" channel="cctv5">
-        <title lang="zh">实况录像-2021年世界蹦床锦标赛 团体决赛</title>
+    <programme start="20220612183500" stop="20220612190500" channel="cctv5">
+        <title lang="zh">实况录像-2021年世界蹦床锦标赛 男子个人决赛</title>
     </programme>
-    <programme start="20220612193000" stop="20220612213500" channel="cctv5">
-        <title lang="zh">2022赛季中国足球协会超级联赛(第一阶段)-第3轮（上海申花—武汉三镇）</title>
-    </programme>
-    <programme start="20220612213500" stop="20220612233500" channel="cctv5">
+    <programme start="20220612190500" stop="20220612210000" channel="cctv5">
         <title lang="zh">实况录像-2021/2022赛季世界斯诺克锦标赛 决赛</title>
+    </programme>
+    <programme start="20220612210000" stop="20220612230000" channel="cctv5">
+        <title lang="zh">2022年世界男排联赛巴西站-（巴西—中国）</title>
+    </programme>
+    <programme start="20220612230000" stop="20220612233500" channel="cctv5">
+        <title lang="zh">实况录像-2022年国际田联钻石联赛 伯明翰站精彩</title>
     </programme>
     <programme start="20220612233500" stop="20220612235900" channel="cctv5">
         <title lang="zh">实况录像-2021年世界体操锦标赛 单项决赛精选2</title>
