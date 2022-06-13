@@ -13,14 +13,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: set timezone
-        uses: szenius/set-timezone@v1.0
-        with:
-          timezoneLinux: "Asia/Shanghai"
-
       - name: set variables
         run: |
-          echo "UPDATE_TIME=$(date +%Y-%m-%d\ %H:%M)" >> $GITHUB_ENV
+          echo "UPDATE_TIME=$(TZ='Asia/Shanghai' date +%Y-%m-%d\ %H:%M\ %Z)" >> $GITHUB_ENV
 
       - name: set up python 3
         uses: actions/setup-python@v2
