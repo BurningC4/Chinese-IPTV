@@ -1467,20 +1467,23 @@
     <programme start="20220622000000" stop="20220622010000" channel="cctv4">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme start="20220622010000" stop="20220622013000" channel="cctv4">
+    <programme start="20220622010000" stop="20220622012800" channel="cctv4">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme start="20220622013000" stop="20220622020000" channel="cctv4">
-        <title lang="zh">中国文艺-2022-122</title>
+    <programme start="20220622012800" stop="20220622013800" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-14</title>
     </programme>
-    <programme start="20220622020000" stop="20220622021300" channel="cctv4">
-        <title lang="zh">中国新闻</title>
+    <programme start="20220622013800" stop="20220622015000" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-85</title>
     </programme>
-    <programme start="20220622021300" stop="20220622030000" channel="cctv4">
+    <programme start="20220622015000" stop="20220622023300" channel="cctv4">
+        <title lang="zh">2022（壬寅）年公祭中华人文始祖伏羲大典-1</title>
+    </programme>
+    <programme start="20220622023300" stop="20220622031800" channel="cctv4">
         <title lang="zh">远方的家2022-93</title>
     </programme>
-    <programme start="20220622030000" stop="20220622033000" channel="cctv4">
-        <title lang="zh">国家记忆-2022-67</title>
+    <programme start="20220622031800" stop="20220622033000" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-66</title>
     </programme>
     <programme start="20220622033000" stop="20220622040000" channel="cctv4">
         <title lang="zh">海峡两岸-2022-172</title>
@@ -2605,13 +2608,13 @@
         <title lang="zh">本集提要- 《加油！妈妈》第33集</title>
     </programme>
     <programme start="20220621113000" stop="20220621122400" channel="cctv8">
-        <title lang="zh">加油！妈妈33/40</title>
+        <title lang="zh">加油！妈妈第33集</title>
     </programme>
     <programme start="20220621122400" stop="20220621122900" channel="cctv8">
         <title lang="zh">本集提要- 《加油！妈妈》第34集</title>
     </programme>
     <programme start="20220621122900" stop="20220621132200" channel="cctv8">
-        <title lang="zh">加油！妈妈34/40</title>
+        <title lang="zh">加油！妈妈第34集</title>
     </programme>
     <programme start="20220621132200" stop="20220621132600" channel="cctv8">
         <title lang="zh">本集提要- 《爱拼会赢》第11集</title>
@@ -4050,8 +4053,11 @@
     <programme start="20220620020000" stop="20220620030000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20220620030000" stop="20220620040000" channel="cctv13">
+    <programme start="20220620030000" stop="20220620035900" channel="cctv13">
         <title lang="zh">新闻直播间</title>
+    </programme>
+    <programme start="20220620035900" stop="20220620040000" channel="cctv13">
+        <title lang="zh">广告</title>
     </programme>
     <programme start="20220620040000" stop="20220620043300" channel="cctv13">
         <title lang="zh">新闻30分</title>
