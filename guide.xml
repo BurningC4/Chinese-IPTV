@@ -544,16 +544,16 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20220710120000" stop="20220710120600" channel="cctv1">
-        <title lang="zh">前情提要-《大山的女儿》20/30</title>
-    </programme>
-    <programme start="20220710120600" stop="20220710125400" channel="cctv1">
-        <title lang="zh">大山的女儿20/30</title>
-    </programme>
-    <programme start="20220710125400" stop="20220710125500" channel="cctv1">
         <title lang="zh">前情提要-《大山的女儿》21/30</title>
     </programme>
-    <programme start="20220710125500" stop="20220710134500" channel="cctv1">
+    <programme start="20220710120600" stop="20220710125400" channel="cctv1">
         <title lang="zh">大山的女儿21/30</title>
+    </programme>
+    <programme start="20220710125400" stop="20220710125500" channel="cctv1">
+        <title lang="zh">前情提要-《大山的女儿》22/30</title>
+    </programme>
+    <programme start="20220710125500" stop="20220710134500" channel="cctv1">
+        <title lang="zh">大山的女儿22/30</title>
     </programme>
     <programme start="20220710134500" stop="20220710135400" channel="cctv1">
         <title lang="zh">精彩一刻-2022-83画里有话文会图</title>
@@ -1716,8 +1716,11 @@
     <programme start="20220708133500" stop="20220708143000" channel="cctv5plus">
         <title lang="zh">实况录像-2022年国际泳联世锦赛  花样游泳 双人自由自选决赛</title>
     </programme>
-    <programme start="20220708143000" stop="20220708155900" channel="cctv5plus">
+    <programme start="20220708143000" stop="20220708154500" channel="cctv5plus">
         <title lang="zh">2022年世界男排联赛-波兰站(波兰队-中国队)</title>
+    </programme>
+    <programme start="20220708154500" stop="20220708155900" channel="cctv5plus">
+        <title lang="zh">实况录像-2022年国际泳联世锦赛 游泳比赛中国队集锦</title>
     </programme>
     <programme start="20220708160000" stop="20220708173000" channel="cctv5plus">
         <title lang="zh">实况录像-2022年国际田联钻石联赛 奥斯陆站精选</title>
@@ -1744,13 +1747,16 @@
         <title lang="zh">赛事集锦(高清体育)-2022-25-2022年环法自行车赛 第6赛段</title>
     </programme>
     <programme start="20220709023000" stop="20220709040000" channel="cctv5plus">
-        <title lang="zh">2022年世界男排联赛日本站-法国队-美国队</title>
+        <title lang="zh">实况录像-2022年世界男排联赛 菲律宾站 意大利队—斯洛文尼亚队</title>
     </programme>
     <programme start="20220709040000" stop="20220709053000" channel="cctv5plus">
         <title lang="zh">实况录像-2022年国际田联钻石联赛 斯德哥尔摩站精选</title>
     </programme>
-    <programme start="20220709053000" stop="20220709070000" channel="cctv5plus">
+    <programme start="20220709053000" stop="20220709064500" channel="cctv5plus">
         <title lang="zh">2022年世界男排联赛-波兰站(波兰队-中国队)</title>
+    </programme>
+    <programme start="20220709064500" stop="20220709070000" channel="cctv5plus">
+        <title lang="zh">实况录像-2022年国际泳联世锦赛 花样游泳表演赛1</title>
     </programme>
     <programme start="20220709070000" stop="20220709090000" channel="cctv5plus">
         <title lang="zh">实况录像-2021/2022赛季世界斯诺克锦标赛 精选5</title>
