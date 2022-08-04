@@ -387,8 +387,11 @@
     <programme start="20220804113900" stop="20220804120600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20220804120600" stop="20220804135300" channel="cctv1">
-        <title lang="zh">古韵新声-七夕</title>
+    <programme start="20220804120600" stop="20220804130600" channel="cctv1">
+        <title lang="zh">古韵新声-七夕1</title>
+    </programme>
+    <programme start="20220804130600" stop="20220804135300" channel="cctv1">
+        <title lang="zh">古韵新声-七夕2</title>
     </programme>
     <programme start="20220804135300" stop="20220804140000" channel="cctv1">
         <title lang="zh">2022秘境之眼-174</title>
@@ -1377,23 +1380,23 @@
     <programme start="20220805040000" stop="20220805050200" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20220805050200" stop="20220805051100" channel="cctv4">
-        <title lang="zh">记住乡愁第三季碎片化展播-7</title>
+    <programme start="20220805050200" stop="20220805051400" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-28</title>
     </programme>
-    <programme start="20220805051100" stop="20220805060000" channel="cctv4">
+    <programme start="20220805051400" stop="20220805055900" channel="cctv4">
+        <title lang="zh">大决战-（四套）-49/49</title>
+    </programme>
+    <programme start="20220805055900" stop="20220805064700" channel="cctv4">
+        <title lang="zh">香山叶正红第1集</title>
+    </programme>
+    <programme start="20220805064700" stop="20220805073500" channel="cctv4">
+        <title lang="zh">香山叶正红第2集</title>
+    </programme>
+    <programme start="20220805073500" stop="20220805082300" channel="cctv4">
         <title lang="zh">香山叶正红第3集</title>
     </programme>
-    <programme start="20220805060000" stop="20220805064800" channel="cctv4">
+    <programme start="20220805082300" stop="20220805091500" channel="cctv4">
         <title lang="zh">香山叶正红第4集</title>
-    </programme>
-    <programme start="20220805064800" stop="20220805073600" channel="cctv4">
-        <title lang="zh">香山叶正红第5集</title>
-    </programme>
-    <programme start="20220805073600" stop="20220805082400" channel="cctv4">
-        <title lang="zh">香山叶正红第6集</title>
-    </programme>
-    <programme start="20220805082400" stop="20220805091500" channel="cctv4">
-        <title lang="zh">香山叶正红第7集</title>
     </programme>
     <programme start="20220805091500" stop="20220805100000" channel="cctv4">
         <title lang="zh">远方的家2022-126</title>
@@ -1507,19 +1510,19 @@
         <title lang="zh">中国缘-2022-31</title>
     </programme>
     <programme start="20220806055700" stop="20220806064600" channel="cctv4">
-        <title lang="zh">香山叶正红8/34</title>
+        <title lang="zh">香山叶正红5/34</title>
     </programme>
     <programme start="20220806064600" stop="20220806073400" channel="cctv4">
-        <title lang="zh">香山叶正红9/34</title>
+        <title lang="zh">香山叶正红6/34</title>
     </programme>
     <programme start="20220806073400" stop="20220806082200" channel="cctv4">
-        <title lang="zh">香山叶正红10/34</title>
+        <title lang="zh">香山叶正红7/34</title>
     </programme>
     <programme start="20220806082200" stop="20220806091000" channel="cctv4">
-        <title lang="zh">香山叶正红11/34</title>
+        <title lang="zh">香山叶正红8/34</title>
     </programme>
     <programme start="20220806091000" stop="20220806100000" channel="cctv4">
-        <title lang="zh">香山叶正红12/34</title>
+        <title lang="zh">香山叶正红9/34</title>
     </programme>
     <programme start="20220806100000" stop="20220806110000" channel="cctv4">
         <title lang="zh">中国文艺-致敬经典2022-32</title>
@@ -4038,14 +4041,11 @@
     <programme start="20220803203300" stop="20220803210000" channel="cctv13">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme start="20220803210000" stop="20220803211700" channel="cctv13">
+    <programme start="20220803210000" stop="20220803214000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20220803211700" stop="20220803213300" channel="cctv13">
+    <programme start="20220803214000" stop="20220803220000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
-    </programme>
-    <programme start="20220803213300" stop="20220803220000" channel="cctv13">
-        <title lang="zh">法治在线</title>
     </programme>
     <programme start="20220803220000" stop="20220804010000" channel="cctv13">
         <title lang="zh">朝闻天下</title>
