@@ -4113,10 +4113,10 @@
     <programme start="20220807201500" stop="20220807210000" channel="cctv13">
         <title lang="zh">世界周刊</title>
     </programme>
-    <programme start="20220807210000" stop="20220807211600" channel="cctv13">
+    <programme start="20220807210000" stop="20220807211200" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20220807211600" stop="20220807220000" channel="cctv13">
+    <programme start="20220807211200" stop="20220807220000" channel="cctv13">
         <title lang="zh">面对面</title>
     </programme>
     <programme start="20220807220000" stop="20220808010000" channel="cctv13">
@@ -4143,10 +4143,10 @@
     <programme start="20220808050000" stop="20220808060000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20220808060000" stop="20220808061600" channel="cctv13">
+    <programme start="20220808060000" stop="20220808061200" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20220808061600" stop="20220808070000" channel="cctv13">
+    <programme start="20220808061200" stop="20220808070000" channel="cctv13">
         <title lang="zh">面对面</title>
     </programme>
     <programme start="20220808070000" stop="20220808080000" channel="cctv13">
@@ -4161,10 +4161,13 @@
     <programme start="20220808100000" stop="20220808110000" channel="cctv13">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme start="20220808110000" stop="20220808114000" channel="cctv13">
+    <programme start="20220808110000" stop="20220808113100" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20220808114000" stop="20220808120000" channel="cctv13">
+    <programme start="20220808113100" stop="20220808113900" channel="cctv13">
+        <title lang="zh">天气预报</title>
+    </programme>
+    <programme start="20220808113900" stop="20220808120000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20220808120000" stop="20220808130000" channel="cctv13">
@@ -4260,8 +4263,11 @@
     <programme start="20220809100000" stop="20220809110000" channel="cctv13">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme start="20220809110000" stop="20220809114000" channel="cctv13">
+    <programme start="20220809110000" stop="20220809113100" channel="cctv13">
         <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20220809113100" stop="20220809114000" channel="cctv13">
+        <title lang="zh">天气预报</title>
     </programme>
     <programme start="20220809114000" stop="20220809120000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
@@ -4512,73 +4518,73 @@
     <programme start="20220807170100" stop="20220807174800" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2022-221-名家名曲（115）</title>
     </programme>
-    <programme start="20220807174800" stop="20220807220200" channel="cctv15">
+    <programme start="20220807174800" stop="20220807220000" channel="cctv15">
         <title lang="zh">再见</title>
     </programme>
-    <programme start="20220807220200" stop="20220807223400" channel="cctv15">
+    <programme start="20220807220000" stop="20220807223200" channel="cctv15">
         <title lang="zh">中国音乐电视-2022-220</title>
     </programme>
-    <programme start="20220807223400" stop="20220807234300" channel="cctv15">
+    <programme start="20220807223200" stop="20220807234100" channel="cctv15">
         <title lang="zh">一起音乐吧-2022-51 情歌告诉你</title>
     </programme>
-    <programme start="20220807234300" stop="20220808001600" channel="cctv15">
+    <programme start="20220807234100" stop="20220808001400" channel="cctv15">
         <title lang="zh">风华国乐-2022-222</title>
     </programme>
-    <programme start="20220808001600" stop="20220808012300" channel="cctv15">
+    <programme start="20220808001400" stop="20220808012100" channel="cctv15">
         <title lang="zh">民歌·中国-2022-117中国民族歌剧</title>
     </programme>
-    <programme start="20220808012300" stop="20220808022800" channel="cctv15">
+    <programme start="20220808012100" stop="20220808022600" channel="cctv15">
         <title lang="zh">精彩音乐汇-2022-230</title>
     </programme>
-    <programme start="20220808022800" stop="20220808030000" channel="cctv15">
+    <programme start="20220808022600" stop="20220808025800" channel="cctv15">
         <title lang="zh">中国节拍-2022-74</title>
     </programme>
-    <programme start="20220808030000" stop="20220808040200" channel="cctv15">
+    <programme start="20220808025800" stop="20220808040000" channel="cctv15">
         <title lang="zh">经典-2022-82</title>
     </programme>
-    <programme start="20220808040200" stop="20220808050400" channel="cctv15">
+    <programme start="20220808040000" stop="20220808050200" channel="cctv15">
         <title lang="zh">一起音乐吧-2022-51 情歌告诉你</title>
     </programme>
-    <programme start="20220808050400" stop="20220808055000" channel="cctv15">
+    <programme start="20220808050200" stop="20220808054800" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2022-221-名家名曲（115）</title>
     </programme>
-    <programme start="20220808055000" stop="20220808065600" channel="cctv15">
+    <programme start="20220808054800" stop="20220808065400" channel="cctv15">
         <title lang="zh">精彩音乐汇-2022-229</title>
     </programme>
-    <programme start="20220808065600" stop="20220808080100" channel="cctv15">
+    <programme start="20220808065400" stop="20220808075900" channel="cctv15">
         <title lang="zh">合唱先锋2022-52-向阳而生</title>
     </programme>
-    <programme start="20220808080100" stop="20220808090900" channel="cctv15">
+    <programme start="20220808075900" stop="20220808090700" channel="cctv15">
         <title lang="zh">民歌·中国-2022-87家乡赞歌5</title>
     </programme>
-    <programme start="20220808090900" stop="20220808094200" channel="cctv15">
+    <programme start="20220808090700" stop="20220808094000" channel="cctv15">
         <title lang="zh">乐游天下-2022-37 从大漠到草原</title>
     </programme>
-    <programme start="20220808094200" stop="20220808103200" channel="cctv15">
+    <programme start="20220808094000" stop="20220808103000" channel="cctv15">
         <title lang="zh">音乐公开课-2022-36遇诗谱乐 以乐歌之</title>
     </programme>
-    <programme start="20220808103200" stop="20220808113200" channel="cctv15">
+    <programme start="20220808103000" stop="20220808113000" channel="cctv15">
         <title lang="zh">精彩音乐汇-2022-231</title>
     </programme>
-    <programme start="20220808113200" stop="20220808123400" channel="cctv15">
+    <programme start="20220808113000" stop="20220808123200" channel="cctv15">
         <title lang="zh">民歌·中国-2022-123中国民族歌剧欣赏</title>
     </programme>
-    <programme start="20220808123400" stop="20220808134100" channel="cctv15">
+    <programme start="20220808123200" stop="20220808133900" channel="cctv15">
         <title lang="zh">唱出我新声-精华版8</title>
     </programme>
-    <programme start="20220808134100" stop="20220808144500" channel="cctv15">
+    <programme start="20220808133900" stop="20220808144300" channel="cctv15">
         <title lang="zh">合唱先锋2022-52-向阳而生</title>
     </programme>
-    <programme start="20220808144500" stop="20220808153200" channel="cctv15">
+    <programme start="20220808144300" stop="20220808153000" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2022-222-名家名曲（116）</title>
     </programme>
-    <programme start="20220808153200" stop="20220808155900" channel="cctv15">
+    <programme start="20220808153000" stop="20220808155900" channel="cctv15">
         <title lang="zh">经典-2022-16</title>
     </programme>
-    <programme start="20220808163200" stop="20220808171900" channel="cctv15">
+    <programme start="20220808163000" stop="20220808171700" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2022-222-名家名曲（116）</title>
     </programme>
-    <programme start="20220808171900" stop="20220808220000" channel="cctv15">
+    <programme start="20220808171700" stop="20220808220000" channel="cctv15">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20220808220000" stop="20220808223200" channel="cctv15">
