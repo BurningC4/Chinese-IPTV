@@ -1671,17 +1671,20 @@
     <programme start="20220827000000" stop="20220827010000" channel="cctv5">
         <title lang="zh">实况录像-2022年世界健美操锦标赛 精选1</title>
     </programme>
-    <programme start="20220827010000" stop="20220827023000" channel="cctv5">
-        <title lang="zh">实况录像-2022年世界男排锦标赛 小组赛 波兰队-保加利亚队（录播）</title>
-    </programme>
-    <programme start="20220827023000" stop="20220827040000" channel="cctv5">
-        <title lang="zh">实况录像-2022年世界田联钻石联赛 洛桑站（录播）</title>
+    <programme start="20220827010000" stop="20220827040000" channel="cctv5">
+        <title lang="zh">2022年世界羽毛球锦标赛-半决赛</title>
     </programme>
     <programme start="20220827040000" stop="20220827043500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20220827043500" stop="20220827090000" channel="cctv5">
-        <title lang="zh">2022年世界羽毛球锦标赛-半决赛</title>
+    <programme start="20220827043500" stop="20220827060000" channel="cctv5">
+        <title lang="zh">实况录像-2022年世界田联钻石联赛 洛桑站（录播）</title>
+    </programme>
+    <programme start="20220827060000" stop="20220827080500" channel="cctv5">
+        <title lang="zh">2022年女排亚洲杯-1/4决赛（中国-澳大利亚）</title>
+    </programme>
+    <programme start="20220827080500" stop="20220827090000" channel="cctv5">
+        <title lang="zh">实况录像-2023年男篮世界杯预选赛 哈萨克斯坦队-中国队（录播）</title>
     </programme>
     <programme start="20220827090000" stop="20220827110000" channel="cctv5">
         <title lang="zh">2022年世界男排锦标赛-小组赛（土耳其-中国 ）</title>
@@ -1689,11 +1692,11 @@
     <programme start="20220827110000" stop="20220827113000" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20220827113000" stop="20220827115500" channel="cctv5">
-        <title lang="zh">足球之夜</title>
-    </programme>
-    <programme start="20220827115500" stop="20220827140000" channel="cctv5">
+    <programme start="20220827113000" stop="20220827133000" channel="cctv5">
         <title lang="zh">2022赛季中国足球协会超级联赛-第15轮（武汉长江—山东泰山）</title>
+    </programme>
+    <programme start="20220827133000" stop="20220827140000" channel="cctv5">
+        <title lang="zh">足球之夜</title>
     </programme>
     <programme start="20220827140000" stop="20220827155900" channel="cctv5">
         <title lang="zh">2022/2023英格兰足球超级联赛-第4轮（曼彻斯特城—水晶宫）</title>
@@ -1728,14 +1731,20 @@
     <programme start="20220828043500" stop="20220828060000" channel="cctv5">
         <title lang="zh">2022年世界职业拳王争霸赛</title>
     </programme>
-    <programme start="20220828060000" stop="20220828110000" channel="cctv5">
+    <programme start="20220828060000" stop="20220828080000" channel="cctv5">
         <title lang="zh">2022年世界羽毛球锦标赛-决赛</title>
     </programme>
-    <programme start="20220828110000" stop="20220828113500" channel="cctv5">
+    <programme start="20220828080000" stop="20220828100000" channel="cctv5">
+        <title lang="zh">2022年女排亚洲杯-半决赛1</title>
+    </programme>
+    <programme start="20220828100000" stop="20220828103500" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20220828113500" stop="20220828130000" channel="cctv5">
-        <title lang="zh">实况录像-2022年世界男排锦标赛 小组赛 土耳其队-中国队（录播）</title>
+    <programme start="20220828103500" stop="20220828110000" channel="cctv5">
+        <title lang="zh">天下足球-你好，世界杯14</title>
+    </programme>
+    <programme start="20220828110000" stop="20220828130000" channel="cctv5">
+        <title lang="zh">2022年女排亚洲杯-半决赛2</title>
     </programme>
     <programme start="20220828130000" stop="20220828153000" channel="cctv5">
         <title lang="zh">2022/2023英格兰足球超级联赛-第4轮（阿斯顿维拉—西汉姆联）</title>
@@ -1869,14 +1878,11 @@
     <programme start="20220828053000" stop="20220828070000" channel="cctv5plus">
         <title lang="zh">2023年男篮世界杯亚洲区预选赛-哈萨克斯坦—中国</title>
     </programme>
-    <programme start="20220828070000" stop="20220828083000" channel="cctv5plus">
-        <title lang="zh">实况录像-2022年世界田联钻石联赛 洛桑站</title>
+    <programme start="20220828070000" stop="20220828080000" channel="cctv5plus">
+        <title lang="zh">实况录像- 2022年国际泳联世锦赛  跳水 女子三米板决赛</title>
     </programme>
-    <programme start="20220828083000" stop="20220828090000" channel="cctv5plus">
-        <title lang="zh">赛事集锦-2022/2023赛季英超精华3</title>
-    </programme>
-    <programme start="20220828090000" stop="20220828110000" channel="cctv5plus">
-        <title lang="zh">2022年世界男排锦标赛-古巴—卡塔尔</title>
+    <programme start="20220828080000" stop="20220828110000" channel="cctv5plus">
+        <title lang="zh">2022年世界羽毛球锦标赛-决赛</title>
     </programme>
     <programme start="20220828110000" stop="20220828130000" channel="cctv5plus">
         <title lang="zh">2022赛季中国足球协会超级联赛-第15轮（河南嵩山龙门—广州队）</title>
