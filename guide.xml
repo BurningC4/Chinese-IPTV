@@ -573,11 +573,8 @@
     <programme start="20220911140000" stop="20220911143400" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20220911143400" stop="20220911153200" channel="cctv1">
-        <title lang="zh">等着我-2022-24</title>
-    </programme>
-    <programme start="20220911153200" stop="20220911155900" channel="cctv1">
-        <title lang="zh">正大综艺-2022-27</title>
+    <programme start="20220911143400" stop="20220911155900" channel="cctv1">
+        <title lang="zh">古韵新声-中秋</title>
     </programme>
     <programme start="20220908161000" stop="20220908165400" channel="cctv2">
         <title lang="zh">中国经济大讲堂-2022-33</title>
@@ -1662,14 +1659,17 @@
     <programme start="20220910103500" stop="20220910113000" channel="cctv5">
         <title lang="zh">足球之夜</title>
     </programme>
-    <programme start="20220910113000" stop="20220910135500" channel="cctv5">
+    <programme start="20220910113000" stop="20220910133000" channel="cctv5">
         <title lang="zh">2022赛季中国足球协会超级联赛-第17轮（浙江队-上海申花）</title>
     </programme>
-    <programme start="20220910135500" stop="20220910155900" channel="cctv5">
-        <title lang="zh">2022/2023英格兰足球超级联赛-第7轮（利物浦—伍尔弗汉普顿）</title>
+    <programme start="20220910133000" stop="20220910145500" channel="cctv5">
+        <title lang="zh">实况录像-2023年男篮世界杯预选赛 法国队-捷克队</title>
     </programme>
-    <programme start="20220910161000" stop="20220910174000" channel="cctv5">
-        <title lang="zh">实况录像-2022年世界羽毛球锦标赛 5</title>
+    <programme start="20220910145500" stop="20220910155900" channel="cctv5">
+        <title lang="zh">2022/2023法国足球甲级联赛-第7轮（巴黎圣日耳曼—布雷斯特）</title>
+    </programme>
+    <programme start="20220910170500" stop="20220910174000" channel="cctv5">
+        <title lang="zh">顶级赛事-象棋2022-36</title>
     </programme>
     <programme start="20220910174000" stop="20220910191000" channel="cctv5">
         <title lang="zh">实况录像-2022年世界田径锦标赛 4</title>
@@ -1723,7 +1723,7 @@
         <title lang="zh">实况录像-2022年全国体操锦标赛  单项决赛 1</title>
     </programme>
     <programme start="20220911125500" stop="20220911152500" channel="cctv5">
-        <title lang="zh">2022/2023英格兰足球超级联赛-第7轮（阿森纳—埃弗顿）</title>
+        <title lang="zh">2022年世界一级方程式锦标赛-意大利大奖赛正赛</title>
     </programme>
     <programme start="20220911152500" stop="20220911155900" channel="cctv5">
         <title lang="zh">2022/2023德国足球甲级联赛-第6轮（弗赖堡—门兴格拉德巴赫）</title>
@@ -1866,11 +1866,17 @@
     <programme start="20220911113000" stop="20220911125500" channel="cctv5plus">
         <title lang="zh">实况录像-2022年世界田联钻石联赛 苏黎世站 1</title>
     </programme>
-    <programme start="20220911125500" stop="20220911150500" channel="cctv5plus">
-        <title lang="zh">2022年世界一级方程式锦标赛-意大利大奖赛 正赛</title>
+    <programme start="20220911125500" stop="20220911130500" channel="cctv5plus">
+        <title lang="zh">实况录像-2022年世界田径锦标赛 跳远比赛王嘉男夺冠</title>
+    </programme>
+    <programme start="20220911130500" stop="20220911143500" channel="cctv5plus">
+        <title lang="zh">2023年男篮世界杯亚洲区预选赛-哈萨克斯坦—中国</title>
+    </programme>
+    <programme start="20220911143500" stop="20220911150500" channel="cctv5plus">
+        <title lang="zh">2022年射箭世界杯-巴黎站精选1</title>
     </programme>
     <programme start="20220911150500" stop="20220911155900" channel="cctv5plus">
-        <title lang="zh">2022年美国网球公开赛- 女单决赛</title>
+        <title lang="zh">实况录像-2022年全国体操锦标赛  单项决赛 1</title>
     </programme>
     <programme start="20220908162300" stop="20220908162800" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
@@ -4458,25 +4464,25 @@
     <programme start="20220909102900" stop="20220909113000" channel="cctv15">
         <title lang="zh">精彩音乐汇-2022-263</title>
     </programme>
-    <programme start="20220909113000" stop="20220909130200" channel="cctv15">
+    <programme start="20220909113000" stop="20220909131600" channel="cctv15">
         <title lang="zh">全球中文音乐榜上榜-2022-14（直播）</title>
     </programme>
-    <programme start="20220909130200" stop="20220909140900" channel="cctv15">
+    <programme start="20220909131600" stop="20220909142300" channel="cctv15">
         <title lang="zh">一起音乐吧-2022-98 （纯享版）</title>
     </programme>
-    <programme start="20220909140900" stop="20220909151300" channel="cctv15">
+    <programme start="20220909142300" stop="20220909152700" channel="cctv15">
         <title lang="zh">精彩音乐汇-2022-260</title>
     </programme>
-    <programme start="20220909151300" stop="20220909155900" channel="cctv15">
+    <programme start="20220909152700" stop="20220909155900" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2022-213-名家名曲（107）</title>
     </programme>
-    <programme start="20220909160000" stop="20220909170000" channel="cctv15">
+    <programme start="20220909161400" stop="20220909171400" channel="cctv15">
         <title lang="zh">经典-2022-190</title>
     </programme>
-    <programme start="20220909170000" stop="20220909174700" channel="cctv15">
+    <programme start="20220909171400" stop="20220909180100" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2022-213-名家名曲（107）</title>
     </programme>
-    <programme start="20220909174700" stop="20220909220000" channel="cctv15">
+    <programme start="20220909180100" stop="20220909220000" channel="cctv15">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20220909220000" stop="20220909223200" channel="cctv15">
