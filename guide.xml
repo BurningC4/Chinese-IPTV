@@ -492,10 +492,10 @@
     <programme start="20220917114000" stop="20220917120600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20220917120600" stop="20220917135200" channel="cctv1">
+    <programme start="20220917120600" stop="20220917135400" channel="cctv1">
         <title lang="zh">山水间的家-3</title>
     </programme>
-    <programme start="20220917135200" stop="20220917140000" channel="cctv1">
+    <programme start="20220917135400" stop="20220917140000" channel="cctv1">
         <title lang="zh">2022秘境之眼-218</title>
     </programme>
     <programme start="20220917140000" stop="20220917143200" channel="cctv1">
@@ -507,29 +507,32 @@
     <programme start="20220917152400" stop="20220917155900" channel="cctv1">
         <title lang="zh">山水间的家-3</title>
     </programme>
-    <programme start="20220917170400" stop="20220917174000" channel="cctv1">
+    <programme start="20220917170200" stop="20220917173700" channel="cctv1">
         <title lang="zh">动物世界-2022-186</title>
     </programme>
-    <programme start="20220917174000" stop="20220917174600" channel="cctv1">
+    <programme start="20220917173700" stop="20220917174300" channel="cctv1">
         <title lang="zh">生活提示</title>
     </programme>
-    <programme start="20220917174600" stop="20220917181800" channel="cctv1">
+    <programme start="20220917174300" stop="20220917181500" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20220917181800" stop="20220917184500" channel="cctv1">
+    <programme start="20220917181500" stop="20220917184200" channel="cctv1">
         <title lang="zh">人与自然-2022-197</title>
     </programme>
-    <programme start="20220917184500" stop="20220917185500" channel="cctv1">
+    <programme start="20220917184200" stop="20220917185000" channel="cctv1">
         <title lang="zh">山水间的家-MV</title>
     </programme>
-    <programme start="20220917185500" stop="20220917190000" channel="cctv1">
+    <programme start="20220917185000" stop="20220917185500" channel="cctv1">
         <title lang="zh">精彩一刻-2020-119如果国宝会说话第三季锦</title>
     </programme>
-    <programme start="20220917190000" stop="20220917190500" channel="cctv1">
+    <programme start="20220917185500" stop="20220917190000" channel="cctv1">
         <title lang="zh">精彩一刻-2020-124如果国宝会说话第三季俑与文书</title>
     </programme>
-    <programme start="20220917190500" stop="20220917191200" channel="cctv1">
+    <programme start="20220917190000" stop="20220917190500" channel="cctv1">
         <title lang="zh">精彩一刻-2020-125如果国宝会说话第三季骆驼俑</title>
+    </programme>
+    <programme start="20220917190500" stop="20220917191200" channel="cctv1">
+        <title lang="zh">精彩一刻-2020-130如果国宝会说话第三季生肖俑</title>
     </programme>
     <programme start="20220917191200" stop="20220917202900" channel="cctv1">
         <title lang="zh">星光大道-2022-37</title>
@@ -1176,14 +1179,17 @@
     <programme start="20220918113000" stop="20220918125500" channel="cctv3">
         <title lang="zh">星光大道-2022-37</title>
     </programme>
-    <programme start="20220918125500" stop="20220918142500" channel="cctv3">
-        <title lang="zh">我爱满堂彩-2022-24好戏连连看</title>
+    <programme start="20220918125500" stop="20220918135800" channel="cctv3">
+        <title lang="zh">黄金100秒-2022-35</title>
     </programme>
-    <programme start="20220918142500" stop="20220918151800" channel="cctv3">
-        <title lang="zh">回声嘹亮-2022-35</title>
+    <programme start="20220918135800" stop="20220918145100" channel="cctv3">
+        <title lang="zh">回声嘹亮-2022-16</title>
     </programme>
-    <programme start="20220918151800" stop="20220918155900" channel="cctv3">
+    <programme start="20220918145100" stop="20220918153400" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2022-1160人世间-16/58</title>
+    </programme>
+    <programme start="20220918153400" stop="20220918155900" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2022-1161人世间-17/58</title>
     </programme>
     <programme start="20220915161400" stop="20220915170000" channel="cctv4">
         <title lang="zh">爱拼会赢第31集</title>
@@ -3702,13 +3708,16 @@
     <programme start="20220918123400" stop="20220918133900" channel="cctv11">
         <title lang="zh">角儿来了-2022-53许娣（上）</title>
     </programme>
-    <programme start="20220918133900" stop="20220918150300" channel="cctv11">
+    <programme start="20220918133900" stop="20220918150600" channel="cctv11">
         <title lang="zh">拿手好戏--4</title>
     </programme>
-    <programme start="20220918150300" stop="20220918151400" channel="cctv11">
+    <programme start="20220918150600" stop="20220918152100" channel="cctv11">
+        <title lang="zh">戏如人生-王珮瑜</title>
+    </programme>
+    <programme start="20220918152100" stop="20220918153200" channel="cctv11">
         <title lang="zh">主持人全天伴视</title>
     </programme>
-    <programme start="20220918151400" stop="20220918155900" channel="cctv11">
+    <programme start="20220918153200" stop="20220918155900" channel="cctv11">
         <title lang="zh">芝麻胡同19/51</title>
     </programme>
     <programme start="20220915162000" stop="20220915171300" channel="cctv12">
@@ -4611,25 +4620,25 @@
     <programme start="20220917102900" stop="20220917113000" channel="cctv15">
         <title lang="zh">精彩音乐汇-2022-271</title>
     </programme>
-    <programme start="20220917113000" stop="20220917130200" channel="cctv15">
-        <title lang="zh">全球中文音乐榜上榜-2022-15（直播）</title>
+    <programme start="20220917113000" stop="20220917122200" channel="cctv15">
+        <title lang="zh">回声嘹亮-2022-36</title>
     </programme>
-    <programme start="20220917130200" stop="20220917140900" channel="cctv15">
+    <programme start="20220917122200" stop="20220917132900" channel="cctv15">
         <title lang="zh">影视留声机-2022-75-纯享版</title>
     </programme>
-    <programme start="20220917140900" stop="20220917151300" channel="cctv15">
+    <programme start="20220917132900" stop="20220917143300" channel="cctv15">
         <title lang="zh">精彩音乐汇-2022-268</title>
     </programme>
-    <programme start="20220917151300" stop="20220917155900" channel="cctv15">
+    <programme start="20220917143300" stop="20220917152000" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2022-264-名家名曲（155）</title>
     </programme>
-    <programme start="20220917160000" stop="20220917170000" channel="cctv15">
+    <programme start="20220917152000" stop="20220917155900" channel="cctv15">
         <title lang="zh">经典-2022-197</title>
     </programme>
-    <programme start="20220917170000" stop="20220917174700" channel="cctv15">
+    <programme start="20220917162000" stop="20220917170700" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2022-264-名家名曲（155）</title>
     </programme>
-    <programme start="20220917174700" stop="20220917220000" channel="cctv15">
+    <programme start="20220917170700" stop="20220917220000" channel="cctv15">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20220917220000" stop="20220917223200" channel="cctv15">
