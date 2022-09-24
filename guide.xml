@@ -387,11 +387,8 @@
     <programme start="20220924113900" stop="20220924120600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20220924120600" stop="20220924133900" channel="cctv1">
+    <programme start="20220924120600" stop="20220924135200" channel="cctv1">
         <title lang="zh">典籍里的中国（第二季）-1</title>
-    </programme>
-    <programme start="20220924133900" stop="20220924135200" channel="cctv1">
-        <title lang="zh">山水间的家-MV</title>
     </programme>
     <programme start="20220924135200" stop="20220924140000" channel="cctv1">
         <title lang="zh">2022秘境之眼-229</title>
@@ -414,25 +411,25 @@
     <programme start="20220924173600" stop="20220924180800" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20220924180800" stop="20220924183500" channel="cctv1">
+    <programme start="20220924180800" stop="20220924183900" channel="cctv1">
         <title lang="zh">人与自然-2022-202</title>
     </programme>
-    <programme start="20220924183500" stop="20220924184500" channel="cctv1">
-        <title lang="zh">山水间的家-MV</title>
+    <programme start="20220924183900" stop="20220924184400" channel="cctv1">
+        <title lang="zh">精彩一刻-2020-111如果国宝会说话第三季洛神赋图</title>
     </programme>
-    <programme start="20220924184500" stop="20220924185000" channel="cctv1">
+    <programme start="20220924184400" stop="20220924184900" channel="cctv1">
         <title lang="zh">精彩一刻-2020-124如果国宝会说话第三季俑与文书</title>
     </programme>
-    <programme start="20220924185000" stop="20220924185500" channel="cctv1">
+    <programme start="20220924184900" stop="20220924185400" channel="cctv1">
         <title lang="zh">精彩一刻-2020-125如果国宝会说话第三季骆驼俑</title>
     </programme>
-    <programme start="20220924185500" stop="20220924190000" channel="cctv1">
+    <programme start="20220924185400" stop="20220924185900" channel="cctv1">
         <title lang="zh">精彩一刻-2020-126如果国宝会说话第三季酒筹筒</title>
     </programme>
-    <programme start="20220924190000" stop="20220924190500" channel="cctv1">
+    <programme start="20220924185900" stop="20220924190400" channel="cctv1">
         <title lang="zh">精彩一刻-2020-127如果国宝会说话第三季诗词壶</title>
     </programme>
-    <programme start="20220924190500" stop="20220924191200" channel="cctv1">
+    <programme start="20220924190400" stop="20220924191200" channel="cctv1">
         <title lang="zh">精彩一刻-2020-123如果国宝会说话第三季黄河铁牛</title>
     </programme>
     <programme start="20220924191200" stop="20220924202900" channel="cctv1">
@@ -501,11 +498,14 @@
     <programme start="20220925114000" stop="20220925120600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20220925120600" stop="20220925134700" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+    <programme start="20220925120600" stop="20220925125700" channel="cctv1">
+        <title lang="zh">锻造雄师向复兴-1</title>
     </programme>
-    <programme start="20220925134700" stop="20220925135700" channel="cctv1">
-        <title lang="zh">山水间的家-MV</title>
+    <programme start="20220925125700" stop="20220925125900" channel="cctv1">
+        <title lang="zh">前情提要- 《大考》第4集</title>
+    </programme>
+    <programme start="20220925125900" stop="20220925135700" channel="cctv1">
+        <title lang="zh">大考第4集</title>
     </programme>
     <programme start="20220925135700" stop="20220925140000" channel="cctv1">
         <title lang="zh">2022秘境之眼-230</title>
@@ -609,14 +609,14 @@
     <programme start="20220926113900" stop="20220926120600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20220926120600" stop="20220926125700" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+    <programme start="20220926120600" stop="20220926125900" channel="cctv1">
+        <title lang="zh">锻造雄师向复兴-2</title>
     </programme>
-    <programme start="20220926125700" stop="20220926125900" channel="cctv1">
-        <title lang="zh">前情提要-电视剧（高清文件）</title>
+    <programme start="20220926125900" stop="20220926130200" channel="cctv1">
+        <title lang="zh">前情提要-《大考》5/22</title>
     </programme>
-    <programme start="20220926125900" stop="20220926135500" channel="cctv1">
-        <title lang="zh">电视剧-（高清文件）</title>
+    <programme start="20220926130200" stop="20220926135500" channel="cctv1">
+        <title lang="zh">大考5/22</title>
     </programme>
     <programme start="20220926135500" stop="20220926140000" channel="cctv1">
         <title lang="zh">2022秘境之眼-231</title>
@@ -3615,32 +3615,29 @@
     <programme start="20220925220600" stop="20220925223100" channel="cctv11">
         <title lang="zh">典藏-2022-26</title>
     </programme>
-    <programme start="20220925223100" stop="20220925233600" channel="cctv11">
+    <programme start="20220925223100" stop="20220925233300" channel="cctv11">
         <title lang="zh">九州大戏台-2022-52好戏连连看 豫剧《芝麻官后传》选场</title>
     </programme>
-    <programme start="20220925233600" stop="20220925234400" channel="cctv11">
+    <programme start="20220925233300" stop="20220925234200" channel="cctv11">
         <title lang="zh">主持人全天伴视</title>
     </programme>
-    <programme start="20220925234400" stop="20220926001800" channel="cctv11">
+    <programme start="20220925234200" stop="20220926001600" channel="cctv11">
         <title lang="zh">名家书场-2022-244《童林传》第二部第17集</title>
     </programme>
-    <programme start="20220926001800" stop="20220926002000" channel="cctv11">
+    <programme start="20220926001600" stop="20220926001800" channel="cctv11">
         <title lang="zh">了不起的戏曲-如果它们会说话-头面</title>
     </programme>
-    <programme start="20220926002000" stop="20220926002800" channel="cctv11">
+    <programme start="20220926001800" stop="20220926002600" channel="cctv11">
         <title lang="zh">主持人全天伴视</title>
     </programme>
-    <programme start="20220926002800" stop="20220926013500" channel="cctv11">
+    <programme start="20220926002600" stop="20220926013300" channel="cctv11">
         <title lang="zh">角儿来了-2022-54许娣（下）</title>
     </programme>
-    <programme start="20220926013500" stop="20220926014500" channel="cctv11">
+    <programme start="20220926013300" stop="20220926014300" channel="cctv11">
         <title lang="zh">主持人全天伴视</title>
     </programme>
-    <programme start="20220926014500" stop="20220926031700" channel="cctv11">
-        <title lang="zh">拿手好戏--5</title>
-    </programme>
-    <programme start="20220926031700" stop="20220926033600" channel="cctv11">
-        <title lang="zh">戏如人生-周恩旭</title>
+    <programme start="20220926014300" stop="20220926033600" channel="cctv11">
+        <title lang="zh">九州大戏台-2022-16豫剧电影《大脚皇后》</title>
     </programme>
     <programme start="20220926033600" stop="20220926043600" channel="cctv11">
         <title lang="zh">青春戏苑-2022-10</title>
