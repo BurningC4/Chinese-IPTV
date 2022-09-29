@@ -444,14 +444,14 @@
     <programme start="20220930012000" stop="20220930023300" channel="cctv1">
         <title lang="zh">专题节目-1</title>
     </programme>
-    <programme start="20220930023300" stop="20220930024500" channel="cctv1">
+    <programme start="20220930023300" stop="20220930032300" channel="cctv1">
+        <title lang="zh">海之谣第17集</title>
+    </programme>
+    <programme start="20220930032300" stop="20220930033500" channel="cctv1">
         <title lang="zh">美术里的中国-6</title>
     </programme>
-    <programme start="20220930024500" stop="20220930030100" channel="cctv1">
+    <programme start="20220930033500" stop="20220930035400" channel="cctv1">
         <title lang="zh">美术里的中国-2</title>
-    </programme>
-    <programme start="20220930030100" stop="20220930035400" channel="cctv1">
-        <title lang="zh">海之谣第17集</title>
     </programme>
     <programme start="20220930035400" stop="20220930040000" channel="cctv1">
         <title lang="zh">2022秘境之眼-235</title>
@@ -4753,19 +4753,25 @@
         <title lang="zh">实况录像（奥林匹克）-2022年世界羽毛球锦标赛 2</title>
     </programme>
     <programme start="20220930003000" stop="20220930020000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2022年世界田径锦标赛 5</title>
+        <title lang="zh">实况录像（奥林匹克）-2022年世界田径锦标赛 5（4K）</title>
     </programme>
-    <programme start="20220930020000" stop="20220930043500" channel="cctv16">
-        <title lang="zh">2022年世界乒乓球团体锦标赛-第一轮1</title>
+    <programme start="20220930020000" stop="20220930023000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2022年射箭世界杯 哥伦比亚站 2（4K）</title>
     </programme>
-    <programme start="20220930043500" stop="20220930045000" channel="cctv16">
+    <programme start="20220930023000" stop="20220930040000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2022年全国体操锦标赛  单项决赛 1（4K）</title>
+    </programme>
+    <programme start="20220930040000" stop="20220930045000" channel="cctv16">
         <title lang="zh">艺术里的奥林匹克-2022-42</title>
     </programme>
-    <programme start="20220930045000" stop="20220930050000" channel="cctv16">
+    <programme start="20220930045000" stop="20220930050500" channel="cctv16">
         <title lang="zh">奥林匹克人-2021-37</title>
     </programme>
-    <programme start="20220930050000" stop="20220930073500" channel="cctv16">
-        <title lang="zh">2022年世界乒乓球团体锦标赛-第一轮2</title>
+    <programme start="20220930050500" stop="20220930060500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2022年女篮世界杯 小组赛 韩国队-中国队（4K）</title>
+    </programme>
+    <programme start="20220930060500" stop="20220930073500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2022赛季中国足球协会超级联赛 第16轮 上海申花-梅州客家（4K）</title>
     </programme>
     <programme start="20220930073500" stop="20220930080500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2022年射箭世界杯 巴黎站精选1</title>
