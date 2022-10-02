@@ -3870,16 +3870,13 @@
     <programme start="20221001220000" stop="20221002010000" channel="cctv13">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme start="20221002010000" stop="20221002011200" channel="cctv13">
+    <programme start="20221002010000" stop="20221002020000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20221002011200" stop="20221002020000" channel="cctv13">
-        <title lang="zh">新闻周刊</title>
-    </programme>
-    <programme start="20221002020000" stop="20221002030000" channel="cctv13">
+    <programme start="20221002020000" stop="20221002033000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20221002030000" stop="20221002040000" channel="cctv13">
+    <programme start="20221002033000" stop="20221002040000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20221002040000" stop="20221002043300" channel="cctv13">
@@ -3922,7 +3919,7 @@
         <title lang="zh">新闻联播</title>
     </programme>
     <programme start="20221002133000" stop="20221002140300" channel="cctv13">
-        <title lang="zh">吾国吾家</title>
+        <title lang="zh">吾家吾国</title>
     </programme>
     <programme start="20221002140300" stop="20221002144800" channel="cctv13">
         <title lang="zh">世界周刊</title>
@@ -3934,7 +3931,7 @@
         <title lang="zh">午夜新闻</title>
     </programme>
     <programme start="20221002162600" stop="20221002170000" channel="cctv13">
-        <title lang="zh">吾国吾家</title>
+        <title lang="zh">吾家吾国</title>
     </programme>
     <programme start="20221002170000" stop="20221002171500" channel="cctv13">
         <title lang="zh">新闻直播间</title>
@@ -3942,20 +3939,20 @@
     <programme start="20221002171500" stop="20221002180000" channel="cctv13">
         <title lang="zh">世界周刊</title>
     </programme>
-    <programme start="20221002180000" stop="20221002181500" channel="cctv13">
+    <programme start="20221002180000" stop="20221002182600" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20221002181500" stop="20221002190000" channel="cctv13">
-        <title lang="zh">面对面</title>
+    <programme start="20221002182600" stop="20221002190000" channel="cctv13">
+        <title lang="zh">吾家吾国</title>
     </programme>
-    <programme start="20221002190000" stop="20221002192400" channel="cctv13">
+    <programme start="20221002190000" stop="20221002194000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20221002192400" stop="20221002194000" channel="cctv13">
-        <title lang="zh">焦点访谈</title>
-    </programme>
-    <programme start="20221002194000" stop="20221002200000" channel="cctv13">
+    <programme start="20221002194000" stop="20221002194400" channel="cctv13">
         <title lang="zh">每周质量报告</title>
+    </programme>
+    <programme start="20221002194400" stop="20221002200000" channel="cctv13">
+        <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20221002200000" stop="20221002201500" channel="cctv13">
         <title lang="zh">新闻直播间</title>
