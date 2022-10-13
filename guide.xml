@@ -405,14 +405,11 @@
     <programme start="20221013120600" stop="20221013123600" channel="cctv1">
         <title lang="zh">领航-11</title>
     </programme>
-    <programme start="20221013123600" stop="20221013131200" channel="cctv1">
+    <programme start="20221013123600" stop="20221013131300" channel="cctv1">
         <title lang="zh">领航-12</title>
     </programme>
-    <programme start="20221013131200" stop="20221013135600" channel="cctv1">
+    <programme start="20221013131300" stop="20221013140000" channel="cctv1">
         <title lang="zh">2022党课开讲啦-1</title>
-    </programme>
-    <programme start="20221013135600" stop="20221013140000" channel="cctv1">
-        <title lang="zh">2022秘境之眼-248</title>
     </programme>
     <programme start="20221013140000" stop="20221013143700" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -918,14 +915,14 @@
     <programme start="20221014230000" stop="20221015010200" channel="cctv2">
         <title lang="zh">第一时间</title>
     </programme>
-    <programme start="20221015010200" stop="20221015014700" channel="cctv2">
-        <title lang="zh">大国建造2021-1</title>
+    <programme start="20221015010200" stop="20221015015100" channel="cctv2">
+        <title lang="zh">周末特供2022-超级工程（第三季）纵横中国1</title>
     </programme>
-    <programme start="20221015014700" stop="20221015023300" channel="cctv2">
-        <title lang="zh">大国建造2021-2</title>
+    <programme start="20221015015100" stop="20221015024200" channel="cctv2">
+        <title lang="zh">周末特供2022-超级工程（第三季）纵横中国2</title>
     </programme>
-    <programme start="20221015023300" stop="20221015024600" channel="cctv2">
-        <title lang="zh">周末特供2021-航拍中国第二季5-13分版</title>
+    <programme start="20221015024200" stop="20221015024600" channel="cctv2">
+        <title lang="zh">周末特供2021-航拍中国第二季7-4分版</title>
     </programme>
     <programme start="20221015024600" stop="20221015030800" channel="cctv2">
         <title lang="zh">周末特供2022-953</title>
@@ -1099,7 +1096,7 @@
         <title lang="zh">越战越勇-2022-39</title>
     </programme>
     <programme start="20221013225200" stop="20221013234300" channel="cctv3">
-        <title lang="zh">黄金100秒-2022-38</title>
+        <title lang="zh">黄金100秒-2022-37</title>
     </programme>
     <programme start="20221013234300" stop="20221014010200" channel="cctv3">
         <title lang="zh">向幸福出发-2022-38</title>
@@ -1755,8 +1752,11 @@
     <programme start="20221014134500" stop="20221014142000" channel="cctv5">
         <title lang="zh">体育世界</title>
     </programme>
-    <programme start="20221014142000" stop="20221014155000" channel="cctv5">
-        <title lang="zh">实况录像-2022年世界女排锦标赛 半决赛 1</title>
+    <programme start="20221014142000" stop="20221014152000" channel="cctv5">
+        <title lang="zh">实况录像-2022年亚洲举重锦标赛 女子55公斤级决赛</title>
+    </programme>
+    <programme start="20221014152000" stop="20221014155000" channel="cctv5">
+        <title lang="zh">实况录像-2022年全国体操锦标赛</title>
     </programme>
     <programme start="20221014155000" stop="20221014155900" channel="cctv5">
         <title lang="zh">顶级赛事-象棋</title>
@@ -1891,7 +1891,7 @@
         <title lang="zh">实况录像-2022/2023赛季中国男子篮球职业联赛 第一轮3</title>
     </programme>
     <programme start="20221014040000" stop="20221014053000" channel="cctv5plus">
-        <title lang="zh">实况录像-2022年世界女排锦标赛 1/4决赛 4</title>
+        <title lang="zh">实况录像-2022年世界女排锦标赛 第二阶段小组赛 11</title>
     </programme>
     <programme start="20221014053000" stop="20221014070000" channel="cctv5plus">
         <title lang="zh">实况录像-2022年全国体操锦标赛 单项决赛 2</title>
@@ -1905,8 +1905,11 @@
     <programme start="20221014100000" stop="20221014113000" channel="cctv5plus">
         <title lang="zh">实况录像-2022/2023赛季中国男子篮球职业联赛 第一轮1</title>
     </programme>
-    <programme start="20221014113000" stop="20221014130000" channel="cctv5plus">
-        <title lang="zh">实况录像-2022年世界女排锦标赛 半决赛 1</title>
+    <programme start="20221014113000" stop="20221014123000" channel="cctv5plus">
+        <title lang="zh">实况录像-2022年亚洲举重锦标赛 男子61公斤级决赛</title>
+    </programme>
+    <programme start="20221014123000" stop="20221014130000" channel="cctv5plus">
+        <title lang="zh">实况录像-2022年全国体操锦标赛</title>
     </programme>
     <programme start="20221014130000" stop="20221014143000" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2022年世界乒乓球团体锦标赛 1/4决赛 4（4K）</title>
