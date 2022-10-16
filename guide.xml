@@ -339,7 +339,10 @@
     <programme start="20221016000000" stop="20221016042000" channel="cctv1">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20221016042000" stop="20221016045400" channel="cctv1">
+    <programme start="20221016042000" stop="20221016044600" channel="cctv1">
+        <title lang="zh">新闻30分</title>
+    </programme>
+    <programme start="20221016044600" stop="20221016045400" channel="cctv1">
         <title lang="zh">新闻30分</title>
     </programme>
     <programme start="20221016045400" stop="20221016052200" channel="cctv1">
@@ -378,17 +381,20 @@
     <programme start="20221016110000" stop="20221016113900" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20221016113900" stop="20221016120600" channel="cctv1">
+    <programme start="20221016113900" stop="20221016120000" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20221016120600" stop="20221016125400" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
-    </programme>
-    <programme start="20221016125400" stop="20221016125700" channel="cctv1">
+    <programme start="20221016120000" stop="20221016120600" channel="cctv1">
         <title lang="zh">前情提要- 《大考》第22集</title>
     </programme>
-    <programme start="20221016125700" stop="20221016134800" channel="cctv1">
+    <programme start="20221016120600" stop="20221016125400" channel="cctv1">
         <title lang="zh">大考第22集</title>
+    </programme>
+    <programme start="20221016125400" stop="20221016125700" channel="cctv1">
+        <title lang="zh">前情提要- 《那山那海》第1集</title>
+    </programme>
+    <programme start="20221016125700" stop="20221016134800" channel="cctv1">
+        <title lang="zh">那山那海第1集</title>
     </programme>
     <programme start="20221016134800" stop="20221016135700" channel="cctv1">
         <title lang="zh">山水间的家-精彩瞬间1</title>
