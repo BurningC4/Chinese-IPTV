@@ -549,10 +549,10 @@
     <programme start="20221021120600" stop="20221021125600" channel="cctv1">
         <title lang="zh">那山那海第7集</title>
     </programme>
-    <programme start="20221021125600" stop="20221021125700" channel="cctv1">
+    <programme start="20221021125600" stop="20221021130100" channel="cctv1">
         <title lang="zh">前情提要- 《那山那海》第8集</title>
     </programme>
-    <programme start="20221021125700" stop="20221021140000" channel="cctv1">
+    <programme start="20221021130100" stop="20221021140000" channel="cctv1">
         <title lang="zh">那山那海8/28</title>
     </programme>
     <programme start="20221021140000" stop="20221021143700" channel="cctv1">
@@ -1519,7 +1519,7 @@
         <title lang="zh">今日关注</title>
     </programme>
     <programme start="20221021140000" stop="20221021143000" channel="cctv4">
-        <title lang="zh">记住乡愁-2022-62</title>
+        <title lang="zh">美食中国-2022-96</title>
     </programme>
     <programme start="20221021143000" stop="20221021150100" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -1545,13 +1545,13 @@
     <programme start="20221021180000" stop="20221021183000" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20221021183000" stop="20221021190000" channel="cctv4">
-        <title lang="zh">记住乡愁-2022-62</title>
+    <programme start="20221021183000" stop="20221021185900" channel="cctv4">
+        <title lang="zh">美食中国-2022-96</title>
     </programme>
-    <programme start="20221021190000" stop="20221021191200" channel="cctv4">
+    <programme start="20221021185900" stop="20221021191400" channel="cctv4">
         <title lang="zh">记住乡愁2018片段展播-31</title>
     </programme>
-    <programme start="20221021191200" stop="20221021200000" channel="cctv4">
+    <programme start="20221021191400" stop="20221021200000" channel="cctv4">
         <title lang="zh">远方的家2022-181</title>
     </programme>
     <programme start="20221021200000" stop="20221021203000" channel="cctv4">
@@ -1564,7 +1564,7 @@
         <title lang="zh">国家记忆-2022-155</title>
     </programme>
     <programme start="20221021213000" stop="20221021220000" channel="cctv4">
-        <title lang="zh">记住乡愁-2022-62</title>
+        <title lang="zh">美食中国-2022-96</title>
     </programme>
     <programme start="20221021220000" stop="20221021223000" channel="cctv4">
         <title lang="zh">海峡两岸-2022-294</title>
@@ -1756,7 +1756,7 @@
         <title lang="zh">艺术里的奥林匹克</title>
     </programme>
     <programme start="20221021045500" stop="20221021062600" channel="cctv5">
-        <title lang="zh">实况录像-2022/2023赛季中国男子篮球职业联赛 第四轮 1</title>
+        <title lang="zh">实况录像-2022年女篮世界杯 半决赛</title>
     </programme>
     <programme start="20221021062600" stop="20221021072800" channel="cctv5">
         <title lang="zh">2022年世界皮划艇激流回旋锦标赛-精选1</title>
@@ -1773,14 +1773,20 @@
     <programme start="20221021103500" stop="20221021113000" channel="cctv5">
         <title lang="zh">篮球公园</title>
     </programme>
-    <programme start="20221021113000" stop="20221021134500" channel="cctv5">
-        <title lang="zh">2022/2023赛季中国男子篮球职业联赛-常规赛第5轮 (广东东莞大益-上海久事)</title>
+    <programme start="20221021113000" stop="20221021133000" channel="cctv5">
+        <title lang="zh">2022年世乒联冠军赛（澳门站）-单打第2轮</title>
     </programme>
-    <programme start="20221021134500" stop="20221021142000" channel="cctv5">
+    <programme start="20221021133000" stop="20221021140000" channel="cctv5">
         <title lang="zh">体育世界</title>
     </programme>
-    <programme start="20221021142000" stop="20221021155000" channel="cctv5">
-        <title lang="zh">实况录像-2022年世界田联钻石联赛 苏黎世站 2</title>
+    <programme start="20221021140000" stop="20221021141500" channel="cctv5">
+        <title lang="zh">实况录像-2022年跳水世界杯 女子双人十米台决赛（录播）</title>
+    </programme>
+    <programme start="20221021141500" stop="20221021152500" channel="cctv5">
+        <title lang="zh">2022年跳水世界杯-男子3米板决赛</title>
+    </programme>
+    <programme start="20221021152500" stop="20221021155000" channel="cctv5">
+        <title lang="zh">实况录像-2022年跳水世界杯 男子双人十米台决赛（录播）</title>
     </programme>
     <programme start="20221021155000" stop="20221021155900" channel="cctv5">
         <title lang="zh">实况录像-2022年全国体操锦标赛 25分钟版 1</title>
@@ -2770,10 +2776,10 @@
         <title lang="zh">幸福二重奏第31集</title>
     </programme>
     <programme start="20221021185900" stop="20221021194500" channel="cctv8">
-        <title lang="zh">天才基本法1/34</title>
+        <title lang="zh">天才基本法第1集</title>
     </programme>
     <programme start="20221021194500" stop="20221021203100" channel="cctv8">
-        <title lang="zh">天才基本法2/34</title>
+        <title lang="zh">天才基本法第2集</title>
     </programme>
     <programme start="20221021203100" stop="20221021210300" channel="cctv8">
         <title lang="zh">天才基本法3/34</title>
@@ -3585,14 +3591,17 @@
     <programme start="20221020220000" stop="20221020220700" channel="cctv11">
         <title lang="zh">主持人全天伴视</title>
     </programme>
-    <programme start="20221020220700" stop="20221020231200" channel="cctv11">
+    <programme start="20221020220700" stop="20221020230800" channel="cctv11">
         <title lang="zh">九州大戏台-2022-24好戏连连看 越剧《三看御妹》选场一</title>
     </programme>
-    <programme start="20221020231200" stop="20221020232100" channel="cctv11">
+    <programme start="20221020230800" stop="20221020231700" channel="cctv11">
+        <title lang="zh">九州大戏台-2020-34评剧《金沙江畔》片断</title>
+    </programme>
+    <programme start="20221020231700" stop="20221020232600" channel="cctv11">
         <title lang="zh">主持人全天伴视</title>
     </programme>
-    <programme start="20221020232100" stop="20221020235800" channel="cctv11">
-        <title lang="zh">戏曲青年说-2022-9《珍赏》9 水磨悠扬</title>
+    <programme start="20221020232600" stop="20221020235800" channel="cctv11">
+        <title lang="zh">典藏-2021-72</title>
     </programme>
     <programme start="20221020235800" stop="20221021000600" channel="cctv11">
         <title lang="zh">主持人全天伴视</title>
@@ -3622,7 +3631,7 @@
         <title lang="zh">主持人全天伴视</title>
     </programme>
     <programme start="20221021075200" stop="20221021090200" channel="cctv11">
-        <title lang="zh">青春戏苑-2022-43</title>
+        <title lang="zh">青春戏苑-2022-41</title>
     </programme>
     <programme start="20221021090200" stop="20221021091300" channel="cctv11">
         <title lang="zh">主持人全天伴视</title>
@@ -3676,7 +3685,7 @@
         <title lang="zh">戏曲青年说-2022-1《珍赏》1 戏曲之美</title>
     </programme>
     <programme start="20221021234400" stop="20221022005100" channel="cctv11">
-        <title lang="zh">青春戏苑-2022-43</title>
+        <title lang="zh">青春戏苑-2022-41</title>
     </programme>
     <programme start="20221022005100" stop="20221022005900" channel="cctv11">
         <title lang="zh">主持人全天伴视</title>
