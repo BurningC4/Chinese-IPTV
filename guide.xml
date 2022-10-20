@@ -544,16 +544,16 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20221021120100" stop="20221021120600" channel="cctv1">
-        <title lang="zh">前情提要-《那山那海》-8/28</title>
+        <title lang="zh">前情提要-《那山那海》-7/28</title>
     </programme>
     <programme start="20221021120600" stop="20221021125600" channel="cctv1">
-        <title lang="zh">那山那海8/28</title>
+        <title lang="zh">那山那海7/28</title>
     </programme>
     <programme start="20221021125600" stop="20221021125700" channel="cctv1">
-        <title lang="zh">前情提要-《那山那海》-9/28</title>
+        <title lang="zh">前情提要-《那山那海》-8/28</title>
     </programme>
     <programme start="20221021125700" stop="20221021140000" channel="cctv1">
-        <title lang="zh">那山那海9/28</title>
+        <title lang="zh">那山那海8/28</title>
     </programme>
     <programme start="20221021140000" stop="20221021143700" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -661,7 +661,7 @@
         <title lang="zh">那山那海10/28</title>
     </programme>
     <programme start="20221022125300" stop="20221022125500" channel="cctv1">
-        <title lang="zh">前情提要-《那山那海》-11/28</title>
+        <title lang="zh">前情提要-《那山那海》11/28</title>
     </programme>
     <programme start="20221022125500" stop="20221022140000" channel="cctv1">
         <title lang="zh">那山那海11/28</title>
@@ -1323,10 +1323,13 @@
     <programme start="20221020020000" stop="20221020031000" channel="cctv4">
         <title lang="zh">中国共产党第二十次全国代表大会新闻中心记者招待会-4</title>
     </programme>
-    <programme start="20221020031000" stop="20221020033000" channel="cctv4">
+    <programme start="20221020031000" stop="20221020032500" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20221020033000" stop="20221020040000" channel="cctv4">
+    <programme start="20221020032500" stop="20221020033100" channel="cctv4">
+        <title lang="zh">记住乡愁</title>
+    </programme>
+    <programme start="20221020033100" stop="20221020040000" channel="cctv4">
         <title lang="zh">海峡两岸-2022-292</title>
     </programme>
     <programme start="20221020040000" stop="20221020050200" channel="cctv4">
@@ -1896,14 +1899,17 @@
     <programme start="20221020090500" stop="20221020103500" channel="cctv5plus">
         <title lang="zh">实况录像-2022年世界田联钻石联赛 布鲁塞尔站</title>
     </programme>
-    <programme start="20221020103500" stop="20221020110000" channel="cctv5plus">
-        <title lang="zh">天下足球-你好，世界杯15</title>
+    <programme start="20221020103500" stop="20221020120500" channel="cctv5plus">
+        <title lang="zh">实况录像（奥林匹克）-2022年全国体操锦标赛 女子资格赛暨团体决赛（4K）</title>
     </programme>
-    <programme start="20221020110000" stop="20221020143500" channel="cctv5plus">
-        <title lang="zh">2022年世乒联冠军赛（澳门站）-单打 第1轮</title>
+    <programme start="20221020120500" stop="20221020130500" channel="cctv5plus">
+        <title lang="zh">实况录像-2022年亚洲举重锦标赛 女子59公斤级决赛</title>
     </programme>
-    <programme start="20221020143500" stop="20221020150500" channel="cctv5plus">
-        <title lang="zh">实况录像-2022年世界田联钻石联赛 苏黎世站</title>
+    <programme start="20221020130500" stop="20221020133500" channel="cctv5plus">
+        <title lang="zh">实况录像-2022年世界田联钻石联赛 苏黎世站 25分钟版 1</title>
+    </programme>
+    <programme start="20221020133500" stop="20221020150500" channel="cctv5plus">
+        <title lang="zh">实况录像-2022年世界羽毛球锦标赛 1</title>
     </programme>
     <programme start="20221020150500" stop="20221020155900" channel="cctv5plus">
         <title lang="zh">实况录像-2022年世界赛艇锦标赛 2</title>
@@ -1912,7 +1918,7 @@
         <title lang="zh">实况录像-2021/2022赛季斯诺克大师赛 决赛</title>
     </programme>
     <programme start="20221020180000" stop="20221020193000" channel="cctv5plus">
-        <title lang="zh">实况录像-2022/2023赛季中国男子篮球职业联赛 第一轮3</title>
+        <title lang="zh">实况录像（奥林匹克）-2022赛季中国足球协会超级联赛 第13轮 上海海港-深圳队（4K）</title>
     </programme>
     <programme start="20221020193000" stop="20221020195000" channel="cctv5plus">
         <title lang="zh">天下足球-你好，世界杯17</title>
