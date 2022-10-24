@@ -333,10 +333,10 @@
     <programme start="20221024025700" stop="20221024030000" channel="cctv1">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20221024030000" stop="20221024035700" channel="cctv1">
+    <programme start="20221024030000" stop="20221024035100" channel="cctv1">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20221024035700" stop="20221024040000" channel="cctv1">
+    <programme start="20221024035100" stop="20221024040000" channel="cctv1">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20221024040000" stop="20221024045200" channel="cctv1">
@@ -546,10 +546,10 @@
     <programme start="20221025184900" stop="20221025185400" channel="cctv1">
         <title lang="zh">精彩一刻-2021-163美丽中国江西铜钹山红豆杉(4K)</title>
     </programme>
-    <programme start="20221025185400" stop="20221025190400" channel="cctv1">
+    <programme start="20221025185400" stop="20221025190100" channel="cctv1">
         <title lang="zh">精彩一刻-2021-160美丽中国江西黎川植物(4K)</title>
     </programme>
-    <programme start="20221025190400" stop="20221025202700" channel="cctv1">
+    <programme start="20221025190100" stop="20221025202700" channel="cctv1">
         <title lang="zh">故事里的中国（第三季）-彭士禄（精编）</title>
     </programme>
     <programme start="20221025202700" stop="20221025205700" channel="cctv1">
@@ -1293,8 +1293,11 @@
     <programme start="20221024010000" stop="20221024020000" channel="cctv4">
         <title lang="zh">中国文艺-致敬经典2022-40</title>
     </programme>
-    <programme start="20221024020000" stop="20221024040000" channel="cctv4">
+    <programme start="20221024020000" stop="20221024035100" channel="cctv4">
         <title lang="zh">中共中央新闻发布会</title>
+    </programme>
+    <programme start="20221024035100" stop="20221024040000" channel="cctv4">
+        <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20221024040000" stop="20221024050200" channel="cctv4">
         <title lang="zh">中国新闻</title>
@@ -1432,19 +1435,19 @@
         <title lang="zh">荟萃节目-秘境之眼6</title>
     </programme>
     <programme start="20221025050800" stop="20221025055600" channel="cctv4">
-        <title lang="zh">夺金第8集</title>
-    </programme>
-    <programme start="20221025055600" stop="20221025064400" channel="cctv4">
         <title lang="zh">夺金第9集</title>
     </programme>
-    <programme start="20221025064400" stop="20221025073200" channel="cctv4">
+    <programme start="20221025055600" stop="20221025064400" channel="cctv4">
         <title lang="zh">夺金第10集</title>
     </programme>
-    <programme start="20221025073200" stop="20221025082000" channel="cctv4">
+    <programme start="20221025064400" stop="20221025073200" channel="cctv4">
         <title lang="zh">夺金第11集</title>
     </programme>
-    <programme start="20221025082000" stop="20221025091100" channel="cctv4">
+    <programme start="20221025073200" stop="20221025082000" channel="cctv4">
         <title lang="zh">夺金第12集</title>
+    </programme>
+    <programme start="20221025082000" stop="20221025091100" channel="cctv4">
+        <title lang="zh">夺金第13集</title>
     </programme>
     <programme start="20221025091100" stop="20221025091300" channel="cctv4">
         <title lang="zh">荟萃节目-秘境之眼10</title>
@@ -1486,13 +1489,13 @@
         <title lang="zh">新闻联播</title>
     </programme>
     <programme start="20221025150200" stop="20221025154800" channel="cctv4">
-        <title lang="zh">春天里的人们第6集</title>
+        <title lang="zh">春天里的人们第8集</title>
     </programme>
     <programme start="20221025154800" stop="20221025155900" channel="cctv4">
-        <title lang="zh">春天里的人们第7集</title>
+        <title lang="zh">春天里的人们第9集</title>
     </programme>
     <programme start="20221025163400" stop="20221025172600" channel="cctv4">
-        <title lang="zh">春天里的人们第8集</title>
+        <title lang="zh">春天里的人们第10集</title>
     </programme>
     <programme start="20221025172600" stop="20221025172800" channel="cctv4">
         <title lang="zh">荟萃节目-秘境之眼31</title>
@@ -4092,10 +4095,10 @@
     <programme start="20221024010000" stop="20221024020000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20221024020000" stop="20221024030000" channel="cctv13">
+    <programme start="20221024020000" stop="20221024035100" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20221024030000" stop="20221024040000" channel="cctv13">
+    <programme start="20221024035100" stop="20221024040000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20221024040000" stop="20221024050000" channel="cctv13">
