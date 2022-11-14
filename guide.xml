@@ -498,10 +498,10 @@
     <programme start="20221115114000" stop="20221115120600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20221115120600" stop="20221115130200" channel="cctv1">
+    <programme start="20221115120600" stop="20221115130400" channel="cctv1">
         <title lang="zh">航拍中国（第四季）-10</title>
     </programme>
-    <programme start="20221115130200" stop="20221115140000" channel="cctv1">
+    <programme start="20221115130400" stop="20221115140000" channel="cctv1">
         <title lang="zh">航拍中国（第四季）-11</title>
     </programme>
     <programme start="20221115140000" stop="20221115143800" channel="cctv1">
@@ -1362,8 +1362,11 @@
     <programme start="20221114113000" stop="20221114120000" channel="cctv4">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme start="20221114120000" stop="20221114123000" channel="cctv4">
-        <title lang="zh">国家记忆-2022-171</title>
+    <programme start="20221114120000" stop="20221114121700" channel="cctv4">
+        <title lang="zh">中国新闻</title>
+    </programme>
+    <programme start="20221114121700" stop="20221114123000" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-8</title>
     </programme>
     <programme start="20221114123000" stop="20221114130000" channel="cctv4">
         <title lang="zh">海峡两岸-2022-318</title>
@@ -1374,23 +1377,32 @@
     <programme start="20221114133000" stop="20221114140000" channel="cctv4">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme start="20221114140000" stop="20221114143000" channel="cctv4">
-        <title lang="zh">美食中国-2022-174</title>
+    <programme start="20221114140000" stop="20221114141700" channel="cctv4">
+        <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20221114143000" stop="20221114150400" channel="cctv4">
+    <programme start="20221114141700" stop="20221114143000" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-14</title>
+    </programme>
+    <programme start="20221114143000" stop="20221114150000" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20221114150400" stop="20221114155100" channel="cctv4">
+    <programme start="20221114150000" stop="20221114151700" channel="cctv4">
+        <title lang="zh">中国新闻</title>
+    </programme>
+    <programme start="20221114151700" stop="20221114155900" channel="cctv4">
         <title lang="zh">海之谣第32集</title>
     </programme>
-    <programme start="20221114155100" stop="20221114155900" channel="cctv4">
+    <programme start="20221114160000" stop="20221114161600" channel="cctv4">
+        <title lang="zh">中国新闻</title>
+    </programme>
+    <programme start="20221114161600" stop="20221114170000" channel="cctv4">
         <title lang="zh">海之谣第33集</title>
     </programme>
-    <programme start="20221114163800" stop="20221114173000" channel="cctv4">
-        <title lang="zh">海之谣第34集</title>
+    <programme start="20221114170000" stop="20221114171500" channel="cctv4">
+        <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20221114173000" stop="20221114180000" channel="cctv4">
-        <title lang="zh">中国文艺-2022-227</title>
+    <programme start="20221114171500" stop="20221114180000" channel="cctv4">
+        <title lang="zh">海之谣第34集</title>
     </programme>
     <programme start="20221114180000" stop="20221114183000" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -1398,10 +1410,10 @@
     <programme start="20221114183000" stop="20221114190000" channel="cctv4">
         <title lang="zh">美食中国-2022-174</title>
     </programme>
-    <programme start="20221114190000" stop="20221114191000" channel="cctv4">
+    <programme start="20221114190000" stop="20221114191500" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20221114191000" stop="20221114200000" channel="cctv4">
+    <programme start="20221114191500" stop="20221114200000" channel="cctv4">
         <title lang="zh">远方的家2022-201</title>
     </programme>
     <programme start="20221114200000" stop="20221114203000" channel="cctv4">
@@ -2623,7 +2635,7 @@
         <title lang="zh">特战行动第2集</title>
     </programme>
     <programme start="20221114195400" stop="20221114201400" channel="cctv8">
-        <title lang="zh">插花-2022-4</title>
+        <title lang="zh">插花-2022-3</title>
     </programme>
     <programme start="20221114201400" stop="20221114202400" channel="cctv8">
         <title lang="zh">插花-2015-12</title>
@@ -2752,7 +2764,7 @@
         <title lang="zh">特战行动第6集</title>
     </programme>
     <programme start="20221115195400" stop="20221115201400" channel="cctv8">
-        <title lang="zh">插花-2022-4</title>
+        <title lang="zh">插花-2022-3</title>
     </programme>
     <programme start="20221115201400" stop="20221115202400" channel="cctv8">
         <title lang="zh">插花-2015-12</title>
