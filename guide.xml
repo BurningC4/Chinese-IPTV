@@ -381,8 +381,11 @@
     <programme start="20221201105200" stop="20221201110000" channel="cctv1">
         <title lang="zh">2022秘境之眼-321</title>
     </programme>
-    <programme start="20221201110000" stop="20221201115800" channel="cctv1">
+    <programme start="20221201110000" stop="20221201114000" channel="cctv1">
         <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20221201114000" stop="20221201115800" channel="cctv1">
+        <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20221201115800" stop="20221201120200" channel="cctv1">
         <title lang="zh">前情提要- 《山河锦绣》第24集</title>
@@ -420,13 +423,10 @@
     <programme start="20221201191300" stop="20221201192300" channel="cctv1">
         <title lang="zh">精彩一刻-2022-14极致中国之石林10分</title>
     </programme>
-    <programme start="20221201192300" stop="20221201193300" channel="cctv1">
+    <programme start="20221201192300" stop="20221201193600" channel="cctv1">
         <title lang="zh">精彩一刻-2022-15极致中国之峡谷10分</title>
     </programme>
-    <programme start="20221201193300" stop="20221201194100" channel="cctv1">
-        <title lang="zh">精彩一刻-2021-167美丽中国阿尔泰山湖(4K)</title>
-    </programme>
-    <programme start="20221201194100" stop="20221201202400" channel="cctv1">
+    <programme start="20221201193600" stop="20221201202400" channel="cctv1">
         <title lang="zh">精彩一刻-2022-170超级装备第二季3</title>
     </programme>
     <programme start="20221201202400" stop="20221201205200" channel="cctv1">
@@ -621,11 +621,11 @@
     <programme start="20221203140000" stop="20221203143600" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20221203143600" stop="20221203145100" channel="cctv1">
-        <title lang="zh">美术里的中国-5</title>
+    <programme start="20221203143600" stop="20221203153100" channel="cctv1">
+        <title lang="zh">航拍中国（第四季）-4</title>
     </programme>
-    <programme start="20221203145100" stop="20221203155900" channel="cctv1">
-        <title lang="zh">体育直播间</title>
+    <programme start="20221203153100" stop="20221203155900" channel="cctv1">
+        <title lang="zh">典籍里的中国-《道德经》（精编）</title>
     </programme>
     <programme start="20221130161800" stop="20221130165900" channel="cctv2">
         <title lang="zh">对话-2022-46</title>
@@ -1440,20 +1440,20 @@
     <programme start="20221202000000" stop="20221202010000" channel="cctv4">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme start="20221202010000" stop="20221202013000" channel="cctv4">
+    <programme start="20221202010000" stop="20221202013100" channel="cctv4">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme start="20221202013000" stop="20221202020000" channel="cctv4">
-        <title lang="zh">中国文艺-2022-240</title>
+    <programme start="20221202013100" stop="20221202020000" channel="cctv4">
+        <title lang="zh">人类的记忆-中国的世界遗产-21</title>
     </programme>
-    <programme start="20221202020000" stop="20221202021300" channel="cctv4">
-        <title lang="zh">中国新闻</title>
+    <programme start="20221202020000" stop="20221202023200" channel="cctv4">
+        <title lang="zh">人类的记忆-中国的世界遗产-22</title>
     </programme>
-    <programme start="20221202021300" stop="20221202030000" channel="cctv4">
+    <programme start="20221202023200" stop="20221202024200" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-59</title>
+    </programme>
+    <programme start="20221202024200" stop="20221202033000" channel="cctv4">
         <title lang="zh">远方的家2022-214</title>
-    </programme>
-    <programme start="20221202030000" stop="20221202033000" channel="cctv4">
-        <title lang="zh">国家记忆-2022-184</title>
     </programme>
     <programme start="20221202033000" stop="20221202040000" channel="cctv4">
         <title lang="zh">海峡两岸-2022-335</title>
@@ -1461,41 +1461,32 @@
     <programme start="20221202040000" stop="20221202050200" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20221202050200" stop="20221202050400" channel="cctv4">
-        <title lang="zh">荟萃节目-秘境之眼31</title>
+    <programme start="20221202050200" stop="20221202053400" channel="cctv4">
+        <title lang="zh">美食中国-2022-185</title>
     </programme>
-    <programme start="20221202050400" stop="20221202050800" channel="cctv4">
-        <title lang="zh">荟萃节目-秘境之眼1</title>
+    <programme start="20221202053400" stop="20221202061800" channel="cctv4">
+        <title lang="zh">跨过鸭绿江-（四套）-6/40</title>
     </programme>
-    <programme start="20221202050800" stop="20221202055700" channel="cctv4">
-        <title lang="zh">战天狼第29集</title>
+    <programme start="20221202061800" stop="20221202070100" channel="cctv4">
+        <title lang="zh">跨过鸭绿江-（四套）-7/40</title>
     </programme>
-    <programme start="20221202055700" stop="20221202064500" channel="cctv4">
-        <title lang="zh">战天狼第30集</title>
+    <programme start="20221202070100" stop="20221202074500" channel="cctv4">
+        <title lang="zh">跨过鸭绿江-（四套）-8/40</title>
     </programme>
-    <programme start="20221202064500" stop="20221202073300" channel="cctv4">
-        <title lang="zh">战天狼第31集</title>
+    <programme start="20221202074500" stop="20221202082800" channel="cctv4">
+        <title lang="zh">跨过鸭绿江-（四套）-9/40</title>
     </programme>
-    <programme start="20221202073300" stop="20221202082100" channel="cctv4">
-        <title lang="zh">战天狼第32集</title>
-    </programme>
-    <programme start="20221202082100" stop="20221202091100" channel="cctv4">
-        <title lang="zh">战天狼第33集</title>
-    </programme>
-    <programme start="20221202091100" stop="20221202091300" channel="cctv4">
-        <title lang="zh">荟萃节目-秘境之眼3</title>
-    </programme>
-    <programme start="20221202091300" stop="20221202091500" channel="cctv4">
-        <title lang="zh">荟萃节目-秘境之眼5</title>
+    <programme start="20221202082800" stop="20221202091500" channel="cctv4">
+        <title lang="zh">跨过鸭绿江-（四套）-10/40</title>
     </programme>
     <programme start="20221202091500" stop="20221202100000" channel="cctv4">
         <title lang="zh">远方的家2022-215</title>
     </programme>
-    <programme start="20221202100000" stop="20221202103000" channel="cctv4">
+    <programme start="20221202100000" stop="20221202103100" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20221202103000" stop="20221202110000" channel="cctv4">
-        <title lang="zh">中国文艺-2022-241</title>
+    <programme start="20221202103100" stop="20221202110000" channel="cctv4">
+        <title lang="zh">人类的记忆-中国的世界遗产-6</title>
     </programme>
     <programme start="20221202110000" stop="20221202113000" channel="cctv4">
         <title lang="zh">中国新闻</title>
@@ -1521,17 +1512,20 @@
     <programme start="20221202143000" stop="20221202150400" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20221202150400" stop="20221202154800" channel="cctv4">
-        <title lang="zh">新居之约第17集</title>
+    <programme start="20221202150400" stop="20221202154700" channel="cctv4">
+        <title lang="zh">淬火成钢-（四套）-5/34</title>
     </programme>
-    <programme start="20221202154800" stop="20221202155900" channel="cctv4">
-        <title lang="zh">新居之约第18集</title>
+    <programme start="20221202154700" stop="20221202155900" channel="cctv4">
+        <title lang="zh">淬火成钢-（四套）-6/34</title>
     </programme>
-    <programme start="20221202163200" stop="20221202171700" channel="cctv4">
-        <title lang="zh">新居之约第19集</title>
+    <programme start="20221202162900" stop="20221202171200" channel="cctv4">
+        <title lang="zh">淬火成钢-（四套）-7/34</title>
     </programme>
-    <programme start="20221202171700" stop="20221202180000" channel="cctv4">
-        <title lang="zh">新居之约第20集</title>
+    <programme start="20221202171200" stop="20221202175400" channel="cctv4">
+        <title lang="zh">淬火成钢-（四套）-8/34</title>
+    </programme>
+    <programme start="20221202175400" stop="20221202180000" channel="cctv4">
+        <title lang="zh">荟萃节目-秘境之眼1</title>
     </programme>
     <programme start="20221202180000" stop="20221202183000" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -1539,10 +1533,10 @@
     <programme start="20221202183000" stop="20221202190000" channel="cctv4">
         <title lang="zh">鲁健访谈-2022-47</title>
     </programme>
-    <programme start="20221202190000" stop="20221202191000" channel="cctv4">
-        <title lang="zh">中国新闻</title>
+    <programme start="20221202190000" stop="20221202191200" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-85</title>
     </programme>
-    <programme start="20221202191000" stop="20221202200000" channel="cctv4">
+    <programme start="20221202191200" stop="20221202200000" channel="cctv4">
         <title lang="zh">远方的家2022-215</title>
     </programme>
     <programme start="20221202200000" stop="20221202203000" channel="cctv4">
@@ -1593,32 +1587,23 @@
     <programme start="20221203050000" stop="20221203053200" channel="cctv4">
         <title lang="zh">华人故事-2022-49</title>
     </programme>
-    <programme start="20221203053200" stop="20221203053400" channel="cctv4">
-        <title lang="zh">荟萃节目-秘境之眼6</title>
+    <programme start="20221203053200" stop="20221203060500" channel="cctv4">
+        <title lang="zh">记住乡愁（第五季）2019-2</title>
     </programme>
-    <programme start="20221203053400" stop="20221203053900" channel="cctv4">
-        <title lang="zh">荟萃节目-秘境之眼10</title>
+    <programme start="20221203060500" stop="20221203064800" channel="cctv4">
+        <title lang="zh">跨过鸭绿江-（四套）-11/40</title>
     </programme>
-    <programme start="20221203053900" stop="20221203062700" channel="cctv4">
-        <title lang="zh">战天狼34/39</title>
+    <programme start="20221203064800" stop="20221203073200" channel="cctv4">
+        <title lang="zh">跨过鸭绿江-（四套）-12/40</title>
     </programme>
-    <programme start="20221203062700" stop="20221203071500" channel="cctv4">
-        <title lang="zh">战天狼35/39</title>
+    <programme start="20221203073200" stop="20221203081600" channel="cctv4">
+        <title lang="zh">跨过鸭绿江-（四套）-13/40</title>
     </programme>
-    <programme start="20221203071500" stop="20221203080300" channel="cctv4">
-        <title lang="zh">战天狼36/39</title>
+    <programme start="20221203081600" stop="20221203085900" channel="cctv4">
+        <title lang="zh">跨过鸭绿江-（四套）-14/40</title>
     </programme>
-    <programme start="20221203080300" stop="20221203085100" channel="cctv4">
-        <title lang="zh">战天狼37/39</title>
-    </programme>
-    <programme start="20221203085100" stop="20221203094100" channel="cctv4">
-        <title lang="zh">战天狼38/39</title>
-    </programme>
-    <programme start="20221203094100" stop="20221203094300" channel="cctv4">
-        <title lang="zh">荟萃节目-秘境之眼8</title>
-    </programme>
-    <programme start="20221203094300" stop="20221203094500" channel="cctv4">
-        <title lang="zh">荟萃节目-秘境之眼11</title>
+    <programme start="20221203085900" stop="20221203094500" channel="cctv4">
+        <title lang="zh">跨过鸭绿江-（四套）-15/40</title>
     </programme>
     <programme start="20221203094500" stop="20221203100000" channel="cctv4">
         <title lang="zh">平凡匠心-2022-16</title>
@@ -1744,7 +1729,7 @@
         <title lang="zh">体坛快讯</title>
     </programme>
     <programme start="20221202043500" stop="20221202045100" channel="cctv5">
-        <title lang="zh">艺术里的奥林匹克艺术里的奥林匹克-2022-94</title>
+        <title lang="zh">艺术里的奥林匹克-2022-94</title>
     </programme>
     <programme start="20221202045100" stop="20221202063500" channel="cctv5">
         <title lang="zh">实况录像-2022年卡塔尔世界杯 小组赛  加拿大队—摩洛哥队（录播）</title>
@@ -1756,7 +1741,7 @@
         <title lang="zh">实况录像（奥林匹克）-2022年卡塔尔世界杯 小组赛 法国队—澳大利亚队（4K）</title>
     </programme>
     <programme start="20221202093000" stop="20221202100000" channel="cctv5">
-        <title lang="zh">2022年卡塔尔世界杯报道-传奇金杯12</title>
+        <title lang="zh">实况录像-2022年世界蹦床锦标赛</title>
     </programme>
     <programme start="20221202100000" stop="20221202110000" channel="cctv5">
         <title lang="zh">2022年卡塔尔世界杯报道-足球盛宴-13</title>
@@ -2617,7 +2602,7 @@
         <title lang="zh">麓山之歌第9集</title>
     </programme>
     <programme start="20221202003200" stop="20221202012300" channel="cctv8">
-        <title lang="zh">麓山之歌10/36</title>
+        <title lang="zh">麓山之歌第10集</title>
     </programme>
     <programme start="20221202012300" stop="20221202013500" channel="cctv8">
         <title lang="zh">星推荐-2022年12月-1</title>
@@ -2629,7 +2614,7 @@
         <title lang="zh">插花-2015-3</title>
     </programme>
     <programme start="20221202023500" stop="20221202033200" channel="cctv8">
-        <title lang="zh">麓山之歌12/36</title>
+        <title lang="zh">麓山之歌第12集</title>
     </programme>
     <programme start="20221202033200" stop="20221202041800" channel="cctv8">
         <title lang="zh">麓山之歌第13集</title>
@@ -3942,16 +3927,16 @@
     <programme start="20221201100000" stop="20221201110000" channel="cctv13">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme start="20221201110000" stop="20221201113000" channel="cctv13">
+    <programme start="20221201110000" stop="20221201113500" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20221201113000" stop="20221201113500" channel="cctv13">
+    <programme start="20221201113500" stop="20221201114000" channel="cctv13">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme start="20221201113500" stop="20221201120000" channel="cctv13">
+    <programme start="20221201114000" stop="20221201115600" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20221201120000" stop="20221201130000" channel="cctv13">
+    <programme start="20221201115600" stop="20221201130000" channel="cctv13">
         <title lang="zh">东方时空</title>
     </programme>
     <programme start="20221201130000" stop="20221201133000" channel="cctv13">
@@ -4999,51 +4984,51 @@
         <title lang="zh">谁知盘中餐-2022-249</title>
     </programme>
     <programme start="20221202110300" stop="20221202115700" channel="cctv17">
-        <title lang="zh">乡村情感之女怕嫁错郎第31集</title>
+        <title lang="zh">红旗渠第3集</title>
     </programme>
     <programme start="20221202115700" stop="20221202124600" channel="cctv17">
-        <title lang="zh">乡村情感之女怕嫁错郎第32集</title>
+        <title lang="zh">红旗渠第4集</title>
     </programme>
-    <programme start="20221202124600" stop="20221202131500" channel="cctv17">
+    <programme start="20221202124600" stop="20221202133500" channel="cctv17">
+        <title lang="zh">红旗渠第5集</title>
+    </programme>
+    <programme start="20221202133500" stop="20221202140400" channel="cctv17">
         <title lang="zh">三农群英汇-2022-328</title>
     </programme>
-    <programme start="20221202131500" stop="20221202131800" channel="cctv17">
+    <programme start="20221202140400" stop="20221202140700" channel="cctv17">
         <title lang="zh">农业气象</title>
     </programme>
-    <programme start="20221202131800" stop="20221202133600" channel="cctv17">
+    <programme start="20221202140700" stop="20221202142300" channel="cctv17">
         <title lang="zh">振兴路上2022-89</title>
     </programme>
-    <programme start="20221202133600" stop="20221202140400" channel="cctv17">
+    <programme start="20221202142300" stop="20221202145300" channel="cctv17">
         <title lang="zh">致富经-2022-190</title>
     </programme>
-    <programme start="20221202140400" stop="20221202141000" channel="cctv17">
+    <programme start="20221202145300" stop="20221202145900" channel="cctv17">
         <title lang="zh">中国三农报道</title>
     </programme>
-    <programme start="20221202141000" stop="20221202150600" channel="cctv17">
-        <title lang="zh">我的美丽乡村-周末版2022-217</title>
-    </programme>
-    <programme start="20221202150600" stop="20221202153200" channel="cctv17">
+    <programme start="20221202145900" stop="20221202152500" channel="cctv17">
         <title lang="zh">田间示范秀-2022-276</title>
     </programme>
-    <programme start="20221202153200" stop="20221202155900" channel="cctv17">
-        <title lang="zh">致富经-2022-190</title>
-    </programme>
-    <programme start="20221202160000" stop="20221202162700" channel="cctv17">
-        <title lang="zh">谁知盘中餐-2022-249</title>
-    </programme>
-    <programme start="20221202162700" stop="20221202164500" channel="cctv17">
-        <title lang="zh">振兴路上2022-89</title>
-    </programme>
-    <programme start="20221202164500" stop="20221202171500" channel="cctv17">
-        <title lang="zh">三农群英汇-2022-328</title>
-    </programme>
-    <programme start="20221202171500" stop="20221202174100" channel="cctv17">
+    <programme start="20221202152500" stop="20221202155200" channel="cctv17">
         <title lang="zh">我的美丽乡村-2022-237</title>
     </programme>
-    <programme start="20221202174100" stop="20221202181800" channel="cctv17">
+    <programme start="20221202155200" stop="20221202155900" channel="cctv17">
+        <title lang="zh">谁知盘中餐-2022-249</title>
+    </programme>
+    <programme start="20221202161900" stop="20221202163700" channel="cctv17">
+        <title lang="zh">振兴路上2022-89</title>
+    </programme>
+    <programme start="20221202163700" stop="20221202170700" channel="cctv17">
+        <title lang="zh">三农群英汇-2022-328</title>
+    </programme>
+    <programme start="20221202170700" stop="20221202173400" channel="cctv17">
+        <title lang="zh">致富经-2022-190</title>
+    </programme>
+    <programme start="20221202173400" stop="20221202181100" channel="cctv17">
         <title lang="zh">我爱发明-2022-225</title>
     </programme>
-    <programme start="20221202181800" stop="20221202215500" channel="cctv17">
+    <programme start="20221202181100" stop="20221202215500" channel="cctv17">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20221202215500" stop="20221202220000" channel="cctv17">
@@ -15474,17 +15459,11 @@
     <programme start="20221203153000" stop="20221203155900" channel="travel">
         <title lang="zh">卫视高尔夫</title>
     </programme>
-    <programme start="20221130161500" stop="20221130164500" channel="xiamen">
-        <title lang="zh">印象中国之行走海岸线(闽)</title>
-    </programme>
-    <programme start="20221130164500" stop="20221130173000" channel="xiamen">
-        <title lang="zh">两岸秘密档案(闽)</title>
-    </programme>
-    <programme start="20221130173000" stop="20221130220000" channel="xiamen">
-        <title lang="zh">新闻斗阵讲（重）</title>
+    <programme start="20221130183000" stop="20221130220000" channel="xiamen">
+        <title lang="zh">大决战1-4</title>
     </programme>
     <programme start="20221130220000" stop="20221130230000" channel="xiamen">
-        <title lang="zh">斗阵来看戏（重）</title>
+        <title lang="zh">大国建造1-2</title>
     </programme>
     <programme start="20221130230000" stop="20221130230100" channel="xiamen">
         <title lang="zh">国歌</title>
@@ -15492,32 +15471,17 @@
     <programme start="20221130230100" stop="20221130233500" channel="xiamen">
         <title lang="zh">两岸新新闻（重）</title>
     </programme>
-    <programme start="20221130233500" stop="20221201001000" channel="xiamen">
-        <title lang="zh">两岸直航（重）</title>
+    <programme start="20221130233500" stop="20221201032000" channel="xiamen">
+        <title lang="zh">大决战1-5</title>
     </programme>
-    <programme start="20221201001000" stop="20221201004500" channel="xiamen">
-        <title lang="zh">新闻斗阵讲（重）</title>
+    <programme start="20221201032000" stop="20221201040000" channel="xiamen">
+        <title lang="zh">大国建造1</title>
     </programme>
-    <programme start="20221201004500" stop="20221201012000" channel="xiamen">
-        <title lang="zh">斗阵来讲古（重）</title>
+    <programme start="20221201040000" stop="20221201083000" channel="xiamen">
+        <title lang="zh">觉醒年代1-6</title>
     </programme>
-    <programme start="20221201012000" stop="20221201040000" channel="xiamen">
-        <title lang="zh">隋唐英雄之薛刚反唐（闽）37-39</title>
-    </programme>
-    <programme start="20221201040000" stop="20221201045500" channel="xiamen">
-        <title lang="zh">斗阵来看戏（首）</title>
-    </programme>
-    <programme start="20221201045500" stop="20221201052500" channel="xiamen">
-        <title lang="zh">斗阵来讲古（首）</title>
-    </programme>
-    <programme start="20221201052500" stop="20221201070000" channel="xiamen">
-        <title lang="zh">完美关系（闽）9-10</title>
-    </programme>
-    <programme start="20221201070000" stop="20221201093500" channel="xiamen">
-        <title lang="zh">我的父亲我的兵24-26</title>
-    </programme>
-    <programme start="20221201093500" stop="20221201100000" channel="xiamen">
-        <title lang="zh">《小海豚》日常版《上课啦》（首）</title>
+    <programme start="20221201083000" stop="20221201100000" channel="xiamen">
+        <title lang="zh">大国建造1-2</title>
     </programme>
     <programme start="20221201100000" stop="20221201103000" channel="xiamen">
         <title lang="zh">新闻斗阵讲（首）</title>
@@ -15529,7 +15493,7 @@
         <title lang="zh">高山清渠13-14</title>
     </programme>
     <programme start="20221201124000" stop="20221201133000" channel="xiamen">
-        <title lang="zh">两岸秘密档案</title>
+        <title lang="zh">大国建造1</title>
     </programme>
     <programme start="20221201133000" stop="20221201140000" channel="xiamen">
         <title lang="zh">两岸新新闻（首）</title>
@@ -15538,7 +15502,7 @@
         <title lang="zh">两岸直航</title>
     </programme>
     <programme start="20221201143500" stop="20221201155900" channel="xiamen">
-        <title lang="zh">中国刑警803英雄本色33-34</title>
+        <title lang="zh">觉醒年代7-12</title>
     </programme>
     <programme start="20221201161500" stop="20221201164500" channel="xiamen">
         <title lang="zh">印象中国之行走海岸线(闽)</title>
