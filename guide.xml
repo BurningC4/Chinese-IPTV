@@ -427,12 +427,12 @@
         <title lang="zh">晚间新闻</title>
     </programme>
     <programme start="20221205181100" stop="20221205183800" channel="cctv1">
-        <title lang="zh">精彩一刻-2022-94人类的记忆泉州上</title>
+        <title lang="zh">精彩一刻-2022-86人类的记忆周口店上</title>
     </programme>
-    <programme start="20221205183800" stop="20221205190700" channel="cctv1">
-        <title lang="zh">精彩一刻-2022-95人类的记忆泉州下</title>
+    <programme start="20221205183800" stop="20221205190600" channel="cctv1">
+        <title lang="zh">精彩一刻-2022-87人类的记忆周口店下</title>
     </programme>
-    <programme start="20221205190700" stop="20221205193900" channel="cctv1">
+    <programme start="20221205190600" stop="20221205193900" channel="cctv1">
         <title lang="zh">动物世界-2022-240</title>
     </programme>
     <programme start="20221205193900" stop="20221205202900" channel="cctv1">
@@ -2238,13 +2238,13 @@
     <programme start="20221205144100" stop="20221205153200" channel="cctv7">
         <title lang="zh">铁道风云8/34</title>
     </programme>
-    <programme start="20221205153200" stop="20221205155900" channel="cctv7">
+    <programme start="20221205153200" stop="20221205155700" channel="cctv7">
         <title lang="zh">军事纪实-2022-241</title>
     </programme>
-    <programme start="20221205160600" stop="20221205164400" channel="cctv7">
+    <programme start="20221205155700" stop="20221205155900" channel="cctv7">
         <title lang="zh">兵器面面观-2022-196</title>
     </programme>
-    <programme start="20221205164400" stop="20221205220300" channel="cctv7">
+    <programme start="20221205162100" stop="20221205220300" channel="cctv7">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20221205220300" stop="20221205223600" channel="cctv7">
@@ -4584,53 +4584,62 @@
     <programme start="20221205184500" stop="20221205210500" channel="cctv16">
         <title lang="zh">2022年卡塔尔世界杯- 1/8决赛（G1—H2）</title>
     </programme>
-    <programme start="20221205210500" stop="20221205215600" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2022/2023赛季短道速滑世界杯 加拿大站 2</title>
+    <programme start="20221205210500" stop="20221205213000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2022年射箭世界杯总决赛 1（4K）</title>
     </programme>
-    <programme start="20221205215600" stop="20221205220500" channel="cctv16">
-        <title lang="zh">奥林匹克人-2021-25</title>
+    <programme start="20221205213000" stop="20221205220000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2022年射箭世界杯总决赛 2（4K）</title>
     </programme>
-    <programme start="20221205220500" stop="20221205223500" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2022年射箭世界杯总决赛 1</title>
+    <programme start="20221205220000" stop="20221206000000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2022年世界体操锦标赛 男子全能决赛（4K）</title>
     </programme>
-    <programme start="20221205223500" stop="20221206000000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2022/2023赛季中国男子篮球职业联赛 第七轮 1</title>
+    <programme start="20221206000000" stop="20221206001000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2022年跳水世界杯 男子双人十米台决赛（4K）</title>
     </programme>
-    <programme start="20221206000000" stop="20221206010000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2022/2023赛季花样滑冰大奖赛 芬兰站 冰舞自由舞</title>
+    <programme start="20221206001000" stop="20221206002000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2022年跳水世界杯 女子双人三米板决赛（4K）</title>
     </programme>
-    <programme start="20221206010000" stop="20221206023000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2022年卡塔尔世界杯 1/8决赛3</title>
+    <programme start="20221206002000" stop="20221206004500" channel="cctv16">
+        <title lang="zh">冬奥山水间-1(4K)</title>
     </programme>
-    <programme start="20221206023000" stop="20221206040000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2022年卡塔尔世界杯 1/8决赛4</title>
+    <programme start="20221206004500" stop="20221206010500" channel="cctv16">
+        <title lang="zh">冬奥山水间-2(4K)</title>
     </programme>
-    <programme start="20221206040000" stop="20221206042000" channel="cctv16">
-        <title lang="zh">艺术里的奥林匹克-2022-50</title>
+    <programme start="20221206010500" stop="20221206020500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2022年国际泳联世锦赛 跳水 女子三米板决赛（4K）</title>
     </programme>
-    <programme start="20221206042000" stop="20221206043000" channel="cctv16">
-        <title lang="zh">奥林匹克人-2021-32</title>
+    <programme start="20221206020500" stop="20221206030500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2022年国际泳联世锦赛 跳水 男子十米台决赛（4K）</title>
     </programme>
-    <programme start="20221206043000" stop="20221206060000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2022年世界女排锦标赛 小组赛 中国队-哥伦比亚队</title>
+    <programme start="20221206030500" stop="20221206032000" channel="cctv16">
+        <title lang="zh">冬奥山水间-1(4K)</title>
     </programme>
-    <programme start="20221206060000" stop="20221206073000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2022年国际田联钻石联赛 巴黎站精选</title>
+    <programme start="20221206032000" stop="20221206034000" channel="cctv16">
+        <title lang="zh">冬奥山水间-2(4K)</title>
     </programme>
-    <programme start="20221206073000" stop="20221206074000" channel="cctv16">
-        <title lang="zh">奥秘无穷-2022-13</title>
+    <programme start="20221206034000" stop="20221206051000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2022年全国体操锦标赛 单项决赛1（4K）</title>
     </programme>
-    <programme start="20221206074000" stop="20221206080000" channel="cctv16">
-        <title lang="zh">艺术里的奥林匹克-2022-66</title>
+    <programme start="20221206051000" stop="20221206064000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2022年全国体操锦标赛 单项决赛2（4K）</title>
     </programme>
-    <programme start="20221206080000" stop="20221206092500" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2022年世界艺术体操锦标赛 集体项目决赛</title>
+    <programme start="20221206064000" stop="20221206071000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2022年射箭世界杯总决赛 1（4K）</title>
     </programme>
-    <programme start="20221206092500" stop="20221206102500" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2022年女篮世界杯 小组赛 中国队-比利时队</title>
+    <programme start="20221206071000" stop="20221206074000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2022年射箭世界杯总决赛 2（4K）</title>
     </programme>
-    <programme start="20221206102500" stop="20221206115500" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2022年世界体操锦标赛 单项决赛 2</title>
+    <programme start="20221206074000" stop="20221206075500" channel="cctv16">
+        <title lang="zh">冬奥山水间-1(4K)</title>
+    </programme>
+    <programme start="20221206075500" stop="20221206081500" channel="cctv16">
+        <title lang="zh">冬奥山水间-2(4K)</title>
+    </programme>
+    <programme start="20221206081500" stop="20221206101500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2022年世界体操锦标赛 男子全能决赛（4K）</title>
+    </programme>
+    <programme start="20221206101500" stop="20221206115500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2022年国际泳联世锦赛 跳水 女子三米板决赛（4K）</title>
     </programme>
     <programme start="20221206115500" stop="20221206120500" channel="cctv16">
         <title lang="zh">场•面-2022-43</title>
