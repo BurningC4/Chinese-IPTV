@@ -1432,16 +1432,16 @@
         <title lang="zh">新闻联播</title>
     </programme>
     <programme start="20221217150400" stop="20221217154800" channel="cctv4">
-        <title lang="zh">爱拼会赢24/35</title>
+        <title lang="zh">爱拼会赢第24集</title>
     </programme>
     <programme start="20221217154800" stop="20221217155900" channel="cctv4">
-        <title lang="zh">爱拼会赢25/35</title>
+        <title lang="zh">爱拼会赢第25集</title>
     </programme>
     <programme start="20221217163200" stop="20221217171700" channel="cctv4">
-        <title lang="zh">爱拼会赢26/35</title>
+        <title lang="zh">爱拼会赢第26集</title>
     </programme>
     <programme start="20221217171700" stop="20221217180000" channel="cctv4">
-        <title lang="zh">爱拼会赢27/35</title>
+        <title lang="zh">爱拼会赢第27集</title>
     </programme>
     <programme start="20221217180000" stop="20221217183000" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -3219,8 +3219,11 @@
     <programme start="20221217164400" stop="20221217172500" channel="cctv10">
         <title lang="zh">百家讲坛-2022-351</title>
     </programme>
-    <programme start="20221217172500" stop="20221217220000" channel="cctv10">
+    <programme start="20221217172500" stop="20221217182500" channel="cctv10">
         <title lang="zh">科学动物园-2022-51</title>
+    </programme>
+    <programme start="20221217182500" stop="20221217220000" channel="cctv10">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20221217220000" stop="20221217221000" channel="cctv10">
         <title lang="zh">读书-2022-346</title>
@@ -3445,10 +3448,10 @@
         <title lang="zh">主持人全天伴视</title>
     </programme>
     <programme start="20221217040000" stop="20221217045000" channel="cctv11">
-        <title lang="zh">平凡岁月5/43</title>
+        <title lang="zh">平凡岁月第5集</title>
     </programme>
     <programme start="20221217045000" stop="20221217054100" channel="cctv11">
-        <title lang="zh">平凡岁月6/43</title>
+        <title lang="zh">平凡岁月第6集</title>
     </programme>
     <programme start="20221217054100" stop="20221217074300" channel="cctv11">
         <title lang="zh">戏曲电影《刘三姐》</title>
@@ -3463,10 +3466,10 @@
         <title lang="zh">主持人全天伴视</title>
     </programme>
     <programme start="20221217091300" stop="20221217100300" channel="cctv11">
-        <title lang="zh">芝麻胡同14/51</title>
+        <title lang="zh">芝麻胡同第14集</title>
     </programme>
     <programme start="20221217100300" stop="20221217105400" channel="cctv11">
-        <title lang="zh">芝麻胡同15/51</title>
+        <title lang="zh">芝麻胡同第15集</title>
     </programme>
     <programme start="20221217105400" stop="20221217110000" channel="cctv11">
         <title lang="zh">主持人全天伴视</title>
@@ -3484,19 +3487,22 @@
         <title lang="zh">主持人全天伴视</title>
     </programme>
     <programme start="20221217142700" stop="20221217151800" channel="cctv11">
-        <title lang="zh">绝代双骄5/44</title>
+        <title lang="zh">绝代双骄第5集</title>
     </programme>
     <programme start="20221217151800" stop="20221217155900" channel="cctv11">
-        <title lang="zh">绝代双骄6/44</title>
+        <title lang="zh">绝代双骄第6集</title>
     </programme>
     <programme start="20221217160800" stop="20221217165900" channel="cctv11">
-        <title lang="zh">绝代双骄7/44</title>
+        <title lang="zh">绝代双骄第7集</title>
     </programme>
     <programme start="20221217165900" stop="20221217184900" channel="cctv11">
         <title lang="zh">中国京剧像音像集萃-2022-39京剧《十五贯》</title>
     </programme>
-    <programme start="20221217184900" stop="20221217220000" channel="cctv11">
+    <programme start="20221217184900" stop="20221217185500" channel="cctv11">
         <title lang="zh">主持人全天伴视</title>
+    </programme>
+    <programme start="20221217185500" stop="20221217220000" channel="cctv11">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20221217220000" stop="20221217220600" channel="cctv11">
         <title lang="zh">主持人全天伴视</title>
@@ -3795,8 +3801,11 @@
     <programme start="20221217174900" stop="20221217181900" channel="cctv12">
         <title lang="zh">法律讲堂-2022-351</title>
     </programme>
-    <programme start="20221217181900" stop="20221217220300" channel="cctv12">
+    <programme start="20221217181900" stop="20221217184000" channel="cctv12">
         <title lang="zh">生命线-2022-351</title>
+    </programme>
+    <programme start="20221217184000" stop="20221217220300" channel="cctv12">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20221217220300" stop="20221217223400" channel="cctv12">
         <title lang="zh">夕阳红-2022-351</title>
@@ -4323,8 +4332,11 @@
     <programme start="20221217171800" stop="20221217175200" channel="cctvchild">
         <title lang="zh">风车剧场-2022-327</title>
     </programme>
-    <programme start="20221217175200" stop="20221217220000" channel="cctvchild">
+    <programme start="20221217175200" stop="20221217182600" channel="cctvchild">
         <title lang="zh">风车剧场-2022-328</title>
+    </programme>
+    <programme start="20221217182600" stop="20221217220000" channel="cctvchild">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20221217220000" stop="20221217230000" channel="cctvchild">
         <title lang="zh">英雄出少年-2022-51</title>
@@ -4491,8 +4503,11 @@
     <programme start="20221217162900" stop="20221217175100" channel="cctv15">
         <title lang="zh">经典-2022-284</title>
     </programme>
-    <programme start="20221217175100" stop="20221217220000" channel="cctv15">
+    <programme start="20221217175100" stop="20221217183800" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2022-366-名家名曲（237）</title>
+    </programme>
+    <programme start="20221217183800" stop="20221217220000" channel="cctv15">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20221217220000" stop="20221217223300" channel="cctv15">
         <title lang="zh">中国音乐电视-2022-352</title>
@@ -4972,10 +4987,10 @@
         <title lang="zh">我的村庄和我-27</title>
     </programme>
     <programme start="20221217021100" stop="20221217030200" channel="cctv17">
-        <title lang="zh">绽放吧，百合3/42</title>
+        <title lang="zh">绽放吧，百合第3集</title>
     </programme>
     <programme start="20221217030200" stop="20221217035600" channel="cctv17">
-        <title lang="zh">绽放吧，百合4/42</title>
+        <title lang="zh">绽放吧，百合第4集</title>
     </programme>
     <programme start="20221217035600" stop="20221217040000" channel="cctv17">
         <title lang="zh">大地讲堂-2022-67</title>
@@ -4996,16 +5011,16 @@
         <title lang="zh">我的村庄和我-30</title>
     </programme>
     <programme start="20221217053400" stop="20221217062500" channel="cctv17">
-        <title lang="zh">武当一剑27/39</title>
+        <title lang="zh">武当一剑第27集</title>
     </programme>
     <programme start="20221217062500" stop="20221217071600" channel="cctv17">
-        <title lang="zh">武当一剑28/39</title>
+        <title lang="zh">武当一剑第28集</title>
     </programme>
     <programme start="20221217071600" stop="20221217080700" channel="cctv17">
-        <title lang="zh">武当一剑29/39</title>
+        <title lang="zh">武当一剑第29集</title>
     </programme>
     <programme start="20221217080700" stop="20221217090000" channel="cctv17">
-        <title lang="zh">武当一剑30/39</title>
+        <title lang="zh">武当一剑第30集</title>
     </programme>
     <programme start="20221217090000" stop="20221217092800" channel="cctv17">
         <title lang="zh">致富经-2022-196</title>
@@ -5020,10 +5035,10 @@
         <title lang="zh">谁知盘中餐-2022-255</title>
     </programme>
     <programme start="20221217110300" stop="20221217115700" channel="cctv17">
-        <title lang="zh">绽放吧，百合5/42</title>
+        <title lang="zh">绽放吧，百合第5集</title>
     </programme>
     <programme start="20221217115700" stop="20221217124600" channel="cctv17">
-        <title lang="zh">绽放吧，百合6/42</title>
+        <title lang="zh">绽放吧，百合第6集</title>
     </programme>
     <programme start="20221217124600" stop="20221217131500" channel="cctv17">
         <title lang="zh">三农群英汇-2022-447</title>
@@ -5049,8 +5064,11 @@
     <programme start="20221217162000" stop="20221217165000" channel="cctv17">
         <title lang="zh">三农群英汇-2022-447</title>
     </programme>
-    <programme start="20221217165000" stop="20221217215500" channel="cctv17">
+    <programme start="20221217165000" stop="20221217175200" channel="cctv17">
         <title lang="zh">我的美丽乡村-周末版2022-217</title>
+    </programme>
+    <programme start="20221217175200" stop="20221217215500" channel="cctv17">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20221217215500" stop="20221217220000" channel="cctv17">
         <title lang="zh">农业气象</title>
