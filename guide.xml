@@ -507,13 +507,13 @@
     <programme start="20230106120000" stop="20230106120600" channel="cctv1">
         <title lang="zh">前情提要- 《破晓东方》第17集</title>
     </programme>
-    <programme start="20230106120600" stop="20230106125800" channel="cctv1">
+    <programme start="20230106120600" stop="20230106125900" channel="cctv1">
         <title lang="zh">破晓东方17/37</title>
     </programme>
-    <programme start="20230106125800" stop="20230106130100" channel="cctv1">
+    <programme start="20230106125900" stop="20230106130300" channel="cctv1">
         <title lang="zh">前情提要- 《破晓东方》第18集</title>
     </programme>
-    <programme start="20230106130100" stop="20230106140000" channel="cctv1">
+    <programme start="20230106130300" stop="20230106140000" channel="cctv1">
         <title lang="zh">破晓东方18/37</title>
     </programme>
     <programme start="20230106140000" stop="20230106143400" channel="cctv1">
@@ -1627,7 +1627,7 @@
         <title lang="zh">体坛快讯</title>
     </programme>
     <programme start="20230106043500" stop="20230106045500" channel="cctv5">
-        <title lang="zh">艺术里的奥林匹克 精编版</title>
+        <title lang="zh">艺术里的奥林匹克-2022-97</title>
     </programme>
     <programme start="20230106045500" stop="20230106055500" channel="cctv5">
         <title lang="zh">实况录像-2022年世界举重锦标赛 女子87公斤以上级决赛</title>
@@ -1635,25 +1635,19 @@
     <programme start="20230106055500" stop="20230106110000" channel="cctv5">
         <title lang="zh">2022年全国羽毛球冠军赛-单项决赛</title>
     </programme>
-    <programme start="20230106110000" stop="20230106113500" channel="cctv5">
+    <programme start="20230106110000" stop="20230106113000" channel="cctv5">
         <title lang="zh">体育新闻-2023..1.6</title>
     </programme>
-    <programme start="20230106113500" stop="20230106123000" channel="cctv5">
-        <title lang="zh">篮球公园</title>
+    <programme start="20230106113000" stop="20230106134500" channel="cctv5">
+        <title lang="zh">2022/2023赛季中国男子篮球职业联赛常规赛-第23轮(深圳马可波罗-苏州肯帝亚)</title>
     </programme>
-    <programme start="20230106123000" stop="20230106130000" channel="cctv5">
-        <title lang="zh">实况录像（奥林匹克）-2022年卡塔尔世界杯 进球集锦1（4K）</title>
-    </programme>
-    <programme start="20230106130000" stop="20230106133000" channel="cctv5">
-        <title lang="zh">实况录像（奥林匹克）-2022年卡塔尔世界杯 进球集锦2（4K）</title>
-    </programme>
-    <programme start="20230106133000" stop="20230106140500" channel="cctv5">
+    <programme start="20230106134500" stop="20230106142000" channel="cctv5">
         <title lang="zh">体育世界-2023..1.6</title>
     </programme>
-    <programme start="20230106140500" stop="20230106155900" channel="cctv5">
+    <programme start="20230106142000" stop="20230106155900" channel="cctv5">
         <title lang="zh">实况录像-2022/2023赛季斯诺克英国锦标赛 5</title>
     </programme>
-    <programme start="20230106160500" stop="20230106164000" channel="cctv5">
+    <programme start="20230106160900" stop="20230106164000" channel="cctv5">
         <title lang="zh">顶级赛事-象棋</title>
     </programme>
     <programme start="20230106164000" stop="20230106181000" channel="cctv5">
@@ -1785,11 +1779,17 @@
     <programme start="20230106010000" stop="20230106023000" channel="cctv5plus">
         <title lang="zh">实况录像-2022年世界田径锦标赛 5</title>
     </programme>
-    <programme start="20230106023000" stop="20230106040000" channel="cctv5plus">
-        <title lang="zh">实况录像-2022/2023赛季中国男子篮球职业联赛 第八轮 </title>
+    <programme start="20230106023000" stop="20230106025500" channel="cctv5plus">
+        <title lang="zh">实况录像-2022年世界蹦床锦标赛 25分钟版 2</title>
     </programme>
-    <programme start="20230106040000" stop="20230106053000" channel="cctv5plus">
+    <programme start="20230106025500" stop="20230106040000" channel="cctv5plus">
+        <title lang="zh">2022/2023赛季中国男子篮球职业联赛常规赛-第23轮 （北京首钢-四川金荣实业）</title>
+    </programme>
+    <programme start="20230106040000" stop="20230106051500" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2022年卡塔尔世界杯 1/8决赛 日本队—克罗地亚队（4K）</title>
+    </programme>
+    <programme start="20230106051500" stop="20230106053000" channel="cctv5plus">
+        <title lang="zh">实况录像-2022年世界田径锦标赛 跳远比赛王嘉男夺冠</title>
     </programme>
     <programme start="20230106053000" stop="20230106073000" channel="cctv5plus">
         <title lang="zh">实况录像-2022/2023赛季斯诺克英国锦标赛 5</title>
