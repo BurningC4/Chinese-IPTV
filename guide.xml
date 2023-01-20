@@ -450,14 +450,14 @@
     <programme start="20230121040000" stop="20230121043500" channel="cctv1">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme start="20230121043500" stop="20230121044900" channel="cctv1">
-        <title lang="zh">第一动画乐园-2023-33岁首</title>
-    </programme>
-    <programme start="20230121044900" stop="20230121061700" channel="cctv1">
+    <programme start="20230121043500" stop="20230121060300" channel="cctv1">
         <title lang="zh">古韵新声-除夕1</title>
     </programme>
-    <programme start="20230121061700" stop="20230121080000" channel="cctv1">
+    <programme start="20230121060300" stop="20230121074700" channel="cctv1">
         <title lang="zh">古韵新声-除夕2</title>
+    </programme>
+    <programme start="20230121074700" stop="20230121080000" channel="cctv1">
+        <title lang="zh">第一动画乐园-2023-33岁首</title>
     </programme>
     <programme start="20230121080000" stop="20230121085200" channel="cctv1">
         <title lang="zh">新闻直播间</title>
@@ -480,20 +480,17 @@
     <programme start="20230121120000" stop="20230121155900" channel="cctv1">
         <title lang="zh">2023年春节联欢晚会-直播</title>
     </programme>
-    <programme start="20230121163600" stop="20230121164900" channel="cctv1">
-        <title lang="zh">第一动画乐园-2023-33岁首</title>
-    </programme>
-    <programme start="20230121164900" stop="20230121181300" channel="cctv1">
+    <programme start="20230121163600" stop="20230121180000" channel="cctv1">
         <title lang="zh">古韵新声-除夕1</title>
     </programme>
-    <programme start="20230121181300" stop="20230121195100" channel="cctv1">
+    <programme start="20230121180000" stop="20230121193800" channel="cctv1">
         <title lang="zh">古韵新声-除夕2</title>
     </programme>
-    <programme start="20230121195100" stop="20230121195900" channel="cctv1">
-        <title lang="zh">精彩一刻-2023-1国宝4黄金覆面</title>
+    <programme start="20230121193800" stop="20230121195700" channel="cctv1">
+        <title lang="zh">第一动画乐园-2023-33岁首</title>
     </programme>
-    <programme start="20230121195900" stop="20230121202900" channel="cctv1">
-        <title lang="zh">纪录片瞬间中国-大国基石5</title>
+    <programme start="20230121195700" stop="20230121202900" channel="cctv1">
+        <title lang="zh">航拍中国（第四季）-5</title>
     </programme>
     <programme start="20230121202900" stop="20230121203700" channel="cctv1">
         <title lang="zh">精彩一刻-2022-13极致中国之海洋8分</title>
@@ -961,13 +958,13 @@
         <title lang="zh">开门大吉-2023-1</title>
     </programme>
     <programme start="20230122045700" stop="20230122050000" channel="cctv3">
-        <title lang="zh">2023年春节联欢晚会-歌曲5</title>
+        <title lang="zh">2023年春节联欢晚会-歌曲:开饭开FUN</title>
     </programme>
     <programme start="20230122050000" stop="20230122050300" channel="cctv3">
-        <title lang="zh">2023年春节联欢晚会-歌曲6</title>
+        <title lang="zh">2023年春节联欢晚会-歌曲:新春蹦蹦</title>
     </programme>
     <programme start="20230122050300" stop="20230122051200" channel="cctv3">
-        <title lang="zh">2023年春节联欢晚会-歌曲7</title>
+        <title lang="zh">2023年春节联欢晚会-歌曲:好运全都来</title>
     </programme>
     <programme start="20230122051200" stop="20230122095000" channel="cctv3">
         <title lang="zh">2023年春节联欢晚会-（初一）直送1</title>
@@ -3643,31 +3640,43 @@
         <title lang="zh">天气预报</title>
     </programme>
     <programme start="20230121114100" stop="20230121115100" channel="cctv13">
-        <title lang="zh">2022一年又一年（晚间）-1</title>
+        <title lang="zh">瑞兔呈祥中国年-（晚间）-1</title>
     </programme>
     <programme start="20230121115100" stop="20230121130000" channel="cctv13">
-        <title lang="zh">2022一年又一年（晚间）-2</title>
+        <title lang="zh">瑞兔呈祥中国年-（晚间）-2</title>
     </programme>
     <programme start="20230121130000" stop="20230121133000" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
     <programme start="20230121133000" stop="20230121155900" channel="cctv13">
-        <title lang="zh">2022一年又一年（晚间）-3</title>
+        <title lang="zh">瑞兔呈祥中国年-（晚间）-3</title>
     </programme>
-    <programme start="20230121173000" stop="20230121183000" channel="cctv13">
-        <title lang="zh">2022一年又一年（晚间）-1</title>
+    <programme start="20230121173000" stop="20230121180000" channel="cctv13">
+        <title lang="zh">瑞兔呈祥中国年-（晚间）-重播-1</title>
     </programme>
-    <programme start="20230121183000" stop="20230121193000" channel="cctv13">
-        <title lang="zh">2022一年又一年（晚间）-2</title>
+    <programme start="20230121180000" stop="20230121183000" channel="cctv13">
+        <title lang="zh">瑞兔呈祥中国年-（晚间）-重播2</title>
+    </programme>
+    <programme start="20230121183000" stop="20230121190000" channel="cctv13">
+        <title lang="zh">瑞兔呈祥中国年-（晚间）-重播3</title>
+    </programme>
+    <programme start="20230121190000" stop="20230121193000" channel="cctv13">
+        <title lang="zh">瑞兔呈祥中国年-（晚间）-重播4</title>
     </programme>
     <programme start="20230121193000" stop="20230121200000" channel="cctv13">
-        <title lang="zh">2022一年又一年（晚间）-3</title>
+        <title lang="zh">瑞兔呈祥中国年-（晚间）-重播5</title>
     </programme>
-    <programme start="20230121200000" stop="20230121210000" channel="cctv13">
-        <title lang="zh">2022一年又一年（晚间）-4</title>
+    <programme start="20230121200000" stop="20230121203000" channel="cctv13">
+        <title lang="zh">瑞兔呈祥中国年-（晚间）-重播6</title>
     </programme>
-    <programme start="20230121210000" stop="20230121220000" channel="cctv13">
-        <title lang="zh">2022一年又一年（晚间）-5</title>
+    <programme start="20230121203000" stop="20230121210000" channel="cctv13">
+        <title lang="zh">瑞兔呈祥中国年-（晚间）-重播7</title>
+    </programme>
+    <programme start="20230121210000" stop="20230121213000" channel="cctv13">
+        <title lang="zh">瑞兔呈祥中国年-（晚间）-重播8</title>
+    </programme>
+    <programme start="20230121213000" stop="20230121220000" channel="cctv13">
+        <title lang="zh">瑞兔呈祥中国年-（晚间）-重播9</title>
     </programme>
     <programme start="20230121220000" stop="20230122010000" channel="cctv13">
         <title lang="zh">朝闻天下</title>
