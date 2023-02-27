@@ -3942,10 +3942,10 @@
     <programme start="20230226201500" stop="20230226210000" channel="cctv13">
         <title lang="zh">世界周刊</title>
     </programme>
-    <programme start="20230226210000" stop="20230226211600" channel="cctv13">
+    <programme start="20230226210000" stop="20230226211200" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20230226211600" stop="20230226220000" channel="cctv13">
+    <programme start="20230226211200" stop="20230226220000" channel="cctv13">
         <title lang="zh">面对面</title>
     </programme>
     <programme start="20230226220000" stop="20230227010000" channel="cctv13">
@@ -3972,10 +3972,10 @@
     <programme start="20230227050000" stop="20230227060000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20230227060000" stop="20230227061600" channel="cctv13">
+    <programme start="20230227060000" stop="20230227061200" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20230227061600" stop="20230227070000" channel="cctv13">
+    <programme start="20230227061200" stop="20230227070000" channel="cctv13">
         <title lang="zh">面对面</title>
     </programme>
     <programme start="20230227070000" stop="20230227080000" channel="cctv13">
@@ -3990,8 +3990,11 @@
     <programme start="20230227100000" stop="20230227110000" channel="cctv13">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme start="20230227110000" stop="20230227114000" channel="cctv13">
+    <programme start="20230227110000" stop="20230227113100" channel="cctv13">
         <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20230227113100" stop="20230227114000" channel="cctv13">
+        <title lang="zh">天气预报</title>
     </programme>
     <programme start="20230227114000" stop="20230227120000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
@@ -4089,10 +4092,13 @@
     <programme start="20230228100000" stop="20230228110000" channel="cctv13">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme start="20230228110000" stop="20230228114000" channel="cctv13">
+    <programme start="20230228110000" stop="20230228113100" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20230228114000" stop="20230228120000" channel="cctv13">
+    <programme start="20230228113100" stop="20230228113900" channel="cctv13">
+        <title lang="zh">天气预报</title>
+    </programme>
+    <programme start="20230228113900" stop="20230228120000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20230228120000" stop="20230228130000" channel="cctv13">
@@ -4188,22 +4194,25 @@
     <programme start="20230301100000" stop="20230301110000" channel="cctv13">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme start="20230301110000" stop="20230301114000" channel="cctv13">
+    <programme start="20230301110000" stop="20230301113100" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20230301114000" stop="20230301120000" channel="cctv13">
+    <programme start="20230301113100" stop="20230301113900" channel="cctv13">
+        <title lang="zh">天气预报</title>
+    </programme>
+    <programme start="20230301113900" stop="20230301120000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20230301120000" stop="20230301130000" channel="cctv13">
         <title lang="zh">东方时空</title>
     </programme>
-    <programme start="20230301130000" stop="20230301133700" channel="cctv13">
+    <programme start="20230301130000" stop="20230301133000" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20230301133700" stop="20230301140700" channel="cctv13">
+    <programme start="20230301133000" stop="20230301140000" channel="cctv13">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme start="20230301140700" stop="20230301143000" channel="cctv13">
+    <programme start="20230301140000" stop="20230301143000" channel="cctv13">
         <title lang="zh">国际时讯</title>
     </programme>
     <programme start="20230301143000" stop="20230301150000" channel="cctv13">
