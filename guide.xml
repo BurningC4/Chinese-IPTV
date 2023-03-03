@@ -1372,13 +1372,13 @@
         <title lang="zh">新闻联播</title>
     </programme>
     <programme start="20230304150200" stop="20230304154800" channel="cctv4">
-        <title lang="zh">新居之约第2集</title>
+        <title lang="zh">新居之约第1集</title>
     </programme>
     <programme start="20230304154800" stop="20230304155900" channel="cctv4">
-        <title lang="zh">新居之约第3集</title>
+        <title lang="zh">新居之约第2集</title>
     </programme>
     <programme start="20230304163400" stop="20230304172100" channel="cctv4">
-        <title lang="zh">新居之约第4集</title>
+        <title lang="zh">新居之约第3集</title>
     </programme>
     <programme start="20230304172100" stop="20230304175000" channel="cctv4">
         <title lang="zh">华人故事-2023-9</title>
@@ -1489,10 +1489,10 @@
         <title lang="zh">新闻联播</title>
     </programme>
     <programme start="20230305150200" stop="20230305154800" channel="cctv4">
-        <title lang="zh">新居之约5/39</title>
+        <title lang="zh">新居之约4/39</title>
     </programme>
     <programme start="20230305154800" stop="20230305155900" channel="cctv4">
-        <title lang="zh">新居之约6/39</title>
+        <title lang="zh">新居之约5/39</title>
     </programme>
     <programme start="20230302160500" stop="20230302170000" channel="cctv5">
         <title lang="zh">实况录像-2022年世界沙滩排球职业巡回赛总决赛 男子决赛</title>
@@ -2244,8 +2244,11 @@
     <programme start="20230304153300" stop="20230304155900" channel="cctv7">
         <title lang="zh">军事制高点-2023-18</title>
     </programme>
-    <programme start="20230304160800" stop="20230304220300" channel="cctv7">
+    <programme start="20230304160800" stop="20230304165100" channel="cctv7">
         <title lang="zh">第二战场-2020-30</title>
+    </programme>
+    <programme start="20230304165100" stop="20230304220300" channel="cctv7">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20230304220300" stop="20230304223400" channel="cctv7">
         <title lang="zh">军迷行天下-2023-9</title>
@@ -2283,34 +2286,28 @@
     <programme start="20230305035300" stop="20230305040000" channel="cctv7">
         <title lang="zh">国防微视频-军歌嘹亮-蓝天赞歌-空军</title>
     </programme>
-    <programme start="20230305040000" stop="20230305043200" channel="cctv7">
+    <programme start="20230305040000" stop="20230305044700" channel="cctv7">
         <title lang="zh">正午国防军事</title>
     </programme>
-    <programme start="20230305043200" stop="20230305050600" channel="cctv7">
+    <programme start="20230305044700" stop="20230305051900" channel="cctv7">
         <title lang="zh">军事制高点-2023-18</title>
     </programme>
-    <programme start="20230305050600" stop="20230305053800" channel="cctv7">
+    <programme start="20230305051900" stop="20230305055300" channel="cctv7">
         <title lang="zh">军武零距离-2023-9(4K)</title>
     </programme>
-    <programme start="20230305053800" stop="20230305054500" channel="cctv7">
-        <title lang="zh">国防微视频-军歌嘹亮-高原边关</title>
-    </programme>
-    <programme start="20230305054500" stop="20230305061500" channel="cctv7">
+    <programme start="20230305055300" stop="20230305062100" channel="cctv7">
         <title lang="zh">军营的味道-2022-48</title>
     </programme>
-    <programme start="20230305061500" stop="20230305062000" channel="cctv7">
-        <title lang="zh">国防微视频-军歌嘹亮-蓝天赞歌-空军</title>
-    </programme>
-    <programme start="20230305062000" stop="20230305071000" channel="cctv7">
+    <programme start="20230305062100" stop="20230305071000" channel="cctv7">
         <title lang="zh">叛逆者35/43</title>
     </programme>
     <programme start="20230305071000" stop="20230305075800" channel="cctv7">
         <title lang="zh">叛逆者36/43</title>
     </programme>
-    <programme start="20230305075800" stop="20230305084600" channel="cctv7">
+    <programme start="20230305075800" stop="20230305084700" channel="cctv7">
         <title lang="zh">叛逆者37/43</title>
     </programme>
-    <programme start="20230305084600" stop="20230305094700" channel="cctv7">
+    <programme start="20230305084700" stop="20230305094700" channel="cctv7">
         <title lang="zh">老兵你好-2023-9</title>
     </programme>
     <programme start="20230305094700" stop="20230305095400" channel="cctv7">
