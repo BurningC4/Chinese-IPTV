@@ -330,10 +330,10 @@
     <programme start="20230304220000" stop="20230304234500" channel="cctv1">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme start="20230304234500" stop="20230305024500" channel="cctv1">
+    <programme start="20230304234500" stop="20230305034000" channel="cctv1">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20230305024500" stop="20230305040000" channel="cctv1">
+    <programme start="20230305034000" stop="20230305040000" channel="cctv1">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20230305040000" stop="20230305043500" channel="cctv1">
@@ -360,13 +360,13 @@
     <programme start="20230305095900" stop="20230305110000" channel="cctv1">
         <title lang="zh">正大综艺-2023-7</title>
     </programme>
-    <programme start="20230305110000" stop="20230305113900" channel="cctv1">
+    <programme start="20230305110000" stop="20230305120300" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20230305113900" stop="20230305120600" channel="cctv1">
-        <title lang="zh">焦点访谈</title>
+    <programme start="20230305120300" stop="20230305121200" channel="cctv1">
+        <title lang="zh">天气预报</title>
     </programme>
-    <programme start="20230305120600" stop="20230305134500" channel="cctv1">
+    <programme start="20230305121200" stop="20230305134500" channel="cctv1">
         <title lang="zh">典籍里的中国（第二季）-8</title>
     </programme>
     <programme start="20230305134500" stop="20230305140000" channel="cctv1">
@@ -1173,8 +1173,14 @@
     <programme start="20230304230000" stop="20230304234500" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20230304234500" stop="20230305040000" channel="cctv4">
+    <programme start="20230304234500" stop="20230305034000" channel="cctv4">
         <title lang="zh">新闻直播间</title>
+    </programme>
+    <programme start="20230305034000" stop="20230305035200" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-8</title>
+    </programme>
+    <programme start="20230305035200" stop="20230305040000" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-23</title>
     </programme>
     <programme start="20230305040000" stop="20230305050300" channel="cctv4">
         <title lang="zh">中国新闻</title>
@@ -1815,38 +1821,38 @@
     <programme start="20230304194000" stop="20230304211800" channel="cctv6">
         <title lang="zh">初恋这首情歌</title>
     </programme>
-    <programme start="20230304211800" stop="20230304223600" channel="cctv6">
+    <programme start="20230304211800" stop="20230304222600" channel="cctv6">
         <title lang="zh">见习女警</title>
     </programme>
-    <programme start="20230304223600" stop="20230305002100" channel="cctv6">
+    <programme start="20230304222600" stop="20230305001100" channel="cctv6">
         <title lang="zh">难忘的岁月</title>
     </programme>
-    <programme start="20230305002100" stop="20230305020500" channel="cctv6">
+    <programme start="20230305001100" stop="20230305015600" channel="cctv6">
         <title lang="zh">童年周恩来</title>
     </programme>
-    <programme start="20230305020500" stop="20230305034800" channel="cctv6">
+    <programme start="20230305015600" stop="20230305033900" channel="cctv6">
         <title lang="zh">马茹娜的非凡旅程</title>
     </programme>
-    <programme start="20230305034800" stop="20230305035600" channel="cctv6">
+    <programme start="20230305033900" stop="20230305034700" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20230305035600" stop="20230305054500" channel="cctv6">
-        <title lang="zh">陈毅在茅山</title>
+    <programme start="20230305034700" stop="20230305053900" channel="cctv6">
+        <title lang="zh">雷锋的微笑</title>
     </programme>
-    <programme start="20230305054500" stop="20230305061300" channel="cctv6">
+    <programme start="20230305053900" stop="20230305060700" channel="cctv6">
         <title lang="zh">简爱（1970）（上）</title>
     </programme>
-    <programme start="20230305061300" stop="20230305072500" channel="cctv6">
+    <programme start="20230305060700" stop="20230305071900" channel="cctv6">
         <title lang="zh">简爱（1970）（下）</title>
     </programme>
-    <programme start="20230305072500" stop="20230305080000" channel="cctv6">
+    <programme start="20230305071900" stop="20230305075500" channel="cctv6">
         <title lang="zh">佳片有约周日影评版2023-009</title>
     </programme>
-    <programme start="20230305080000" stop="20230305100000" channel="cctv6">
-        <title lang="zh">战斧行动</title>
+    <programme start="20230305075500" stop="20230305095700" channel="cctv6">
+        <title lang="zh">雷锋在1959</title>
     </programme>
-    <programme start="20230305100000" stop="20230305114300" channel="cctv6">
-        <title lang="zh">我的喜马拉雅</title>
+    <programme start="20230305095700" stop="20230305114300" channel="cctv6">
+        <title lang="zh">离开雷锋的日子</title>
     </programme>
     <programme start="20230305114300" stop="20230305115300" channel="cctv6">
         <title lang="zh">今日影评2023-064</title>
@@ -2067,29 +2073,26 @@
     <programme start="20230305095400" stop="20230305110000" channel="cctv7">
         <title lang="zh">讲武堂-2023-10</title>
     </programme>
-    <programme start="20230305110000" stop="20230305113300" channel="cctv7">
+    <programme start="20230305110000" stop="20230305120300" channel="cctv7">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20230305113300" stop="20230305120300" channel="cctv7">
+    <programme start="20230305120300" stop="20230305124300" channel="cctv7">
         <title lang="zh">军事报道</title>
     </programme>
-    <programme start="20230305120300" stop="20230305120900" channel="cctv7">
+    <programme start="20230305124300" stop="20230305124900" channel="cctv7">
         <title lang="zh">国防微视频-军歌嘹亮-蓝天赞歌-空军</title>
     </programme>
-    <programme start="20230305120900" stop="20230305124500" channel="cctv7">
+    <programme start="20230305124900" stop="20230305132500" channel="cctv7">
         <title lang="zh">军事制高点-2023-19</title>
     </programme>
-    <programme start="20230305124500" stop="20230305135400" channel="cctv7">
+    <programme start="20230305132500" stop="20230305143400" channel="cctv7">
         <title lang="zh">谁是终极英雄-2023-10</title>
     </programme>
-    <programme start="20230305135400" stop="20230305144300" channel="cctv7">
+    <programme start="20230305143400" stop="20230305152300" channel="cctv7">
         <title lang="zh">大决战48/49</title>
     </programme>
-    <programme start="20230305144300" stop="20230305153300" channel="cctv7">
+    <programme start="20230305152300" stop="20230305155900" channel="cctv7">
         <title lang="zh">大决战49/49</title>
-    </programme>
-    <programme start="20230305153300" stop="20230305155900" channel="cctv7">
-        <title lang="zh">军事制高点-2023-19</title>
     </programme>
     <programme start="20230305161300" stop="20230305164700" channel="cctv7">
         <title lang="zh">军事制高点-2023-19</title>
@@ -3810,22 +3813,25 @@
     <programme start="20230304194400" stop="20230304200000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20230304200000" stop="20230304201500" channel="cctv13">
+    <programme start="20230304200000" stop="20230304204400" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20230304201500" stop="20230304210000" channel="cctv13">
-        <title lang="zh">世界周刊</title>
+    <programme start="20230304204400" stop="20230304210000" channel="cctv13">
+        <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20230304210000" stop="20230304211200" channel="cctv13">
+    <programme start="20230304210000" stop="20230304214100" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20230304211200" stop="20230304220000" channel="cctv13">
-        <title lang="zh">新闻调查</title>
+    <programme start="20230304214100" stop="20230304220000" channel="cctv13">
+        <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20230304220000" stop="20230304234500" channel="cctv13">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme start="20230304234500" stop="20230305040000" channel="cctv13">
+    <programme start="20230304234500" stop="20230305034000" channel="cctv13">
+        <title lang="zh">新闻直播间</title>
+    </programme>
+    <programme start="20230305034000" stop="20230305040000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20230305040000" stop="20230305043300" channel="cctv13">
@@ -3849,14 +3855,8 @@
     <programme start="20230305100000" stop="20230305110000" channel="cctv13">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme start="20230305110000" stop="20230305113200" channel="cctv13">
+    <programme start="20230305110000" stop="20230305120000" channel="cctv13">
         <title lang="zh">新闻联播</title>
-    </programme>
-    <programme start="20230305113200" stop="20230305113900" channel="cctv13">
-        <title lang="zh">天气预报</title>
-    </programme>
-    <programme start="20230305113900" stop="20230305120000" channel="cctv13">
-        <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20230305120000" stop="20230305130000" channel="cctv13">
         <title lang="zh">东方时空</title>
