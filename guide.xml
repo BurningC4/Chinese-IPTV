@@ -753,10 +753,10 @@
     <programme start="20230311010100" stop="20230311015100" channel="cctv2">
         <title lang="zh">2022精品财经纪录-青海我们的国家公园-2</title>
     </programme>
-    <programme start="20230311015100" stop="20230311023700" channel="cctv2">
-        <title lang="zh">中国大区域-3</title>
+    <programme start="20230311015100" stop="20230311023600" channel="cctv2">
+        <title lang="zh">周末特供2023-中国大区域3</title>
     </programme>
-    <programme start="20230311023700" stop="20230311024600" channel="cctv2">
+    <programme start="20230311023600" stop="20230311024600" channel="cctv2">
         <title lang="zh">周末特供2023-中国湿地1-2</title>
     </programme>
     <programme start="20230311024600" stop="20230311030800" channel="cctv2">
@@ -1225,7 +1225,7 @@
         <title lang="zh">中国文艺-2023-50</title>
     </programme>
     <programme start="20230310110000" stop="20230310113000" channel="cctv4">
-        <title lang="zh">中国新闻</title>
+        <title lang="zh">新闻联播</title>
     </programme>
     <programme start="20230310113000" stop="20230310120000" channel="cctv4">
         <title lang="zh">今日亚洲</title>
@@ -1345,7 +1345,7 @@
         <title lang="zh">中国文艺-致敬经典2023-10</title>
     </programme>
     <programme start="20230311110000" stop="20230311113000" channel="cctv4">
-        <title lang="zh">中国新闻</title>
+        <title lang="zh">新闻联播</title>
     </programme>
     <programme start="20230311113000" stop="20230311120000" channel="cctv4">
         <title lang="zh">今日亚洲</title>
@@ -1465,7 +1465,7 @@
         <title lang="zh">环球综艺秀-2023-11</title>
     </programme>
     <programme start="20230312110000" stop="20230312113000" channel="cctv4">
-        <title lang="zh">中国新闻</title>
+        <title lang="zh">新闻联播</title>
     </programme>
     <programme start="20230312113000" stop="20230312123000" channel="cctv4">
         <title lang="zh">中国舆论场-2023-9</title>
@@ -4191,8 +4191,11 @@
     <programme start="20230311165200" stop="20230311172600" channel="cctvchild">
         <title lang="zh">风车剧场-2023-6</title>
     </programme>
-    <programme start="20230311172600" stop="20230311220000" channel="cctvchild">
+    <programme start="20230311172600" stop="20230311180000" channel="cctvchild">
         <title lang="zh">风车剧场-2023-7</title>
+    </programme>
+    <programme start="20230311180000" stop="20230311220000" channel="cctvchild">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20230311220000" stop="20230311230000" channel="cctvchild">
         <title lang="zh">英雄出少年-2023-11</title>
