@@ -3906,13 +3906,16 @@
     <programme start="20230312220000" stop="20230313010000" channel="cctv13">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme start="20230313010000" stop="20230313050000" channel="cctv13">
+    <programme start="20230313010000" stop="20230313040000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20230313050000" stop="20230313053300" channel="cctv13">
+    <programme start="20230313040000" stop="20230313043300" channel="cctv13">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme start="20230313053300" stop="20230313060000" channel="cctv13">
+    <programme start="20230313043300" stop="20230313050000" channel="cctv13">
+        <title lang="zh">新闻直播间</title>
+    </programme>
+    <programme start="20230313050000" stop="20230313060000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20230313060000" stop="20230313070000" channel="cctv13">
