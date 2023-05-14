@@ -382,7 +382,7 @@
         <title lang="zh">新闻联播</title>
     </programme>
     <programme start="20230514113600" stop="20230514121500" channel="cctv1">
-        <title lang="zh">焦点访谈《这个春天——2023年春季中国元首外交纪实》</title>
+        <title lang="zh">这个春天——2023年春季中国元首外交纪实</title>
     </programme>
     <programme start="20230514121500" stop="20230514140000" channel="cctv1">
         <title lang="zh">经典咏流传-正青春-3</title>
@@ -3976,7 +3976,7 @@
         <title lang="zh">天气预报</title>
     </programme>
     <programme start="20230514113600" stop="20230514120900" channel="cctv13">
-        <title lang="zh">焦点访谈《这个春天——2023年春季中国元首外交纪实》</title>
+        <title lang="zh">这个春天——2023年春季中国元首外交纪实</title>
     </programme>
     <programme start="20230514120900" stop="20230514130000" channel="cctv13">
         <title lang="zh">东方时空</title>
@@ -4011,8 +4011,11 @@
     <programme start="20230514181500" stop="20230514190000" channel="cctv13">
         <title lang="zh">面对面</title>
     </programme>
-    <programme start="20230514190000" stop="20230514194000" channel="cctv13">
+    <programme start="20230514190000" stop="20230514192400" channel="cctv13">
         <title lang="zh">新闻直播间</title>
+    </programme>
+    <programme start="20230514192400" stop="20230514194000" channel="cctv13">
+        <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20230514194000" stop="20230514200000" channel="cctv13">
         <title lang="zh">每周质量报告</title>
