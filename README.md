@@ -26,6 +26,6 @@ guide.xml will be refreshed per hour .
       ```
       https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml
       ```
-## 穷学生党求打赏
+## 求打赏
    ![1635786625166](https://user-images.githubusercontent.com/30040912/141647179-f4bc6848-96ed-4ada-8bdb-ae84e2de88ec.jpg)
    ![mm_facetoface_collect_qrcode_1636813456237](https://user-images.githubusercontent.com/30040912/141647389-b32ac5fc-5292-4338-a37b-2a5bca9ea278.png)
