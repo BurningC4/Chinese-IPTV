@@ -495,10 +495,10 @@
     <programme start="20230603113900" stop="20230603120600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20230603120600" stop="20230603135500" channel="cctv1">
+    <programme start="20230603120600" stop="20230603135100" channel="cctv1">
         <title lang="zh">非遗里的中国-5</title>
     </programme>
-    <programme start="20230603135500" stop="20230603140000" channel="cctv1">
+    <programme start="20230603135100" stop="20230603140000" channel="cctv1">
         <title lang="zh">精彩一刻-2023-78端牢中国饭碗宣传片</title>
     </programme>
     <programme start="20230603140000" stop="20230603143400" channel="cctv1">
@@ -525,19 +525,19 @@
     <programme start="20230603183200" stop="20230603184300" channel="cctv1">
         <title lang="zh">泱泱中华-美丽湿地</title>
     </programme>
-    <programme start="20230603184300" stop="20230603202900" channel="cctv1">
+    <programme start="20230603184300" stop="20230603200000" channel="cctv1">
         <title lang="zh">星光大道-2023-24</title>
     </programme>
-    <programme start="20230603202900" stop="20230603210000" channel="cctv1">
-        <title lang="zh">今日说法-2023-133</title>
-    </programme>
-    <programme start="20230603210000" stop="20230603213000" channel="cctv1">
-        <title lang="zh">新闻联播</title>
-    </programme>
-    <programme start="20230603213000" stop="20230603220000" channel="cctv1">
+    <programme start="20230603200000" stop="20230603203000" channel="cctv1">
         <title lang="zh">人与自然-2023-140</title>
     </programme>
-    <programme start="20230603220000" stop="20230604003700" channel="cctv1">
+    <programme start="20230603203000" stop="20230603210000" channel="cctv1">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20230603210000" stop="20230603234000" channel="cctv1">
+        <title lang="zh">新闻直播间</title>
+    </programme>
+    <programme start="20230603234000" stop="20230604003700" channel="cctv1">
         <title lang="zh">朝闻天下</title>
     </programme>
     <programme start="20230604003700" stop="20230604012900" channel="cctv1">
@@ -1398,35 +1398,29 @@
     <programme start="20230603040000" stop="20230603050200" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20230603050200" stop="20230603053100" channel="cctv4">
+    <programme start="20230603050200" stop="20230603053000" channel="cctv4">
         <title lang="zh">华人故事-2023-22</title>
     </programme>
-    <programme start="20230603053100" stop="20230603053300" channel="cctv4">
-        <title lang="zh">荟萃节目-秘境之眼16</title>
+    <programme start="20230603053000" stop="20230603054100" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-23</title>
     </programme>
-    <programme start="20230603053300" stop="20230603053800" channel="cctv4">
-        <title lang="zh">荟萃节目-秘境之眼28</title>
-    </programme>
-    <programme start="20230603053800" stop="20230603060700" channel="cctv4">
+    <programme start="20230603054100" stop="20230603061000" channel="cctv4">
         <title lang="zh">走遍中国-2023-46</title>
     </programme>
-    <programme start="20230603060700" stop="20230603064100" channel="cctv4">
+    <programme start="20230603061000" stop="20230603064300" channel="cctv4">
         <title lang="zh">走遍中国-2023-47</title>
     </programme>
-    <programme start="20230603064100" stop="20230603072900" channel="cctv4">
+    <programme start="20230603064300" stop="20230603073100" channel="cctv4">
         <title lang="zh">特战行动第1集</title>
     </programme>
-    <programme start="20230603072900" stop="20230603081700" channel="cctv4">
+    <programme start="20230603073100" stop="20230603082000" channel="cctv4">
         <title lang="zh">特战行动第2集</title>
     </programme>
-    <programme start="20230603081700" stop="20230603090500" channel="cctv4">
+    <programme start="20230603082000" stop="20230603090800" channel="cctv4">
         <title lang="zh">特战行动第3集</title>
     </programme>
-    <programme start="20230603090500" stop="20230603095600" channel="cctv4">
+    <programme start="20230603090800" stop="20230603100000" channel="cctv4">
         <title lang="zh">特战行动第4集</title>
-    </programme>
-    <programme start="20230603095600" stop="20230603100000" channel="cctv4">
-        <title lang="zh">荟萃节目-秘境之眼22</title>
     </programme>
     <programme start="20230603100000" stop="20230603110000" channel="cctv4">
         <title lang="zh">中国文艺-致敬经典2023-22</title>
@@ -1468,7 +1462,7 @@
         <title lang="zh">华人故事-2023-22</title>
     </programme>
     <programme start="20230603174900" stop="20230603180000" channel="cctv4">
-        <title lang="zh">记住乡愁2018片段展播-24</title>
+        <title lang="zh">记住乡愁2018片段展播-23</title>
     </programme>
     <programme start="20230603180000" stop="20230603183000" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -1488,17 +1482,11 @@
     <programme start="20230603203000" stop="20230603210000" channel="cctv4">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme start="20230603210000" stop="20230603220000" channel="cctv4">
-        <title lang="zh">中国文艺-致敬经典2023-22</title>
+    <programme start="20230603210000" stop="20230603213000" channel="cctv4">
+        <title lang="zh">走遍中国-2023-45</title>
     </programme>
-    <programme start="20230603220000" stop="20230603223000" channel="cctv4">
-        <title lang="zh">海峡两岸-2023-154</title>
-    </programme>
-    <programme start="20230603223000" stop="20230603230000" channel="cctv4">
-        <title lang="zh">今日亚洲</title>
-    </programme>
-    <programme start="20230603230000" stop="20230603233000" channel="cctv4">
-        <title lang="zh">中国新闻</title>
+    <programme start="20230603213000" stop="20230603233000" channel="cctv4">
+        <title lang="zh">2023筑梦空间站-特别报道4</title>
     </programme>
     <programme start="20230603233000" stop="20230604000000" channel="cctv4">
         <title lang="zh">今日关注</title>
@@ -2205,11 +2193,14 @@
     <programme start="20230603010000" stop="20230603013200" channel="cctv7">
         <title lang="zh">防务新观察-2023-110</title>
     </programme>
-    <programme start="20230603013200" stop="20230603021200" channel="cctv7">
+    <programme start="20230603013200" stop="20230603020500" channel="cctv7">
         <title lang="zh">军事纪实-2023-110</title>
     </programme>
-    <programme start="20230603021200" stop="20230603040000" channel="cctv7">
-        <title lang="zh">五星剧场-暴风骤雨</title>
+    <programme start="20230603020500" stop="20230603023100" channel="cctv7">
+        <title lang="zh">国防故事-2023-59</title>
+    </programme>
+    <programme start="20230603023100" stop="20230603040000" channel="cctv7">
+        <title lang="zh">五星剧场-铁道游击队(高清文件)</title>
     </programme>
     <programme start="20230603040000" stop="20230603043300" channel="cctv7">
         <title lang="zh">正午国防军事</title>
@@ -4731,14 +4722,17 @@
     <programme start="20230604041500" stop="20230604050000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2023年世界泳联跳水世界杯 西安站 女子十米台决赛（4K）</title>
     </programme>
-    <programme start="20230604050000" stop="20230604062000" channel="cctv16">
+    <programme start="20230604050000" stop="20230604073500" channel="cctv16">
         <title lang="zh">2023年中国网球巡回赛临汾站-单打决赛</title>
     </programme>
-    <programme start="20230604062000" stop="20230604083500" channel="cctv16">
-        <title lang="zh">逐冰追雪-2023-22</title>
+    <programme start="20230604073500" stop="20230604083500" channel="cctv16">
+        <title lang="zh">逐冰追雪-2023-22（4K）</title>
     </programme>
-    <programme start="20230604083500" stop="20230604090500" channel="cctv16">
+    <programme start="20230604083500" stop="20230604085000" channel="cctv16">
         <title lang="zh">艺术里的奥林匹克-2023-2</title>
+    </programme>
+    <programme start="20230604085000" stop="20230604090500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2023年世界泳联跳水世界杯 西安站 女子双人十米台决赛（4K）</title>
     </programme>
     <programme start="20230604090500" stop="20230604103000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2023年世界女排联赛 土耳其站 土耳其队-塞尔维亚队</title>
