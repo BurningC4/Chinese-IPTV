@@ -1677,14 +1677,11 @@
     <programme start="20230621233000" stop="20230622000000" channel="cctv5">
         <title lang="zh">健身动起来</title>
     </programme>
-    <programme start="20230622000000" stop="20230622013000" channel="cctv5">
-        <title lang="zh">实况录像-2023年中国之队国际足球友谊赛 中国亚运队—韩国亚运队 第一场</title>
+    <programme start="20230622000000" stop="20230622010000" channel="cctv5">
+        <title lang="zh">赛事集锦(高清体育)-2023-47-2023年世界跆拳道锦标赛1</title>
     </programme>
-    <programme start="20230622013000" stop="20230622023000" channel="cctv5">
-        <title lang="zh">实况录像-2023年皮划艇世界杯 波兰站2</title>
-    </programme>
-    <programme start="20230622023000" stop="20230622040000" channel="cctv5">
-        <title lang="zh">实况录像-2023年世界女排联赛  中国香港站  意大利队—中国队</title>
+    <programme start="20230622010000" stop="20230622040000" channel="cctv5">
+        <title lang="zh">2023年中华龙舟大赛福建福州站-决赛</title>
     </programme>
     <programme start="20230622040000" stop="20230622043500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
@@ -1695,11 +1692,11 @@
     <programme start="20230622045800" stop="20230622063000" channel="cctv5">
         <title lang="zh">实况录像-2023年世界男排联赛   法国站  阿根廷队—法国队 （录播）</title>
     </programme>
-    <programme start="20230622063000" stop="20230622073300" channel="cctv5">
-        <title lang="zh">实况录像-2023年艺术体操世界杯 波尔蒂芒站 2</title>
+    <programme start="20230622063000" stop="20230622070000" channel="cctv5">
+        <title lang="zh">实况录像-2023年世界田联钻石联赛 巴黎站 25分钟版</title>
     </programme>
-    <programme start="20230622073300" stop="20230622083000" channel="cctv5">
-        <title lang="zh">实况录像-2023年三对三篮球世界杯 1</title>
+    <programme start="20230622070000" stop="20230622083000" channel="cctv5">
+        <title lang="zh">实况录像-2023年中华龙舟大赛 福州站 决赛（录播）</title>
     </programme>
     <programme start="20230622083000" stop="20230622100000" channel="cctv5">
         <title lang="zh">实况录像-2023年世界乒乓球锦标赛  4</title>
@@ -5017,10 +5014,10 @@
         <title lang="zh">村里来了钢铁侠-5</title>
     </programme>
     <programme start="20230622021700" stop="20230622030800" channel="cctv17">
-        <title lang="zh">娘亲舅大45/51</title>
+        <title lang="zh">娘亲舅大第45集</title>
     </programme>
     <programme start="20230622030800" stop="20230622040000" channel="cctv17">
-        <title lang="zh">娘亲舅大46/51</title>
+        <title lang="zh">娘亲舅大第46集</title>
     </programme>
     <programme start="20230622040000" stop="20230622042700" channel="cctv17">
         <title lang="zh">三农长短说</title>
@@ -5041,16 +5038,16 @@
         <title lang="zh">村里来了钢铁侠-6</title>
     </programme>
     <programme start="20230622053600" stop="20230622062700" channel="cctv17">
-        <title lang="zh">我哥我嫂9/50</title>
+        <title lang="zh">我哥我嫂第9集</title>
     </programme>
     <programme start="20230622062700" stop="20230622071800" channel="cctv17">
-        <title lang="zh">我哥我嫂10/50</title>
+        <title lang="zh">我哥我嫂第10集</title>
     </programme>
     <programme start="20230622071800" stop="20230622080800" channel="cctv17">
-        <title lang="zh">我哥我嫂11/50</title>
+        <title lang="zh">我哥我嫂第11集</title>
     </programme>
     <programme start="20230622080800" stop="20230622090000" channel="cctv17">
-        <title lang="zh">我哥我嫂12/50</title>
+        <title lang="zh">我哥我嫂第12集</title>
     </programme>
     <programme start="20230622090000" stop="20230622093000" channel="cctv17">
         <title lang="zh">乡理乡亲-2023-77</title>
@@ -5062,10 +5059,10 @@
         <title lang="zh">三农长短说</title>
     </programme>
     <programme start="20230622103200" stop="20230622112600" channel="cctv17">
-        <title lang="zh">娘亲舅大47/51</title>
+        <title lang="zh">娘亲舅大第47集</title>
     </programme>
     <programme start="20230622112600" stop="20230622121500" channel="cctv17">
-        <title lang="zh">娘亲舅大48/51</title>
+        <title lang="zh">娘亲舅大第48集</title>
     </programme>
     <programme start="20230622121500" stop="20230622130300" channel="cctv17">
         <title lang="zh">乡土中国-生活有点田-1</title>
@@ -5085,8 +5082,11 @@
     <programme start="20230622155400" stop="20230622155900" channel="cctv17">
         <title lang="zh">谁知盘中餐-2023-117</title>
     </programme>
-    <programme start="20230622162100" stop="20230622215500" channel="cctv17">
+    <programme start="20230622162100" stop="20230622165800" channel="cctv17">
         <title lang="zh">共富经-2023-34</title>
+    </programme>
+    <programme start="20230622165800" stop="20230622215500" channel="cctv17">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20230622215500" stop="20230622220000" channel="cctv17">
         <title lang="zh">农业气象</title>
