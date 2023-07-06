@@ -519,10 +519,10 @@
     <programme start="20230707113900" stop="20230707120600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20230707120600" stop="20230707134300" channel="cctv1">
+    <programme start="20230707120600" stop="20230707134600" channel="cctv1">
         <title lang="zh">中国书法大会-6</title>
     </programme>
-    <programme start="20230707134300" stop="20230707140000" channel="cctv1">
+    <programme start="20230707134600" stop="20230707140000" channel="cctv1">
         <title lang="zh">寻古中国-33宣传片-1</title>
     </programme>
     <programme start="20230707140000" stop="20230707143400" channel="cctv1">
@@ -1110,26 +1110,26 @@
     <programme start="20230707103600" stop="20230707113000" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-982</title>
     </programme>
-    <programme start="20230707113000" stop="20230707125200" channel="cctv3">
+    <programme start="20230707113000" stop="20230707125000" channel="cctv3">
         <title lang="zh">夏日星光夜第一季-1</title>
     </programme>
-    <programme start="20230707125200" stop="20230707134700" channel="cctv3">
+    <programme start="20230707125000" stop="20230707134500" channel="cctv3">
         <title lang="zh">黄金100秒-2023-28</title>
     </programme>
-    <programme start="20230707134700" stop="20230707144600" channel="cctv3">
+    <programme start="20230707134500" stop="20230707144400" channel="cctv3">
         <title lang="zh">幸福账单-2023-26</title>
     </programme>
-    <programme start="20230707144600" stop="20230707153400" channel="cctv3">
+    <programme start="20230707144400" stop="20230707153200" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-992 了不起的女孩 7/35</title>
     </programme>
-    <programme start="20230707153400" stop="20230707155900" channel="cctv3">
+    <programme start="20230707153200" stop="20230707155900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-993 了不起的女孩 8/35</title>
     </programme>
-    <programme start="20230707162200" stop="20230707170900" channel="cctv3">
+    <programme start="20230707162000" stop="20230707170700" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-994 了不起的女孩 9/35</title>
     </programme>
-    <programme start="20230707170900" stop="20230707175800" channel="cctv3">
-        <title lang="zh">综艺喜乐汇-2023-915</title>
+    <programme start="20230707170700" stop="20230707175800" channel="cctv3">
+        <title lang="zh">我的艺术清单-2023-25</title>
     </programme>
     <programme start="20230707175800" stop="20230707184900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2023-624</title>
@@ -1171,7 +1171,7 @@
         <title lang="zh">向幸福出发-2023-22</title>
     </programme>
     <programme start="20230708080000" stop="20230708085800" channel="cctv3">
-        <title lang="zh">幸福账单-2023-23</title>
+        <title lang="zh">幸福账单-2023-26</title>
     </programme>
     <programme start="20230708085800" stop="20230708100500" channel="cctv3">
         <title lang="zh">非常6+1-2023-27</title>
@@ -1186,7 +1186,7 @@
         <title lang="zh">星光大道-2023-29</title>
     </programme>
     <programme start="20230708125300" stop="20230708135300" channel="cctv3">
-        <title lang="zh">幸福账单-2023-27</title>
+        <title lang="zh">幸福账单-2023-24</title>
     </programme>
     <programme start="20230708135300" stop="20230708145200" channel="cctv3">
         <title lang="zh">回声嘹亮-2023-27</title>
@@ -1647,8 +1647,11 @@
     <programme start="20230707010000" stop="20230707013000" channel="cctv5">
         <title lang="zh">实况录像-2023年世界乒乓球锦标赛  混双决赛</title>
     </programme>
-    <programme start="20230707013000" stop="20230707033000" channel="cctv5">
-        <title lang="zh">2023年世界男排联赛-美国站 (保加利亚队-伊朗队)</title>
+    <programme start="20230707013000" stop="20230707023100" channel="cctv5">
+        <title lang="zh">实况录像-2023年世界乒乓球锦标赛 女单决赛</title>
+    </programme>
+    <programme start="20230707023100" stop="20230707033000" channel="cctv5">
+        <title lang="zh">实况录像-2023年国际篮联女篮亚洲杯 决赛</title>
     </programme>
     <programme start="20230707033000" stop="20230707040000" channel="cctv5">
         <title lang="zh">赛事集锦-2023年全国攀岩冠军赛1</title>
@@ -3927,10 +3930,13 @@
     <programme start="20230706090000" stop="20230706100000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20230706100000" stop="20230706113000" channel="cctv13">
+    <programme start="20230706100000" stop="20230706110000" channel="cctv13">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme start="20230706113000" stop="20230706113800" channel="cctv13">
+    <programme start="20230706110000" stop="20230706113100" channel="cctv13">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20230706113100" stop="20230706113800" channel="cctv13">
         <title lang="zh">天气预报</title>
     </programme>
     <programme start="20230706113800" stop="20230706120000" channel="cctv13">
@@ -4476,28 +4482,28 @@
     <programme start="20230708055900" stop="20230708073600" channel="cctv15">
         <title lang="zh">2023年美泉宫夏季音乐会-精编版</title>
     </programme>
-    <programme start="20230708073600" stop="20230708081600" channel="cctv15">
+    <programme start="20230708073600" stop="20230708081700" channel="cctv15">
         <title lang="zh">中国音乐电视-2023-189</title>
     </programme>
-    <programme start="20230708081600" stop="20230708085700" channel="cctv15">
+    <programme start="20230708081700" stop="20230708085800" channel="cctv15">
         <title lang="zh">聆听时刻-2023-25</title>
     </programme>
-    <programme start="20230708085700" stop="20230708101300" channel="cctv15">
+    <programme start="20230708085800" stop="20230708101400" channel="cctv15">
         <title lang="zh">民歌·中国-2023-96我们的生活充满阳光</title>
     </programme>
-    <programme start="20230708101300" stop="20230708113000" channel="cctv15">
+    <programme start="20230708101400" stop="20230708113000" channel="cctv15">
         <title lang="zh">精彩音乐汇-2023-189</title>
     </programme>
-    <programme start="20230708113000" stop="20230708131400" channel="cctv15">
+    <programme start="20230708113000" stop="20230708125400" channel="cctv15">
         <title lang="zh">全球中文音乐榜上榜-2023-26</title>
     </programme>
-    <programme start="20230708131400" stop="20230708142900" channel="cctv15">
+    <programme start="20230708125400" stop="20230708140900" channel="cctv15">
         <title lang="zh">民歌·中国-2023-84歌声里的童趣</title>
     </programme>
-    <programme start="20230708142900" stop="20230708152700" channel="cctv15">
+    <programme start="20230708140900" stop="20230708150700" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2023-150-名家名曲(137)</title>
     </programme>
-    <programme start="20230708152700" stop="20230708155900" channel="cctv15">
+    <programme start="20230708150700" stop="20230708155900" channel="cctv15">
         <title lang="zh">经典-2023-162</title>
     </programme>
     <programme start="20230705171000" stop="20230705181000" channel="cctv16">
@@ -4612,7 +4618,7 @@
         <title lang="zh">实况录像（奥林匹克）-2023年苏迪曼杯羽毛球赛 决赛</title>
     </programme>
     <programme start="20230707023000" stop="20230707040000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2023年世界女排联赛 韩国站 中国队-塞尔维亚队</title>
+        <title lang="zh">实况录像（奥林匹克）-2023年世界女排联赛 巴西站 巴西队-美国队（4K）</title>
     </programme>
     <programme start="20230707040000" stop="20230707042000" channel="cctv16">
         <title lang="zh">艺术里的奥林匹克-2023-30</title>
@@ -4714,7 +4720,7 @@
         <title lang="zh">实况录像（奥林匹克）-2023年世界跆拳道大奖赛 罗马站1</title>
     </programme>
     <programme start="20230708091000" stop="20230708103500" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2023年世界女排联赛 韩国站 中国队-多米尼加队</title>
+        <title lang="zh">实况录像（奥林匹克）-2023年世界女排联赛 韩国站 中国队-美国队（4K）</title>
     </programme>
     <programme start="20230708103500" stop="20230708120000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2023年世界田联钻石联赛 洛桑站</title>
