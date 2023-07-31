@@ -375,23 +375,29 @@
     <programme start="20230731073500" stop="20230731082300" channel="cctv1">
         <title lang="zh">人世间第56集</title>
     </programme>
-    <programme start="20230731082300" stop="20230731091300" channel="cctv1">
+    <programme start="20230731082300" stop="20230731091000" channel="cctv1">
         <title lang="zh">人世间第57集</title>
     </programme>
-    <programme start="20230731091300" stop="20230731095200" channel="cctv1">
+    <programme start="20230731091000" stop="20230731091400" channel="cctv1">
+        <title lang="zh">泱泱中华-历史文化街区</title>
+    </programme>
+    <programme start="20230731091400" stop="20230731095200" channel="cctv1">
         <title lang="zh">第一动画乐园-2023-401</title>
     </programme>
-    <programme start="20230731095200" stop="20230731101100" channel="cctv1">
+    <programme start="20230731095200" stop="20230731101200" channel="cctv1">
         <title lang="zh">第一动画乐园-2023-402</title>
     </programme>
-    <programme start="20230731101100" stop="20230731104600" channel="cctv1">
-        <title lang="zh">第一动画乐园-2023-403</title>
-    </programme>
-    <programme start="20230731104600" stop="20230731105100" channel="cctv1">
+    <programme start="20230731101200" stop="20230731101500" channel="cctv1">
         <title lang="zh">第一动画乐园-2022-720</title>
     </programme>
-    <programme start="20230731105100" stop="20230731110000" channel="cctv1">
+    <programme start="20230731101500" stop="20230731101700" channel="cctv1">
         <title lang="zh">2023秘境之眼-190</title>
+    </programme>
+    <programme start="20230731101700" stop="20230731102100" channel="cctv1">
+        <title lang="zh">寻古中国-33宣传片-1</title>
+    </programme>
+    <programme start="20230731102100" stop="20230731110000" channel="cctv1">
+        <title lang="zh">寻古中国-古蜀记1</title>
     </programme>
     <programme start="20230731110000" stop="20230731113900" channel="cctv1">
         <title lang="zh">新闻联播</title>
@@ -483,26 +489,26 @@
     <programme start="20230801064600" stop="20230801073600" channel="cctv1">
         <title lang="zh">人生之路第2集</title>
     </programme>
-    <programme start="20230801073600" stop="20230801082300" channel="cctv1">
+    <programme start="20230801073600" stop="20230801082400" channel="cctv1">
         <title lang="zh">人生之路第3集</title>
     </programme>
-    <programme start="20230801082300" stop="20230801091300" channel="cctv1">
+    <programme start="20230801082400" stop="20230801091400" channel="cctv1">
         <title lang="zh">人生之路第4集</title>
     </programme>
-    <programme start="20230801091300" stop="20230801095200" channel="cctv1">
+    <programme start="20230801091400" stop="20230801095600" channel="cctv1">
         <title lang="zh">第一动画乐园-2023-404</title>
     </programme>
-    <programme start="20230801095200" stop="20230801101100" channel="cctv1">
+    <programme start="20230801095600" stop="20230801101600" channel="cctv1">
         <title lang="zh">第一动画乐园-2023-405</title>
     </programme>
-    <programme start="20230801101100" stop="20230801104600" channel="cctv1">
-        <title lang="zh">第一动画乐园-2023-406</title>
-    </programme>
-    <programme start="20230801104600" stop="20230801105100" channel="cctv1">
+    <programme start="20230801101600" stop="20230801101900" channel="cctv1">
         <title lang="zh">第一动画乐园-2022-720</title>
     </programme>
-    <programme start="20230801105100" stop="20230801110000" channel="cctv1">
+    <programme start="20230801101900" stop="20230801102100" channel="cctv1">
         <title lang="zh">2023秘境之眼-191</title>
+    </programme>
+    <programme start="20230801102100" stop="20230801110000" channel="cctv1">
+        <title lang="zh">寻古中国-古蜀记2</title>
     </programme>
     <programme start="20230801110000" stop="20230801113900" channel="cctv1">
         <title lang="zh">新闻联播</title>
@@ -1450,7 +1456,7 @@
         <title lang="zh">觉醒年代第3集</title>
     </programme>
     <programme start="20230801170000" stop="20230801174800" channel="cctv4">
-        <title lang="zh">觉醒年代3/43</title>
+        <title lang="zh">觉醒年代第4集</title>
     </programme>
     <programme start="20230801174800" stop="20230801175800" channel="cctv4">
         <title lang="zh">记住乡愁2018片段展播-84</title>
@@ -2298,8 +2304,11 @@
     <programme start="20230801181500" stop="20230801184900" channel="cctv7">
         <title lang="zh">军事纪实-2023-152</title>
     </programme>
-    <programme start="20230801184900" stop="20230801220300" channel="cctv7">
+    <programme start="20230801184900" stop="20230801192700" channel="cctv7">
         <title lang="zh">兵器面面观-2023-136</title>
+    </programme>
+    <programme start="20230801192700" stop="20230801220300" channel="cctv7">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20230801220300" stop="20230801223400" channel="cctv7">
         <title lang="zh">军事纪实-2023-152</title>
@@ -2356,7 +2365,7 @@
         <title lang="zh">有个地方叫马兰1/29</title>
     </programme>
     <programme start="20230802081900" stop="20230802090700" channel="cctv7">
-        <title lang="zh">热血军旗2/30</title>
+        <title lang="zh">有个地方叫马兰2/29</title>
     </programme>
     <programme start="20230802090700" stop="20230802093500" channel="cctv7">
         <title lang="zh">世界战史-2023-1</title>
