@@ -1782,8 +1782,17 @@
     <programme start="20230909080000" stop="20230909090000" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2023年世界泳联锦标赛 花样游泳 集体自由自选 决赛（4K）</title>
     </programme>
-    <programme start="20230909090000" stop="20230909140500" channel="cctv5plus">
-        <title lang="zh">2023年中国羽毛球公开赛-半决赛</title>
+    <programme start="20230909090000" stop="20230909103000" channel="cctv5plus">
+        <title lang="zh">实况录像-2023年国际篮联篮球世界杯 1/4决赛4</title>
+    </programme>
+    <programme start="20230909103000" stop="20230909113000" channel="cctv5plus">
+        <title lang="zh">实况录像-2023年世界举重锦标赛 女子49公斤级决赛</title>
+    </programme>
+    <programme start="20230909113000" stop="20230909133500" channel="cctv5plus">
+        <title lang="zh">亚足联2024年23岁以下亚洲杯预选赛-（中国队-印度队）</title>
+    </programme>
+    <programme start="20230909133500" stop="20230909140500" channel="cctv5plus">
+        <title lang="zh">实况录像（奥林匹克）-2023年世界田径锦标赛 25分钟版（4K）</title>
     </programme>
     <programme start="20230909140500" stop="20230909143500" channel="cctv5plus">
         <title lang="zh">实况录像-2023年世界自行车锦标赛  小轮车决赛 2</title>
@@ -1813,7 +1822,7 @@
         <title lang="zh">实况录像-2023年世界举重锦标赛 女子59公斤级决赛</title>
     </programme>
     <programme start="20230910020000" stop="20230910033000" channel="cctv5plus">
-        <title lang="zh">实况录像-2023年国际篮联篮球世界杯 半决赛2</title>
+        <title lang="zh">实况录像-2023年国际篮联篮球世界杯 半决赛1</title>
     </programme>
     <programme start="20230910033000" stop="20230910050000" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2023年世界田径锦标赛7（4K）</title>
@@ -1827,8 +1836,11 @@
     <programme start="20230910103500" stop="20230910120500" channel="cctv5plus">
         <title lang="zh">实况录像-2023年世界田联钻石联赛 布鲁塞尔站</title>
     </programme>
-    <programme start="20230910120500" stop="20230910133500" channel="cctv5plus">
-        <title lang="zh">实况录像-2023年亚洲乒乓球锦标赛 女团决赛</title>
+    <programme start="20230910120500" stop="20230910132000" channel="cctv5plus">
+        <title lang="zh">实况录像-2023年亚洲乒乓球锦标赛  女团决赛 70分钟版</title>
+    </programme>
+    <programme start="20230910132000" stop="20230910133500" channel="cctv5plus">
+        <title lang="zh">实况录像（奥林匹克）-2023年世界泳联锦标赛 中国队游泳比赛10分钟版1（4K）</title>
     </programme>
     <programme start="20230910133500" stop="20230910150500" channel="cctv5plus">
         <title lang="zh">实况录像-2023年世界女排联赛  日本站 日本队—中国队</title>
@@ -3870,25 +3882,25 @@
     <programme start="20230908120000" stop="20230908130000" channel="cctv13">
         <title lang="zh">东方时空</title>
     </programme>
-    <programme start="20230908130000" stop="20230908133000" channel="cctv13">
+    <programme start="20230908130000" stop="20230908133500" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20230908133000" stop="20230908140000" channel="cctv13">
+    <programme start="20230908133500" stop="20230908140200" channel="cctv13">
         <title lang="zh">高端访谈</title>
     </programme>
-    <programme start="20230908140000" stop="20230908143000" channel="cctv13">
+    <programme start="20230908140200" stop="20230908143200" channel="cctv13">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme start="20230908143000" stop="20230908150000" channel="cctv13">
+    <programme start="20230908143200" stop="20230908150000" channel="cctv13">
         <title lang="zh">国际时讯</title>
     </programme>
     <programme start="20230908150000" stop="20230908155900" channel="cctv13">
         <title lang="zh">24小时</title>
     </programme>
-    <programme start="20230908160000" stop="20230908163000" channel="cctv13">
+    <programme start="20230908160000" stop="20230908163300" channel="cctv13">
         <title lang="zh">午夜新闻</title>
     </programme>
-    <programme start="20230908163000" stop="20230908170000" channel="cctv13">
+    <programme start="20230908163300" stop="20230908170000" channel="cctv13">
         <title lang="zh">高端访谈</title>
     </programme>
     <programme start="20230908170000" stop="20230908172100" channel="cctv13">
@@ -3906,10 +3918,10 @@
     <programme start="20230908183300" stop="20230908190000" channel="cctv13">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme start="20230908190000" stop="20230908193000" channel="cctv13">
+    <programme start="20230908190000" stop="20230908193300" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20230908193000" stop="20230908200000" channel="cctv13">
+    <programme start="20230908193300" stop="20230908200000" channel="cctv13">
         <title lang="zh">高端访谈</title>
     </programme>
     <programme start="20230908200000" stop="20230908203300" channel="cctv13">
