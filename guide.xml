@@ -1716,8 +1716,17 @@
     <programme start="20230926060000" stop="20230926070000" channel="cctv5plus">
         <title lang="zh">直播：杭州亚运会-沙滩排球女子半决赛1</title>
     </programme>
-    <programme start="20230926070000" stop="20230926133500" channel="cctv5plus">
+    <programme start="20230926070000" stop="20230926085000" channel="cctv5plus">
         <title lang="zh">直播：杭州亚运会-场地自行车女子团体竞速赛等</title>
+    </programme>
+    <programme start="20230926085000" stop="20230926103500" channel="cctv5plus">
+        <title lang="zh">直播：杭州亚运会-七人制橄榄球女子、男子决赛</title>
+    </programme>
+    <programme start="20230926103500" stop="20230926120000" channel="cctv5plus">
+        <title lang="zh">录像：杭州亚运会-射击混合团体10米气步枪决赛</title>
+    </programme>
+    <programme start="20230926120000" stop="20230926133500" channel="cctv5plus">
+        <title lang="zh">直播：杭州亚运会-男篮小组赛 中国-蒙古</title>
     </programme>
     <programme start="20230926133500" stop="20230926140500" channel="cctv5plus">
         <title lang="zh">实况录像-2023年世界泳联锦标赛 高台跳水  女子20米跳台 决赛</title>
@@ -4479,8 +4488,26 @@
     <programme start="20230925233500" stop="20230926010000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2023年世界田径锦标赛2</title>
     </programme>
-    <programme start="20230926010000" stop="20230926133500" channel="cctv16">
-        <title lang="zh">杭州亚运会-赛事报道 3</title>
+    <programme start="20230926010000" stop="20230926015500" channel="cctv16">
+        <title lang="zh">录像：杭州亚运会-25日游泳决赛</title>
+    </programme>
+    <programme start="20230926015500" stop="20230926040000" channel="cctv16">
+        <title lang="zh">直播：杭州亚运会-游泳预赛</title>
+    </programme>
+    <programme start="20230926040000" stop="20230926060000" channel="cctv16">
+        <title lang="zh">录像：杭州亚运会-25日乒乓球男团半决赛</title>
+    </programme>
+    <programme start="20230926060000" stop="20230926070000" channel="cctv16">
+        <title lang="zh">录像：杭州亚运会-射击混合团体10米气步枪铜牌赛、决赛</title>
+    </programme>
+    <programme start="20230926070000" stop="20230926093000" channel="cctv16">
+        <title lang="zh">直播：杭州亚运会-体操男子全能决赛</title>
+    </programme>
+    <programme start="20230926093000" stop="20230926113000" channel="cctv16">
+        <title lang="zh">录像：杭州亚运会-乒乓球女团决赛</title>
+    </programme>
+    <programme start="20230926113000" stop="20230926133500" channel="cctv16">
+        <title lang="zh">直播：杭州亚运会-游泳决赛</title>
     </programme>
     <programme start="20230926133500" stop="20230926143500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2023年亚洲乒乓球锦标赛 女单比赛</title>
