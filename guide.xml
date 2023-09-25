@@ -1554,26 +1554,41 @@
     <programme start="20230926000000" stop="20230926010000" channel="cctv5">
         <title lang="zh">实况录像-2023年世界举重锦标赛 男子61公斤级决赛</title>
     </programme>
-    <programme start="20230926010000" stop="20230926040000" channel="cctv5">
-        <title lang="zh">杭州亚运会-赛事直播3-1</title>
+    <programme start="20230926010000" stop="20230926024500" channel="cctv5">
+        <title lang="zh">录像：杭州亚运会-25日乒乓球男团半决赛</title>
+    </programme>
+    <programme start="20230926024500" stop="20230926040000" channel="cctv5">
+        <title lang="zh">直播：杭州亚运会-射击混合团体10米气步枪铜牌赛、决赛</title>
     </programme>
     <programme start="20230926040000" stop="20230926043000" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20230926043000" stop="20230926100000" channel="cctv5">
-        <title lang="zh">杭州亚运会-赛事直播3-2</title>
+    <programme start="20230926043000" stop="20230926060000" channel="cctv5">
+        <title lang="zh">录像：杭州亚运会-25日体操女子资格赛暨团体决赛</title>
+    </programme>
+    <programme start="20230926060000" stop="20230926083000" channel="cctv5">
+        <title lang="zh">直播：杭州亚运会-乒乓球女团决赛</title>
+    </programme>
+    <programme start="20230926083000" stop="20230926100000" channel="cctv5">
+        <title lang="zh">录像：杭州亚运会-沙滩排球女子半决赛1+跆拳道精选</title>
     </programme>
     <programme start="20230926100000" stop="20230926103000" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20230926103000" stop="20230926140000" channel="cctv5">
-        <title lang="zh">杭州亚运会-赛事直播3-3</title>
+    <programme start="20230926103000" stop="20230926110000" channel="cctv5">
+        <title lang="zh">录像：杭州亚运会-26日场地自行车</title>
     </programme>
-    <programme start="20230926140000" stop="20230926150500" channel="cctv5">
+    <programme start="20230926110000" stop="20230926133000" channel="cctv5">
+        <title lang="zh">直播：杭州亚运会-乒乓球男团决赛</title>
+    </programme>
+    <programme start="20230926133000" stop="20230926140000" channel="cctv5">
+        <title lang="zh">直播：杭州亚运会-游泳多项决赛</title>
+    </programme>
+    <programme start="20230926140000" stop="20230926150000" channel="cctv5">
         <title lang="zh">体育世界-全景亚运会</title>
     </programme>
-    <programme start="20230926150500" stop="20230926155900" channel="cctv5">
-        <title lang="zh">实况录像-杭州亚运会（录播）4</title>
+    <programme start="20230926150000" stop="20230926155900" channel="cctv5">
+        <title lang="zh">实况录像-杭州亚运会-赛事回放</title>
     </programme>
     <programme start="20230926160500" stop="20230926170500" channel="cctv5">
         <title lang="zh">顶级赛事-围棋</title>
@@ -1686,8 +1701,23 @@
     <programme start="20230925233000" stop="20230926010000" channel="cctv5plus">
         <title lang="zh">2023年世界羽毛球锦标赛-2</title>
     </programme>
-    <programme start="20230926010000" stop="20230926133500" channel="cctv5plus">
-        <title lang="zh">杭州亚运会-赛事直播3</title>
+    <programme start="20230926010000" stop="20230926030000" channel="cctv5plus">
+        <title lang="zh">直播：杭州亚运会-武术男子南拳、女子南拳决塞</title>
+    </programme>
+    <programme start="20230926030000" stop="20230926033000" channel="cctv5plus">
+        <title lang="zh">录像：杭州亚运会-25日跆拳道决赛精选</title>
+    </programme>
+    <programme start="20230926033000" stop="20230926050000" channel="cctv5plus">
+        <title lang="zh">录像：杭州亚运会-25日男排半决赛</title>
+    </programme>
+    <programme start="20230926050000" stop="20230926060000" channel="cctv5plus">
+        <title lang="zh">录像：杭州亚运会-25日游泳决赛</title>
+    </programme>
+    <programme start="20230926060000" stop="20230926070000" channel="cctv5plus">
+        <title lang="zh">直播：杭州亚运会-沙滩排球女子半决赛1</title>
+    </programme>
+    <programme start="20230926070000" stop="20230926133500" channel="cctv5plus">
+        <title lang="zh">直播：杭州亚运会-场地自行车女子团体竞速赛等</title>
     </programme>
     <programme start="20230926133500" stop="20230926140500" channel="cctv5plus">
         <title lang="zh">实况录像-2023年世界泳联锦标赛 高台跳水  女子20米跳台 决赛</title>
@@ -3810,10 +3840,10 @@
     <programme start="20230925120400" stop="20230925130000" channel="cctv13">
         <title lang="zh">东方时空</title>
     </programme>
-    <programme start="20230925130000" stop="20230925134000" channel="cctv13">
+    <programme start="20230925130000" stop="20230925133800" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20230925134000" stop="20230925140800" channel="cctv13">
+    <programme start="20230925133800" stop="20230925140800" channel="cctv13">
         <title lang="zh">新闻1+1</title>
     </programme>
     <programme start="20230925140800" stop="20230925143000" channel="cctv13">
