@@ -1710,11 +1710,11 @@
     <programme start="20231004110000" stop="20231004130000" channel="cctv5plus">
         <title lang="zh">直播：杭州亚运会-女排排位赛 中国-韩国</title>
     </programme>
-    <programme start="20231004130000" stop="20231004140500" channel="cctv5plus">
+    <programme start="20231004130000" stop="20231004140000" channel="cctv5plus">
         <title lang="zh">录像：杭州亚运会-跳水女子3米板决赛</title>
     </programme>
-    <programme start="20231004140500" stop="20231004153600" channel="cctv5plus">
-        <title lang="zh">2023年国际排联巴黎奥运会男排资格赛-C组(中国站) 中国队—加拿大队（录播）</title>
+    <programme start="20231004140000" stop="20231004153600" channel="cctv5plus">
+        <title lang="zh">中网男单决赛</title>
     </programme>
     <programme start="20231004153600" stop="20231004155900" channel="cctv5plus">
         <title lang="zh">国际足球赛场-23-24赛季德甲联赛第6轮 莱比锡—拜仁慕尼黑</title>
@@ -3927,16 +3927,16 @@
     <programme start="20231004133000" stop="20231004140000" channel="cctv13">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme start="20231004140000" stop="20231004143000" channel="cctv13">
+    <programme start="20231004140000" stop="20231004143200" channel="cctv13">
         <title lang="zh">2023吾家吾国-4</title>
     </programme>
-    <programme start="20231004143000" stop="20231004150000" channel="cctv13">
+    <programme start="20231004143200" stop="20231004150200" channel="cctv13">
         <title lang="zh">国际时讯</title>
     </programme>
-    <programme start="20231004150000" stop="20231004153000" channel="cctv13">
+    <programme start="20231004150200" stop="20231004153200" channel="cctv13">
         <title lang="zh">环球视线</title>
     </programme>
-    <programme start="20231004153000" stop="20231004155900" channel="cctv13">
+    <programme start="20231004153200" stop="20231004155900" channel="cctv13">
         <title lang="zh">24小时</title>
     </programme>
     <programme start="20231004160000" stop="20231004170000" channel="cctv13">
@@ -3951,10 +3951,10 @@
     <programme start="20231004173700" stop="20231004180000" channel="cctv13">
         <title lang="zh">法治在线</title>
     </programme>
-    <programme start="20231004180000" stop="20231004183000" channel="cctv13">
+    <programme start="20231004180000" stop="20231004182800" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20231004183000" stop="20231004190000" channel="cctv13">
+    <programme start="20231004182800" stop="20231004190000" channel="cctv13">
         <title lang="zh">2023吾家吾国-4</title>
     </programme>
     <programme start="20231004190000" stop="20231004194400" channel="cctv13">
@@ -4488,8 +4488,26 @@
     <programme start="20231004000000" stop="20231004010000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2023年亚洲乒乓球锦标赛 混双比赛</title>
     </programme>
-    <programme start="20231004010000" stop="20231004140500" channel="cctv16">
-        <title lang="zh">杭州亚运会-赛事报道 11</title>
+    <programme start="20231004010000" stop="20231004020000" channel="cctv16">
+        <title lang="zh">录像：杭州亚运会-3日田径决赛</title>
+    </programme>
+    <programme start="20231004020000" stop="20231004060000" channel="cctv16">
+        <title lang="zh">直播：杭州亚运会-羽毛球男单、女单第三轮、男双、女双、混双第二轮</title>
+    </programme>
+    <programme start="20231004060000" stop="20231004080000" channel="cctv16">
+        <title lang="zh">直播：杭州亚运会-亚运拳击比赛</title>
+    </programme>
+    <programme start="20231004080000" stop="20231004093000" channel="cctv16">
+        <title lang="zh">录像：杭州亚运会-女篮半决赛 朝鲜队-中国队</title>
+    </programme>
+    <programme start="20231004093000" stop="20231004102500" channel="cctv16">
+        <title lang="zh">直播：杭州亚运会-跳水女子3米板决赛</title>
+    </programme>
+    <programme start="20231004102500" stop="20231004113000" channel="cctv16">
+        <title lang="zh">录像：杭州亚运会-4日龙舟赛</title>
+    </programme>
+    <programme start="20231004113000" stop="20231004140500" channel="cctv16">
+        <title lang="zh">直播：杭州亚运会-跳水男子10米台决赛</title>
     </programme>
     <programme start="20231004140500" stop="20231004150500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2023年世界举重锦标赛  女子87公斤级决赛</title>
