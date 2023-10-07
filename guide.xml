@@ -1551,17 +1551,23 @@
     <programme start="20231008043000" stop="20231008100000" channel="cctv5">
         <title lang="zh">杭州亚运会-赛事直播15-2</title>
     </programme>
-    <programme start="20231008100000" stop="20231008120000" channel="cctv5">
+    <programme start="20231008100000" stop="20231008115500" channel="cctv5">
         <title lang="zh">杭州亚运会 闭幕式特别节目</title>
     </programme>
-    <programme start="20231008120000" stop="20231008140500" channel="cctv5">
+    <programme start="20231008115500" stop="20231008132200" channel="cctv5">
         <title lang="zh">杭州亚运会- 闭幕式</title>
     </programme>
-    <programme start="20231008140500" stop="20231008144000" channel="cctv5">
+    <programme start="20231008132200" stop="20231008135700" channel="cctv5">
         <title lang="zh">体育世界-全景亚运会</title>
     </programme>
-    <programme start="20231008144000" stop="20231008155900" channel="cctv5">
-        <title lang="zh">实况录像-2023年中国网球公开赛  女单决赛（录播）</title>
+    <programme start="20231008135700" stop="20231008153000" channel="cctv5">
+        <title lang="zh">实况录像（奥林匹克）-杭州亚运会 乒乓球男团决赛（4K）</title>
+    </programme>
+    <programme start="20231008153000" stop="20231008155900" channel="cctv5">
+        <title lang="zh">实况录像-2023年世界田联钻石联赛</title>
+    </programme>
+    <programme start="20231008160000" stop="20231008161000" channel="cctv5">
+        <title lang="zh">实况录像（奥林匹克）-2023年世界泳联锦标赛 中国游泳队比赛集锦</title>
     </programme>
     <programme start="20231008161000" stop="20231008174000" channel="cctv5">
         <title lang="zh">实况录像（奥林匹克）-2023年世界田径锦标赛5（4K）</title>
@@ -1692,13 +1698,16 @@
     <programme start="20231008090500" stop="20231008100000" channel="cctv5plus">
         <title lang="zh">实况录像-2023年世界职业拳王争霸赛 12</title>
     </programme>
-    <programme start="20231008100000" stop="20231008120000" channel="cctv5plus">
+    <programme start="20231008100000" stop="20231008115500" channel="cctv5plus">
         <title lang="zh">实况录像-2023年世界体操锦标赛  男子团体决赛</title>
     </programme>
-    <programme start="20231008120000" stop="20231008140500" channel="cctv5plus">
+    <programme start="20231008115500" stop="20231008132300" channel="cctv5plus">
         <title lang="zh">杭州亚运会-  闭幕式</title>
     </programme>
-    <programme start="20231008140500" stop="20231008155900" channel="cctv5plus">
+    <programme start="20231008132300" stop="20231008141000" channel="cctv5plus">
+        <title lang="zh">实况录像（奥林匹克）-2023年世界泳联锦标赛</title>
+    </programme>
+    <programme start="20231008141000" stop="20231008155900" channel="cctv5plus">
         <title lang="zh">2023年世界体操锦标赛-个人单项决赛2</title>
     </programme>
     <programme start="20231008160500" stop="20231008170100" channel="cctv5plus">
@@ -4507,25 +4516,31 @@
         <title lang="zh">实况录像（奥林匹克）-2023年世界田联钻石联赛 尤金站 2</title>
     </programme>
     <programme start="20231008055000" stop="20231008072000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2023年中国羽毛球公开赛 1</title>
+        <title lang="zh">实况录像（奥林匹克）-2023年国际排联巴黎奥运会女排资格赛 中国站 中国队-捷克队（4K）</title>
     </programme>
     <programme start="20231008072000" stop="20231008081000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2023年世界泳联锦标赛 游泳比赛1</title>
     </programme>
     <programme start="20231008081000" stop="20231008094000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2023年国际排联巴黎奥运会女排资格赛 中国站 中国队-捷克队</title>
+        <title lang="zh">实况录像（奥林匹克）-2023年中国羽毛球公开赛 1（4K）</title>
     </programme>
-    <programme start="20231008094000" stop="20231008101000" channel="cctv16">
+    <programme start="20231008094000" stop="20231008100700" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2023年世界田径锦标赛 25分钟版</title>
     </programme>
-    <programme start="20231008101000" stop="20231008114000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2023年亚洲乒乓球锦标赛 男团决赛</title>
+    <programme start="20231008100700" stop="20231008113300" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2023年亚洲乒乓球锦标赛 双打比赛（4K）</title>
     </programme>
-    <programme start="20231008114000" stop="20231008120000" channel="cctv16">
+    <programme start="20231008113300" stop="20231008115500" channel="cctv16">
         <title lang="zh">艺术里的奥林匹克-2023-81</title>
     </programme>
-    <programme start="20231008120000" stop="20231008140500" channel="cctv16">
+    <programme start="20231008115500" stop="20231008132200" channel="cctv16">
         <title lang="zh">杭州亚运会-闭幕式</title>
+    </programme>
+    <programme start="20231008132200" stop="20231008135000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2023年世界田联钻石联赛 厦门站25分钟版（4K）</title>
+    </programme>
+    <programme start="20231008135000" stop="20231008140500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2023年世界泳联锦标赛 中国队游泳比赛10分钟版2（4K）</title>
     </programme>
     <programme start="20231008140500" stop="20231008150500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2023年世界举重锦标赛  女子81公斤级决赛</title>
