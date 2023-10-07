@@ -3672,11 +3672,11 @@
     <programme start="20231007193700" stop="20231007200000" channel="cctv13">
         <title lang="zh">军情时间到</title>
     </programme>
-    <programme start="20231007200000" stop="20231007201500" channel="cctv13">
+    <programme start="20231007200000" stop="20231007202900" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20231007201500" stop="20231007210000" channel="cctv13">
-        <title lang="zh">新闻周刊</title>
+    <programme start="20231007202900" stop="20231007210000" channel="cctv13">
+        <title lang="zh">2023吾家吾国-7</title>
     </programme>
     <programme start="20231007210000" stop="20231007211200" channel="cctv13">
         <title lang="zh">新闻直播间</title>
@@ -3687,11 +3687,8 @@
     <programme start="20231007220000" stop="20231008010000" channel="cctv13">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme start="20231008010000" stop="20231008011200" channel="cctv13">
+    <programme start="20231008010000" stop="20231008020000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme start="20231008011200" stop="20231008020000" channel="cctv13">
-        <title lang="zh">新闻周刊</title>
     </programme>
     <programme start="20231008020000" stop="20231008030000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
@@ -4107,23 +4104,29 @@
     <programme start="20231008001700" stop="20231008013100" channel="cctv15">
         <title lang="zh">一起音乐吧-2023-47 美丽中国我的家</title>
     </programme>
-    <programme start="20231008013100" stop="20231008021100" channel="cctv15">
+    <programme start="20231008013100" stop="20231008020900" channel="cctv15">
         <title lang="zh">风华国乐-2023-295</title>
     </programme>
-    <programme start="20231008021100" stop="20231008032500" channel="cctv15">
+    <programme start="20231008020900" stop="20231008021200" channel="cctv15">
+        <title lang="zh">杭州亚运会主题歌曲《美丽亚细亚 好大一个家》-4</title>
+    </programme>
+    <programme start="20231008021200" stop="20231008032600" channel="cctv15">
         <title lang="zh">民歌·中国-2023-144吉祥欢歌2</title>
     </programme>
-    <programme start="20231008032500" stop="20231008044000" channel="cctv15">
+    <programme start="20231008032600" stop="20231008044100" channel="cctv15">
         <title lang="zh">精彩音乐汇-2023-271</title>
     </programme>
-    <programme start="20231008044000" stop="20231008055300" channel="cctv15">
+    <programme start="20231008044100" stop="20231008055200" channel="cctv15">
         <title lang="zh">乐游天下-2023-44 江山如画-系列交响音乐会-哈尔滨场</title>
     </programme>
-    <programme start="20231008055300" stop="20231008062700" channel="cctv15">
+    <programme start="20231008055200" stop="20231008062600" channel="cctv15">
         <title lang="zh">乐游天下-2023-38 宅兹中国-文字之都豫华章1</title>
     </programme>
-    <programme start="20231008062700" stop="20231008070600" channel="cctv15">
+    <programme start="20231008062600" stop="20231008070300" channel="cctv15">
         <title lang="zh">乐游天下-2023-39 宅兹中国-文字之都豫华章2</title>
+    </programme>
+    <programme start="20231008070300" stop="20231008070600" channel="cctv15">
+        <title lang="zh">杭州亚运会主题歌曲《TO WIN》-6</title>
     </programme>
     <programme start="20231008070600" stop="20231008082000" channel="cctv15">
         <title lang="zh">合唱先锋2023-47</title>
@@ -4131,10 +4134,13 @@
     <programme start="20231008082000" stop="20231008085900" channel="cctv15">
         <title lang="zh">风华国乐-2023-295</title>
     </programme>
-    <programme start="20231008085900" stop="20231008101300" channel="cctv15">
+    <programme start="20231008085900" stop="20231008101100" channel="cctv15">
         <title lang="zh">民歌·中国-2023-145吉祥欢歌3</title>
     </programme>
-    <programme start="20231008101300" stop="20231008113000" channel="cctv15">
+    <programme start="20231008101100" stop="20231008101500" channel="cctv15">
+        <title lang="zh">杭州亚运会主题歌曲《同爱同在》-7</title>
+    </programme>
+    <programme start="20231008101500" stop="20231008113000" channel="cctv15">
         <title lang="zh">精彩音乐汇-2023-270</title>
     </programme>
     <programme start="20231008113000" stop="20231008124100" channel="cctv15">
@@ -5288,6 +5294,60 @@
     </programme>
     <programme start="20231008120000" stop="20231008155900" channel="btvchild">
         <title lang="zh">动画片</title>
+    </programme>
+    <programme start="20231008213300" stop="20231008213600" channel="btvchild">
+        <title lang="zh">来吧看我中华文明</title>
+    </programme>
+    <programme start="20231008213600" stop="20231008215600" channel="btvchild">
+        <title lang="zh">动画片</title>
+    </programme>
+    <programme start="20231008215600" stop="20231008220000" channel="btvchild">
+        <title lang="zh">来吧看我中华文明</title>
+    </programme>
+    <programme start="20231008220000" stop="20231008232500" channel="btvchild">
+        <title lang="zh">卡酷起床号</title>
+    </programme>
+    <programme start="20231008232500" stop="20231008232700" channel="btvchild">
+        <title lang="zh">来吧看我中华文明</title>
+    </programme>
+    <programme start="20231008232700" stop="20231009003200" channel="btvchild">
+        <title lang="zh">卡酷起床号</title>
+    </programme>
+    <programme start="20231009003200" stop="20231009005300" channel="btvchild">
+        <title lang="zh">卡小酷剧场</title>
+    </programme>
+    <programme start="20231009005300" stop="20231009005900" channel="btvchild">
+        <title lang="zh">七色光</title>
+    </programme>
+    <programme start="20231009005900" stop="20231009065900" channel="btvchild">
+        <title lang="zh">卡小酷剧场</title>
+    </programme>
+    <programme start="20231009065900" stop="20231009085900" channel="btvchild">
+        <title lang="zh">卡小酷剧场</title>
+    </programme>
+    <programme start="20231009085900" stop="20231009092700" channel="btvchild">
+        <title lang="zh">卡酷动物园</title>
+    </programme>
+    <programme start="20231009092700" stop="20231009092900" channel="btvchild">
+        <title lang="zh">大玩家</title>
+    </programme>
+    <programme start="20231009092900" stop="20231009120500" channel="btvchild">
+        <title lang="zh">卡卡牛剧场</title>
+    </programme>
+    <programme start="20231009120500" stop="20231009121400" channel="btvchild">
+        <title lang="zh">大玩家</title>
+    </programme>
+    <programme start="20231009121400" stop="20231009125800" channel="btvchild">
+        <title lang="zh">卡卡牛剧场</title>
+    </programme>
+    <programme start="20231009125800" stop="20231009153800" channel="btvchild">
+        <title lang="zh">2KAU剧场</title>
+    </programme>
+    <programme start="20231009153800" stop="20231009154000" channel="btvchild">
+        <title lang="zh">来吧看我中华文明</title>
+    </programme>
+    <programme start="20231009154000" stop="20231009155900" channel="btvchild">
+        <title lang="zh">2KAU剧场</title>
     </programme>
     <programme start="20231006160000" stop="20231006161900" channel="btvjishi">
         <title lang="zh">律师帮帮忙</title>
