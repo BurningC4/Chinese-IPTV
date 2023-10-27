@@ -516,16 +516,16 @@
     <programme start="20231028110000" stop="20231028113900" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20231028113900" stop="20231028120200" channel="cctv1">
+    <programme start="20231028113900" stop="20231028120100" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20231028120200" stop="20231028120600" channel="cctv1">
+    <programme start="20231028120100" stop="20231028120600" channel="cctv1">
         <title lang="zh">前情提要- 《珠江人家》第18集</title>
     </programme>
-    <programme start="20231028120600" stop="20231028125700" channel="cctv1">
+    <programme start="20231028120600" stop="20231028125800" channel="cctv1">
         <title lang="zh">珠江人家18/35</title>
     </programme>
-    <programme start="20231028125700" stop="20231028130100" channel="cctv1">
+    <programme start="20231028125800" stop="20231028130100" channel="cctv1">
         <title lang="zh">前情提要- 《珠江人家》第19集</title>
     </programme>
     <programme start="20231028130100" stop="20231028140000" channel="cctv1">
@@ -1056,23 +1056,26 @@
     <programme start="20231027174600" stop="20231027183700" channel="cctv3">
         <title lang="zh">我的艺术清单-2023国庆展播-4</title>
     </programme>
-    <programme start="20231027183700" stop="20231027202300" channel="cctv3">
+    <programme start="20231027183700" stop="20231027201100" channel="cctv3">
         <title lang="zh">诗画中国-3</title>
     </programme>
-    <programme start="20231027202300" stop="20231027214900" channel="cctv3">
-        <title lang="zh">一馔千年2023-6</title>
+    <programme start="20231027201100" stop="20231027214400" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2022-705 典籍里的中国第一季 论语</title>
     </programme>
-    <programme start="20231027214900" stop="20231027224100" channel="cctv3">
-        <title lang="zh">综艺盛典-2023-18来故居听书6</title>
+    <programme start="20231027214400" stop="20231027222500" channel="cctv3">
+        <title lang="zh">综艺盛典-2023-22来故居听书10</title>
     </programme>
-    <programme start="20231027224100" stop="20231027225200" channel="cctv3">
+    <programme start="20231027222500" stop="20231027230600" channel="cctv3">
+        <title lang="zh">综艺盛典-2023-23来故居听书11</title>
+    </programme>
+    <programme start="20231027230600" stop="20231027231800" channel="cctv3">
         <title lang="zh">文化十分-2023-222</title>
     </programme>
-    <programme start="20231027225200" stop="20231028001200" channel="cctv3">
-        <title lang="zh">向幸福出发-2023-41</title>
+    <programme start="20231027231800" stop="20231028001100" channel="cctv3">
+        <title lang="zh">我的艺术清单-2023-33</title>
     </programme>
-    <programme start="20231028001200" stop="20231028010600" channel="cctv3">
-        <title lang="zh">幸福账单-2023-40</title>
+    <programme start="20231028001100" stop="20231028010600" channel="cctv3">
+        <title lang="zh">艺览天下-2022-34</title>
     </programme>
     <programme start="20231028010600" stop="20231028022400" channel="cctv3">
         <title lang="zh">原声天籁——中国民歌盛典-2</title>
@@ -1617,10 +1620,10 @@
     <programme start="20231027110000" stop="20231027113000" channel="cctv5">
         <title lang="zh">实况录像-杭州亚运会 赛艇比赛（录播）</title>
     </programme>
-    <programme start="20231027113000" stop="20231027133000" channel="cctv5">
+    <programme start="20231027113000" stop="20231027134000" channel="cctv5">
         <title lang="zh">2023/2024赛季中国男子篮球职业联赛常规赛-第3轮（山西汾酒 -辽宁本钢）</title>
     </programme>
-    <programme start="20231027133000" stop="20231027140500" channel="cctv5">
+    <programme start="20231027134000" stop="20231027140500" channel="cctv5">
         <title lang="zh">体育世界</title>
     </programme>
     <programme start="20231027140500" stop="20231027153500" channel="cctv5">
@@ -1644,17 +1647,11 @@
     <programme start="20231027200000" stop="20231027220000" channel="cctv5">
         <title lang="zh">实况录像-2022/2023赛季世界斯诺克锦标赛 1</title>
     </programme>
-    <programme start="20231027220000" stop="20231027233000" channel="cctv5">
+    <programme start="20231027220000" stop="20231027232400" channel="cctv5">
         <title lang="zh">实况录像-2023/2024赛季中国男子篮球职业联赛 常规赛 第一轮 2</title>
     </programme>
-    <programme start="20231027233000" stop="20231028000000" channel="cctv5">
-        <title lang="zh">健身动起来</title>
-    </programme>
-    <programme start="20231028000000" stop="20231028003000" channel="cctv5">
-        <title lang="zh">实况录像-2023年世界自行车锦标赛  小轮车决赛 1</title>
-    </programme>
-    <programme start="20231028003000" stop="20231028020000" channel="cctv5">
-        <title lang="zh">实况录像-2023年世界体操锦标赛   个人单项决赛  3</title>
+    <programme start="20231027232400" stop="20231028020000" channel="cctv5">
+        <title lang="zh">现场直播-2023年光谷马拉松</title>
     </programme>
     <programme start="20231028020000" stop="20231028043000" channel="cctv5">
         <title lang="zh">2023/2024赛季美国职业篮球联赛-常规赛（勇士-国王）</title>
@@ -1680,13 +1677,22 @@
     <programme start="20231028100000" stop="20231028103600" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20231028103600" stop="20231028120000" channel="cctv5">
+    <programme start="20231028103600" stop="20231028112900" channel="cctv5">
         <title lang="zh">实况录像-杭州第4届亚洲残疾人运动会  比赛</title>
     </programme>
-    <programme start="20231028120000" stop="20231028140500" channel="cctv5">
-        <title lang="zh">杭州第4届亚洲残疾人运动会- 闭幕式</title>
+    <programme start="20231028112900" stop="20231028123200" channel="cctv5">
+        <title lang="zh">杭州第4届亚洲残疾人运动会-闭幕式</title>
     </programme>
-    <programme start="20231028140500" stop="20231028155900" channel="cctv5">
+    <programme start="20231028123200" stop="20231028124700" channel="cctv5">
+        <title lang="zh">实况录像（奥林匹克）-2023年世界泳联锦标赛 花样游泳 1（4K）</title>
+    </programme>
+    <programme start="20231028124700" stop="20231028130200" channel="cctv5">
+        <title lang="zh">实况录像（奥林匹克）-2023年世界泳联锦标赛 花样游泳 2（4K）</title>
+    </programme>
+    <programme start="20231028130200" stop="20231028135500" channel="cctv5">
+        <title lang="zh">实况录像-2023年世界泳联游泳世界杯  柏林站  1</title>
+    </programme>
+    <programme start="20231028135500" stop="20231028155900" channel="cctv5">
         <title lang="zh">2023/2024英格兰足球超级联赛-第10轮（阿森纳—谢菲尔德联）</title>
     </programme>
     <programme start="20231028161000" stop="20231028170500" channel="cctv5">
@@ -1701,19 +1707,13 @@
     <programme start="20231028200000" stop="20231028220000" channel="cctv5">
         <title lang="zh">实况录像-2022/2023赛季世界斯诺克锦标赛 2</title>
     </programme>
-    <programme start="20231028220000" stop="20231028233000" channel="cctv5">
+    <programme start="20231028220000" stop="20231028232400" channel="cctv5">
         <title lang="zh">实况录像-2023/2024赛季中国男子篮球职业联赛 常规赛 第二轮 1</title>
     </programme>
-    <programme start="20231028233000" stop="20231029000000" channel="cctv5">
-        <title lang="zh">健身动起来</title>
+    <programme start="20231028232400" stop="20231029021000" channel="cctv5">
+        <title lang="zh">现场直播-2023年北京马拉松</title>
     </programme>
-    <programme start="20231029000000" stop="20231029003000" channel="cctv5">
-        <title lang="zh">实况录像-2023年世界自行车锦标赛  小轮车决赛 2</title>
-    </programme>
-    <programme start="20231029003000" stop="20231029020000" channel="cctv5">
-        <title lang="zh">实况录像-2023年全国举重冠军赛  男子109公斤以上级（录播）</title>
-    </programme>
-    <programme start="20231029020000" stop="20231029043000" channel="cctv5">
+    <programme start="20231029021000" stop="20231029043000" channel="cctv5">
         <title lang="zh">2023/2024赛季美国职业篮球联赛-常规赛（爵士-太阳）</title>
     </programme>
     <programme start="20231029043000" stop="20231029050500" channel="cctv5">
