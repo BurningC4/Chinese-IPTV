@@ -504,19 +504,19 @@
     <programme start="20240124110000" stop="20240124113900" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20240124113900" stop="20240124120200" channel="cctv1">
+    <programme start="20240124113900" stop="20240124120100" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20240124120200" stop="20240124120600" channel="cctv1">
+    <programme start="20240124120100" stop="20240124120600" channel="cctv1">
         <title lang="zh">前情提要- 《大江大河之岁月如歌》第21集</title>
     </programme>
-    <programme start="20240124120600" stop="20240124125800" channel="cctv1">
+    <programme start="20240124120600" stop="20240124125700" channel="cctv1">
         <title lang="zh">大江大河之岁月如歌-高清文件（一套版）-第21集</title>
     </programme>
-    <programme start="20240124125800" stop="20240124130000" channel="cctv1">
+    <programme start="20240124125700" stop="20240124130100" channel="cctv1">
         <title lang="zh">前情提要- 《大江大河之岁月如歌》第22集</title>
     </programme>
-    <programme start="20240124130000" stop="20240124140000" channel="cctv1">
+    <programme start="20240124130100" stop="20240124140000" channel="cctv1">
         <title lang="zh">大江大河之岁月如歌-高清文件（一套版）-第22集</title>
     </programme>
     <programme start="20240124140000" stop="20240124143500" channel="cctv1">
@@ -1701,8 +1701,14 @@
     <programme start="20240123233000" stop="20240124000000" channel="cctv5">
         <title lang="zh">健身动起来</title>
     </programme>
-    <programme start="20240124000000" stop="20240124040000" channel="cctv5">
-        <title lang="zh">2024年澳大利亚网球公开赛-1/4决赛2</title>
+    <programme start="20240124000000" stop="20240124003000" channel="cctv5">
+        <title lang="zh">实况录像（奥林匹克）-2024年青年冬季奥运会 速度滑冰比赛1（4K）</title>
+    </programme>
+    <programme start="20240124003000" stop="20240124023100" channel="cctv5">
+        <title lang="zh">实况录像-2023/2024赛季世界斯诺克巡回赛大师赛 2</title>
+    </programme>
+    <programme start="20240124023100" stop="20240124040000" channel="cctv5">
+        <title lang="zh">实况录像-2023/2024中国男子篮球职业联赛常规赛第34轮  九台农商银行—广东华南虎</title>
     </programme>
     <programme start="20240124040000" stop="20240124043500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
@@ -1719,29 +1725,29 @@
     <programme start="20240124065000" stop="20240124072000" channel="cctv5">
         <title lang="zh">实况录像（奥林匹克）-2024年青年冬季奥运会 短道速滑比赛2（4K）</title>
     </programme>
-    <programme start="20240124072000" stop="20240124082000" channel="cctv5">
+    <programme start="20240124072000" stop="20240124081500" channel="cctv5">
         <title lang="zh">2023/2024赛季单板滑雪世界杯- 瑞士莱克斯站 坡面障碍技巧决赛</title>
     </programme>
-    <programme start="20240124082000" stop="20240124083100" channel="cctv5">
-        <title lang="zh">实况录像-2023/2024赛季自由式滑雪世界杯芬兰卢卡站  男子空中技巧齐广璞夺冠</title>
-    </programme>
-    <programme start="20240124083100" stop="20240124100000" channel="cctv5">
-        <title lang="zh">实况录像-2023/2024中国男子篮球职业联赛常规赛第34轮  九台农商银行—广东华南虎</title>
+    <programme start="20240124081500" stop="20240124100000" channel="cctv5">
+        <title lang="zh">2024年澳大利亚网球公开赛-女单1/4决赛（卡琳斯卡娅-郑钦文）</title>
     </programme>
     <programme start="20240124100000" stop="20240124103500" channel="cctv5">
-        <title lang="zh">体育新闻</title>
+        <title lang="zh">体育新闻-2024.1.24</title>
     </programme>
-    <programme start="20240124103500" stop="20240124113000" channel="cctv5">
-        <title lang="zh">实况录像-2023/2024赛季四大洲速度滑冰锦标赛 2</title>
+    <programme start="20240124103500" stop="20240124110000" channel="cctv5">
+        <title lang="zh">实况录像（奥林匹克）-2024年青年冬季奥运会 短道速滑比赛2（4K）</title>
     </programme>
-    <programme start="20240124113000" stop="20240124134500" channel="cctv5">
-        <title lang="zh">2023/2024赛季中国男子篮球职业联赛常规赛-第34轮（深圳马可波罗-辽宁本钢）</title>
+    <programme start="20240124110000" stop="20240124134000" channel="cctv5">
+        <title lang="zh">卡塔尔亚洲杯-小组赛D组（日本队-印度尼西亚队）</title>
     </programme>
-    <programme start="20240124134500" stop="20240124142000" channel="cctv5">
-        <title lang="zh">体育世界</title>
+    <programme start="20240124134000" stop="20240124141500" channel="cctv5">
+        <title lang="zh">体育世界-2024.1.24</title>
     </programme>
-    <programme start="20240124142000" stop="20240124155000" channel="cctv5">
+    <programme start="20240124141500" stop="20240124154000" channel="cctv5">
         <title lang="zh">实况录像-2023年世乒联女子总决赛 2</title>
+    </programme>
+    <programme start="20240124154000" stop="20240124155000" channel="cctv5">
+        <title lang="zh">实况录像-2023/2024赛季自由式滑雪世界杯芬兰卢卡站  男子空中技巧齐广璞夺冠</title>
     </programme>
     <programme start="20240124155000" stop="20240124155900" channel="cctv5">
         <title lang="zh">实况录像-2023/2024赛季自由式滑雪世界杯美国铜山站 U型场地谷爱凌夺冠</title>
@@ -1875,11 +1881,11 @@
     <programme start="20240123230000" stop="20240124010000" channel="cctv5plus">
         <title lang="zh">实况录像-2022/2023赛季世界斯诺克锦标赛 3</title>
     </programme>
-    <programme start="20240124010000" stop="20240124023000" channel="cctv5plus">
-        <title lang="zh">2023/2024赛季欧洲篮球联赛-第21轮（费内巴切—拜仁慕尼黑）</title>
+    <programme start="20240124010000" stop="20240124030500" channel="cctv5plus">
+        <title lang="zh">2024年澳大利亚网球公开赛-1/4决赛3</title>
     </programme>
-    <programme start="20240124023000" stop="20240124040000" channel="cctv5plus">
-        <title lang="zh">国际足球赛场-23-24赛季德甲联赛第18轮 拜仁慕尼黑—不来梅</title>
+    <programme start="20240124030500" stop="20240124040000" channel="cctv5plus">
+        <title lang="zh">实况录像-2023/2024赛季四大洲速度滑冰锦标赛 1</title>
     </programme>
     <programme start="20240124040000" stop="20240124053000" channel="cctv5plus">
         <title lang="zh">实况录像-2023/2024中国男子篮球职业联赛常规赛第34轮  九台农商银行—广东华南虎</title>
@@ -1893,14 +1899,17 @@
     <programme start="20240124070000" stop="20240124083000" channel="cctv5plus">
         <title lang="zh">国际足球赛场-23-24赛季英超联赛第21轮 埃弗顿—阿斯顿维拉</title>
     </programme>
-    <programme start="20240124083000" stop="20240124120500" channel="cctv5plus">
-        <title lang="zh">2024年澳大利亚网球公开赛-1/4决赛4</title>
-    </programme>
-    <programme start="20240124120500" stop="20240124123500" channel="cctv5plus">
-        <title lang="zh">赛事集锦-2023年世界蹦床锦标赛1</title>
-    </programme>
-    <programme start="20240124123500" stop="20240124140500" channel="cctv5plus">
+    <programme start="20240124083000" stop="20240124100000" channel="cctv5plus">
         <title lang="zh">实况录像-2023年世乒联女子总决赛 3</title>
+    </programme>
+    <programme start="20240124100000" stop="20240124113000" channel="cctv5plus">
+        <title lang="zh">国际足球赛场-23-24赛季德甲联赛第18轮 拜仁慕尼黑—不来梅</title>
+    </programme>
+    <programme start="20240124113000" stop="20240124135000" channel="cctv5plus">
+        <title lang="zh">2023/2024赛季中国男子篮球职业联赛-常规赛第34轮（深圳马可波罗—辽宁本钢）</title>
+    </programme>
+    <programme start="20240124135000" stop="20240124140500" channel="cctv5plus">
+        <title lang="zh">实况录像-2023/2024赛季世界斯诺克大师赛 丁俊晖的147</title>
     </programme>
     <programme start="20240124140500" stop="20240124150000" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2024年青年冬季奥运会 速度滑冰比赛2（4K）</title>
