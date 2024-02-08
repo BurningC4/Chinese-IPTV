@@ -804,13 +804,13 @@
     <programme start="20240210030400" stop="20240210033000" channel="cctv2">
         <title lang="zh">2023精品财经纪录-边城好味-2</title>
     </programme>
-    <programme start="20240210033000" stop="20240210080200" channel="cctv2">
-        <title lang="zh">2024年春节联欢晚会-完整版</title>
+    <programme start="20240210033000" stop="20240210081000" channel="cctv2">
+        <title lang="zh">2024年春节联欢晚会-重播</title>
     </programme>
-    <programme start="20240210080200" stop="20240210080600" channel="cctv2">
+    <programme start="20240210081000" stop="20240210081400" channel="cctv2">
         <title lang="zh">周末特供2024-大河之洲1-3分版</title>
     </programme>
-    <programme start="20240210080600" stop="20240210082600" channel="cctv2">
+    <programme start="20240210081400" stop="20240210082600" channel="cctv2">
         <title lang="zh">周末特供2024-28</title>
     </programme>
     <programme start="20240210082600" stop="20240210083200" channel="cctv2">
@@ -832,7 +832,7 @@
         <title lang="zh">欢乐大猜想-2024-6</title>
     </programme>
     <programme start="20240210113000" stop="20240210155900" channel="cctv2">
-        <title lang="zh">2024年春节联欢晚会-完整版</title>
+        <title lang="zh">2024年春节联欢晚会-重播</title>
     </programme>
     <programme start="20240207160700" stop="20240207165400" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-143 心想事成30/36</title>
@@ -1257,11 +1257,11 @@
     <programme start="20240209223200" stop="20240209225900" channel="cctv4">
         <title lang="zh">人类的记忆-中国的世界遗产-78</title>
     </programme>
-    <programme start="20240209225900" stop="20240210003000" channel="cctv4">
-        <title lang="zh">2023年经典之夜-年度盛典（一套）</title>
-    </programme>
-    <programme start="20240210003000" stop="20240210010000" channel="cctv4">
+    <programme start="20240209225900" stop="20240209232900" channel="cctv4">
         <title lang="zh">海峡两岸-2024-40</title>
+    </programme>
+    <programme start="20240209232900" stop="20240210010000" channel="cctv4">
+        <title lang="zh">2023年经典之夜-年度盛典（一套）</title>
     </programme>
     <programme start="20240210010000" stop="20240210040000" channel="cctv4">
         <title lang="zh">2024年春节联欢晚会-重播</title>
@@ -4578,11 +4578,29 @@
     <programme start="20240210040000" stop="20240210043000" channel="cctv17">
         <title lang="zh">谁知盘中餐-2024-26</title>
     </programme>
-    <programme start="20240210043000" stop="20240210090800" channel="cctv17">
-        <title lang="zh">2024年春节联欢晚会-完整版</title>
+    <programme start="20240210043000" stop="20240210051500" channel="cctv17">
+        <title lang="zh">2024年春节联欢晚会-（初一）直送1</title>
+    </programme>
+    <programme start="20240210051500" stop="20240210060200" channel="cctv17">
+        <title lang="zh">2024年春节联欢晚会-（初一）直送2</title>
+    </programme>
+    <programme start="20240210060200" stop="20240210064900" channel="cctv17">
+        <title lang="zh">2024年春节联欢晚会-（初一）直送3</title>
+    </programme>
+    <programme start="20240210064900" stop="20240210073400" channel="cctv17">
+        <title lang="zh">2024年春节联欢晚会-（初一）直送4</title>
+    </programme>
+    <programme start="20240210073400" stop="20240210080600" channel="cctv17">
+        <title lang="zh">2024年春节联欢晚会-（初一）直送5</title>
+    </programme>
+    <programme start="20240210080600" stop="20240210083600" channel="cctv17">
+        <title lang="zh">2024年春节联欢晚会-（初一）直送6</title>
+    </programme>
+    <programme start="20240210083600" stop="20240210090800" channel="cctv17">
+        <title lang="zh">2024年春节联欢晚会-（初一）直送7</title>
     </programme>
     <programme start="20240210090800" stop="20240210091700" channel="cctv17">
-        <title lang="zh">乡土中国-新年画画新年-5</title>
+        <title lang="zh">2024年春节联欢晚会-（初一）直送8</title>
     </programme>
     <programme start="20240210091700" stop="20240210094400" channel="cctv17">
         <title lang="zh">共富经-2024-22</title>
@@ -9567,29 +9585,44 @@
     <programme start="20240208081400" stop="20240208090600" channel="henan">
         <title lang="zh">电视剧</title>
     </programme>
-    <programme start="20240208090600" stop="20240208101700" channel="henan">
+    <programme start="20240208090600" stop="20240208095500" channel="henan">
         <title lang="zh">电视剧</title>
     </programme>
-    <programme start="20240208101700" stop="20240208103000" channel="henan">
-        <title lang="zh">成语里的中国2(4)</title>
+    <programme start="20240208095500" stop="20240208102200" channel="henan">
+        <title lang="zh">聚焦中原</title>
     </programme>
-    <programme start="20240208103000" stop="20240208110000" channel="henan">
+    <programme start="20240208102200" stop="20240208103000" channel="henan">
+        <title lang="zh">河南天气预报</title>
+    </programme>
+    <programme start="20240208103000" stop="20240208105200" channel="henan">
         <title lang="zh">河南新闻联播</title>
     </programme>
-    <programme start="20240208110000" stop="20240208113700" channel="henan">
-        <title lang="zh">转播中央台新闻联播</title>
+    <programme start="20240208105200" stop="20240208110000" channel="henan">
+        <title lang="zh">河南天气预报</title>
     </programme>
-    <programme start="20240208113700" stop="20240208131500" channel="henan">
-        <title lang="zh">福森之春庆典晚会</title>
+    <programme start="20240208110000" stop="20240208113300" channel="henan">
+        <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20240208131500" stop="20240208153000" channel="henan">
-        <title lang="zh">更上一层楼2024黄河民歌春晚</title>
+    <programme start="20240208113300" stop="20240208122200" channel="henan">
+        <title lang="zh">电视剧</title>
     </programme>
-    <programme start="20240208153000" stop="20240208154300" channel="henan">
-        <title lang="zh">河南晚间报道</title>
+    <programme start="20240208122200" stop="20240208131300" channel="henan">
+        <title lang="zh">电视剧</title>
     </programme>
-    <programme start="20240208154300" stop="20240208155900" channel="henan">
-        <title lang="zh">晚间剧场:零炮楼(5)</title>
+    <programme start="20240208131300" stop="20240208140000" channel="henan">
+        <title lang="zh">华豫之门</title>
+    </programme>
+    <programme start="20240208140000" stop="20240208144000" channel="henan">
+        <title lang="zh">晚间剧场</title>
+    </programme>
+    <programme start="20240208144000" stop="20240208150900" channel="henan">
+        <title lang="zh">晚间剧场</title>
+    </programme>
+    <programme start="20240208150900" stop="20240208155200" channel="henan">
+        <title lang="zh">晚间剧场</title>
+    </programme>
+    <programme start="20240208155200" stop="20240208155900" channel="henan">
+        <title lang="zh">武林风精编版</title>
     </programme>
     <programme start="20240208161300" stop="20240208170900" channel="henan">
         <title lang="zh">武林风</title>
@@ -10410,11 +10443,11 @@
     <programme start="20240208082400" stop="20240208090600" channel="jiangsu">
         <title lang="zh">下午剧场</title>
     </programme>
-    <programme start="20240208090600" stop="20240208095300" channel="jiangsu">
+    <programme start="20240208090600" stop="20240208094700" channel="jiangsu">
         <title lang="zh">下午剧场</title>
     </programme>
-    <programme start="20240208095300" stop="20240208100000" channel="jiangsu">
-        <title lang="zh">幸福合家欢之画龙点睛</title>
+    <programme start="20240208094700" stop="20240208100000" channel="jiangsu">
+        <title lang="zh">无声的功勋</title>
     </programme>
     <programme start="20240208100000" stop="20240208103000" channel="jiangsu">
         <title lang="zh">新闻眼</title>
@@ -10650,10 +10683,10 @@
     <programme start="20240208083700" stop="20240208093300" channel="jiangxi">
         <title lang="zh">电视剧</title>
     </programme>
-    <programme start="20240208093300" stop="20240208101600" channel="jiangxi">
+    <programme start="20240208093300" stop="20240208101700" channel="jiangxi">
         <title lang="zh">电视剧</title>
     </programme>
-    <programme start="20240208101600" stop="20240208103000" channel="jiangxi">
+    <programme start="20240208101700" stop="20240208103000" channel="jiangxi">
         <title lang="zh">社会传真</title>
     </programme>
     <programme start="20240208103000" stop="20240208105000" channel="jiangxi">
@@ -10662,11 +10695,29 @@
     <programme start="20240208105000" stop="20240208110000" channel="jiangxi">
         <title lang="zh">江西天气预报</title>
     </programme>
-    <programme start="20240208110000" stop="20240208120000" channel="jiangxi">
+    <programme start="20240208110000" stop="20240208113400" channel="jiangxi">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20240208120000" stop="20240208155900" channel="jiangxi">
-        <title lang="zh">转播央视2024年春节联欢晚会</title>
+    <programme start="20240208113400" stop="20240208122600" channel="jiangxi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240208122600" stop="20240208132000" channel="jiangxi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240208132000" stop="20240208133900" channel="jiangxi">
+        <title lang="zh">1927・十日</title>
+    </programme>
+    <programme start="20240208133900" stop="20240208140600" channel="jiangxi">
+        <title lang="zh">传奇故事</title>
+    </programme>
+    <programme start="20240208140600" stop="20240208144400" channel="jiangxi">
+        <title lang="zh">金牌调解</title>
+    </programme>
+    <programme start="20240208144400" stop="20240208152300" channel="jiangxi">
+        <title lang="zh">新闻夜航</title>
+    </programme>
+    <programme start="20240208152300" stop="20240208155900" channel="jiangxi">
+        <title lang="zh">电视剧</title>
     </programme>
     <programme start="20240208174600" stop="20240208185900" channel="jiangxi">
         <title lang="zh">传奇影院</title>
@@ -10938,17 +10989,11 @@
     <programme start="20240208085100" stop="20240208095700" channel="jilin">
         <title lang="zh">欢乐送</title>
     </programme>
-    <programme start="20240208095700" stop="20240208101200" channel="jilin">
+    <programme start="20240208095700" stop="20240208101400" channel="jilin">
         <title lang="zh">情动十分</title>
     </programme>
-    <programme start="20240208101200" stop="20240208101400" channel="jilin">
+    <programme start="20240208101400" stop="20240208102300" channel="jilin">
         <title lang="zh">吉林体彩</title>
-    </programme>
-    <programme start="20240208101400" stop="20240208102200" channel="jilin">
-        <title lang="zh">吉林体彩</title>
-    </programme>
-    <programme start="20240208102200" stop="20240208102300" channel="jilin">
-        <title lang="zh">天气预报</title>
     </programme>
     <programme start="20240208102300" stop="20240208103000" channel="jilin">
         <title lang="zh">吉林天气预报</title>
@@ -10956,32 +11001,23 @@
     <programme start="20240208103000" stop="20240208110000" channel="jilin">
         <title lang="zh">吉林新闻联播</title>
     </programme>
-    <programme start="20240208110000" stop="20240208113400" channel="jilin">
-        <title lang="zh">转播中央台新闻联播</title>
+    <programme start="20240208110000" stop="20240208113300" channel="jilin">
+        <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20240208113400" stop="20240208122200" channel="jilin">
-        <title lang="zh">黄金剧场:妈妈在等你(15)</title>
+    <programme start="20240208113300" stop="20240208122400" channel="jilin">
+        <title lang="zh">电视剧</title>
     </programme>
-    <programme start="20240208122200" stop="20240208130900" channel="jilin">
-        <title lang="zh">黄金剧场:妈妈在等你(16)</title>
+    <programme start="20240208122400" stop="20240208131000" channel="jilin">
+        <title lang="zh">电视剧</title>
     </programme>
-    <programme start="20240208130900" stop="20240208135700" channel="jilin">
-        <title lang="zh">2024吉视春晚精编(1)</title>
+    <programme start="20240208131000" stop="20240208152500" channel="jilin">
+        <title lang="zh">欢乐东北风</title>
     </programme>
-    <programme start="20240208135700" stop="20240208143800" channel="jilin">
-        <title lang="zh">2024吉视春晚精编(2)</title>
-    </programme>
-    <programme start="20240208143800" stop="20240208152100" channel="jilin">
-        <title lang="zh">2024吉视春晚精编(3)</title>
-    </programme>
-    <programme start="20240208152100" stop="20240208154300" channel="jilin">
-        <title lang="zh">欢乐送</title>
-    </programme>
-    <programme start="20240208154300" stop="20240208155800" channel="jilin">
+    <programme start="20240208152500" stop="20240208155500" channel="jilin">
         <title lang="zh">今晚</title>
     </programme>
-    <programme start="20240208155800" stop="20240208155900" channel="jilin">
-        <title lang="zh">情满九道弯(39)</title>
+    <programme start="20240208155500" stop="20240208155900" channel="jilin">
+        <title lang="zh">欢乐送:开心十分</title>
     </programme>
     <programme start="20240208201900" stop="20240208205000" channel="jilin">
         <title lang="zh">电视剧</title>
@@ -11190,17 +11226,47 @@
     <programme start="20240207233000" stop="20240207235600" channel="liaoning">
         <title lang="zh">辽宁新闻</title>
     </programme>
-    <programme start="20240207235600" stop="20240208000000" channel="liaoning">
+    <programme start="20240207235600" stop="20240208004900" channel="liaoning">
         <title lang="zh">奇幻科学城</title>
     </programme>
-    <programme start="20240208000000" stop="20240208080000" channel="liaoning">
-        <title lang="zh">2024辽视春晚倒计时</title>
+    <programme start="20240208004900" stop="20240208015400" channel="liaoning">
+        <title lang="zh">电视剧</title>
     </programme>
-    <programme start="20240208080000" stop="20240208090000" channel="liaoning">
-        <title lang="zh">2024辽视春晚倒计时</title>
+    <programme start="20240208015400" stop="20240208025800" channel="liaoning">
+        <title lang="zh">电视剧</title>
     </programme>
-    <programme start="20240208090000" stop="20240208102500" channel="liaoning">
-        <title lang="zh">2024辽视春晚倒计时</title>
+    <programme start="20240208025800" stop="20240208040000" channel="liaoning">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240208040000" stop="20240208044900" channel="liaoning">
+        <title lang="zh">说天下</title>
+    </programme>
+    <programme start="20240208044900" stop="20240208045800" channel="liaoning">
+        <title lang="zh">海洋预报</title>
+    </programme>
+    <programme start="20240208045800" stop="20240208053200" channel="liaoning">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240208053200" stop="20240208060800" channel="liaoning">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240208060800" stop="20240208064300" channel="liaoning">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240208064300" stop="20240208071700" channel="liaoning">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240208071700" stop="20240208081200" channel="liaoning">
+        <title lang="zh">说学逗唱话相声</title>
+    </programme>
+    <programme start="20240208081200" stop="20240208092700" channel="liaoning">
+        <title lang="zh">欢乐集结号</title>
+    </programme>
+    <programme start="20240208092700" stop="20240208095900" channel="liaoning">
+        <title lang="zh">食全食美</title>
+    </programme>
+    <programme start="20240208095900" stop="20240208102500" channel="liaoning">
+        <title lang="zh">风物辽宁</title>
     </programme>
     <programme start="20240208102500" stop="20240208103000" channel="liaoning">
         <title lang="zh">气象资讯</title>
@@ -11211,11 +11277,23 @@
     <programme start="20240208105700" stop="20240208110000" channel="liaoning">
         <title lang="zh">辽宁天气预报</title>
     </programme>
-    <programme start="20240208110000" stop="20240208113000" channel="liaoning">
-        <title lang="zh">转播中央台新闻联播</title>
+    <programme start="20240208110000" stop="20240208113300" channel="liaoning">
+        <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20240208113000" stop="20240208155900" channel="liaoning">
-        <title lang="zh">2024辽宁卫视春节联欢晚会</title>
+    <programme start="20240208113300" stop="20240208122500" channel="liaoning">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240208122500" stop="20240208130500" channel="liaoning">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240208130500" stop="20240208140000" channel="liaoning">
+        <title lang="zh">有请主角儿</title>
+    </programme>
+    <programme start="20240208140000" stop="20240208153100" channel="liaoning">
+        <title lang="zh">北方影院</title>
+    </programme>
+    <programme start="20240208153100" stop="20240208155900" channel="liaoning">
+        <title lang="zh">纪录片:记住乡愁第二季</title>
     </programme>
     <programme start="20240208160000" stop="20240208162800" channel="liaoning">
         <title lang="zh">记住乡愁</title>
@@ -11748,14 +11826,17 @@
     <programme start="20240208135700" stop="20240208141200" channel="ningxia">
         <title lang="zh">新闻话题</title>
     </programme>
-    <programme start="20240208141200" stop="20240208143200" channel="ningxia">
-        <title lang="zh">乡村的叙述</title>
+    <programme start="20240208141200" stop="20240208142200" channel="ningxia">
+        <title lang="zh">拜托了磊哥</title>
     </programme>
-    <programme start="20240208143200" stop="20240208144200" channel="ningxia">
-        <title lang="zh">拜托了磊哥7</title>
+    <programme start="20240208142200" stop="20240208145000" channel="ningxia">
+        <title lang="zh">故事</title>
     </programme>
-    <programme start="20240208144200" stop="20240208155900" channel="ningxia">
-        <title lang="zh">黄河文化大会总决赛</title>
+    <programme start="20240208145000" stop="20240208152700" channel="ningxia">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240208152700" stop="20240208155900" channel="ningxia">
+        <title lang="zh">电视剧</title>
     </programme>
     <programme start="20240208200000" stop="20240208210000" channel="ningxia">
         <title lang="zh">电视剧</title>
