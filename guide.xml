@@ -300,28 +300,19 @@
         <icon src="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/zhejiang.png" />
         <url>https://tv.cntv.cn</url>
     </channel>
-    <programme start="20240209163800" stop="20240209172100" channel="cctv1">
+    <programme start="20240209165000" stop="20240209173300" channel="cctv1">
         <title lang="zh">龙腾虎跃▪中国年味-3（1/4）</title>
     </programme>
-    <programme start="20240209172100" stop="20240209180800" channel="cctv1">
+    <programme start="20240209173300" stop="20240209182000" channel="cctv1">
         <title lang="zh">龙腾虎跃▪中国年味-3（2/4）</title>
     </programme>
-    <programme start="20240209180800" stop="20240209185800" channel="cctv1">
+    <programme start="20240209182000" stop="20240209190900" channel="cctv1">
         <title lang="zh">龙腾虎跃▪中国年味-3（3/4）</title>
     </programme>
-    <programme start="20240209185800" stop="20240209193600" channel="cctv1">
+    <programme start="20240209190900" stop="20240209194800" channel="cctv1">
         <title lang="zh">龙腾虎跃▪中国年味-3（4/4）</title>
     </programme>
-    <programme start="20240209193600" stop="20240209194000" channel="cctv1">
-        <title lang="zh">非遗里的中国-青▪韵</title>
-    </programme>
-    <programme start="20240209194000" stop="20240209194300" channel="cctv1">
-        <title lang="zh">非遗里的中国-潮舞绣筵</title>
-    </programme>
-    <programme start="20240209194300" stop="20240209194600" channel="cctv1">
-        <title lang="zh">非遗里的中国-跃然纸上</title>
-    </programme>
-    <programme start="20240209194600" stop="20240209195500" channel="cctv1">
+    <programme start="20240209194800" stop="20240209195500" channel="cctv1">
         <title lang="zh">非遗里的中国-咏春▪意正</title>
     </programme>
     <programme start="20240209195500" stop="20240209202500" channel="cctv1">
@@ -798,10 +789,10 @@
     <programme start="20240212151300" stop="20240212155900" channel="cctv2">
         <title lang="zh">治水记-1</title>
     </programme>
-    <programme start="20240209163800" stop="20240209170200" channel="cctv3">
+    <programme start="20240209165000" stop="20240209170800" channel="cctv3">
         <title lang="zh">品物皆春·2024与你一起过大年-预热短片1</title>
     </programme>
-    <programme start="20240209170200" stop="20240209213200" channel="cctv3">
+    <programme start="20240209170800" stop="20240209213200" channel="cctv3">
         <title lang="zh">2024年春节联欢晚会-直播</title>
     </programme>
     <programme start="20240209213200" stop="20240209215300" channel="cctv3">
@@ -966,17 +957,14 @@
     <programme start="20240212132100" stop="20240212155900" channel="cctv3">
         <title lang="zh">齐乐龙龙报喜来-2024新春喜剧之夜</title>
     </programme>
-    <programme start="20240209164200" stop="20240209170900" channel="cctv4">
+    <programme start="20240209165300" stop="20240209172000" channel="cctv4">
         <title lang="zh">中国文艺-2024-29</title>
     </programme>
-    <programme start="20240209170900" stop="20240209173700" channel="cctv4">
+    <programme start="20240209172000" stop="20240209174800" channel="cctv4">
         <title lang="zh">人类的记忆-中国的世界遗产-78</title>
     </programme>
-    <programme start="20240209173700" stop="20240209174700" channel="cctv4">
+    <programme start="20240209174800" stop="20240209180000" channel="cctv4">
         <title lang="zh">记住乡愁2018片段展播-56</title>
-    </programme>
-    <programme start="20240209174700" stop="20240209180000" channel="cctv4">
-        <title lang="zh">记住乡愁2018片段展播-59</title>
     </programme>
     <programme start="20240209180000" stop="20240209183000" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -1797,7 +1785,7 @@
     <programme start="20240212142200" stop="20240212155900" channel="cctv6">
         <title lang="zh">唐顿庄园2</title>
     </programme>
-    <programme start="20240209164500" stop="20240209220300" channel="cctv7">
+    <programme start="20240209165700" stop="20240209220300" channel="cctv7">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20240209220300" stop="20240209223400" channel="cctv7">
@@ -3840,7 +3828,7 @@
     <programme start="20240212150000" stop="20240212155900" channel="cctv13">
         <title lang="zh">24小时</title>
     </programme>
-    <programme start="20240209163000" stop="20240209220000" channel="cctvchild">
+    <programme start="20240209164100" stop="20240209220000" channel="cctvchild">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20240209220000" stop="20240209230000" channel="cctvchild">
@@ -3999,10 +3987,10 @@
     <programme start="20240212152800" stop="20240212155900" channel="cctvchild">
         <title lang="zh">猎手-10/40</title>
     </programme>
-    <programme start="20240209163700" stop="20240209173900" channel="cctv15">
+    <programme start="20240209164900" stop="20240209175100" channel="cctv15">
         <title lang="zh">精彩音乐汇-2024-34</title>
     </programme>
-    <programme start="20240209173900" stop="20240209220000" channel="cctv15">
+    <programme start="20240209175100" stop="20240209220000" channel="cctv15">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20240209220000" stop="20240209230500" channel="cctv15">
@@ -4380,7 +4368,7 @@
     <programme start="20240212152500" stop="20240212155900" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-杭州亚运会 体操单项决赛3</title>
     </programme>
-    <programme start="20240209164500" stop="20240209215500" channel="cctv17">
+    <programme start="20240209165700" stop="20240209215500" channel="cctv17">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20240209215500" stop="20240209220000" channel="cctv17">
