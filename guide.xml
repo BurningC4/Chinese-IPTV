@@ -450,10 +450,16 @@
     <programme start="20240210213000" stop="20240210220000" channel="cctv1">
         <title lang="zh">人与自然-2023-74</title>
     </programme>
-    <programme start="20240210220000" stop="20240211003800" channel="cctv1">
+    <programme start="20240210220000" stop="20240211003500" channel="cctv1">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme start="20240211003800" stop="20240211021400" channel="cctv1">
+    <programme start="20240211003500" stop="20240211004600" channel="cctv1">
+        <title lang="zh">非遗里的中国-秀演精编1</title>
+    </programme>
+    <programme start="20240211004600" stop="20240211005600" channel="cctv1">
+        <title lang="zh">非遗里的中国-秀演精编3</title>
+    </programme>
+    <programme start="20240211005600" stop="20240211021400" channel="cctv1">
         <title lang="zh">2024年春节联欢晚会-语言节目集锦</title>
     </programme>
     <programme start="20240211021400" stop="20240211040000" channel="cctv1">
@@ -480,19 +486,19 @@
     <programme start="20240211120600" stop="20240211140000" channel="cctv1">
         <title lang="zh">2024年春节戏曲晚会-综合频道</title>
     </programme>
-    <programme start="20240211140000" stop="20240211143500" channel="cctv1">
+    <programme start="20240211140000" stop="20240211143400" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20240211143500" stop="20240211154800" channel="cctv1">
+    <programme start="20240211143400" stop="20240211155200" channel="cctv1">
         <title lang="zh">2024年春节联欢晚会-语言节目集锦</title>
     </programme>
-    <programme start="20240211154800" stop="20240211155900" channel="cctv1">
+    <programme start="20240211155200" stop="20240211155900" channel="cctv1">
         <title lang="zh">2024年春节联欢晚会-（龙腾三秦·春暖山河）</title>
     </programme>
-    <programme start="20240211165100" stop="20240211175100" channel="cctv1">
+    <programme start="20240211165300" stop="20240211175300" channel="cctv1">
         <title lang="zh">2024年春节联欢晚会-（沈水之阳·我心向往）</title>
     </programme>
-    <programme start="20240211175100" stop="20240211182300" channel="cctv1">
+    <programme start="20240211175300" stop="20240211182300" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
     <programme start="20240211182300" stop="20240211192500" channel="cctv1">
@@ -879,32 +885,41 @@
     <programme start="20240210182100" stop="20240210191200" channel="cctv3">
         <title lang="zh">我爱满堂彩-2024-6满堂喝彩</title>
     </programme>
-    <programme start="20240210191200" stop="20240210203500" channel="cctv3">
+    <programme start="20240210191200" stop="20240210203000" channel="cctv3">
         <title lang="zh">向幸福出发-2024-5</title>
     </programme>
-    <programme start="20240210203500" stop="20240210212700" channel="cctv3">
+    <programme start="20240210203000" stop="20240210212200" channel="cctv3">
         <title lang="zh">我爱满堂彩-2024-1满堂喝彩</title>
     </programme>
-    <programme start="20240210212700" stop="20240210222500" channel="cctv3">
+    <programme start="20240210212200" stop="20240210222000" channel="cctv3">
         <title lang="zh">我要上春晚-欢乐中国年2024-7</title>
     </programme>
-    <programme start="20240210222500" stop="20240210224200" channel="cctv3">
+    <programme start="20240210222000" stop="20240210224500" channel="cctv3">
         <title lang="zh">文化十分-2024-31</title>
     </programme>
-    <programme start="20240210224200" stop="20240211021100" channel="cctv3">
+    <programme start="20240210224500" stop="20240211020800" channel="cctv3">
         <title lang="zh">欢欢喜喜过大年-1</title>
     </programme>
-    <programme start="20240211021100" stop="20240211033700" channel="cctv3">
+    <programme start="20240211020800" stop="20240211021900" channel="cctv3">
+        <title lang="zh">2024年春节联欢晚会-年锦（4K）</title>
+    </programme>
+    <programme start="20240211021900" stop="20240211034100" channel="cctv3">
         <title lang="zh">万事大集—2024新春曲艺大联欢-1</title>
     </programme>
-    <programme start="20240211033700" stop="20240211035400" channel="cctv3">
+    <programme start="20240211034100" stop="20240211034800" channel="cctv3">
+        <title lang="zh">2024年春节联欢晚会-龙（4K）</title>
+    </programme>
+    <programme start="20240211034800" stop="20240211040500" channel="cctv3">
         <title lang="zh">文化十分-2024-32</title>
     </programme>
-    <programme start="20240211035400" stop="20240211064300" channel="cctv3">
+    <programme start="20240211040500" stop="20240211065700" channel="cctv3">
         <title lang="zh">齐乐龙龙报喜来-2024新春喜剧之夜</title>
     </programme>
-    <programme start="20240211064300" stop="20240211083100" channel="cctv3">
+    <programme start="20240211065700" stop="20240211082500" channel="cctv3">
         <title lang="zh">2024年春节联欢晚会-语言节目集锦</title>
+    </programme>
+    <programme start="20240211082500" stop="20240211083100" channel="cctv3">
+        <title lang="zh">2024年春节联欢晚会-锦鲤（4K）</title>
     </programme>
     <programme start="20240211083100" stop="20240211100500" channel="cctv3">
         <title lang="zh">星光大道-2023-76</title>
@@ -918,16 +933,13 @@
     <programme start="20240211113000" stop="20240211125900" channel="cctv3">
         <title lang="zh">开门大吉-2024-7</title>
     </programme>
-    <programme start="20240211125900" stop="20240211144700" channel="cctv3">
+    <programme start="20240211125900" stop="20240211144800" channel="cctv3">
         <title lang="zh">星光大道-2024-6</title>
-    </programme>
-    <programme start="20240211144700" stop="20240211144800" channel="cctv3">
-        <title lang="zh">中国文艺报道-2024-29农民导演</title>
     </programme>
     <programme start="20240211144800" stop="20240211155900" channel="cctv3">
         <title lang="zh">2024年春节联欢晚会-重播</title>
     </programme>
-    <programme start="20240211192600" stop="20240211204800" channel="cctv3">
+    <programme start="20240211193000" stop="20240211204800" channel="cctv3">
         <title lang="zh">开门大吉-2024-2</title>
     </programme>
     <programme start="20240211204800" stop="20240212013600" channel="cctv3">
@@ -4137,22 +4149,25 @@
     <programme start="20240211220000" stop="20240211230500" channel="cctv15">
         <title lang="zh">精彩音乐汇-2024-35</title>
     </programme>
-    <programme start="20240211230500" stop="20240212003300" channel="cctv15">
+    <programme start="20240211230500" stop="20240211233000" channel="cctv15">
+        <title lang="zh">博物馆乐游记-箜篌</title>
+    </programme>
+    <programme start="20240211233000" stop="20240212005600" channel="cctv15">
         <title lang="zh">音乐公开课-2024-13“村晚”公开课</title>
     </programme>
-    <programme start="20240212003300" stop="20240212011200" channel="cctv15">
+    <programme start="20240212005600" stop="20240212013500" channel="cctv15">
         <title lang="zh">音乐人生-2024-33新春的旋律（3）</title>
     </programme>
-    <programme start="20240212011200" stop="20240212022600" channel="cctv15">
+    <programme start="20240212013500" stop="20240212024700" channel="cctv15">
         <title lang="zh">民歌·中国-2024-39天南地北唱中华4</title>
     </programme>
-    <programme start="20240212022600" stop="20240212034000" channel="cctv15">
+    <programme start="20240212024700" stop="20240212040100" channel="cctv15">
         <title lang="zh">精彩音乐汇-2024-34</title>
     </programme>
-    <programme start="20240212034000" stop="20240212051300" channel="cctv15">
+    <programme start="20240212040100" stop="20240212053100" channel="cctv15">
         <title lang="zh">音乐公开课-2024-13“村晚”公开课</title>
     </programme>
-    <programme start="20240212051300" stop="20240212101700" channel="cctv15">
+    <programme start="20240212053100" stop="20240212101700" channel="cctv15">
         <title lang="zh">2024年春节联欢晚会-重播</title>
     </programme>
     <programme start="20240212101700" stop="20240212113000" channel="cctv15">
