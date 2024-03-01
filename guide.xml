@@ -501,10 +501,10 @@
     <programme start="20240302113900" stop="20240302120600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20240302120600" stop="20240302135100" channel="cctv1">
+    <programme start="20240302120600" stop="20240302135400" channel="cctv1">
         <title lang="zh">宗师列传▪唐宋八大家-10</title>
     </programme>
-    <programme start="20240302135100" stop="20240302140000" channel="cctv1">
+    <programme start="20240302135400" stop="20240302140000" channel="cctv1">
         <title lang="zh">唐宋八大家-韩愈MV</title>
     </programme>
     <programme start="20240302140000" stop="20240302143400" channel="cctv1">
@@ -603,13 +603,13 @@
     <programme start="20240303113900" stop="20240303120600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20240303120600" stop="20240303134400" channel="cctv1">
+    <programme start="20240303120600" stop="20240303134200" channel="cctv1">
         <title lang="zh">龙腾虎跃▪中国年味-5</title>
     </programme>
-    <programme start="20240303134400" stop="20240303135100" channel="cctv1">
+    <programme start="20240303134200" stop="20240303134900" channel="cctv1">
         <title lang="zh">唐宋八大家-欧阳修MV</title>
     </programme>
-    <programme start="20240303135100" stop="20240303140000" channel="cctv1">
+    <programme start="20240303134900" stop="20240303140000" channel="cctv1">
         <title lang="zh">唐宋八大家-苏轼MV</title>
     </programme>
     <programme start="20240303140000" stop="20240303143400" channel="cctv1">
@@ -1671,6 +1671,9 @@
     <programme start="20240302150000" stop="20240302155900" channel="cctv5">
         <title lang="zh">2024年世界泳联跳水世界杯（蒙特利尔站）-男子双人3米跳板决赛</title>
     </programme>
+    <programme start="20240302161000" stop="20240302162500" channel="cctv5">
+        <title lang="zh">赛事集锦（奥林匹克）-2024年世界泳联世锦赛 中国队游泳比赛10分钟版1（4K）</title>
+    </programme>
     <programme start="20240302162500" stop="20240302175500" channel="cctv5">
         <title lang="zh">2023/2024赛季欧洲篮球联赛-第25轮（拜仁慕尼黑-奥林匹亚科斯）</title>
     </programme>
@@ -1725,8 +1728,11 @@
     <programme start="20240303140000" stop="20240303150000" channel="cctv5">
         <title lang="zh">实况录像-2024年世界泳联跳水世界杯 加拿大蒙特利尔站 女子双人10米台决赛（录播）</title>
     </programme>
-    <programme start="20240303150000" stop="20240303155900" channel="cctv5">
+    <programme start="20240303150000" stop="20240303154500" channel="cctv5">
         <title lang="zh">2024年世界泳联跳水世界杯（蒙特利尔站）-女子双人3米跳板决赛</title>
+    </programme>
+    <programme start="20240303154500" stop="20240303155900" channel="cctv5">
+        <title lang="zh">实况录像-2023/2024自由式滑雪世界杯 加拿大卡尔加里站U型场地第一场 谷爱凌夺冠</title>
     </programme>
     <programme start="20240229162800" stop="20240229175500" channel="cctv5plus">
         <title lang="zh">卡塔尔亚洲杯- 半决赛1</title>
