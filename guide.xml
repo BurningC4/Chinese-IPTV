@@ -600,14 +600,11 @@
     <programme start="20240304220000" stop="20240304234500" channel="cctv1">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme start="20240304234500" stop="20240305011800" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+    <programme start="20240304234500" stop="20240305035600" channel="cctv1">
+        <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20240305011800" stop="20240305025100" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
-    </programme>
-    <programme start="20240305025100" stop="20240305040000" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+    <programme start="20240305035600" stop="20240305040000" channel="cctv1">
+        <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20240305040000" stop="20240305043600" channel="cctv1">
         <title lang="zh">新闻30分</title>
@@ -1363,7 +1360,7 @@
         <title lang="zh">鲁健访谈-2024-4</title>
     </programme>
     <programme start="20240303155600" stop="20240303155900" channel="cctv4">
-        <title lang="zh">记住乡愁2024-12</title>
+        <title lang="zh">记住乡愁2024-16</title>
     </programme>
     <programme start="20240303162400" stop="20240303165400" channel="cctv4">
         <title lang="zh">记住乡愁2024-15</title>
@@ -3975,7 +3972,10 @@
     <programme start="20240303080000" stop="20240303090000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20240303090000" stop="20240303100000" channel="cctv13">
+    <programme start="20240303090000" stop="20240303092400" channel="cctv13">
+        <title lang="zh">《聊会》特别节目</title>
+    </programme>
+    <programme start="20240303092400" stop="20240303100000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20240303100000" stop="20240303110000" channel="cctv13">
