@@ -496,7 +496,7 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20240408120600" stop="20240408140000" channel="cctv1">
-        <title lang="zh">感动中国2023年度人物颁奖盛典-1</title>
+        <title lang="zh">感动中国2023年度人物盛典-1</title>
     </programme>
     <programme start="20240408140000" stop="20240408143400" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -604,13 +604,13 @@
         <title lang="zh">前情提要-《城中之城》1/40</title>
     </programme>
     <programme start="20240409120600" stop="20240409125700" channel="cctv1">
-        <title lang="zh">城中之城1/40</title>
+        <title lang="zh">城中之城-（一套版）-1/40</title>
     </programme>
     <programme start="20240409125700" stop="20240409130000" channel="cctv1">
         <title lang="zh">前情提要-《城中之城》2/40</title>
     </programme>
     <programme start="20240409130000" stop="20240409135100" channel="cctv1">
-        <title lang="zh">城中之城2/40</title>
+        <title lang="zh">城中之城-（一套版）-2/40</title>
     </programme>
     <programme start="20240409135100" stop="20240409140000" channel="cctv1">
         <title lang="zh">精彩一刻-2024-169国宝四胤禛耕织图册</title>
@@ -1102,7 +1102,7 @@
         <title lang="zh">开门大吉-2024-15</title>
     </programme>
     <programme start="20240408125400" stop="20240408134800" channel="cctv3">
-        <title lang="zh">我爱满堂彩-2024-1满堂喝彩</title>
+        <title lang="zh">我爱满堂彩-2024-2满堂喝彩</title>
     </programme>
     <programme start="20240408134800" stop="20240408135500" channel="cctv3">
         <title lang="zh">中国文艺报道-2024-30陈丽君</title>
@@ -2158,7 +2158,7 @@
         <title lang="zh">军事制高点-2024-28</title>
     </programme>
     <programme start="20240407125500" stop="20240407140400" channel="cctv7">
-        <title lang="zh">谁是终极英雄-2024-14</title>
+        <title lang="zh">谁是终极英雄-2024-12</title>
     </programme>
     <programme start="20240407140400" stop="20240407145100" channel="cctv7">
         <title lang="zh">换了人间37/40</title>
@@ -2305,7 +2305,7 @@
         <title lang="zh">国防军事早报</title>
     </programme>
     <programme start="20240408235800" stop="20240409010200" channel="cctv7">
-        <title lang="zh">谁是终极英雄-2024-14</title>
+        <title lang="zh">谁是终极英雄-2024-12</title>
     </programme>
     <programme start="20240409010200" stop="20240409013400" channel="cctv7">
         <title lang="zh">防务新观察-2024-70</title>
@@ -2503,13 +2503,13 @@
         <title lang="zh">本集提要- 《追风者》第35集</title>
     </programme>
     <programme start="20240407113000" stop="20240407122600" channel="cctv8">
-        <title lang="zh">追风者35/38</title>
+        <title lang="zh">追风者第35集</title>
     </programme>
     <programme start="20240407122600" stop="20240407123000" channel="cctv8">
         <title lang="zh">本集提要- 《追风者》第36集</title>
     </programme>
     <programme start="20240407123000" stop="20240407132300" channel="cctv8">
-        <title lang="zh">追风者36/38</title>
+        <title lang="zh">追风者第36集</title>
     </programme>
     <programme start="20240407132300" stop="20240407132700" channel="cctv8">
         <title lang="zh">本集提要- 《我们的队伍向太阳》第7集</title>
@@ -6063,6 +6063,102 @@
     <programme start="20240407151400" stop="20240407155900" channel="btvjishi">
         <title lang="zh">纪录中国</title>
     </programme>
+    <programme start="20240407200900" stop="20240407210900" channel="btvjishi">
+        <title lang="zh">法治中国60分</title>
+    </programme>
+    <programme start="20240407210900" stop="20240407215400" channel="btvjishi">
+        <title lang="zh">纪录中国</title>
+    </programme>
+    <programme start="20240407215400" stop="20240407220400" channel="btvjishi">
+        <title lang="zh">梦想北京城市形象片</title>
+    </programme>
+    <programme start="20240407220400" stop="20240407224400" channel="btvjishi">
+        <title lang="zh">佳片展映</title>
+    </programme>
+    <programme start="20240407224400" stop="20240407231800" channel="btvjishi">
+        <title lang="zh">法治进行时:警法目录</title>
+    </programme>
+    <programme start="20240407231800" stop="20240407235000" channel="btvjishi">
+        <title lang="zh">民法典通解通读</title>
+    </programme>
+    <programme start="20240407235000" stop="20240408003500" channel="btvjishi">
+        <title lang="zh">探索</title>
+    </programme>
+    <programme start="20240408003500" stop="20240408005900" channel="btvjishi">
+        <title lang="zh">晚晴</title>
+    </programme>
+    <programme start="20240408005900" stop="20240408015100" channel="btvjishi">
+        <title lang="zh">精品纪录片展播</title>
+    </programme>
+    <programme start="20240408015100" stop="20240408023900" channel="btvjishi">
+        <title lang="zh">记忆</title>
+    </programme>
+    <programme start="20240408023900" stop="20240408033000" channel="btvjishi">
+        <title lang="zh">精品纪录片展播</title>
+    </programme>
+    <programme start="20240408033000" stop="20240408040000" channel="btvjishi">
+        <title lang="zh">现场说法</title>
+    </programme>
+    <programme start="20240408040000" stop="20240408043000" channel="btvjishi">
+        <title lang="zh">法治进行时</title>
+    </programme>
+    <programme start="20240408043000" stop="20240408050000" channel="btvjishi">
+        <title lang="zh">第三调解室</title>
+    </programme>
+    <programme start="20240408050000" stop="20240408060000" channel="btvjishi">
+        <title lang="zh">法治中国60分</title>
+    </programme>
+    <programme start="20240408060000" stop="20240408060200" channel="btvjishi">
+        <title lang="zh">气象观天下:气象预报</title>
+    </programme>
+    <programme start="20240408060200" stop="20240408062000" channel="btvjishi">
+        <title lang="zh">气象观天下</title>
+    </programme>
+    <programme start="20240408062000" stop="20240408075000" channel="btvjishi">
+        <title lang="zh">佳片展映</title>
+    </programme>
+    <programme start="20240408075000" stop="20240408082000" channel="btvjishi">
+        <title lang="zh">中国故事</title>
+    </programme>
+    <programme start="20240408082000" stop="20240408085500" channel="btvjishi">
+        <title lang="zh">一师亦友</title>
+    </programme>
+    <programme start="20240408085500" stop="20240408094500" channel="btvjishi">
+        <title lang="zh">探索</title>
+    </programme>
+    <programme start="20240408094500" stop="20240408103000" channel="btvjishi">
+        <title lang="zh">记忆</title>
+    </programme>
+    <programme start="20240408103000" stop="20240408110000" channel="btvjishi">
+        <title lang="zh">健康北京</title>
+    </programme>
+    <programme start="20240408110000" stop="20240408113000" channel="btvjishi">
+        <title lang="zh">中国故事优创版</title>
+    </programme>
+    <programme start="20240408113000" stop="20240408120100" channel="btvjishi">
+        <title lang="zh">民法典通解通读</title>
+    </programme>
+    <programme start="20240408120100" stop="20240408124700" channel="btvjishi">
+        <title lang="zh">记忆</title>
+    </programme>
+    <programme start="20240408124700" stop="20240408132000" channel="btvjishi">
+        <title lang="zh">职场健康说</title>
+    </programme>
+    <programme start="20240408132000" stop="20240408135300" channel="btvjishi">
+        <title lang="zh">第三调解室精编版</title>
+    </programme>
+    <programme start="20240408135300" stop="20240408142600" channel="btvjishi">
+        <title lang="zh">健康北京精编版</title>
+    </programme>
+    <programme start="20240408142600" stop="20240408145900" channel="btvjishi">
+        <title lang="zh">中国故事</title>
+    </programme>
+    <programme start="20240408145900" stop="20240408154700" channel="btvjishi">
+        <title lang="zh">探索</title>
+    </programme>
+    <programme start="20240408154700" stop="20240408155900" channel="btvjishi">
+        <title lang="zh">现场说法</title>
+    </programme>
     <programme start="20240406161200" stop="20240406173400" channel="cetv1">
         <title lang="zh">电视剧</title>
     </programme>
@@ -6186,6 +6282,108 @@
     <programme start="20240407153000" stop="20240407155900" channel="cetv1">
         <title lang="zh">电视剧</title>
     </programme>
+    <programme start="20240407201500" stop="20240407210200" channel="cetv1">
+        <title lang="zh">纪录中国</title>
+    </programme>
+    <programme start="20240407210200" stop="20240407220000" channel="cetv1">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240407220000" stop="20240407230000" channel="cetv1">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240407230000" stop="20240407230200" channel="cetv1">
+        <title lang="zh">中华人民共和国国歌</title>
+    </programme>
+    <programme start="20240407230200" stop="20240408004300" channel="cetv1">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408004300" stop="20240408013300" channel="cetv1">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408013300" stop="20240408022300" channel="cetv1">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408022300" stop="20240408031300" channel="cetv1">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408031300" stop="20240408040500" channel="cetv1">
+        <title lang="zh">等着我</title>
+    </programme>
+    <programme start="20240408040500" stop="20240408041500" channel="cetv1">
+        <title lang="zh">教育新闻直播间</title>
+    </programme>
+    <programme start="20240408041500" stop="20240408041700" channel="cetv1">
+        <title lang="zh">城市天气预报</title>
+    </programme>
+    <programme start="20240408041700" stop="20240408050100" channel="cetv1">
+        <title lang="zh">法治天下</title>
+    </programme>
+    <programme start="20240408050100" stop="20240408053000" channel="cetv1">
+        <title lang="zh">点赞青春影视公开课</title>
+    </programme>
+    <programme start="20240408053000" stop="20240408062000" channel="cetv1">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408062000" stop="20240408071000" channel="cetv1">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408071000" stop="20240408072100" channel="cetv1">
+        <title lang="zh">教育新闻直播间</title>
+    </programme>
+    <programme start="20240408072100" stop="20240408081300" channel="cetv1">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408081300" stop="20240408090500" channel="cetv1">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408090500" stop="20240408091500" channel="cetv1">
+        <title lang="zh">教育新闻直播间</title>
+    </programme>
+    <programme start="20240408091500" stop="20240408100500" channel="cetv1">
+        <title lang="zh">欢乐喜剧人</title>
+    </programme>
+    <programme start="20240408100500" stop="20240408103000" channel="cetv1">
+        <title lang="zh">动漫盒子</title>
+    </programme>
+    <programme start="20240408103000" stop="20240408105600" channel="cetv1">
+        <title lang="zh">全国教育新闻联播</title>
+    </programme>
+    <programme start="20240408105600" stop="20240408110000" channel="cetv1">
+        <title lang="zh">城市天气预报</title>
+    </programme>
+    <programme start="20240408110000" stop="20240408113000" channel="cetv1">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20240408113000" stop="20240408114500" channel="cetv1">
+        <title lang="zh">改变你我命运的那些瞬间</title>
+    </programme>
+    <programme start="20240408114500" stop="20240408120000" channel="cetv1">
+        <title lang="zh">育见</title>
+    </programme>
+    <programme start="20240408120000" stop="20240408124500" channel="cetv1">
+        <title lang="zh">e视界</title>
+    </programme>
+    <programme start="20240408124500" stop="20240408130100" channel="cetv1">
+        <title lang="zh">旗帜中国青年说</title>
+    </programme>
+    <programme start="20240408130100" stop="20240408131500" channel="cetv1">
+        <title lang="zh">唱响新时代全国高校接力唱</title>
+    </programme>
+    <programme start="20240408131500" stop="20240408132500" channel="cetv1">
+        <title lang="zh">福彩开奖</title>
+    </programme>
+    <programme start="20240408132500" stop="20240408142500" channel="cetv1">
+        <title lang="zh">专题片</title>
+    </programme>
+    <programme start="20240408142500" stop="20240408143000" channel="cetv1">
+        <title lang="zh">专题</title>
+    </programme>
+    <programme start="20240408143000" stop="20240408153000" channel="cetv1">
+        <title lang="zh">等着我</title>
+    </programme>
+    <programme start="20240408153000" stop="20240408155900" channel="cetv1">
+        <title lang="zh">电视剧</title>
+    </programme>
     <programme start="20240406162100" stop="20240406171300" channel="cetv2">
         <title lang="zh">C语言程序设计-第006集</title>
     </programme>
@@ -6290,6 +6488,72 @@
     </programme>
     <programme start="20240407152900" stop="20240407155900" channel="cetv2">
         <title lang="zh">百节名师风采课-第056集</title>
+    </programme>
+    <programme start="20240407210000" stop="20240407214000" channel="cetv2">
+        <title lang="zh">纪录中国</title>
+    </programme>
+    <programme start="20240407214000" stop="20240407221000" channel="cetv2">
+        <title lang="zh">纪录片</title>
+    </programme>
+    <programme start="20240407221000" stop="20240407224000" channel="cetv2">
+        <title lang="zh">纪录中国</title>
+    </programme>
+    <programme start="20240407224000" stop="20240407230500" channel="cetv2">
+        <title lang="zh">专题</title>
+    </programme>
+    <programme start="20240407230500" stop="20240408000000" channel="cetv2">
+        <title lang="zh">国史演义</title>
+    </programme>
+    <programme start="20240408000000" stop="20240408010000" channel="cetv2">
+        <title lang="zh">同上一堂课</title>
+    </programme>
+    <programme start="20240408010000" stop="20240408020000" channel="cetv2">
+        <title lang="zh">同上一堂课</title>
+    </programme>
+    <programme start="20240408020000" stop="20240408030000" channel="cetv2">
+        <title lang="zh">同上一堂课</title>
+    </programme>
+    <programme start="20240408030000" stop="20240408040000" channel="cetv2">
+        <title lang="zh">同上一堂课</title>
+    </programme>
+    <programme start="20240408040000" stop="20240408050000" channel="cetv2">
+        <title lang="zh">中华经典资源库</title>
+    </programme>
+    <programme start="20240408050000" stop="20240408060000" channel="cetv2">
+        <title lang="zh">同上一堂课</title>
+    </programme>
+    <programme start="20240408060000" stop="20240408070000" channel="cetv2">
+        <title lang="zh">同上一堂课</title>
+    </programme>
+    <programme start="20240408070000" stop="20240408080000" channel="cetv2">
+        <title lang="zh">同上一堂课</title>
+    </programme>
+    <programme start="20240408080000" stop="20240408090000" channel="cetv2">
+        <title lang="zh">同上一堂课</title>
+    </programme>
+    <programme start="20240408090000" stop="20240408091000" channel="cetv2">
+        <title lang="zh">专题</title>
+    </programme>
+    <programme start="20240408091000" stop="20240408100000" channel="cetv2">
+        <title lang="zh">我是接班人</title>
+    </programme>
+    <programme start="20240408100000" stop="20240408110000" channel="cetv2">
+        <title lang="zh">同上一堂课</title>
+    </programme>
+    <programme start="20240408110000" stop="20240408120000" channel="cetv2">
+        <title lang="zh">同上一堂课</title>
+    </programme>
+    <programme start="20240408120000" stop="20240408130000" channel="cetv2">
+        <title lang="zh">同上一堂课</title>
+    </programme>
+    <programme start="20240408130000" stop="20240408140000" channel="cetv2">
+        <title lang="zh">同上一堂课</title>
+    </programme>
+    <programme start="20240408140000" stop="20240408150000" channel="cetv2">
+        <title lang="zh">同上一堂课</title>
+    </programme>
+    <programme start="20240408150000" stop="20240408155900" channel="cetv2">
+        <title lang="zh">同上一堂课</title>
     </programme>
     <programme start="20240406160400" stop="20240406165000" channel="cetv3">
         <title lang="zh">纪录中国</title>
@@ -6471,8 +6735,125 @@
     <programme start="20240407190500" stop="20240407191500" channel="cetv3">
         <title lang="zh">CETV3导视</title>
     </programme>
-    <programme start="20240407191500" stop="20240408155900" channel="cetv3">
+    <programme start="20240407191500" stop="20240407220000" channel="cetv3">
         <title lang="zh">纪录中国</title>
+    </programme>
+    <programme start="20240407220000" stop="20240407224500" channel="cetv3">
+        <title lang="zh">一职为你</title>
+    </programme>
+    <programme start="20240407224500" stop="20240407225100" channel="cetv3">
+        <title lang="zh">微纪录</title>
+    </programme>
+    <programme start="20240407225100" stop="20240407230000" channel="cetv3">
+        <title lang="zh">CETV导视</title>
+    </programme>
+    <programme start="20240407230000" stop="20240407233500" channel="cetv3">
+        <title lang="zh">一堂好课</title>
+    </programme>
+    <programme start="20240407233500" stop="20240408000600" channel="cetv3">
+        <title lang="zh">小宝与老财</title>
+    </programme>
+    <programme start="20240408000600" stop="20240408003600" channel="cetv3">
+        <title lang="zh">小宝与老财</title>
+    </programme>
+    <programme start="20240408003600" stop="20240408004000" channel="cetv3">
+        <title lang="zh">CETV导视</title>
+    </programme>
+    <programme start="20240408004000" stop="20240408021000" channel="cetv3">
+        <title lang="zh">2024春节大联欢</title>
+    </programme>
+    <programme start="20240408021000" stop="20240408021600" channel="cetv3">
+        <title lang="zh">CETV导视</title>
+    </programme>
+    <programme start="20240408021600" stop="20240408024600" channel="cetv3">
+        <title lang="zh">小宝与老财</title>
+    </programme>
+    <programme start="20240408024600" stop="20240408030000" channel="cetv3">
+        <title lang="zh">CETV导视</title>
+    </programme>
+    <programme start="20240408030000" stop="20240408034000" channel="cetv3">
+        <title lang="zh">放飞梦想青春歌会</title>
+    </programme>
+    <programme start="20240408034000" stop="20240408043000" channel="cetv3">
+        <title lang="zh">冠军说</title>
+    </programme>
+    <programme start="20240408043000" stop="20240408050000" channel="cetv3">
+        <title lang="zh">校园歌曲工作坊</title>
+    </programme>
+    <programme start="20240408050000" stop="20240408060000" channel="cetv3">
+        <title lang="zh">我们都是向阳花</title>
+    </programme>
+    <programme start="20240408060000" stop="20240408070200" channel="cetv3">
+        <title lang="zh">龙腾盛世</title>
+    </programme>
+    <programme start="20240408070200" stop="20240408073300" channel="cetv3">
+        <title lang="zh">怒放</title>
+    </programme>
+    <programme start="20240408073300" stop="20240408080400" channel="cetv3">
+        <title lang="zh">怒放</title>
+    </programme>
+    <programme start="20240408080400" stop="20240408083500" channel="cetv3">
+        <title lang="zh">怒放</title>
+    </programme>
+    <programme start="20240408083500" stop="20240408090500" channel="cetv3">
+        <title lang="zh">一堂好课</title>
+    </programme>
+    <programme start="20240408090500" stop="20240408090800" channel="cetv3">
+        <title lang="zh">CETV导视</title>
+    </programme>
+    <programme start="20240408090800" stop="20240408095300" channel="cetv3">
+        <title lang="zh">家长朋友圈 让孩子们跑起来</title>
+    </programme>
+    <programme start="20240408095300" stop="20240408100000" channel="cetv3">
+        <title lang="zh">2024学写字新春特辑</title>
+    </programme>
+    <programme start="20240408100000" stop="20240408113000" channel="cetv3">
+        <title lang="zh">诗意中国2024春节诗歌晚会</title>
+    </programme>
+    <programme start="20240408113000" stop="20240408113500" channel="cetv3">
+        <title lang="zh">CETV导视</title>
+    </programme>
+    <programme start="20240408113500" stop="20240408114500" channel="cetv3">
+        <title lang="zh">给孩子们的大师讲堂</title>
+    </programme>
+    <programme start="20240408114500" stop="20240408120500" channel="cetv3">
+        <title lang="zh">留学为你来</title>
+    </programme>
+    <programme start="20240408120500" stop="20240408121000" channel="cetv3">
+        <title lang="zh">CETV导视</title>
+    </programme>
+    <programme start="20240408121000" stop="20240408124000" channel="cetv3">
+        <title lang="zh">冠军说</title>
+    </programme>
+    <programme start="20240408124000" stop="20240408130000" channel="cetv3">
+        <title lang="zh">放飞梦想青春歌会</title>
+    </programme>
+    <programme start="20240408130000" stop="20240408135000" channel="cetv3">
+        <title lang="zh">发现 中国</title>
+    </programme>
+    <programme start="20240408135000" stop="20240408141000" channel="cetv3">
+        <title lang="zh">放飞梦想青春歌会</title>
+    </programme>
+    <programme start="20240408141000" stop="20240408143000" channel="cetv3">
+        <title lang="zh">校园歌曲工作坊</title>
+    </programme>
+    <programme start="20240408143000" stop="20240408144500" channel="cetv3">
+        <title lang="zh">育见</title>
+    </programme>
+    <programme start="20240408144500" stop="20240408150500" channel="cetv3">
+        <title lang="zh">放飞梦想青春歌会</title>
+    </programme>
+    <programme start="20240408150500" stop="20240408153500" channel="cetv3">
+        <title lang="zh">一堂好课</title>
+    </programme>
+    <programme start="20240408153500" stop="20240408153700" channel="cetv3">
+        <title lang="zh">CETV导视</title>
+    </programme>
+    <programme start="20240408153700" stop="20240408155700" channel="cetv3">
+        <title lang="zh">心理健康公开课</title>
+    </programme>
+    <programme start="20240408155700" stop="20240408155900" channel="cetv3">
+        <title lang="zh">微纪录</title>
     </programme>
     <programme start="20240406163000" stop="20240406170000" channel="cetv4">
         <title lang="zh">地方志</title>
@@ -6563,6 +6944,63 @@
     </programme>
     <programme start="20240407153700" stop="20240407155900" channel="cetv4">
         <title lang="zh">地理志</title>
+    </programme>
+    <programme start="20240407204000" stop="20240407211500" channel="cetv4">
+        <title lang="zh">活过100岁</title>
+    </programme>
+    <programme start="20240407211500" stop="20240407220000" channel="cetv4">
+        <title lang="zh">健身堂</title>
+    </programme>
+    <programme start="20240407220000" stop="20240407224000" channel="cetv4">
+        <title lang="zh">健身堂</title>
+    </programme>
+    <programme start="20240407224000" stop="20240407233000" channel="cetv4">
+        <title lang="zh">学写字</title>
+    </programme>
+    <programme start="20240407233000" stop="20240408000000" channel="cetv4">
+        <title lang="zh">医说</title>
+    </programme>
+    <programme start="20240408000000" stop="20240408010000" channel="cetv4">
+        <title lang="zh">健身堂</title>
+    </programme>
+    <programme start="20240408010000" stop="20240408013000" channel="cetv4">
+        <title lang="zh">金牌体育课</title>
+    </programme>
+    <programme start="20240408013000" stop="20240408020000" channel="cetv4">
+        <title lang="zh">前行的力量</title>
+    </programme>
+    <programme start="20240408020000" stop="20240408040000" channel="cetv4">
+        <title lang="zh">我爱中国造</title>
+    </programme>
+    <programme start="20240408040000" stop="20240408050000" channel="cetv4">
+        <title lang="zh">探索</title>
+    </programme>
+    <programme start="20240408050000" stop="20240408060000" channel="cetv4">
+        <title lang="zh">我爱中国造</title>
+    </programme>
+    <programme start="20240408060000" stop="20240408063000" channel="cetv4">
+        <title lang="zh">全国职业院校技能大赛作品展示</title>
+    </programme>
+    <programme start="20240408063000" stop="20240408070000" channel="cetv4">
+        <title lang="zh">前行的力量</title>
+    </programme>
+    <programme start="20240408070000" stop="20240408100000" channel="cetv4">
+        <title lang="zh">职教中国</title>
+    </programme>
+    <programme start="20240408100000" stop="20240408103000" channel="cetv4">
+        <title lang="zh">医说</title>
+    </programme>
+    <programme start="20240408103000" stop="20240408110000" channel="cetv4">
+        <title lang="zh">全国教育新闻联播</title>
+    </programme>
+    <programme start="20240408110000" stop="20240408143000" channel="cetv4">
+        <title lang="zh">青春训练营</title>
+    </programme>
+    <programme start="20240408143000" stop="20240408153000" channel="cetv4">
+        <title lang="zh">我爱中国造</title>
+    </programme>
+    <programme start="20240408153000" stop="20240408155900" channel="cetv4">
+        <title lang="zh">少年工匠</title>
     </programme>
     <programme start="20240406163000" stop="20240406173000" channel="chongqing">
         <title lang="zh">电视剧</title>
@@ -8889,6 +9327,96 @@
     <programme start="20240407144100" stop="20240407155900" channel="heilongjiang">
         <title lang="zh">电视剧</title>
     </programme>
+    <programme start="20240407200400" stop="20240407201600" channel="heilongjiang">
+        <title lang="zh">这就是黑龙江</title>
+    </programme>
+    <programme start="20240407201600" stop="20240407211900" channel="heilongjiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240407211900" stop="20240407220500" channel="heilongjiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240407220500" stop="20240407221500" channel="heilongjiang">
+        <title lang="zh">三农进行时</title>
+    </programme>
+    <programme start="20240407221500" stop="20240407221800" channel="heilongjiang">
+        <title lang="zh">晨光天气</title>
+    </programme>
+    <programme start="20240407221800" stop="20240407230000" channel="heilongjiang">
+        <title lang="zh">共度晨光</title>
+    </programme>
+    <programme start="20240407230000" stop="20240407230100" channel="heilongjiang">
+        <title lang="zh">中华人民共和国国歌</title>
+    </programme>
+    <programme start="20240407230100" stop="20240407234600" channel="heilongjiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240407234600" stop="20240408001100" channel="heilongjiang">
+        <title lang="zh">中国龙动画剧场</title>
+    </programme>
+    <programme start="20240408001100" stop="20240408005100" channel="heilongjiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408005100" stop="20240408011400" channel="heilongjiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408011400" stop="20240408015000" channel="heilongjiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408015000" stop="20240408023600" channel="heilongjiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408023600" stop="20240408033000" channel="heilongjiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408033000" stop="20240408042800" channel="heilongjiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408042800" stop="20240408053800" channel="heilongjiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408053800" stop="20240408063700" channel="heilongjiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408063700" stop="20240408074200" channel="heilongjiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408074200" stop="20240408084400" channel="heilongjiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408084400" stop="20240408101800" channel="heilongjiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408101800" stop="20240408103000" channel="heilongjiang">
+        <title lang="zh">于硕说天气</title>
+    </programme>
+    <programme start="20240408103000" stop="20240408105500" channel="heilongjiang">
+        <title lang="zh">全省新闻联播</title>
+    </programme>
+    <programme start="20240408105500" stop="20240408110000" channel="heilongjiang">
+        <title lang="zh">于硕说天气</title>
+    </programme>
+    <programme start="20240408110000" stop="20240408113500" channel="heilongjiang">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20240408113500" stop="20240408122000" channel="heilongjiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408122000" stop="20240408131400" channel="heilongjiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408131400" stop="20240408141000" channel="heilongjiang">
+        <title lang="zh">幸福私房菜</title>
+    </programme>
+    <programme start="20240408141000" stop="20240408152000" channel="heilongjiang">
+        <title lang="zh">全省新闻联播</title>
+    </programme>
+    <programme start="20240408152000" stop="20240408155400" channel="heilongjiang">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408155400" stop="20240408155900" channel="heilongjiang">
+        <title lang="zh">纪录片:记住乡愁</title>
+    </programme>
     <programme start="20240406161600" stop="20240406171600" channel="henan">
         <title lang="zh">武林风</title>
     </programme>
@@ -8985,6 +9513,102 @@
     <programme start="20240407144000" stop="20240407155900" channel="henan">
         <title lang="zh">梨园春</title>
     </programme>
+    <programme start="20240407200700" stop="20240407204700" channel="henan">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240407204700" stop="20240407214200" channel="henan">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240407214200" stop="20240407223000" channel="henan">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240407223000" stop="20240407230000" channel="henan">
+        <title lang="zh">闻达天下</title>
+    </programme>
+    <programme start="20240407230000" stop="20240407230300" channel="henan">
+        <title lang="zh">中华人民共和国国歌</title>
+    </programme>
+    <programme start="20240407230300" stop="20240407233800" channel="henan">
+        <title lang="zh">河南新闻联播</title>
+    </programme>
+    <programme start="20240407233800" stop="20240408003900" channel="henan">
+        <title lang="zh">梨园春天天看</title>
+    </programme>
+    <programme start="20240408003900" stop="20240408010600" channel="henan">
+        <title lang="zh">动画片剧场</title>
+    </programme>
+    <programme start="20240408010600" stop="20240408012500" channel="henan">
+        <title lang="zh">中原国防</title>
+    </programme>
+    <programme start="20240408012500" stop="20240408022500" channel="henan">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408022500" stop="20240408031800" channel="henan">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408031800" stop="20240408040300" channel="henan">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408040300" stop="20240408041000" channel="henan">
+        <title lang="zh">午间天气预报</title>
+    </programme>
+    <programme start="20240408041000" stop="20240408043600" channel="henan">
+        <title lang="zh">河南午间报道</title>
+    </programme>
+    <programme start="20240408043600" stop="20240408053400" channel="henan">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408053400" stop="20240408062800" channel="henan">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408062800" stop="20240408072200" channel="henan">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408072200" stop="20240408081400" channel="henan">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408081400" stop="20240408090200" channel="henan">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408090200" stop="20240408095500" channel="henan">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408095500" stop="20240408102200" channel="henan">
+        <title lang="zh">聚焦中原</title>
+    </programme>
+    <programme start="20240408102200" stop="20240408103000" channel="henan">
+        <title lang="zh">河南天气预报</title>
+    </programme>
+    <programme start="20240408103000" stop="20240408105200" channel="henan">
+        <title lang="zh">河南新闻联播</title>
+    </programme>
+    <programme start="20240408105200" stop="20240408110000" channel="henan">
+        <title lang="zh">河南天气预报</title>
+    </programme>
+    <programme start="20240408110000" stop="20240408113300" channel="henan">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20240408113300" stop="20240408123000" channel="henan">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408123000" stop="20240408132700" channel="henan">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408132700" stop="20240408140000" channel="henan">
+        <title lang="zh">闪耀吧中华文明</title>
+    </programme>
+    <programme start="20240408140000" stop="20240408144000" channel="henan">
+        <title lang="zh">晚间剧场</title>
+    </programme>
+    <programme start="20240408144000" stop="20240408150900" channel="henan">
+        <title lang="zh">晚间剧场</title>
+    </programme>
+    <programme start="20240408150900" stop="20240408155200" channel="henan">
+        <title lang="zh">晚间剧场</title>
+    </programme>
+    <programme start="20240408155200" stop="20240408155900" channel="henan">
+        <title lang="zh">武林风精编版</title>
+    </programme>
     <programme start="20240406164700" stop="20240406175300" channel="hubei">
         <title lang="zh">电视剧</title>
     </programme>
@@ -9073,6 +9697,93 @@
         <title lang="zh">戏码头</title>
     </programme>
     <programme start="20240407150000" stop="20240407155900" channel="hubei">
+        <title lang="zh">长江新闻号</title>
+    </programme>
+    <programme start="20240407204400" stop="20240407211600" channel="hubei">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240407211600" stop="20240407222700" channel="hubei">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240407222700" stop="20240407230000" channel="hubei">
+        <title lang="zh">纪录片</title>
+    </programme>
+    <programme start="20240407230000" stop="20240407232400" channel="hubei">
+        <title lang="zh">湖北新闻</title>
+    </programme>
+    <programme start="20240407232400" stop="20240407235000" channel="hubei">
+        <title lang="zh">重播:大揭秘</title>
+    </programme>
+    <programme start="20240407235000" stop="20240408000000" channel="hubei">
+        <title lang="zh">直播:天生我�</title>
+    </programme>
+    <programme start="20240408000000" stop="20240408004000" channel="hubei">
+        <title lang="zh">天生我财</title>
+    </programme>
+    <programme start="20240408004000" stop="20240408012200" channel="hubei">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408012200" stop="20240408020500" channel="hubei">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408020500" stop="20240408025700" channel="hubei">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408025700" stop="20240408035000" channel="hubei">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408035000" stop="20240408042900" channel="hubei">
+        <title lang="zh">天生我财</title>
+    </programme>
+    <programme start="20240408042900" stop="20240408043000" channel="hubei">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408043000" stop="20240408052000" channel="hubei">
+        <title lang="zh">大王.小王</title>
+    </programme>
+    <programme start="20240408052000" stop="20240408060000" channel="hubei">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408060000" stop="20240408070000" channel="hubei">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408070000" stop="20240408075400" channel="hubei">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408075400" stop="20240408090200" channel="hubei">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408090200" stop="20240408095000" channel="hubei">
+        <title lang="zh">天生我财之吾股丰登</title>
+    </programme>
+    <programme start="20240408095000" stop="20240408102500" channel="hubei">
+        <title lang="zh">饮食养生汇</title>
+    </programme>
+    <programme start="20240408102500" stop="20240408103000" channel="hubei">
+        <title lang="zh">湖北天气预报</title>
+    </programme>
+    <programme start="20240408103000" stop="20240408110000" channel="hubei">
+        <title lang="zh">湖北新闻</title>
+    </programme>
+    <programme start="20240408110000" stop="20240408113500" channel="hubei">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20240408113500" stop="20240408122200" channel="hubei">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408122200" stop="20240408131000" channel="hubei">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408131000" stop="20240408133100" channel="hubei">
+        <title lang="zh">湖北10分</title>
+    </programme>
+    <programme start="20240408133100" stop="20240408143100" channel="hubei">
+        <title lang="zh">中国珍稀物种</title>
+    </programme>
+    <programme start="20240408143100" stop="20240408150000" channel="hubei">
+        <title lang="zh">夜观财经</title>
+    </programme>
+    <programme start="20240408150000" stop="20240408155900" channel="hubei">
         <title lang="zh">长江新闻号</title>
     </programme>
     <programme start="20240406160000" stop="20240406173000" channel="hunan">
@@ -9169,6 +9880,93 @@
         <title lang="zh">我是大美人</title>
     </programme>
     <programme start="20240407150000" stop="20240407155900" channel="hunan">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240407205900" stop="20240407210400" channel="hunan">
+        <title lang="zh">新闻当事人</title>
+    </programme>
+    <programme start="20240407210400" stop="20240407213000" channel="hunan">
+        <title lang="zh">我的纪录片</title>
+    </programme>
+    <programme start="20240407213000" stop="20240407215700" channel="hunan">
+        <title lang="zh">新闻大求真</title>
+    </programme>
+    <programme start="20240407215700" stop="20240407230000" channel="hunan">
+        <title lang="zh">我的纪录片</title>
+    </programme>
+    <programme start="20240407230000" stop="20240407230100" channel="hunan">
+        <title lang="zh">中华人民共和国国歌</title>
+    </programme>
+    <programme start="20240407230100" stop="20240407233300" channel="hunan">
+        <title lang="zh">湖南新闻联播</title>
+    </programme>
+    <programme start="20240407233300" stop="20240408001100" channel="hunan">
+        <title lang="zh">电视剧:女人的抉择(16)</title>
+    </programme>
+    <programme start="20240408001100" stop="20240408003300" channel="hunan">
+        <title lang="zh">动画片剧场</title>
+    </programme>
+    <programme start="20240408003300" stop="20240408013400" channel="hunan">
+        <title lang="zh">电视剧:女人的抉择(17)</title>
+    </programme>
+    <programme start="20240408013400" stop="20240408023600" channel="hunan">
+        <title lang="zh">电视剧:女人的抉择(18)</title>
+    </programme>
+    <programme start="20240408023600" stop="20240408032200" channel="hunan">
+        <title lang="zh">电视剧:女人的抉择(19)</title>
+    </programme>
+    <programme start="20240408032200" stop="20240408041000" channel="hunan">
+        <title lang="zh">电视剧:女人的抉择(20)</title>
+    </programme>
+    <programme start="20240408041000" stop="20240408043200" channel="hunan">
+        <title lang="zh">午间新闻</title>
+    </programme>
+    <programme start="20240408043200" stop="20240408044100" channel="hunan">
+        <title lang="zh">卫视气象站</title>
+    </programme>
+    <programme start="20240408044100" stop="20240408055500" channel="hunan">
+        <title lang="zh">电视剧:女人的抉择(21)</title>
+    </programme>
+    <programme start="20240408055500" stop="20240408065200" channel="hunan">
+        <title lang="zh">电视剧:女人的抉择(22)</title>
+    </programme>
+    <programme start="20240408065200" stop="20240408073000" channel="hunan">
+        <title lang="zh">电视剧:女人的抉择(23)</title>
+    </programme>
+    <programme start="20240408073000" stop="20240408081900" channel="hunan">
+        <title lang="zh">电视剧:去有风的地方(24)</title>
+    </programme>
+    <programme start="20240408081900" stop="20240408091000" channel="hunan">
+        <title lang="zh">电视剧:去有风的地方(25)</title>
+    </programme>
+    <programme start="20240408091000" stop="20240408095500" channel="hunan">
+        <title lang="zh">电视剧:去有风的地方(26)</title>
+    </programme>
+    <programme start="20240408095500" stop="20240408103000" channel="hunan">
+        <title lang="zh">平民英雄</title>
+    </programme>
+    <programme start="20240408103000" stop="20240408105700" channel="hunan">
+        <title lang="zh">湖南新闻联播</title>
+    </programme>
+    <programme start="20240408105700" stop="20240408110000" channel="hunan">
+        <title lang="zh">卫视气象站</title>
+    </programme>
+    <programme start="20240408110000" stop="20240408113200" channel="hunan">
+        <title lang="zh">转播中央台新闻联播</title>
+    </programme>
+    <programme start="20240408113200" stop="20240408120900" channel="hunan">
+        <title lang="zh">万物友灵</title>
+    </programme>
+    <programme start="20240408120900" stop="20240408131000" channel="hunan">
+        <title lang="zh">电视剧:与凤行(34)</title>
+    </programme>
+    <programme start="20240408131000" stop="20240408140300" channel="hunan">
+        <title lang="zh">电视剧:与凤行(35)</title>
+    </programme>
+    <programme start="20240408140300" stop="20240408150000" channel="hunan">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408150000" stop="20240408155900" channel="hunan">
         <title lang="zh">电视剧</title>
     </programme>
     <programme start="20240406164600" stop="20240406173500" channel="jiangsu">
@@ -9273,8 +10071,80 @@
     <programme start="20240407182800" stop="20240407191800" channel="jiangsu">
         <title lang="zh">纪录片</title>
     </programme>
-    <programme start="20240407191800" stop="20240408155900" channel="jiangsu">
+    <programme start="20240407191800" stop="20240407204400" channel="jiangsu">
         <title lang="zh">纪录片</title>
+    </programme>
+    <programme start="20240407204400" stop="20240407215400" channel="jiangsu">
+        <title lang="zh">纪录片</title>
+    </programme>
+    <programme start="20240407215400" stop="20240407222900" channel="jiangsu">
+        <title lang="zh">万家灯火</title>
+    </programme>
+    <programme start="20240407222900" stop="20240407230000" channel="jiangsu">
+        <title lang="zh">纪录片:江南文脉</title>
+    </programme>
+    <programme start="20240407230000" stop="20240407232200" channel="jiangsu">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme start="20240407232200" stop="20240408000700" channel="jiangsu">
+        <title lang="zh">早间剧场</title>
+    </programme>
+    <programme start="20240408000700" stop="20240408005600" channel="jiangsu">
+        <title lang="zh">我爱古诗词</title>
+    </programme>
+    <programme start="20240408005600" stop="20240408014500" channel="jiangsu">
+        <title lang="zh">电视剧:人世间</title>
+    </programme>
+    <programme start="20240408014500" stop="20240408023500" channel="jiangsu">
+        <title lang="zh">电视剧:人世间</title>
+    </programme>
+    <programme start="20240408023500" stop="20240408031400" channel="jiangsu">
+        <title lang="zh">电视剧:人世间</title>
+    </programme>
+    <programme start="20240408031400" stop="20240408040000" channel="jiangsu">
+        <title lang="zh">电视剧:人世间</title>
+    </programme>
+    <programme start="20240408040000" stop="20240408043400" channel="jiangsu">
+        <title lang="zh">正午江苏</title>
+    </programme>
+    <programme start="20240408043400" stop="20240408062100" channel="jiangsu">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme start="20240408062100" stop="20240408082800" channel="jiangsu">
+        <title lang="zh">新相亲大会</title>
+    </programme>
+    <programme start="20240408082800" stop="20240408091100" channel="jiangsu">
+        <title lang="zh">电视剧:烟火人家</title>
+    </programme>
+    <programme start="20240408091100" stop="20240408100000" channel="jiangsu">
+        <title lang="zh">电视剧:烟火人家</title>
+    </programme>
+    <programme start="20240408100000" stop="20240408103000" channel="jiangsu">
+        <title lang="zh">新闻眼</title>
+    </programme>
+    <programme start="20240408103000" stop="20240408105200" channel="jiangsu">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme start="20240408105200" stop="20240408110000" channel="jiangsu">
+        <title lang="zh">时空气象站</title>
+    </programme>
+    <programme start="20240408110000" stop="20240408113200" channel="jiangsu">
+        <title lang="zh">转播中央台新闻联播</title>
+    </programme>
+    <programme start="20240408113200" stop="20240408122800" channel="jiangsu">
+        <title lang="zh">电视剧:手术直播间(4)</title>
+    </programme>
+    <programme start="20240408122800" stop="20240408131700" channel="jiangsu">
+        <title lang="zh">电视剧:手术直播间(5)</title>
+    </programme>
+    <programme start="20240408131700" stop="20240408140600" channel="jiangsu">
+        <title lang="zh">一站到底</title>
+    </programme>
+    <programme start="20240408140600" stop="20240408155200" channel="jiangsu">
+        <title lang="zh">新相亲大会</title>
+    </programme>
+    <programme start="20240408155200" stop="20240408155900" channel="jiangsu">
+        <title lang="zh">晚间新闻</title>
     </programme>
     <programme start="20240406204300" stop="20240406213600" channel="jiangxi">
         <title lang="zh">电视剧</title>
@@ -9366,8 +10236,98 @@
     <programme start="20240407172600" stop="20240407185800" channel="jiangxi">
         <title lang="zh">传奇影院</title>
     </programme>
-    <programme start="20240407185800" stop="20240408155900" channel="jiangxi">
+    <programme start="20240407185800" stop="20240407202500" channel="jiangxi">
         <title lang="zh">纪录片:记住乡愁</title>
+    </programme>
+    <programme start="20240407202500" stop="20240407205100" channel="jiangxi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240407205100" stop="20240407214500" channel="jiangxi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240407214500" stop="20240407224000" channel="jiangxi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240407224000" stop="20240407230000" channel="jiangxi">
+        <title lang="zh">江西新闻联播</title>
+    </programme>
+    <programme start="20240407230000" stop="20240407233000" channel="jiangxi">
+        <title lang="zh">晨光新视界</title>
+    </programme>
+    <programme start="20240407233000" stop="20240407235000" channel="jiangxi">
+        <title lang="zh">江西天气预报</title>
+    </programme>
+    <programme start="20240407235000" stop="20240408004200" channel="jiangxi">
+        <title lang="zh">动画片剧场</title>
+    </programme>
+    <programme start="20240408004200" stop="20240408012300" channel="jiangxi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408012300" stop="20240408021900" channel="jiangxi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408021900" stop="20240408031200" channel="jiangxi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408031200" stop="20240408040000" channel="jiangxi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408040000" stop="20240408040200" channel="jiangxi">
+        <title lang="zh">经典传奇</title>
+    </programme>
+    <programme start="20240408040200" stop="20240408042500" channel="jiangxi">
+        <title lang="zh">午间气象</title>
+    </programme>
+    <programme start="20240408042500" stop="20240408045600" channel="jiangxi">
+        <title lang="zh">食不相瞒</title>
+    </programme>
+    <programme start="20240408045600" stop="20240408065400" channel="jiangxi">
+        <title lang="zh">金牌调解</title>
+    </programme>
+    <programme start="20240408065400" stop="20240408074300" channel="jiangxi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408074300" stop="20240408083700" channel="jiangxi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408083700" stop="20240408093200" channel="jiangxi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408093200" stop="20240408101900" channel="jiangxi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408101900" stop="20240408103000" channel="jiangxi">
+        <title lang="zh">社会传真</title>
+    </programme>
+    <programme start="20240408103000" stop="20240408105000" channel="jiangxi">
+        <title lang="zh">江西新闻联播</title>
+    </programme>
+    <programme start="20240408105000" stop="20240408110000" channel="jiangxi">
+        <title lang="zh">江西天气预报</title>
+    </programme>
+    <programme start="20240408110000" stop="20240408113300" channel="jiangxi">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20240408113300" stop="20240408122500" channel="jiangxi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408122500" stop="20240408132000" channel="jiangxi">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408132000" stop="20240408133800" channel="jiangxi">
+        <title lang="zh">1927・十日</title>
+    </programme>
+    <programme start="20240408133800" stop="20240408140700" channel="jiangxi">
+        <title lang="zh">传奇故事</title>
+    </programme>
+    <programme start="20240408140700" stop="20240408144500" channel="jiangxi">
+        <title lang="zh">金牌调解</title>
+    </programme>
+    <programme start="20240408144500" stop="20240408155300" channel="jiangxi">
+        <title lang="zh">新闻夜航</title>
+    </programme>
+    <programme start="20240408155300" stop="20240408155900" channel="jiangxi">
+        <title lang="zh">电视剧</title>
     </programme>
     <programme start="20240406160500" stop="20240406170500" channel="jilin">
         <title lang="zh">电视剧</title>
@@ -9474,6 +10434,105 @@
     <programme start="20240407152100" stop="20240407155900" channel="jilin">
         <title lang="zh">开心十分</title>
     </programme>
+    <programme start="20240407200500" stop="20240407201900" channel="jilin">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240407201900" stop="20240407205000" channel="jilin">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240407205000" stop="20240407212000" channel="jilin">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240407212000" stop="20240407222400" channel="jilin">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240407222400" stop="20240407230000" channel="jilin">
+        <title lang="zh">吉林新闻联播</title>
+    </programme>
+    <programme start="20240407230000" stop="20240407230100" channel="jilin">
+        <title lang="zh">中华人民共和国国歌</title>
+    </programme>
+    <programme start="20240407230100" stop="20240407232100" channel="jilin">
+        <title lang="zh">新闻早报</title>
+    </programme>
+    <programme start="20240407232100" stop="20240408001300" channel="jilin">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408001300" stop="20240408004800" channel="jilin">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408004800" stop="20240408012200" channel="jilin">
+        <title lang="zh">品牌吉林</title>
+    </programme>
+    <programme start="20240408012200" stop="20240408021400" channel="jilin">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408021400" stop="20240408030500" channel="jilin">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408030500" stop="20240408035700" channel="jilin">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408035700" stop="20240408041100" channel="jilin">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408041100" stop="20240408041700" channel="jilin">
+        <title lang="zh">卫视气象站</title>
+    </programme>
+    <programme start="20240408041700" stop="20240408050900" channel="jilin">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408050900" stop="20240408052600" channel="jilin">
+        <title lang="zh">花儿朵朵</title>
+    </programme>
+    <programme start="20240408052600" stop="20240408061800" channel="jilin">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408061800" stop="20240408070900" channel="jilin">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408070900" stop="20240408080000" channel="jilin">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408080000" stop="20240408085700" channel="jilin">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408085700" stop="20240408095700" channel="jilin">
+        <title lang="zh">欢乐送</title>
+    </programme>
+    <programme start="20240408095700" stop="20240408101400" channel="jilin">
+        <title lang="zh">情动十分</title>
+    </programme>
+    <programme start="20240408101400" stop="20240408102200" channel="jilin">
+        <title lang="zh">吉林体彩</title>
+    </programme>
+    <programme start="20240408102200" stop="20240408103000" channel="jilin">
+        <title lang="zh">吉林天气预报</title>
+    </programme>
+    <programme start="20240408103000" stop="20240408110000" channel="jilin">
+        <title lang="zh">吉林新闻联播</title>
+    </programme>
+    <programme start="20240408110000" stop="20240408113300" channel="jilin">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20240408113300" stop="20240408122400" channel="jilin">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408122400" stop="20240408131400" channel="jilin">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408131400" stop="20240408142500" channel="jilin">
+        <title lang="zh">家事</title>
+    </programme>
+    <programme start="20240408142500" stop="20240408152000" channel="jilin">
+        <title lang="zh">欢乐送</title>
+    </programme>
+    <programme start="20240408152000" stop="20240408155000" channel="jilin">
+        <title lang="zh">今晚</title>
+    </programme>
+    <programme start="20240408155000" stop="20240408155900" channel="jilin">
+        <title lang="zh">欢乐送:开心十分</title>
+    </programme>
     <programme start="20240406171100" stop="20240406183300" channel="liaoning">
         <title lang="zh">经典影院</title>
     </programme>
@@ -9559,6 +10618,84 @@
         <title lang="zh">有请主角儿</title>
     </programme>
     <programme start="20240407144500" stop="20240407155900" channel="liaoning">
+        <title lang="zh">经典影院</title>
+    </programme>
+    <programme start="20240407201400" stop="20240407214000" channel="liaoning">
+        <title lang="zh">经典影院</title>
+    </programme>
+    <programme start="20240407214000" stop="20240407223000" channel="liaoning">
+        <title lang="zh">黑土地</title>
+    </programme>
+    <programme start="20240407223000" stop="20240407233000" channel="liaoning">
+        <title lang="zh">第一时间</title>
+    </programme>
+    <programme start="20240407233000" stop="20240407235600" channel="liaoning">
+        <title lang="zh">辽宁新闻</title>
+    </programme>
+    <programme start="20240407235600" stop="20240408003300" channel="liaoning">
+        <title lang="zh">奇幻科学城</title>
+    </programme>
+    <programme start="20240408003300" stop="20240408011600" channel="liaoning">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408011600" stop="20240408021600" channel="liaoning">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408021600" stop="20240408030900" channel="liaoning">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408030900" stop="20240408040000" channel="liaoning">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408040000" stop="20240408044900" channel="liaoning">
+        <title lang="zh">说天下</title>
+    </programme>
+    <programme start="20240408044900" stop="20240408051300" channel="liaoning">
+        <title lang="zh">海洋预报</title>
+    </programme>
+    <programme start="20240408051300" stop="20240408060700" channel="liaoning">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408060700" stop="20240408070100" channel="liaoning">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408070100" stop="20240408074400" channel="liaoning">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408074400" stop="20240408083600" channel="liaoning">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408083600" stop="20240408092800" channel="liaoning">
+        <title lang="zh">欢乐集结号</title>
+    </programme>
+    <programme start="20240408092800" stop="20240408095900" channel="liaoning">
+        <title lang="zh">食全食美</title>
+    </programme>
+    <programme start="20240408095900" stop="20240408102500" channel="liaoning">
+        <title lang="zh">风物辽宁</title>
+    </programme>
+    <programme start="20240408102500" stop="20240408103000" channel="liaoning">
+        <title lang="zh">气象资讯</title>
+    </programme>
+    <programme start="20240408103000" stop="20240408105700" channel="liaoning">
+        <title lang="zh">辽宁新闻</title>
+    </programme>
+    <programme start="20240408105700" stop="20240408110000" channel="liaoning">
+        <title lang="zh">辽宁天气预报</title>
+    </programme>
+    <programme start="20240408110000" stop="20240408113300" channel="liaoning">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20240408113300" stop="20240408122300" channel="liaoning">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408122300" stop="20240408131500" channel="liaoning">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408131500" stop="20240408140000" channel="liaoning">
+        <title lang="zh">有请主角儿</title>
+    </programme>
+    <programme start="20240408140000" stop="20240408155900" channel="liaoning">
         <title lang="zh">经典影院</title>
     </programme>
     <programme start="20240406160300" stop="20240406165700" channel="neimenggu">
@@ -9652,6 +10789,87 @@
         <title lang="zh">马兰花开</title>
     </programme>
     <programme start="20240407150700" stop="20240407155900" channel="neimenggu">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240407200300" stop="20240407210000" channel="neimenggu">
+        <title lang="zh">马兰花开</title>
+    </programme>
+    <programme start="20240407210000" stop="20240407213500" channel="neimenggu">
+        <title lang="zh">欢乐驿站</title>
+    </programme>
+    <programme start="20240407213500" stop="20240407221300" channel="neimenggu">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240407221300" stop="20240407230800" channel="neimenggu">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240407230800" stop="20240407233000" channel="neimenggu">
+        <title lang="zh">福彩草原情</title>
+    </programme>
+    <programme start="20240407233000" stop="20240408000000" channel="neimenggu">
+        <title lang="zh">内蒙古新闻联播</title>
+    </programme>
+    <programme start="20240408000000" stop="20240408005300" channel="neimenggu">
+        <title lang="zh">动画片剧场</title>
+    </programme>
+    <programme start="20240408005300" stop="20240408014200" channel="neimenggu">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408014200" stop="20240408023100" channel="neimenggu">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408023100" stop="20240408031800" channel="neimenggu">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408031800" stop="20240408040700" channel="neimenggu">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408040700" stop="20240408050000" channel="neimenggu">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408050000" stop="20240408053000" channel="neimenggu">
+        <title lang="zh">午间新闻</title>
+    </programme>
+    <programme start="20240408053000" stop="20240408061900" channel="neimenggu">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408061900" stop="20240408071000" channel="neimenggu">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408071000" stop="20240408080100" channel="neimenggu">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408080100" stop="20240408090700" channel="neimenggu">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408090700" stop="20240408095500" channel="neimenggu">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408095500" stop="20240408103000" channel="neimenggu">
+        <title lang="zh">北疆先锋</title>
+    </programme>
+    <programme start="20240408103000" stop="20240408110000" channel="neimenggu">
+        <title lang="zh">内蒙古新闻联播</title>
+    </programme>
+    <programme start="20240408110000" stop="20240408113600" channel="neimenggu">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20240408113600" stop="20240408122900" channel="neimenggu">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408122900" stop="20240408132500" channel="neimenggu">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408132500" stop="20240408134500" channel="neimenggu">
+        <title lang="zh">晚间报道</title>
+    </programme>
+    <programme start="20240408134500" stop="20240408140000" channel="neimenggu">
+        <title lang="zh">新闻再观察</title>
+    </programme>
+    <programme start="20240408140000" stop="20240408150600" channel="neimenggu">
+        <title lang="zh">马兰花开</title>
+    </programme>
+    <programme start="20240408150600" stop="20240408155900" channel="neimenggu">
         <title lang="zh">电视剧</title>
     </programme>
     <programme start="20240406160800" stop="20240406164600" channel="ningxia">
@@ -9778,6 +10996,102 @@
         <title lang="zh">电视剧</title>
     </programme>
     <programme start="20240407154400" stop="20240407155900" channel="ningxia">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240407202200" stop="20240407210500" channel="ningxia">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240407210500" stop="20240407220900" channel="ningxia">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240407220900" stop="20240407223700" channel="ningxia">
+        <title lang="zh">百年巨匠</title>
+    </programme>
+    <programme start="20240407223700" stop="20240407230000" channel="ningxia">
+        <title lang="zh">纪录宁夏</title>
+    </programme>
+    <programme start="20240407230000" stop="20240407232800" channel="ningxia">
+        <title lang="zh">宁夏新闻联播</title>
+    </programme>
+    <programme start="20240407232800" stop="20240408002000" channel="ningxia">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408002000" stop="20240408011200" channel="ningxia">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408011200" stop="20240408020300" channel="ningxia">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408020300" stop="20240408025500" channel="ningxia">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408025500" stop="20240408035600" channel="ningxia">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408035600" stop="20240408041500" channel="ningxia">
+        <title lang="zh">故事</title>
+    </programme>
+    <programme start="20240408041500" stop="20240408043000" channel="ningxia">
+        <title lang="zh">品牌宁夏精编</title>
+    </programme>
+    <programme start="20240408043000" stop="20240408051700" channel="ningxia">
+        <title lang="zh">午间新闻</title>
+    </programme>
+    <programme start="20240408051700" stop="20240408060800" channel="ningxia">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408060800" stop="20240408070100" channel="ningxia">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408070100" stop="20240408075300" channel="ningxia">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408075300" stop="20240408084600" channel="ningxia">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408084600" stop="20240408093700" channel="ningxia">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408093700" stop="20240408101500" channel="ningxia">
+        <title lang="zh">动画片剧场</title>
+    </programme>
+    <programme start="20240408101500" stop="20240408102200" channel="ningxia">
+        <title lang="zh">品牌宁夏</title>
+    </programme>
+    <programme start="20240408102200" stop="20240408103000" channel="ningxia">
+        <title lang="zh">宁夏天气预报</title>
+    </programme>
+    <programme start="20240408103000" stop="20240408110000" channel="ningxia">
+        <title lang="zh">宁夏新闻联播</title>
+    </programme>
+    <programme start="20240408110000" stop="20240408113300" channel="ningxia">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20240408113300" stop="20240408114100" channel="ningxia">
+        <title lang="zh">品牌宁夏</title>
+    </programme>
+    <programme start="20240408114100" stop="20240408123700" channel="ningxia">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408123700" stop="20240408133000" channel="ningxia">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408133000" stop="20240408135600" channel="ningxia">
+        <title lang="zh">宁夏新闻联播</title>
+    </programme>
+    <programme start="20240408135600" stop="20240408135800" channel="ningxia">
+        <title lang="zh">天气预报</title>
+    </programme>
+    <programme start="20240408135800" stop="20240408141400" channel="ningxia">
+        <title lang="zh">新闻话题</title>
+    </programme>
+    <programme start="20240408141400" stop="20240408145400" channel="ningxia">
+        <title lang="zh">这里是宁夏</title>
+    </programme>
+    <programme start="20240408145400" stop="20240408152900" channel="ningxia">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme start="20240408152900" stop="20240408155900" channel="ningxia">
         <title lang="zh">电视剧</title>
     </programme>
     <programme start="20240406161600" stop="20240406181200" channel="qinghai">
@@ -12141,8 +13455,71 @@
     <programme start="20240407191500" stop="20240407194000" channel="xiamen">
         <title lang="zh">阿U学堂之中华诗词篇（闽）</title>
     </programme>
-    <programme start="20240407194000" stop="20240408155900" channel="xiamen">
+    <programme start="20240407194000" stop="20240407220000" channel="xiamen">
         <title lang="zh">两岸秘密档案（闽）</title>
+    </programme>
+    <programme start="20240407220000" stop="20240407230000" channel="xiamen">
+        <title lang="zh">斗阵来看戏（重）</title>
+    </programme>
+    <programme start="20240407230000" stop="20240407230100" channel="xiamen">
+        <title lang="zh">国歌</title>
+    </programme>
+    <programme start="20240407230100" stop="20240407233500" channel="xiamen">
+        <title lang="zh">两岸新新闻（重）</title>
+    </programme>
+    <programme start="20240407233500" stop="20240408000000" channel="xiamen">
+        <title lang="zh">闽南通（重）</title>
+    </programme>
+    <programme start="20240408000000" stop="20240408004500" channel="xiamen">
+        <title lang="zh">玲听两岸（重）</title>
+    </programme>
+    <programme start="20240408004500" stop="20240408012000" channel="xiamen">
+        <title lang="zh">印象中国之诗话中国（闽）（重）</title>
+    </programme>
+    <programme start="20240408012000" stop="20240408040000" channel="xiamen">
+        <title lang="zh">姐妹姐妹（闽）30-32</title>
+    </programme>
+    <programme start="20240408040000" stop="20240408045500" channel="xiamen">
+        <title lang="zh">斗阵来看戏（首）</title>
+    </programme>
+    <programme start="20240408045500" stop="20240408052500" channel="xiamen">
+        <title lang="zh">斗阵来讲古（首）</title>
+    </programme>
+    <programme start="20240408052500" stop="20240408070000" channel="xiamen">
+        <title lang="zh">完美新娘（闽）32-33</title>
+    </programme>
+    <programme start="20240408070000" stop="20240408093500" channel="xiamen">
+        <title lang="zh">边城26-28</title>
+    </programme>
+    <programme start="20240408093500" stop="20240408100000" channel="xiamen">
+        <title lang="zh">《小海豚》日常版《上课啦》（首）</title>
+    </programme>
+    <programme start="20240408100000" stop="20240408103000" channel="xiamen">
+        <title lang="zh">新闻斗阵讲（首）</title>
+    </programme>
+    <programme start="20240408103000" stop="20240408110000" channel="xiamen">
+        <title lang="zh">厦视新闻</title>
+    </programme>
+    <programme start="20240408110000" stop="20240408113500" channel="xiamen">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20240408113500" stop="20240408115000" channel="xiamen">
+        <title lang="zh">两岸一味第一季 1</title>
+    </programme>
+    <programme start="20240408115000" stop="20240408133000" channel="xiamen">
+        <title lang="zh">锻刀之绝地重生2-3</title>
+    </programme>
+    <programme start="20240408133000" stop="20240408140000" channel="xiamen">
+        <title lang="zh">两岸新新闻（首）</title>
+    </programme>
+    <programme start="20240408140000" stop="20240408143500" channel="xiamen">
+        <title lang="zh">两岸直航（首）</title>
+    </programme>
+    <programme start="20240408143500" stop="20240408150500" channel="xiamen">
+        <title lang="zh">两岸秘档</title>
+    </programme>
+    <programme start="20240408150500" stop="20240408155900" channel="xiamen">
+        <title lang="zh">杀寇决20-21</title>
     </programme>
     <programme start="20240406194000" stop="20240406202900" channel="xinjiang">
         <title lang="zh">好大一个家</title>
@@ -12828,8 +14205,86 @@
     <programme start="20240407165000" stop="20240407173500" channel="yanbian">
         <title lang="zh">드라마</title>
     </programme>
-    <programme start="20240407173500" stop="20240408155900" channel="yanbian">
+    <programme start="20240407173500" stop="20240407220000" channel="yanbian">
         <title lang="zh">끝</title>
+    </programme>
+    <programme start="20240407220000" stop="20240407222000" channel="yanbian">
+        <title lang="zh">연변위성뉴스(조)</title>
+    </programme>
+    <programme start="20240407222000" stop="20240407222500" channel="yanbian">
+        <title lang="zh">일기예보</title>
+    </programme>
+    <programme start="20240407222500" stop="20240407224500" channel="yanbian">
+        <title lang="zh">우리네동산</title>
+    </programme>
+    <programme start="20240407224500" stop="20240407230000" channel="yanbian">
+        <title lang="zh">매주일가</title>
+    </programme>
+    <programme start="20240407230000" stop="20240407233000" channel="yanbian">
+        <title lang="zh">연변위성뉴스(한)</title>
+    </programme>
+    <programme start="20240407233000" stop="20240408001000" channel="yanbian">
+        <title lang="zh">신주 어제 그리고 오늘</title>
+    </programme>
+    <programme start="20240408001000" stop="20240408011000" channel="yanbian">
+        <title lang="zh">두만강</title>
+    </programme>
+    <programme start="20240408011000" stop="20240408022000" channel="yanbian">
+        <title lang="zh">요청한마당</title>
+    </programme>
+    <programme start="20240408022000" stop="20240408024500" channel="yanbian">
+        <title lang="zh">연변위성뉴스(조)</title>
+    </programme>
+    <programme start="20240408024500" stop="20240408031500" channel="yanbian">
+        <title lang="zh">드라마</title>
+    </programme>
+    <programme start="20240408031500" stop="20240408040000" channel="yanbian">
+        <title lang="zh">특집프로</title>
+    </programme>
+    <programme start="20240408040000" stop="20240408042000" channel="yanbian">
+        <title lang="zh">연변위성뉴스(한)</title>
+    </programme>
+    <programme start="20240408042000" stop="20240408043000" channel="yanbian">
+        <title lang="zh">일기예보</title>
+    </programme>
+    <programme start="20240408043000" stop="20240408073500" channel="yanbian">
+        <title lang="zh">드라마</title>
+    </programme>
+    <programme start="20240408073500" stop="20240408093500" channel="yanbian">
+        <title lang="zh">드라마</title>
+    </programme>
+    <programme start="20240408093500" stop="20240408100000" channel="yanbian">
+        <title lang="zh">동물세계</title>
+    </programme>
+    <programme start="20240408100000" stop="20240408103500" channel="yanbian">
+        <title lang="zh">그림영화</title>
+    </programme>
+    <programme start="20240408103500" stop="20240408112000" channel="yanbian">
+        <title lang="zh">드라마</title>
+    </programme>
+    <programme start="20240408112000" stop="20240408115500" channel="yanbian">
+        <title lang="zh">고향의 아침</title>
+    </programme>
+    <programme start="20240408115500" stop="20240408125000" channel="yanbian">
+        <title lang="zh">드라마</title>
+    </programme>
+    <programme start="20240408125000" stop="20240408130000" channel="yanbian">
+        <title lang="zh">매주일가</title>
+    </programme>
+    <programme start="20240408130000" stop="20240408132000" channel="yanbian">
+        <title lang="zh">연변위성뉴스(조)</title>
+    </programme>
+    <programme start="20240408132000" stop="20240408132500" channel="yanbian">
+        <title lang="zh">일기예보</title>
+    </programme>
+    <programme start="20240408132500" stop="20240408140000" channel="yanbian">
+        <title lang="zh">신주 어제 그리고 오늘</title>
+    </programme>
+    <programme start="20240408140000" stop="20240408142000" channel="yanbian">
+        <title lang="zh">국내외뉴스(조)</title>
+    </programme>
+    <programme start="20240408142000" stop="20240408155900" channel="yanbian">
+        <title lang="zh">드라마</title>
     </programme>
     <programme start="20240406163300" stop="20240406172700" channel="yunnan">
         <title lang="zh">电视剧</title>
