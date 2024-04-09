@@ -1125,13 +1125,13 @@
     <programme start="20240410001200" stop="20240410013200" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-8</title>
     </programme>
-    <programme start="20240410013200" stop="20240410023200" channel="cctv3">
+    <programme start="20240410013200" stop="20240410023100" channel="cctv3">
         <title lang="zh">我爱满堂彩-2024-2满堂喝彩</title>
     </programme>
-    <programme start="20240410023200" stop="20240410035600" channel="cctv3">
+    <programme start="20240410023100" stop="20240410035500" channel="cctv3">
         <title lang="zh">向幸福出发-2024-14</title>
     </programme>
-    <programme start="20240410035600" stop="20240410040900" channel="cctv3">
+    <programme start="20240410035500" stop="20240410040900" channel="cctv3">
         <title lang="zh">文化十分-2024-81</title>
     </programme>
     <programme start="20240410040900" stop="20240410053300" channel="cctv3">
@@ -1711,7 +1711,7 @@
         <title lang="zh">赛事集锦-2024年国际体联蹦床世界杯-科特布斯站1</title>
     </programme>
     <programme start="20240410010000" stop="20240410020000" channel="cctv5">
-        <title lang="zh">实况录像-2024年举重世界杯  男子102公斤级决赛</title>
+        <title lang="zh">实况录像-2024年举重世界杯  女子49公斤级决赛</title>
     </programme>
     <programme start="20240410020000" stop="20240410043000" channel="cctv5">
         <title lang="zh">2023/2024赛季美国职业篮球联赛-常规赛(勇士-湖人)</title>
@@ -1722,11 +1722,11 @@
     <programme start="20240410050500" stop="20240410052800" channel="cctv5">
         <title lang="zh">艺术里的奥林匹克</title>
     </programme>
-    <programme start="20240410052800" stop="20240410070100" channel="cctv5">
-        <title lang="zh">实况录像-2024年世乒联冠军赛  韩国站  3</title>
+    <programme start="20240410052800" stop="20240410073000" channel="cctv5">
+        <title lang="zh">2024年羽毛球亚锦赛-预赛1</title>
     </programme>
-    <programme start="20240410070100" stop="20240410083100" channel="cctv5">
-        <title lang="zh">实况录像-2023/2024中国男子篮球职业联赛常规赛 第52轮 辽宁本钢-浙江东阳光药</title>
+    <programme start="20240410073000" stop="20240410083100" channel="cctv5">
+        <title lang="zh">实况录像-2024年举重世界杯  男子61公斤级决赛</title>
     </programme>
     <programme start="20240410083100" stop="20240410100000" channel="cctv5">
         <title lang="zh">实况录像-2023/2024欧洲冠军联赛1/4决赛第一回合  阿森纳—拜仁慕尼黑</title>
@@ -1780,7 +1780,7 @@
         <title lang="zh">艺术里的奥林匹克</title>
     </programme>
     <programme start="20240411045800" stop="20240411063100" channel="cctv5">
-        <title lang="zh">实况录像-2024年世乒联冠军赛  韩国站  4</title>
+        <title lang="zh">2024年羽毛球亚锦赛-预赛2</title>
     </programme>
     <programme start="20240411063100" stop="20240411070100" channel="cctv5">
         <title lang="zh">赛事集锦-2024年国际体联蹦床世界杯-科特布斯站25分钟版1</title>
@@ -1956,8 +1956,14 @@
     <programme start="20240411080000" stop="20240411090000" channel="cctv5plus">
         <title lang="zh">赛事集锦-2024年国际体联艺术体操世界杯-帕拉约法利罗站2</title>
     </programme>
-    <programme start="20240411090000" stop="20240411110500" channel="cctv5plus">
-        <title lang="zh">2024年举重世界杯-男子109公斤以上级决赛</title>
+    <programme start="20240411090000" stop="20240411095000" channel="cctv5plus">
+        <title lang="zh">实况录像-2024年世界泳联跳水世界杯 柏林站 女子10米台决赛</title>
+    </programme>
+    <programme start="20240411095000" stop="20240411100500" channel="cctv5plus">
+        <title lang="zh">赛事集锦（奥林匹克）-2024年世界泳联世锦赛 中国队游泳比赛10分钟版1（4K）</title>
+    </programme>
+    <programme start="20240411100500" stop="20240411110500" channel="cctv5plus">
+        <title lang="zh">实况录像-2024年举重世界杯  女子49公斤级决赛</title>
     </programme>
     <programme start="20240411110500" stop="20240411113000" channel="cctv5plus">
         <title lang="zh">实况录像-2024年世界室内田径锦标赛 25分钟版</title>
@@ -4695,14 +4701,8 @@
     <programme start="20240409231000" stop="20240410000000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年世界泳联世锦赛 游泳比赛3</title>
     </programme>
-    <programme start="20240410000000" stop="20240410010000" channel="cctv16">
+    <programme start="20240410000000" stop="20240410040000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年国际体联艺术体操世界杯 帕拉约法利罗站1</title>
-    </programme>
-    <programme start="20240410010000" stop="20240410023000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2024年ATP1000男子网球大师赛 印第安维尔斯站 半决赛</title>
-    </programme>
-    <programme start="20240410023000" stop="20240410040000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2024年世乒联冠军赛 韩国站1</title>
     </programme>
     <programme start="20240410040000" stop="20240410042000" channel="cctv16">
         <title lang="zh">艺术里的奥林匹克-2023-83</title>
@@ -4747,7 +4747,7 @@
         <title lang="zh">艺术里的奥林匹克-2023-85</title>
     </programme>
     <programme start="20240410144500" stop="20240410154500" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2024年举重世界杯  男子102公斤级决赛</title>
+        <title lang="zh">实况录像（奥林匹克）-2024年举重世界杯 女子49公斤级决赛（4K）</title>
     </programme>
     <programme start="20240410154500" stop="20240410155900" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年世乒联大满贯赛 新加坡站2</title>
