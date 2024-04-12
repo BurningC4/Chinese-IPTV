@@ -513,10 +513,10 @@
     <programme start="20240413113800" stop="20240413120600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20240413120600" stop="20240413135200" channel="cctv1">
+    <programme start="20240413120600" stop="20240413134800" channel="cctv1">
         <title lang="zh">2024中国诗词大会-6</title>
     </programme>
-    <programme start="20240413135200" stop="20240413140000" channel="cctv1">
+    <programme start="20240413134800" stop="20240413140000" channel="cctv1">
         <title lang="zh">精彩一刻-2024-173国宝三砖画</title>
     </programme>
     <programme start="20240413140000" stop="20240413143400" channel="cctv1">
@@ -1725,8 +1725,11 @@
     <programme start="20240414113000" stop="20240414135000" channel="cctv5">
         <title lang="zh">2023/2024赛季中国男子篮球职业联赛季后赛-12进8 第二场（北京北汽-上海久事）</title>
     </programme>
-    <programme start="20240414135000" stop="20240414153500" channel="cctv5">
+    <programme start="20240414135000" stop="20240414150500" channel="cctv5">
         <title lang="zh">2023/2024英格兰足球超级联赛-第33轮（利物浦—水晶宫）</title>
+    </programme>
+    <programme start="20240414150500" stop="20240414153500" channel="cctv5">
+        <title lang="zh">实况录像-2024年国际篮联三人篮球亚洲杯  5</title>
     </programme>
     <programme start="20240414153500" stop="20240414155900" channel="cctv5">
         <title lang="zh">实况录像-2023/2024欧洲冠军联赛1/4决赛第一回合  马德里竞技—多特蒙德</title>
@@ -4500,14 +4503,11 @@
     <programme start="20240412233200" stop="20240413010200" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年世界花样滑冰锦标赛 女单自由滑</title>
     </programme>
-    <programme start="20240413010200" stop="20240413065000" channel="cctv16">
+    <programme start="20240413010200" stop="20240413020000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年国际体联艺术体操世界杯 帕拉约法利罗站1（4K）</title>
     </programme>
-    <programme start="20240413065000" stop="20240413070500" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2024年国际体联艺术体操世界杯 帕拉约法利罗站1</title>
-    </programme>
-    <programme start="20240413070500" stop="20240413075000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2024年世界泳联跳水世界杯 柏林站 男子3米板决赛（4K）</title>
+    <programme start="20240413020000" stop="20240413075000" channel="cctv16">
+        <title lang="zh">2024年羽毛球亚锦赛-半决赛</title>
     </programme>
     <programme start="20240413075000" stop="20240413081000" channel="cctv16">
         <title lang="zh">艺术里的奥林匹克-2023-93</title>
@@ -4534,7 +4534,7 @@
         <title lang="zh">实况录像（奥林匹克）-2023/2024赛季中国男子篮球职业联赛 季后赛 12进8 第二场</title>
     </programme>
     <programme start="20240413154500" stop="20240413155900" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2024年举重世界杯  女子81公斤级决赛</title>
+        <title lang="zh">实况录像（奥林匹克）-2024年举重世界杯 男子73公斤级决赛（4K）</title>
     </programme>
     <programme start="20240413164500" stop="20240413174500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年世界雪车锦标赛 男子钢架雪车决赛</title>
