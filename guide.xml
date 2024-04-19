@@ -612,10 +612,10 @@
     <programme start="20240421113800" stop="20240421120600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20240421120600" stop="20240421134800" channel="cctv1">
-        <title lang="zh">简牍探中华-5</title>
+    <programme start="20240421120600" stop="20240421134400" channel="cctv1">
+        <title lang="zh">中国中医药大会-8</title>
     </programme>
-    <programme start="20240421134800" stop="20240421140000" channel="cctv1">
+    <programme start="20240421134400" stop="20240421140000" channel="cctv1">
         <title lang="zh">精彩一刻-2024-179国宝三黄河铁牛</title>
     </programme>
     <programme start="20240421140000" stop="20240421143400" channel="cctv1">
@@ -1650,11 +1650,11 @@
     <programme start="20240420110000" stop="20240420130000" channel="cctv5">
         <title lang="zh">2024年世界田联钻石联赛-厦门站</title>
     </programme>
-    <programme start="20240420130000" stop="20240420150000" channel="cctv5">
-        <title lang="zh">2024卡塔尔U23亚洲杯-小组赛D组（马来西亚队-越南队）</title>
+    <programme start="20240420130000" stop="20240420135000" channel="cctv5">
+        <title lang="zh">2024年全国游泳冠军赛-男子400米个人混合泳决赛等</title>
     </programme>
-    <programme start="20240420150000" stop="20240420152500" channel="cctv5">
-        <title lang="zh">实况录像-2024年国际篮联三人篮球亚洲杯  3</title>
+    <programme start="20240420135000" stop="20240420152500" channel="cctv5">
+        <title lang="zh">实况录像-2024年国际乒联单打世界杯 半决赛等（录播）</title>
     </programme>
     <programme start="20240420152500" stop="20240420155900" channel="cctv5">
         <title lang="zh">2024卡塔尔U23亚洲杯-小组赛D组（科威特队-乌兹别克斯坦队）</title>
@@ -1668,17 +1668,11 @@
     <programme start="20240420200000" stop="20240420220000" channel="cctv5">
         <title lang="zh">2024年世界男子冰壶锦标赛- 金牌赛</title>
     </programme>
-    <programme start="20240420220000" stop="20240420233000" channel="cctv5">
+    <programme start="20240420220000" stop="20240420232400" channel="cctv5">
         <title lang="zh">实况录像-2023/2024赛季中国男子篮球职业联赛 季后赛 12进8 第六场</title>
     </programme>
-    <programme start="20240420233000" stop="20240421000000" channel="cctv5">
-        <title lang="zh">健身动起来</title>
-    </programme>
-    <programme start="20240421000000" stop="20240421010100" channel="cctv5">
-        <title lang="zh">赛事集锦-2024年国际体联艺术体操世界杯-索菲亚站2</title>
-    </programme>
-    <programme start="20240421010100" stop="20240421023000" channel="cctv5">
-        <title lang="zh">实况录像-2023/2024欧洲冠军联赛1/4决赛第二回合 拜仁慕尼黑—阿森纳</title>
+    <programme start="20240420232400" stop="20240421023000" channel="cctv5">
+        <title lang="zh">现场直播-2024年青岛马拉松</title>
     </programme>
     <programme start="20240421023000" stop="20240421040000" channel="cctv5">
         <title lang="zh">实况录像-2023/2024赛季中国男子篮球职业联赛 季后赛 1/4决赛（录播）</title>
@@ -1707,11 +1701,14 @@
     <programme start="20240421113000" stop="20240421133000" channel="cctv5">
         <title lang="zh">2024年国际乒联单打世界杯-决赛</title>
     </programme>
-    <programme start="20240421133000" stop="20240421135500" channel="cctv5">
-        <title lang="zh">实况录像-2024年世界泳联跳水世界杯总决赛 男子10米台决赛（录播）</title>
+    <programme start="20240421133000" stop="20240421150000" channel="cctv5">
+        <title lang="zh">2024年全国游泳冠军赛-女子400米个人混合泳决赛等</title>
     </programme>
-    <programme start="20240421135500" stop="20240421155900" channel="cctv5">
-        <title lang="zh">2023/2024英格兰足球超级联赛-第34轮（水晶宫-西汉姆联）</title>
+    <programme start="20240421150000" stop="20240421153500" channel="cctv5">
+        <title lang="zh">实况录像-2024年世界泳联跳水世界杯总决赛男子10米台决赛（录播）</title>
+    </programme>
+    <programme start="20240421153500" stop="20240421155900" channel="cctv5">
+        <title lang="zh">赛事集锦(高清体育)-2024-33-2024年国际体联艺术体操世界杯-索菲亚站</title>
     </programme>
     <programme start="20240418170500" stop="20240418183500" channel="cctv5plus">
         <title lang="zh">赛事集锦-2023年中国羽毛球大师赛1</title>
@@ -1785,8 +1782,11 @@
     <programme start="20240419230000" stop="20240420000000" channel="cctv5plus">
         <title lang="zh">赛事集锦-2024年国际体联蹦床世界杯-科特布斯站2</title>
     </programme>
-    <programme start="20240420000000" stop="20240420025000" channel="cctv5plus">
-        <title lang="zh">2023/2024赛季北美冰球职业联赛-季后赛1</title>
+    <programme start="20240420000000" stop="20240420012800" channel="cctv5plus">
+        <title lang="zh">实况录像-2024年ATP1000男子网球大师赛 蒙特卡洛站 半决赛</title>
+    </programme>
+    <programme start="20240420012800" stop="20240420025000" channel="cctv5plus">
+        <title lang="zh">实况录像-2023/2024欧洲冠军联赛1/4决赛第二回合 曼城—皇家马德里</title>
     </programme>
     <programme start="20240420025000" stop="20240420041000" channel="cctv5plus">
         <title lang="zh">2024年世界一级方程式锦标赛-中国大奖赛 冲刺赛</title>
@@ -1836,11 +1836,14 @@
     <programme start="20240420230000" stop="20240420233000" channel="cctv5plus">
         <title lang="zh">实况录像-2024年国际篮联三人篮球亚洲杯  1</title>
     </programme>
-    <programme start="20240420233000" stop="20240421010000" channel="cctv5plus">
-        <title lang="zh">实况录像-2024年ATP1000男子网球大师赛 蒙特卡洛站 半决赛</title>
+    <programme start="20240420233000" stop="20240421000000" channel="cctv5plus">
+        <title lang="zh">实况录像-2024年国际篮联三人篮球亚洲杯  2</title>
     </programme>
-    <programme start="20240421010000" stop="20240421040500" channel="cctv5plus">
-        <title lang="zh">2023/2024赛季北美冰球职业联赛-季后赛2</title>
+    <programme start="20240421000000" stop="20240421030500" channel="cctv5plus">
+        <title lang="zh">2023/2024赛季北美冰球职业联赛斯坦利杯-季后赛1（多伦多枫叶-波士顿棕熊）</title>
+    </programme>
+    <programme start="20240421030500" stop="20240421040500" channel="cctv5plus">
+        <title lang="zh">实况录像-2024年举重世界杯  女子49公斤级决赛</title>
     </programme>
     <programme start="20240421040500" stop="20240421053500" channel="cctv5plus">
         <title lang="zh">实况录像-2023/2024赛季中国男子篮球职业联赛 季后赛 1/4决赛 2</title>
