@@ -612,14 +612,23 @@
     <programme start="20240428110000" stop="20240428113800" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20240428113800" stop="20240428120600" channel="cctv1">
+    <programme start="20240428113800" stop="20240428115900" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20240428120600" stop="20240428134000" channel="cctv1">
-        <title lang="zh">中国中医药大会-9</title>
+    <programme start="20240428115900" stop="20240428120600" channel="cctv1">
+        <title lang="zh">前情提要-《城中之城》29/40</title>
     </programme>
-    <programme start="20240428134000" stop="20240428140000" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+    <programme start="20240428120600" stop="20240428125600" channel="cctv1">
+        <title lang="zh">城中之城-（一套版）-29/40</title>
+    </programme>
+    <programme start="20240428125600" stop="20240428125800" channel="cctv1">
+        <title lang="zh">前情提要-《城中之城》30/40</title>
+    </programme>
+    <programme start="20240428125800" stop="20240428135000" channel="cctv1">
+        <title lang="zh">城中之城-（一套版）-30/40</title>
+    </programme>
+    <programme start="20240428135000" stop="20240428140000" channel="cctv1">
+        <title lang="zh">精彩一刻-2024-164国宝四宋代海船</title>
     </programme>
     <programme start="20240428140000" stop="20240428143500" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -1041,19 +1050,22 @@
     <programme start="20240426180900" stop="20240426185600" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-361</title>
     </programme>
-    <programme start="20240426185600" stop="20240426201500" channel="cctv3">
+    <programme start="20240426185600" stop="20240426201600" channel="cctv3">
         <title lang="zh">经典咏流传-正青春-19</title>
     </programme>
-    <programme start="20240426201500" stop="20240426213600" channel="cctv3">
-        <title lang="zh">我的艺术清单-每本书都是不一样的春天</title>
+    <programme start="20240426201600" stop="20240426202500" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2023-936</title>
     </programme>
-    <programme start="20240426213600" stop="20240426223700" channel="cctv3">
+    <programme start="20240426202500" stop="20240426213100" channel="cctv3">
+        <title lang="zh">我的艺术清单-2024-14 每本书都是不一样的春天</title>
+    </programme>
+    <programme start="20240426213100" stop="20240426223200" channel="cctv3">
         <title lang="zh">非常6+1-2023-48</title>
     </programme>
-    <programme start="20240426223700" stop="20240426230300" channel="cctv3">
+    <programme start="20240426223200" stop="20240426225800" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-359</title>
     </programme>
-    <programme start="20240426230300" stop="20240426231300" channel="cctv3">
+    <programme start="20240426225800" stop="20240426231300" channel="cctv3">
         <title lang="zh">文化十分-2024-93</title>
     </programme>
     <programme start="20240426231300" stop="20240427000800" channel="cctv3">
@@ -1221,11 +1233,14 @@
     <programme start="20240426012800" stop="20240426020000" channel="cctv4">
         <title lang="zh">中国文艺-2024-84</title>
     </programme>
-    <programme start="20240426020000" stop="20240426030000" channel="cctv4">
+    <programme start="20240426020000" stop="20240426031000" channel="cctv4">
         <title lang="zh">2024年国新办发布会-28</title>
     </programme>
-    <programme start="20240426030000" stop="20240426033000" channel="cctv4">
-        <title lang="zh">国家记忆-2024-19</title>
+    <programme start="20240426031000" stop="20240426032000" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-22</title>
+    </programme>
+    <programme start="20240426032000" stop="20240426033000" channel="cctv4">
+        <title lang="zh">记住乡愁2018片段展播-10</title>
     </programme>
     <programme start="20240426033000" stop="20240426040000" channel="cctv4">
         <title lang="zh">海峡两岸-2024-116</title>
@@ -2446,13 +2461,13 @@
         <title lang="zh">本集提要- 《承欢记》第35集</title>
     </programme>
     <programme start="20240426113000" stop="20240426122500" channel="cctv8">
-        <title lang="zh">承欢记35/37</title>
+        <title lang="zh">承欢记第35集</title>
     </programme>
     <programme start="20240426122500" stop="20240426123000" channel="cctv8">
         <title lang="zh">本集提要- 《承欢记》第36集</title>
     </programme>
     <programme start="20240426123000" stop="20240426132300" channel="cctv8">
-        <title lang="zh">承欢记36/37</title>
+        <title lang="zh">承欢记第36集</title>
     </programme>
     <programme start="20240426132300" stop="20240426132700" channel="cctv8">
         <title lang="zh">本集提要- 《春色寄情人》第5集</title>
