@@ -495,10 +495,10 @@
     <programme start="20240501113800" stop="20240501120600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20240501120600" stop="20240501134200" channel="cctv1">
+    <programme start="20240501120600" stop="20240501134100" channel="cctv1">
         <title lang="zh">中国梦劳动美-2024五一国际劳动节“心连心”特别节目-1</title>
     </programme>
-    <programme start="20240501134200" stop="20240501140000" channel="cctv1">
+    <programme start="20240501134100" stop="20240501140000" channel="cctv1">
         <title lang="zh">2024秘境之眼-向海之约(4K)</title>
     </programme>
     <programme start="20240501140000" stop="20240501143600" channel="cctv1">
@@ -1695,17 +1695,20 @@
     <programme start="20240430233000" stop="20240501000000" channel="cctv5">
         <title lang="zh">健身动起来</title>
     </programme>
-    <programme start="20240501000000" stop="20240501010000" channel="cctv5">
+    <programme start="20240501000000" stop="20240501005500" channel="cctv5">
         <title lang="zh">实况录像-2024年举重世界杯  女子49公斤级决赛</title>
     </programme>
-    <programme start="20240501010000" stop="20240501040000" channel="cctv5">
-        <title lang="zh">2023/2024赛季美国职业篮球联赛-季后赛6</title>
+    <programme start="20240501005500" stop="20240501011000" channel="cctv5">
+        <title lang="zh">赛事集锦（奥林匹克）-2024年世界泳联花样游泳世界杯 北京站 10分钟版（4K）</title>
     </programme>
-    <programme start="20240501040000" stop="20240501043500" channel="cctv5">
-        <title lang="zh">体坛快讯</title>
-    </programme>
-    <programme start="20240501043500" stop="20240501045500" channel="cctv5">
+    <programme start="20240501011000" stop="20240501013000" channel="cctv5">
         <title lang="zh">艺术里的奥林匹克</title>
+    </programme>
+    <programme start="20240501013000" stop="20240501042500" channel="cctv5">
+        <title lang="zh">2023/2024赛季美国职业篮球联赛-季后赛第1轮（步行者-雄鹿）第五场</title>
+    </programme>
+    <programme start="20240501042500" stop="20240501045500" channel="cctv5">
+        <title lang="zh">体坛快讯</title>
     </programme>
     <programme start="20240501045500" stop="20240501062500" channel="cctv5">
         <title lang="zh">实况录像-2023/2024欧洲冠军联赛 半决赛第一回合 拜仁慕尼黑-皇家马德里（录播）</title>
@@ -1726,7 +1729,7 @@
         <title lang="zh">冠军欧洲</title>
     </programme>
     <programme start="20240501113000" stop="20240501134500" channel="cctv5">
-        <title lang="zh">2023/2024赛季中国男子篮球职业联赛-半决赛1</title>
+        <title lang="zh">2023/2024赛季中国男子篮球职业联赛-半决赛（辽宁本钢-广东华南虎）第一场</title>
     </programme>
     <programme start="20240501134500" stop="20240501142000" channel="cctv5">
         <title lang="zh">体育世界</title>
@@ -1770,11 +1773,11 @@
     <programme start="20240502043000" stop="20240502050500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20240502050500" stop="20240502052500" channel="cctv5">
+    <programme start="20240502050500" stop="20240502052600" channel="cctv5">
         <title lang="zh">艺术里的奥林匹克</title>
     </programme>
-    <programme start="20240502052500" stop="20240502065800" channel="cctv5">
-        <title lang="zh">实况录像-2023/2024欧洲冠军联赛 半决赛第一回合 多特蒙德-巴黎圣日耳曼（录播）</title>
+    <programme start="20240502052600" stop="20240502065800" channel="cctv5">
+        <title lang="zh">实况录像-2023/2024赛季欧洲篮球联赛 季后赛 奥林匹亚科斯-巴塞罗那  3</title>
     </programme>
     <programme start="20240502065800" stop="20240502080000" channel="cctv5">
         <title lang="zh">赛事集锦-2024年巴黎奥运会摔跤亚洲区资格赛3</title>
@@ -1792,7 +1795,7 @@
         <title lang="zh">冠军欧洲</title>
     </programme>
     <programme start="20240502113000" stop="20240502134500" channel="cctv5">
-        <title lang="zh">2023/2024赛季中国男子篮球职业联赛-半决赛2</title>
+        <title lang="zh">2023/2024赛季中国男子篮球职业联赛-半决赛（新疆伊力特-浙江稠州金租）第一场</title>
     </programme>
     <programme start="20240502134500" stop="20240502142000" channel="cctv5">
         <title lang="zh">体育世界</title>
@@ -1801,7 +1804,7 @@
         <title lang="zh">赛事集锦-2024年国际体联艺术体操世界杯-塔什干站1</title>
     </programme>
     <programme start="20240502152000" stop="20240502155900" channel="cctv5">
-        <title lang="zh">2024卡塔尔U23亚洲杯-3、4名决赛</title>
+        <title lang="zh">2024卡塔尔U23亚洲杯-3、4名决赛（伊拉克-印度尼西亚）</title>
     </programme>
     <programme start="20240429160500" stop="20240429173500" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2023/2024赛季四大洲花样滑冰锦标赛 男单自由滑（4K）</title>
@@ -2683,13 +2686,13 @@
         <title lang="zh">本集提要- 《微暗之火》第8集</title>
     </programme>
     <programme start="20240501113000" stop="20240501122500" channel="cctv8">
-        <title lang="zh">微暗之火8/28</title>
+        <title lang="zh">微暗之火第8集</title>
     </programme>
     <programme start="20240501122500" stop="20240501123000" channel="cctv8">
-        <title lang="zh">本集提要-《微暗之火》9/28</title>
+        <title lang="zh">本集提要- 《微暗之火》第9集</title>
     </programme>
     <programme start="20240501123000" stop="20240501132200" channel="cctv8">
-        <title lang="zh">微暗之火9/28</title>
+        <title lang="zh">微暗之火第9集</title>
     </programme>
     <programme start="20240501132200" stop="20240501132600" channel="cctv8">
         <title lang="zh">本集提要- 《春色寄情人》第10集</title>
