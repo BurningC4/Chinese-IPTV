@@ -1740,11 +1740,14 @@
     <programme start="20240527223000" stop="20240527230000" channel="cctv5">
         <title lang="zh">健身动起来</title>
     </programme>
-    <programme start="20240527230000" stop="20240528010000" channel="cctv5">
+    <programme start="20240527230000" stop="20240528000500" channel="cctv5">
         <title lang="zh">体坛晨报</title>
     </programme>
-    <programme start="20240528010000" stop="20240528040000" channel="cctv5">
+    <programme start="20240528000500" stop="20240528030000" channel="cctv5">
         <title lang="zh">2023/2024赛季美国职业篮球联赛-东部决赛 凯尔特人-步行者(4)</title>
+    </programme>
+    <programme start="20240528030000" stop="20240528040000" channel="cctv5">
+        <title lang="zh">2023/2024赛季欧洲篮球联赛- 半决赛2</title>
     </programme>
     <programme start="20240528040000" stop="20240528043500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
@@ -1770,16 +1773,16 @@
     <programme start="20240528103500" stop="20240528110000" channel="cctv5">
         <title lang="zh">实况录像-2024年奥运会滑板资格赛 上海站 决赛</title>
     </programme>
-    <programme start="20240528110000" stop="20240528112500" channel="cctv5">
+    <programme start="20240528110000" stop="20240528113000" channel="cctv5">
         <title lang="zh">实况录像-2024年奥运会自由式小轮车资格赛 上海站 决赛</title>
     </programme>
-    <programme start="20240528112500" stop="20240528134500" channel="cctv5">
-        <title lang="zh">2023/2024赛季中国男子篮球职业联赛-总决赛第六场(新疆伊力特-辽宁本钢)</title>
+    <programme start="20240528113000" stop="20240528133000" channel="cctv5">
+        <title lang="zh">2024年世界女排联赛-中国澳门站(巴西队-日本队)</title>
     </programme>
-    <programme start="20240528134500" stop="20240528141500" channel="cctv5">
+    <programme start="20240528133000" stop="20240528140000" channel="cctv5">
         <title lang="zh">体育世界</title>
     </programme>
-    <programme start="20240528141500" stop="20240528155900" channel="cctv5">
+    <programme start="20240528140000" stop="20240528155900" channel="cctv5">
         <title lang="zh">2024年法国网球公开赛-第1轮3</title>
     </programme>
     <programme start="20240528170500" stop="20240528173500" channel="cctv5">
@@ -1800,11 +1803,14 @@
     <programme start="20240528223000" stop="20240528230000" channel="cctv5">
         <title lang="zh">健身动起来</title>
     </programme>
-    <programme start="20240528230000" stop="20240529010000" channel="cctv5">
+    <programme start="20240528230000" stop="20240529003000" channel="cctv5">
         <title lang="zh">体坛晨报</title>
     </programme>
-    <programme start="20240529010000" stop="20240529040000" channel="cctv5">
+    <programme start="20240529003000" stop="20240529033000" channel="cctv5">
         <title lang="zh">2023/2024赛季美国职业篮球联赛-西部决赛 森林狼-独行侠(4)</title>
+    </programme>
+    <programme start="20240529033000" stop="20240529040000" channel="cctv5">
+        <title lang="zh">实况录像-2024年奥运会滑板资格赛 上海站 决赛</title>
     </programme>
     <programme start="20240529040000" stop="20240529043500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
@@ -1813,13 +1819,16 @@
         <title lang="zh">艺术里的奥林匹克</title>
     </programme>
     <programme start="20240529045800" stop="20240529063000" channel="cctv5">
-        <title lang="zh">实况录像-2023/2024赛季中国男子篮球职业联赛 季后赛 总决赛 6</title>
+        <title lang="zh">2023/2024赛季欧洲篮球联赛-半决赛1</title>
     </programme>
-    <programme start="20240529063000" stop="20240529073000" channel="cctv5">
-        <title lang="zh">实况录像-2024年皮划艇静水世界杯 匈牙利站 2</title>
+    <programme start="20240529063000" stop="20240529072000" channel="cctv5">
+        <title lang="zh">实况录像-2024年皮划艇静水世界杯 匈牙利站2</title>
+    </programme>
+    <programme start="20240529072000" stop="20240529073000" channel="cctv5">
+        <title lang="zh">赛事集锦（奥林匹克）-2024年全国游泳冠军赛 10分钟版1（4K）</title>
     </programme>
     <programme start="20240529073000" stop="20240529080000" channel="cctv5">
-        <title lang="zh">赛事集锦-2024年射箭世界杯 仁川站2</title>
+        <title lang="zh">赛事集锦(高清体育)-2024-56-2024年射箭世界杯 醴泉站2</title>
     </programme>
     <programme start="20240529080000" stop="20240529100000" channel="cctv5">
         <title lang="zh">2024年世界女排联赛-中国澳门站 (意大利队-法国队)</title>
@@ -1911,8 +1920,11 @@
     <programme start="20240528010000" stop="20240528013000" channel="cctv5plus">
         <title lang="zh">欧冠开场哨</title>
     </programme>
-    <programme start="20240528013000" stop="20240528023000" channel="cctv5plus">
-        <title lang="zh">实况录像-2024年皮划艇静水世界杯 匈牙利站 2</title>
+    <programme start="20240528013000" stop="20240528022000" channel="cctv5plus">
+        <title lang="zh">实况录像-2024年皮划艇静水世界杯 匈牙利站2</title>
+    </programme>
+    <programme start="20240528022000" stop="20240528023000" channel="cctv5plus">
+        <title lang="zh">实况录像-2024年全国游泳冠军赛  10分钟版  1</title>
     </programme>
     <programme start="20240528023000" stop="20240528040000" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2024年国际冰联男子冰球世界锦标赛 顶级组 三四名决赛（4K）</title>
@@ -1929,14 +1941,11 @@
     <programme start="20240528083000" stop="20240528090000" channel="cctv5plus">
         <title lang="zh">实况录像-2024年奥运会自由式小轮车资格赛 上海站 决赛</title>
     </programme>
-    <programme start="20240528090000" stop="20240528113000" channel="cctv5plus">
+    <programme start="20240528090000" stop="20240528133500" channel="cctv5plus">
         <title lang="zh">2024年法国网球公开赛-第一轮3</title>
     </programme>
-    <programme start="20240528113000" stop="20240528133500" channel="cctv5plus">
-        <title lang="zh">2024年世界女排联赛-中国澳门站（巴西队—日本队）</title>
-    </programme>
     <programme start="20240528133500" stop="20240528140500" channel="cctv5plus">
-        <title lang="zh">赛事集锦-2024年射箭世界杯 仁川站1</title>
+        <title lang="zh">赛事集锦(高清体育)-2024-55-2024年射箭世界杯 醴泉站1</title>
     </programme>
     <programme start="20240528140500" stop="20240528153500" channel="cctv5plus">
         <title lang="zh">2023/2024赛季欧洲篮球联赛-决赛</title>
@@ -4723,7 +4732,7 @@
         <title lang="zh">实况录像（奥林匹克）-2024年世界男排联赛 巴西站 巴西队-意大利队</title>
     </programme>
     <programme start="20240528112500" stop="20240528115500" channel="cctv16">
-        <title lang="zh">赛事集锦（奥林匹克）-2024年射箭世界杯 仁川站1</title>
+        <title lang="zh">赛事集锦（奥林匹克）-2024年射箭世界杯 醴泉站1（4K）</title>
     </programme>
     <programme start="20240528115500" stop="20240528121000" channel="cctv16">
         <title lang="zh">场•面-2021-1</title>
@@ -4734,8 +4743,11 @@
     <programme start="20240528122000" stop="20240528124000" channel="cctv16">
         <title lang="zh">艺术里的奥林匹克-2024-25</title>
     </programme>
-    <programme start="20240528124000" stop="20240528134000" channel="cctv16">
+    <programme start="20240528124000" stop="20240528132500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年皮划艇静水世界杯 匈牙利站2</title>
+    </programme>
+    <programme start="20240528132500" stop="20240528134000" channel="cctv16">
+        <title lang="zh">赛事集锦（奥林匹克）-2024年世界泳联花样游泳世界杯 北京站 10分钟版（4K）</title>
     </programme>
     <programme start="20240528134000" stop="20240528151000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年世界田联钻石联赛 尤金站</title>
@@ -4807,7 +4819,7 @@
         <title lang="zh">实况录像（奥林匹克）-2024年世界男排联赛 巴西站 日本队-意大利队</title>
     </programme>
     <programme start="20240529112500" stop="20240529115500" channel="cctv16">
-        <title lang="zh">赛事集锦（奥林匹克）-2024年射箭世界杯 仁川站2</title>
+        <title lang="zh">赛事集锦（奥林匹克）-2024年射箭世界杯 醴泉站2（4K）</title>
     </programme>
     <programme start="20240529115500" stop="20240529122500" channel="cctv16">
         <title lang="zh">五环纪事-尤伯杯战记</title>
