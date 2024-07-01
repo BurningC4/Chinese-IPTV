@@ -507,10 +507,10 @@
     <programme start="20240702120600" stop="20240702125700" channel="cctv1">
         <title lang="zh">海天雄鹰第26集</title>
     </programme>
-    <programme start="20240702125700" stop="20240702125900" channel="cctv1">
+    <programme start="20240702125700" stop="20240702130000" channel="cctv1">
         <title lang="zh">前情提要- 《海天雄鹰》第27集</title>
     </programme>
-    <programme start="20240702125900" stop="20240702140000" channel="cctv1">
+    <programme start="20240702130000" stop="20240702140000" channel="cctv1">
         <title lang="zh">海天雄鹰第27集</title>
     </programme>
     <programme start="20240702140000" stop="20240702143500" channel="cctv1">
@@ -3717,17 +3717,17 @@
     <programme start="20240701182700" stop="20240701220300" channel="cctv12">
         <title lang="zh">再见</title>
     </programme>
-    <programme start="20240701220300" stop="20240701223400" channel="cctv12">
+    <programme start="20240701220300" stop="20240701223600" channel="cctv12">
         <title lang="zh">法律讲堂-2023-277</title>
     </programme>
-    <programme start="20240701223400" stop="20240701230600" channel="cctv12">
+    <programme start="20240701223600" stop="20240701231800" channel="cctv12">
+        <title lang="zh">一线-2024-131</title>
+    </programme>
+    <programme start="20240701231800" stop="20240701235200" channel="cctv12">
         <title lang="zh">天网-2024-131</title>
     </programme>
-    <programme start="20240701230600" stop="20240701235100" channel="cctv12">
-        <title lang="zh">12剧懂法-95</title>
-    </programme>
-    <programme start="20240701235100" stop="20240702003500" channel="cctv12">
-        <title lang="zh">12剧懂法-96</title>
+    <programme start="20240701235200" stop="20240702003500" channel="cctv12">
+        <title lang="zh">现场-2024-13</title>
     </programme>
     <programme start="20240702003500" stop="20240702011000" channel="cctv12">
         <title lang="zh">夕阳红-2024-184</title>
@@ -4410,19 +4410,16 @@
     <programme start="20240701120600" stop="20240701134400" channel="cctv15">
         <title lang="zh">庆祝中国共产党成立103周年交响音乐会-1</title>
     </programme>
-    <programme start="20240701134400" stop="20240701150200" channel="cctv15">
-        <title lang="zh">CCTV音乐厅-2024-153-大型主题交响曲《灯塔》</title>
+    <programme start="20240701134400" stop="20240701150400" channel="cctv15">
+        <title lang="zh">乐游天下-2023-44 江山如画-系列交响音乐会-哈尔滨场</title>
     </programme>
-    <programme start="20240701150200" stop="20240701155900" channel="cctv15">
-        <title lang="zh">影视留声机-2024-38-音乐电影《党的女儿》</title>
+    <programme start="20240701150400" stop="20240701155900" channel="cctv15">
+        <title lang="zh">CCTV音乐厅-2024-74-名家名曲（14）</title>
     </programme>
-    <programme start="20240701164600" stop="20240701175300" channel="cctv15">
-        <title lang="zh">江山如画-北京场</title>
-    </programme>
-    <programme start="20240701175300" stop="20240701184200" channel="cctv15">
+    <programme start="20240701160400" stop="20240701165300" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2024-138-名家名曲（57）</title>
     </programme>
-    <programme start="20240701184200" stop="20240701220000" channel="cctv15">
+    <programme start="20240701165300" stop="20240701220000" channel="cctv15">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20240701220000" stop="20240701230400" channel="cctv15">
@@ -4467,19 +4464,19 @@
     <programme start="20240702113000" stop="20240702124500" channel="cctv15">
         <title lang="zh">合唱先锋-2024-18</title>
     </programme>
-    <programme start="20240702124500" stop="20240702140000" channel="cctv15">
+    <programme start="20240702124500" stop="20240702140500" channel="cctv15">
+        <title lang="zh">全球中文音乐榜上榜-江山如画浙江场</title>
+    </programme>
+    <programme start="20240702140500" stop="20240702152100" channel="cctv15">
         <title lang="zh">精彩音乐汇-2024-159</title>
     </programme>
-    <programme start="20240702140000" stop="20240702150000" channel="cctv15">
+    <programme start="20240702152100" stop="20240702155900" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2024-136-名家名曲（55）</title>
     </programme>
-    <programme start="20240702150000" stop="20240702155700" channel="cctv15">
+    <programme start="20240702161600" stop="20240702171300" channel="cctv15">
         <title lang="zh">江山如画-系列交响音乐会-西安场</title>
     </programme>
-    <programme start="20240702155700" stop="20240702155900" channel="cctv15">
-        <title lang="zh">CCTV音乐厅-2024-135-名家名曲（54）</title>
-    </programme>
-    <programme start="20240702164400" stop="20240702220000" channel="cctv15">
+    <programme start="20240702171300" stop="20240702220000" channel="cctv15">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20240702220000" stop="20240702230500" channel="cctv15">
@@ -4489,7 +4486,7 @@
         <title lang="zh">风华国乐-2024-195</title>
     </programme>
     <programme start="20240702234400" stop="20240703005700" channel="cctv15">
-        <title lang="zh">合唱先锋-2024-19</title>
+        <title lang="zh">合唱先锋-2024-21</title>
     </programme>
     <programme start="20240703005700" stop="20240703021300" channel="cctv15">
         <title lang="zh">民歌·中国-2024-92乡情乡音25</title>
@@ -4521,14 +4518,11 @@
     <programme start="20240703113000" stop="20240703133000" channel="cctv15">
         <title lang="zh">影视留声机-2024-31-音乐电影《英雄儿女》</title>
     </programme>
-    <programme start="20240703133000" stop="20240703144500" channel="cctv15">
+    <programme start="20240703133000" stop="20240703144800" channel="cctv15">
+        <title lang="zh">CCTV音乐厅-2024-153-大型主题交响曲《灯塔》</title>
+    </programme>
+    <programme start="20240703144800" stop="20240703155900" channel="cctv15">
         <title lang="zh">影视留声机-2024-46</title>
-    </programme>
-    <programme start="20240703144500" stop="20240703154500" channel="cctv15">
-        <title lang="zh">CCTV音乐厅-2024-137-名家名曲（56）</title>
-    </programme>
-    <programme start="20240703154500" stop="20240703155900" channel="cctv15">
-        <title lang="zh">乐游天下-2023-44 江山如画-系列交响音乐会-哈尔滨场</title>
     </programme>
     <programme start="20240630164500" stop="20240630181500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年全国体操锦标赛 男子资格赛暨团体决赛</title>
