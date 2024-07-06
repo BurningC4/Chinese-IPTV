@@ -393,37 +393,31 @@
     <programme start="20240706110000" stop="20240706115400" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20240706115400" stop="20240706122100" channel="cctv1">
+    <programme start="20240706115400" stop="20240706121600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20240706122100" stop="20240706140000" channel="cctv1">
+    <programme start="20240706121600" stop="20240706140000" channel="cctv1">
         <title lang="zh">诗画中国-江河万古流-7</title>
     </programme>
-    <programme start="20240706140000" stop="20240706143500" channel="cctv1">
+    <programme start="20240706140000" stop="20240706144200" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20240706143500" stop="20240706152400" channel="cctv1">
+    <programme start="20240706144200" stop="20240706153100" channel="cctv1">
         <title lang="zh">开讲啦-2024-25</title>
     </programme>
-    <programme start="20240706152400" stop="20240706155900" channel="cctv1">
+    <programme start="20240706153100" stop="20240706155900" channel="cctv1">
         <title lang="zh">星光大道-2024-30（这一站星光6）</title>
     </programme>
-    <programme start="20240706164800" stop="20240706171800" channel="cctv1">
+    <programme start="20240706165500" stop="20240706172500" channel="cctv1">
         <title lang="zh">寻宝-文脉春秋-20</title>
     </programme>
-    <programme start="20240706171800" stop="20240706174700" channel="cctv1">
+    <programme start="20240706172500" stop="20240706175400" channel="cctv1">
         <title lang="zh">人与自然-2024-151</title>
     </programme>
-    <programme start="20240706174700" stop="20240706181700" channel="cctv1">
+    <programme start="20240706175400" stop="20240706183100" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20240706181700" stop="20240706182700" channel="cctv1">
-        <title lang="zh">2024秘境之眼-昆嵛山的夜行者(4K)</title>
-    </programme>
-    <programme start="20240706182700" stop="20240706183000" channel="cctv1">
-        <title lang="zh">唐宋八大家-柳宗元MV</title>
-    </programme>
-    <programme start="20240706183000" stop="20240706183500" channel="cctv1">
+    <programme start="20240706183100" stop="20240706183500" channel="cctv1">
         <title lang="zh">寻宝-文脉春秋宣传片（新版）</title>
     </programme>
     <programme start="20240706183500" stop="20240706200800" channel="cctv1">
@@ -1833,17 +1827,23 @@
     <programme start="20240707070000" stop="20240707083000" channel="cctv5plus">
         <title lang="zh">实况录像-2024年世乒联冠军赛 重庆站  3</title>
     </programme>
-    <programme start="20240707083000" stop="20240707100000" channel="cctv5plus">
-        <title lang="zh">实况录像-星耀五环 奔跑吧</title>
+    <programme start="20240707083000" stop="20240707090000" channel="cctv5plus">
+        <title lang="zh">赛事集锦(高清体育)2024年国际体联艺术体操世界杯-米兰站 25分钟版1（4K）</title>
     </programme>
-    <programme start="20240707100000" stop="20240707133000" channel="cctv5plus">
+    <programme start="20240707090000" stop="20240707110500" channel="cctv5plus">
+        <title lang="zh">2024年国际排联男排挑战者杯-决赛</title>
+    </programme>
+    <programme start="20240707110500" stop="20240707120000" channel="cctv5plus">
+        <title lang="zh">2024年奥运会滑板资格赛-布达佩斯站 决赛（4K）</title>
+    </programme>
+    <programme start="20240707120000" stop="20240707140000" channel="cctv5plus">
         <title lang="zh">2024年温布尔登网球赛-第四轮1</title>
     </programme>
-    <programme start="20240707133000" stop="20240707150000" channel="cctv5plus">
-        <title lang="zh">2024年奥运会男篮资格赛 希腊赛区-半决赛（录播）</title>
-    </programme>
-    <programme start="20240707150000" stop="20240707155900" channel="cctv5plus">
+    <programme start="20240707140000" stop="20240707155900" channel="cctv5plus">
         <title lang="zh">2024年世界田联钻石联赛-巴黎站</title>
+    </programme>
+    <programme start="20240707160500" stop="20240707170500" channel="cctv5plus">
+        <title lang="zh">实况录像-2024年奥运会射箭资格赛</title>
     </programme>
     <programme start="20240707170500" stop="20240707183500" channel="cctv5plus">
         <title lang="zh">2023/2024赛季欧洲篮球联赛-决赛</title>
@@ -3849,50 +3849,44 @@
     <programme start="20240706120000" stop="20240706130000" channel="cctv13">
         <title lang="zh">东方时空</title>
     </programme>
-    <programme start="20240706130000" stop="20240706133000" channel="cctv13">
+    <programme start="20240706130000" stop="20240706134500" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20240706133000" stop="20240706141500" channel="cctv13">
+    <programme start="20240706134500" stop="20240706143000" channel="cctv13">
         <title lang="zh">新闻调查</title>
     </programme>
-    <programme start="20240706141500" stop="20240706150000" channel="cctv13">
+    <programme start="20240706143000" stop="20240706151500" channel="cctv13">
         <title lang="zh">新闻周刊</title>
     </programme>
-    <programme start="20240706150000" stop="20240706155900" channel="cctv13">
+    <programme start="20240706151500" stop="20240706155900" channel="cctv13">
         <title lang="zh">24小时</title>
     </programme>
-    <programme start="20240706160000" stop="20240706161500" channel="cctv13">
+    <programme start="20240706160000" stop="20240706170000" channel="cctv13">
         <title lang="zh">午夜新闻</title>
     </programme>
-    <programme start="20240706161500" stop="20240706170000" channel="cctv13">
-        <title lang="zh">新闻调查</title>
-    </programme>
-    <programme start="20240706170000" stop="20240706171500" channel="cctv13">
+    <programme start="20240706170000" stop="20240706174400" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20240706171500" stop="20240706180000" channel="cctv13">
-        <title lang="zh">新闻周刊</title>
-    </programme>
-    <programme start="20240706180000" stop="20240706181500" channel="cctv13">
-        <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme start="20240706181500" stop="20240706190000" channel="cctv13">
-        <title lang="zh">新闻调查</title>
-    </programme>
-    <programme start="20240706190000" stop="20240706192100" channel="cctv13">
-        <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme start="20240706192100" stop="20240706193700" channel="cctv13">
+    <programme start="20240706174400" stop="20240706180000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20240706193700" stop="20240706200000" channel="cctv13">
-        <title lang="zh">军情时间到</title>
-    </programme>
-    <programme start="20240706200000" stop="20240706201500" channel="cctv13">
+    <programme start="20240706180000" stop="20240706184400" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20240706201500" stop="20240706210000" channel="cctv13">
-        <title lang="zh">新闻周刊</title>
+    <programme start="20240706184400" stop="20240706190000" channel="cctv13">
+        <title lang="zh">焦点访谈</title>
+    </programme>
+    <programme start="20240706190000" stop="20240706194400" channel="cctv13">
+        <title lang="zh">新闻直播间</title>
+    </programme>
+    <programme start="20240706194400" stop="20240706200000" channel="cctv13">
+        <title lang="zh">焦点访谈</title>
+    </programme>
+    <programme start="20240706200000" stop="20240706204400" channel="cctv13">
+        <title lang="zh">新闻直播间</title>
+    </programme>
+    <programme start="20240706204400" stop="20240706210000" channel="cctv13">
+        <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20240706210000" stop="20240706211200" channel="cctv13">
         <title lang="zh">新闻直播间</title>
