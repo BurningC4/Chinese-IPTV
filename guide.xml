@@ -1536,32 +1536,50 @@
     <programme start="20240727230000" stop="20240728010500" channel="cctv5">
         <title lang="zh">体坛晨报-巴黎晨报2024.7.28</title>
     </programme>
-    <programme start="20240728010500" stop="20240728040000" channel="cctv5">
-        <title lang="zh">巴黎奥运会-赛事录播 7.28-1</title>
+    <programme start="20240728010500" stop="20240728020000" channel="cctv5">
+        <title lang="zh">录像：巴黎奥运会-跳水女子双人3米板决赛</title>
+    </programme>
+    <programme start="20240728020000" stop="20240728030000" channel="cctv5">
+        <title lang="zh">录像：巴黎奥运会-乒乓球混双1/8决赛</title>
+    </programme>
+    <programme start="20240728030000" stop="20240728040000" channel="cctv5">
+        <title lang="zh">录像：巴黎奥运会-27日多项游泳决赛</title>
     </programme>
     <programme start="20240728040000" stop="20240728050500" channel="cctv5">
         <title lang="zh">体坛快讯-巴黎最前沿2024.7.28</title>
     </programme>
-    <programme start="20240728050500" stop="20240728064500" channel="cctv5">
-        <title lang="zh">巴黎奥运会-赛事录播 7.28-2</title>
+    <programme start="20240728050500" stop="20240728073000" channel="cctv5">
+        <title lang="zh">录像：巴黎奥运会-27日体操男子资格赛2</title>
     </programme>
-    <programme start="20240728064500" stop="20240728070000" channel="cctv5">
-        <title lang="zh">2024年巴黎奥运会报道-遇见巴黎-16(4K)</title>
+    <programme start="20240728073000" stop="20240728090000" channel="cctv5">
+        <title lang="zh">直播：巴黎奥运会-射击男子10米气手枪(张博文、谢瑜)</title>
     </programme>
-    <programme start="20240728070000" stop="20240728072500" channel="cctv5">
-        <title lang="zh">巴黎奥运会-赛事直播 7.28</title>
+    <programme start="20240728090000" stop="20240728100000" channel="cctv5">
+        <title lang="zh">直播：巴黎奥运会-羽毛球小组赛(李诗沣)</title>
     </programme>
-    <programme start="20240728072500" stop="20240728084000" channel="cctv5">
-        <title lang="zh">巴黎奥运会-射击男子10米气手枪决赛等</title>
-    </programme>
-    <programme start="20240728084000" stop="20240728104500" channel="cctv5">
-        <title lang="zh">巴黎奥运会-射击男子、女子10米气手枪决赛等</title>
+    <programme start="20240728100000" stop="20240728104500" channel="cctv5">
+        <title lang="zh">直播：射击女子10米气手枪（姜冉馨、李雪）</title>
     </programme>
     <programme start="20240728104500" stop="20240728113000" channel="cctv5">
         <title lang="zh">体育新闻-全景奥运会</title>
     </programme>
-    <programme start="20240728113000" stop="20240728155900" channel="cctv5">
-        <title lang="zh">巴黎奥运会-乒乓球混双1/4决赛、游泳决赛等</title>
+    <programme start="20240728113000" stop="20240728131500" channel="cctv5">
+        <title lang="zh">直播：巴黎奥运会-女篮小组赛 中国-西班牙</title>
+    </programme>
+    <programme start="20240728131500" stop="20240728140000" channel="cctv5">
+        <title lang="zh">录像：巴黎奥运会-射击男子10米气手枪决赛、女子10米气手枪决赛</title>
+    </programme>
+    <programme start="20240728140000" stop="20240728155900" channel="cctv5">
+        <title lang="zh">直播：巴黎奥运会-乒乓球混双1/4决赛</title>
+    </programme>
+    <programme start="20240728160000" stop="20240728163000" channel="cctv5">
+        <title lang="zh">直播巴黎奥运会-七人制橄榄球女子 新西兰-中国</title>
+    </programme>
+    <programme start="20240728163000" stop="20240728183000" channel="cctv5">
+        <title lang="zh">录像：巴黎奥运会-体操女子资格赛2</title>
+    </programme>
+    <programme start="20240728183000" stop="20240728203300" channel="cctv5">
+        <title lang="zh">直播：巴黎奥运会-游泳（男子400米混合泳决赛、女子100米蝶泳决赛、男子100米蛙泳决赛等）</title>
     </programme>
     <programme start="20240728203300" stop="20240728220000" channel="cctv5">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 女足小组赛 加拿大队-新西兰队（4K）</title>
@@ -1662,8 +1680,44 @@
     <programme start="20240727233000" stop="20240728010000" channel="cctv5plus">
         <title lang="zh">实况录像-2024年巴黎奥运会 男足小组赛 乌兹别克斯坦队—西班牙队</title>
     </programme>
-    <programme start="20240728010000" stop="20240728155900" channel="cctv5plus">
-        <title lang="zh">巴黎奥运会-赛事直播3</title>
+    <programme start="20240728010000" stop="20240728023000" channel="cctv5plus">
+        <title lang="zh">录像：巴黎奥运会-27日乒乓球混双1/8决赛</title>
+    </programme>
+    <programme start="20240728023000" stop="20240728033000" channel="cctv5plus">
+        <title lang="zh">录像：巴黎奥运会-跳水女子双人3米板决赛</title>
+    </programme>
+    <programme start="20240728033000" stop="20240728053000" channel="cctv5plus">
+        <title lang="zh">录像：巴黎奥运会-27日体操男子资格赛2</title>
+    </programme>
+    <programme start="20240728053000" stop="20240728063000" channel="cctv5plus">
+        <title lang="zh">录像：巴黎奥运会-27日七人制橄榄球男子铜牌赛、决赛</title>
+    </programme>
+    <programme start="20240728063000" stop="20240728090000" channel="cctv5plus">
+        <title lang="zh">直播：巴黎奥运会-羽毛球小组赛（冯彦哲黄东萍、梁伟铿王昶）</title>
+    </programme>
+    <programme start="20240728090000" stop="20240728094000" channel="cctv5plus">
+        <title lang="zh">录像：巴黎奥运会-27日游泳多项决赛</title>
+    </programme>
+    <programme start="20240728094000" stop="20240728112000" channel="cctv5plus">
+        <title lang="zh">直播：巴黎奥运会-体操女子资格赛2</title>
+    </programme>
+    <programme start="20240728112000" stop="20240728120000" channel="cctv5plus">
+        <title lang="zh">录像：巴黎奥运会-射击男子、女子10米气手枪决赛</title>
+    </programme>
+    <programme start="20240728120000" stop="20240728134000" channel="cctv5plus">
+        <title lang="zh">直播：巴黎奥运会-羽毛球小组赛(郑思维黄雅琼、陈雨菲)</title>
+    </programme>
+    <programme start="20240728134000" stop="20240728151500" channel="cctv5plus">
+        <title lang="zh">直播：巴黎奥运会-七人制橄榄球女子(爱尔兰-英国、澳大利亚-南非、美国-日本)</title>
+    </programme>
+    <programme start="20240728151500" stop="20240728155900" channel="cctv5plus">
+        <title lang="zh">直播：巴黎奥运会-男篮小组赛 塞尔维亚-美国</title>
+    </programme>
+    <programme start="20240728170000" stop="20240728194500" channel="cctv5plus">
+        <title lang="zh">直播：巴黎奥运会-击剑女子花剑、男子重剑半决赛、铜牌赛</title>
+    </programme>
+    <programme start="20240728194500" stop="20240728204000" channel="cctv5plus">
+        <title lang="zh">直播：巴黎奥运会-击剑女子花剑（陈缘黄芊芊、王雨婷）、男子重剑（王子木）决赛</title>
     </programme>
     <programme start="20240728204000" stop="20240728220000" channel="cctv5plus">
         <title lang="zh">实况录像-2024年世界田联钻石联赛  斯德哥尔摩站</title>
@@ -4260,8 +4314,35 @@
     <programme start="20240728053800" stop="20240728070000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 开幕式（下）</title>
     </programme>
-    <programme start="20240728070000" stop="20240728155900" channel="cctv16">
-        <title lang="zh">2024年巴黎奥运会-赛事直播 7.28</title>
+    <programme start="20240728070000" stop="20240728080000" channel="cctv16">
+        <title lang="zh">录像：巴黎奥运会-27日击剑女子重剑、男子佩剑铜牌赛、决赛</title>
+    </programme>
+    <programme start="20240728080000" stop="20240728093000" channel="cctv16">
+        <title lang="zh">直播：巴黎奥运会-乒乓球女单64强（孙颖莎）、男单64强（王楚钦）</title>
+    </programme>
+    <programme start="20240728093000" stop="20240728111500" channel="cctv16">
+        <title lang="zh">录像：巴黎奥运会-27日体操男子资格赛2</title>
+    </programme>
+    <programme start="20240728111500" stop="20240728121500" channel="cctv16">
+        <title lang="zh">录像：巴黎奥运会-女子曲棍球 比利时-中国</title>
+    </programme>
+    <programme start="20240728121500" stop="20240728153500" channel="cctv16">
+        <title lang="zh">直播：巴黎奥运会-射箭女子团体半决赛、铜牌赛、决赛</title>
+    </programme>
+    <programme start="20240728153500" stop="20240728154500" channel="cctv16">
+        <title lang="zh">《五环之约》</title>
+    </programme>
+    <programme start="20240728154500" stop="20240728155900" channel="cctv16">
+        <title lang="zh">直播：巴黎奥运会-激流回旋女子皮艇决赛（李连婷）</title>
+    </programme>
+    <programme start="20240728163000" stop="20240728170000" channel="cctv16">
+        <title lang="zh">录像：女子山地自行车（伍志帆）</title>
+    </programme>
+    <programme start="20240728170000" stop="20240728190000" channel="cctv16">
+        <title lang="zh">直播：巴黎奥运会-女足小组赛 西班牙-尼日利亚</title>
+    </programme>
+    <programme start="20240728190000" stop="20240728200000" channel="cctv16">
+        <title lang="zh">录像：巴黎奥运会-羽毛球（郑思维黄雅琼、陈雨菲精选）</title>
     </programme>
     <programme start="20240728200000" stop="20240728213000" channel="cctv16">
         <title lang="zh">2024年世界男排联赛总决赛-三四名决赛</title>
