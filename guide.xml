@@ -1608,14 +1608,11 @@
     <programme start="20240729104500" stop="20240729114500" channel="cctv5">
         <title lang="zh">体育新闻-全景奥运会</title>
     </programme>
-    <programme start="20240729114500" stop="20240729130000" channel="cctv5">
-        <title lang="zh">录像-巴黎奥运会-乒乓球男子单打、女子单打第一轮</title>
-    </programme>
-    <programme start="20240729130000" stop="20240729140000" channel="cctv5">
-        <title lang="zh">直播：巴黎奥运会-马术三项赛场地个人决赛</title>
+    <programme start="20240729114500" stop="20240729140000" channel="cctv5">
+        <title lang="zh">直播：巴黎奥运会-网球男单第二轮 德约科维奇-纳达尔</title>
     </programme>
     <programme start="20240729140000" stop="20240729150000" channel="cctv5">
-        <title lang="zh">直播：巴黎奥运会-乒乓球 混双半决赛</title>
+        <title lang="zh">录像：巴黎奥运会-乒乓球 男子单打、女子单打</title>
     </programme>
     <programme start="20240729150000" stop="20240729155900" channel="cctv5">
         <title lang="zh">直播：巴黎奥运会-体操男子团体决赛</title>
@@ -1728,10 +1725,10 @@
     <programme start="20240729034000" stop="20240729040000" channel="cctv5plus">
         <title lang="zh">《奥运典藏》</title>
     </programme>
-    <programme start="20240729040000" stop="20240729050000" channel="cctv5plus">
+    <programme start="20240729040000" stop="20240729044500" channel="cctv5plus">
         <title lang="zh">录像：巴黎奥运会-激流回旋女子皮艇决赛</title>
     </programme>
-    <programme start="20240729050000" stop="20240729063000" channel="cctv5plus">
+    <programme start="20240729044500" stop="20240729063000" channel="cctv5plus">
         <title lang="zh">录像：巴黎奥运会-男篮小组赛 美国-塞尔维亚</title>
     </programme>
     <programme start="20240729063000" stop="20240729070000" channel="cctv5plus">
@@ -1746,19 +1743,16 @@
     <programme start="20240729100000" stop="20240729113000" channel="cctv5plus">
         <title lang="zh">直播：巴黎奥运会-乒乓球男子单打、女子单打</title>
     </programme>
-    <programme start="20240729113000" stop="20240729121500" channel="cctv5plus">
+    <programme start="20240729113000" stop="20240729121000" channel="cctv5plus">
         <title lang="zh">录像：巴黎奥运会-滑板女子街式赛</title>
     </programme>
-    <programme start="20240729121500" stop="20240729153500" channel="cctv5plus">
-        <title lang="zh">直播：巴黎奥运会-射箭男子团体1/4决赛、半决赛、铜牌赛、决赛</title>
+    <programme start="20240729121000" stop="20240729140000" channel="cctv5plus">
+        <title lang="zh">直播：巴黎奥运会-男子山地自行车越野赛</title>
     </programme>
-    <programme start="20240729153500" stop="20240729155900" channel="cctv5plus">
-        <title lang="zh">直播：巴黎奥运会-激流回旋男子划艇决赛</title>
+    <programme start="20240729140000" stop="20240729155900" channel="cctv5plus">
+        <title lang="zh">直播：巴黎奥运会-乒乓球混双半决赛</title>
     </programme>
-    <programme start="20240729160400" stop="20240729170000" channel="cctv5plus">
-        <title lang="zh">录像：巴黎奥运会-射击女子10米气步枪、男子10米气步枪决赛</title>
-    </programme>
-    <programme start="20240729170000" stop="20240729180000" channel="cctv5plus">
+    <programme start="20240729160000" stop="20240729180000" channel="cctv5plus">
         <title lang="zh">录像：巴黎奥运会-女子曲棍球 中国-日本</title>
     </programme>
     <programme start="20240729180000" stop="20240729200000" channel="cctv5plus">
@@ -2113,7 +2107,7 @@
         <title lang="zh">国防微视频-军歌嘹亮-假如（穆静）</title>
     </programme>
     <programme start="20240729230200" stop="20240729233000" channel="cctv7">
-        <title lang="zh">世界战史-2024-125</title>
+        <title lang="zh">世界战史-2024-24</title>
     </programme>
     <programme start="20240729233000" stop="20240729235800" channel="cctv7">
         <title lang="zh">国防军事早报</title>
@@ -2131,13 +2125,13 @@
         <title lang="zh">兵器面面观-2024-151</title>
     </programme>
     <programme start="20240730023300" stop="20240730030100" channel="cctv7">
-        <title lang="zh">世界战史-2024-125</title>
+        <title lang="zh">世界战史-2024-24</title>
     </programme>
     <programme start="20240730030100" stop="20240730032800" channel="cctv7">
         <title lang="zh">国防故事-2024-33</title>
     </programme>
     <programme start="20240730032800" stop="20240730035300" channel="cctv7">
-        <title lang="zh">军事纪录-2024-141</title>
+        <title lang="zh">军事纪录-2024-117</title>
     </programme>
     <programme start="20240730035300" stop="20240730040000" channel="cctv7">
         <title lang="zh">国防微视频-军歌嘹亮-淬火青春（2024年精编）</title>
@@ -2155,7 +2149,7 @@
         <title lang="zh">兵器面面观-2024-151</title>
     </programme>
     <programme start="20240730060700" stop="20240730064000" channel="cctv7">
-        <title lang="zh">军事纪录-2024-141</title>
+        <title lang="zh">军事纪录-2024-117</title>
     </programme>
     <programme start="20240730064000" stop="20240730072800" channel="cctv7">
         <title lang="zh">绝密使命16/32</title>
@@ -2167,10 +2161,10 @@
         <title lang="zh">绝密使命18/32</title>
     </programme>
     <programme start="20240730090000" stop="20240730092700" channel="cctv7">
-        <title lang="zh">世界战史-2024-126</title>
+        <title lang="zh">世界战史-2024-25</title>
     </programme>
     <programme start="20240730092700" stop="20240730095200" channel="cctv7">
-        <title lang="zh">军事纪录-2024-142</title>
+        <title lang="zh">军事纪录-2024-118</title>
     </programme>
     <programme start="20240730095200" stop="20240730095900" channel="cctv7">
         <title lang="zh">国防微视频-军歌嘹亮-淬火青春（2024年精编）</title>
@@ -2422,13 +2416,13 @@
         <title lang="zh">本集提要-赤热-第31集</title>
     </programme>
     <programme start="20240729113000" stop="20240729122400" channel="cctv8">
-        <title lang="zh">赤热31/34</title>
+        <title lang="zh">赤热第31集</title>
     </programme>
     <programme start="20240729122400" stop="20240729122900" channel="cctv8">
         <title lang="zh">本集提要-赤热-第32集</title>
     </programme>
     <programme start="20240729122900" stop="20240729132000" channel="cctv8">
-        <title lang="zh">赤热32/34</title>
+        <title lang="zh">赤热第32集</title>
     </programme>
     <programme start="20240729132000" stop="20240729132500" channel="cctv8">
         <title lang="zh">本集提要-海天雄鹰-第1集</title>
@@ -4488,25 +4482,19 @@
     <programme start="20240729083000" stop="20240729100000" channel="cctv16">
         <title lang="zh">直播：巴黎奥运会-女子曲棍球小组赛 日本-中国</title>
     </programme>
-    <programme start="20240729100000" stop="20240729105000" channel="cctv16">
-        <title lang="zh">录像：巴黎奥运会-女子花剑、男子重剑决赛</title>
+    <programme start="20240729100000" stop="20240729113000" channel="cctv16">
+        <title lang="zh">直播：巴黎奥运会-网球女子单打第二轮</title>
     </programme>
-    <programme start="20240729105000" stop="20240729121000" channel="cctv16">
-        <title lang="zh">录像：巴黎奥运会-男篮小组赛 塞尔维亚-美国</title>
+    <programme start="20240729113000" stop="20240729121500" channel="cctv16">
+        <title lang="zh">录像：巴黎奥运会-射击女子10米气步枪</title>
     </programme>
-    <programme start="20240729121000" stop="20240729134500" channel="cctv16">
-        <title lang="zh">直播：巴黎奥运会-男子山地自行车越野赛</title>
+    <programme start="20240729121500" stop="20240729153500" channel="cctv16">
+        <title lang="zh">直播：巴黎奥运会-射箭男子团体赛</title>
     </programme>
-    <programme start="20240729134500" stop="20240729140000" channel="cctv16">
-        <title lang="zh">《五环之约》</title>
+    <programme start="20240729153500" stop="20240729155900" channel="cctv16">
+        <title lang="zh">直播：巴黎奥运会-激流回旋男子划艇决赛</title>
     </programme>
-    <programme start="20240729140000" stop="20240729150000" channel="cctv16">
-        <title lang="zh">直播：巴黎奥运会-女子七人制橄榄球  加拿大-中国、新西兰-斐济</title>
-    </programme>
-    <programme start="20240729150000" stop="20240729155900" channel="cctv16">
-        <title lang="zh">直播：巴黎奥运会-男子滑板街式赛决赛</title>
-    </programme>
-    <programme start="20240729163500" stop="20240729170000" channel="cctv16">
+    <programme start="20240729160500" stop="20240729170000" channel="cctv16">
         <title lang="zh">录像：巴黎奥运会-跳水男子双人10米台决赛</title>
     </programme>
     <programme start="20240729170000" stop="20240729194500" channel="cctv16">
