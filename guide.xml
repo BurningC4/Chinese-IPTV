@@ -1602,11 +1602,8 @@
     <programme start="20240801100000" stop="20240801110000" channel="cctv5">
         <title lang="zh">体育新闻-全景奥运</title>
     </programme>
-    <programme start="20240801110000" stop="20240801124000" channel="cctv5">
+    <programme start="20240801110000" stop="20240801130000" channel="cctv5">
         <title lang="zh">直播：巴黎奥运会-羽毛球男子双打1/4决赛</title>
-    </programme>
-    <programme start="20240801124000" stop="20240801130000" channel="cctv5">
-        <title lang="zh">录像：巴黎奥运会-女子20公里竞走</title>
     </programme>
     <programme start="20240801130000" stop="20240801155900" channel="cctv5">
         <title lang="zh">直播：巴黎奥运会-乒乓球男单、女单1/4决赛</title>
@@ -1773,8 +1770,11 @@
     <programme start="20240801103600" stop="20240801110500" channel="cctv5plus">
         <title lang="zh">直播：巴黎奥运会-拳击女子54kg预赛之16强赛</title>
     </programme>
-    <programme start="20240801110500" stop="20240801132000" channel="cctv5plus">
+    <programme start="20240801110500" stop="20240801125000" channel="cctv5plus">
         <title lang="zh">录像：巴黎奥运会-体操男子个人全能决赛</title>
+    </programme>
+    <programme start="20240801125000" stop="20240801132000" channel="cctv5plus">
+        <title lang="zh">录像：巴黎奥运会-游泳各项比赛</title>
     </programme>
     <programme start="20240801132000" stop="20240801150000" channel="cctv5plus">
         <title lang="zh">直播：巴黎奥运会-羽毛球男子单打1/8决赛</title>
@@ -3396,22 +3396,22 @@
     <programme start="20240802113000" stop="20240802123400" channel="cctv11">
         <title lang="zh">一鸣惊人-2024-31</title>
     </programme>
-    <programme start="20240802123400" stop="20240802140400" channel="cctv11">
-        <title lang="zh">国风超有戏-9</title>
+    <programme start="20240802123400" stop="20240802144500" channel="cctv11">
+        <title lang="zh">国风超有戏-9（完整版）</title>
     </programme>
-    <programme start="20240802140400" stop="20240802145500" channel="cctv11">
+    <programme start="20240802144500" stop="20240802153600" channel="cctv11">
         <title lang="zh">芝麻胡同第14集</title>
     </programme>
-    <programme start="20240802145500" stop="20240802154500" channel="cctv11">
+    <programme start="20240802153600" stop="20240802155900" channel="cctv11">
         <title lang="zh">芝麻胡同第15集</title>
     </programme>
-    <programme start="20240802154500" stop="20240802155900" channel="cctv11">
+    <programme start="20240802162600" stop="20240802171700" channel="cctv11">
         <title lang="zh">芝麻胡同第16集</title>
     </programme>
-    <programme start="20240802163600" stop="20240802170700" channel="cctv11">
+    <programme start="20240802171700" stop="20240802174800" channel="cctv11">
         <title lang="zh">典藏-2021-96</title>
     </programme>
-    <programme start="20240802170700" stop="20240802220600" channel="cctv11">
+    <programme start="20240802174800" stop="20240802220600" channel="cctv11">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20240802220600" stop="20240802231700" channel="cctv11">
@@ -4434,10 +4434,10 @@
     <programme start="20240801100000" stop="20240801120000" channel="cctv16">
         <title lang="zh">直播：巴黎奥运会-网球女子单打半决赛</title>
     </programme>
-    <programme start="20240801120000" stop="20240801130000" channel="cctv16">
+    <programme start="20240801120000" stop="20240801134500" channel="cctv16">
         <title lang="zh">直播：巴黎奥运会-网球混合双打半决赛</title>
     </programme>
-    <programme start="20240801130000" stop="20240801140000" channel="cctv16">
+    <programme start="20240801134500" stop="20240801140000" channel="cctv16">
         <title lang="zh">录像：巴黎奥运会-赛艇决赛</title>
     </programme>
     <programme start="20240801140000" stop="20240801155900" channel="cctv16">
