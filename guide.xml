@@ -1651,7 +1651,7 @@
         <title lang="zh">直播：巴黎奥运会-田径（男子400米第1轮、女子跳高决赛、男子100米半决赛、女子800米半决赛、男子链球决赛、男子1500米半决赛、男子100米决赛）</title>
     </programme>
     <programme start="20240804200000" stop="20240804203000" channel="cctv5">
-        <title lang="zh">录像：巴黎奥运会-游泳多项比赛</title>
+        <title lang="zh">录像：巴黎奥运会-游泳女子4X100米混合泳接力</title>
     </programme>
     <programme start="20240804203000" stop="20240804220000" channel="cctv5">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 体操男子个人全能决赛（4K）</title>
@@ -1765,7 +1765,7 @@
         <title lang="zh">录像：巴黎奥运会-游泳多项决赛</title>
     </programme>
     <programme start="20240804053000" stop="20240804070000" channel="cctv5plus">
-        <title lang="zh">录像：巴黎奥运会-羽毛球混双决赛</title>
+        <title lang="zh">录像：巴黎奥运会-羽毛球女双决赛</title>
     </programme>
     <programme start="20240804070000" stop="20240804090000" channel="cctv5plus">
         <title lang="zh">直播：巴黎奥运会-女排小组赛 意大利-土耳其</title>
@@ -1777,7 +1777,7 @@
         <title lang="zh">直播：巴黎奥运会-女排小组赛 法国-美国</title>
     </programme>
     <programme start="20240804130000" stop="20240804141500" channel="cctv5plus">
-        <title lang="zh">直播：巴黎奥运会-体操（男子吊环、女子高低杠）</title>
+        <title lang="zh">直播：巴黎奥运会-体操（男子吊环决赛、女子高低杠决赛）</title>
     </programme>
     <programme start="20240804141500" stop="20240804153000" channel="cctv5plus">
         <title lang="zh">录像：巴黎奥运会-羽毛球女单半决赛</title>
@@ -4428,11 +4428,17 @@
     <programme start="20240804090000" stop="20240804110000" channel="cctv16">
         <title lang="zh">直播：巴黎奥运会-女篮小组赛 日本-比利时</title>
     </programme>
-    <programme start="20240804110000" stop="20240804133000" channel="cctv16">
+    <programme start="20240804110000" stop="20240804130000" channel="cctv16">
         <title lang="zh">直播：巴黎奥运会-射箭男子个人1/4、半决赛、决赛</title>
     </programme>
-    <programme start="20240804133000" stop="20240804151500" channel="cctv16">
+    <programme start="20240804130000" stop="20240804133000" channel="cctv16">
+        <title lang="zh">录像：巴黎奥运会-游泳各项决赛</title>
+    </programme>
+    <programme start="20240804133000" stop="20240804144500" channel="cctv16">
         <title lang="zh">直播：巴黎奥运会-射击飞碟女子双向决赛</title>
+    </programme>
+    <programme start="20240804144500" stop="20240804151500" channel="cctv16">
+        <title lang="zh">录像：巴黎奥运会-田径各项决赛</title>
     </programme>
     <programme start="20240804151500" stop="20240804155900" channel="cctv16">
         <title lang="zh">直播：巴黎奥运会-女篮小组赛 德国-美国</title>
