@@ -1578,10 +1578,7 @@
     <programme start="20240806155000" stop="20240806155900" channel="cctv4">
         <title lang="zh">奔腾岁月31/40</title>
     </programme>
-    <programme start="20240803160000" stop="20240803171500" channel="cctv5">
-        <title lang="zh">录像：巴黎奥运会-网球女子单打等</title>
-    </programme>
-    <programme start="20240803171500" stop="20240803182500" channel="cctv5">
+    <programme start="20240803170500" stop="20240803182500" channel="cctv5">
         <title lang="zh">直播：巴黎奥运会-田径（男子1500米复活赛、男子铅球决赛、女子100米半决赛、女子三级跳远决赛）</title>
     </programme>
     <programme start="20240803182500" stop="20240803190900" channel="cctv5">
@@ -4371,7 +4368,10 @@
     <programme start="20240803170000" stop="20240803173000" channel="cctv16">
         <title lang="zh">直播：巴黎奥运会-三人篮球 女子分组循环赛 中国-美国</title>
     </programme>
-    <programme start="20240803173000" stop="20240803193000" channel="cctv16">
+    <programme start="20240803173000" stop="20240803182800" channel="cctv16">
+        <title lang="zh">录像：巴黎奥运会-羽毛球女双决赛</title>
+    </programme>
+    <programme start="20240803182800" stop="20240803193000" channel="cctv16">
         <title lang="zh">录像：巴黎奥运会-乒乓球女单决赛</title>
     </programme>
     <programme start="20240803193000" stop="20240803195000" channel="cctv16">
