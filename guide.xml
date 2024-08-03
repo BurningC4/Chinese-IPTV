@@ -1638,8 +1638,11 @@
     <programme start="20240803230000" stop="20240804010500" channel="cctv5">
         <title lang="zh">体坛晨报-巴黎晨报</title>
     </programme>
-    <programme start="20240804010500" stop="20240804040000" channel="cctv5">
-        <title lang="zh">巴黎奥运会-赛事录播8.4-1</title>
+    <programme start="20240804010500" stop="20240804030000" channel="cctv5">
+        <title lang="zh">录像：巴黎奥运会-网球女单决赛</title>
+    </programme>
+    <programme start="20240804030000" stop="20240804040000" channel="cctv5">
+        <title lang="zh">录像：巴黎奥运会-游泳决赛</title>
     </programme>
     <programme start="20240804040000" stop="20240804050500" channel="cctv5">
         <title lang="zh">体坛快讯-巴黎最前沿</title>
@@ -1653,14 +1656,26 @@
     <programme start="20240804060500" stop="20240804062000" channel="cctv5">
         <title lang="zh">2024年巴黎奥运会报道-遇见巴黎-23(4K)</title>
     </programme>
-    <programme start="20240804062000" stop="20240804100000" channel="cctv5">
-        <title lang="zh">巴黎奥运会-羽毛球男单、女单半决赛等</title>
+    <programme start="20240804062000" stop="20240804073000" channel="cctv5">
+        <title lang="zh">直播：巴黎奥运会-羽毛球男单、女单半决赛等</title>
     </programme>
-    <programme start="20240804100000" stop="20240804110000" channel="cctv5">
+    <programme start="20240804073000" stop="20240804093000" channel="cctv5">
+        <title lang="zh">直播：巴黎奥运会-射箭男子个人1/8决赛</title>
+    </programme>
+    <programme start="20240804093000" stop="20240804103000" channel="cctv5">
+        <title lang="zh">直播：巴黎奥运会-拳击女子75公斤级1/4决赛</title>
+    </programme>
+    <programme start="20240804103000" stop="20240804110000" channel="cctv5">
         <title lang="zh">体育新闻-全景奥运</title>
     </programme>
-    <programme start="20240804110000" stop="20240804155900" channel="cctv5">
+    <programme start="20240804110000" stop="20240804113000" channel="cctv5">
         <title lang="zh">巴黎奥运会-乒乓球男单铜牌赛、决赛、田径决赛、游泳决赛等</title>
+    </programme>
+    <programme start="20240804113000" stop="20240804140000" channel="cctv5">
+        <title lang="zh">直播：巴黎奥运会-乒乓球男单铜牌赛、决赛</title>
+    </programme>
+    <programme start="20240804140000" stop="20240804155900" channel="cctv5">
+        <title lang="zh">直播：巴黎奥运会-羽毛球男双决赛</title>
     </programme>
     <programme start="20240804203000" stop="20240804220000" channel="cctv5">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 体操男子个人全能决赛（4K）</title>
