@@ -1602,11 +1602,8 @@
     <programme start="20240803123000" stop="20240803143000" channel="cctv5">
         <title lang="zh">直播：巴黎奥运会-乒乓球女子单打金牌赛</title>
     </programme>
-    <programme start="20240803143000" stop="20240803153800" channel="cctv5">
+    <programme start="20240803143000" stop="20240803155900" channel="cctv5">
         <title lang="zh">直播：巴黎奥运会-网球女子单打决赛</title>
-    </programme>
-    <programme start="20240803153800" stop="20240803155900" channel="cctv5">
-        <title lang="zh">直播：巴黎奥运会-拳击女子60公斤级半决赛</title>
     </programme>
     <programme start="20240803160000" stop="20240803171500" channel="cctv5">
         <title lang="zh">录像：巴黎奥运会-网球女子单打等</title>
@@ -1764,8 +1761,11 @@
     <programme start="20240803104000" stop="20240803113000" channel="cctv5plus">
         <title lang="zh">直播：巴黎奥运会-游泳多项决赛(男子4x100米混合泳接力分组预赛等）</title>
     </programme>
-    <programme start="20240803113000" stop="20240803141000" channel="cctv5plus">
+    <programme start="20240803113000" stop="20240803132700" channel="cctv5plus">
         <title lang="zh">直播：巴黎奥运会-女篮小组赛 塞尔维亚-西班牙</title>
+    </programme>
+    <programme start="20240803132700" stop="20240803141000" channel="cctv5plus">
+        <title lang="zh">录像：巴黎奥运会-田径各项比赛</title>
     </programme>
     <programme start="20240803141000" stop="20240803153800" channel="cctv5plus">
         <title lang="zh">直播：巴黎奥运会-羽毛球女子双打决赛</title>
