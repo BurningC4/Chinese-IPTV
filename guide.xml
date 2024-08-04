@@ -1767,8 +1767,11 @@
     <programme start="20240804053000" stop="20240804070000" channel="cctv5plus">
         <title lang="zh">录像：巴黎奥运会-羽毛球女双决赛</title>
     </programme>
-    <programme start="20240804070000" stop="20240804090000" channel="cctv5plus">
+    <programme start="20240804070000" stop="20240804082500" channel="cctv5plus">
         <title lang="zh">直播：巴黎奥运会-女排小组赛 意大利-土耳其</title>
+    </programme>
+    <programme start="20240804082500" stop="20240804090000" channel="cctv5plus">
+        <title lang="zh">录像：巴黎奥运会-游泳多项决赛</title>
     </programme>
     <programme start="20240804090000" stop="20240804110000" channel="cctv5plus">
         <title lang="zh">直播：巴黎奥运会-田径多项预赛</title>
@@ -2100,14 +2103,14 @@
     <programme start="20240804220300" stop="20240804223400" channel="cctv7">
         <title lang="zh">第二战场-2024-23</title>
     </programme>
-    <programme start="20240804223400" stop="20240804225900" channel="cctv7">
+    <programme start="20240804223400" stop="20240804230000" channel="cctv7">
         <title lang="zh">国防故事-2024-78</title>
     </programme>
-    <programme start="20240804225900" stop="20240804230200" channel="cctv7">
-        <title lang="zh">国防微视频-军歌嘹亮-当祖国召唤的时候</title>
-    </programme>
-    <programme start="20240804230200" stop="20240804233000" channel="cctv7">
+    <programme start="20240804230000" stop="20240804232500" channel="cctv7">
         <title lang="zh">世界战史-2024-62</title>
+    </programme>
+    <programme start="20240804232500" stop="20240804233000" channel="cctv7">
+        <title lang="zh">国防微视频-军歌嘹亮-当祖国召唤的时候</title>
     </programme>
     <programme start="20240804233000" stop="20240804235800" channel="cctv7">
         <title lang="zh">国防军事早报</title>
@@ -4465,7 +4468,7 @@
         <title lang="zh">直播：巴黎奥运会-女篮小组赛 日本-比利时</title>
     </programme>
     <programme start="20240804110000" stop="20240804130000" channel="cctv16">
-        <title lang="zh">直播：巴黎奥运会-射箭男子个人1/4、半决赛、决赛</title>
+        <title lang="zh">直播：巴黎奥运会-网球男单决赛 德约科维奇-阿尔卡拉斯</title>
     </programme>
     <programme start="20240804130000" stop="20240804133000" channel="cctv16">
         <title lang="zh">录像：巴黎奥运会-游泳各项决赛</title>
