@@ -477,17 +477,17 @@
     <programme start="20240807110000" stop="20240807113900" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20240807113900" stop="20240807120100" channel="cctv1">
+    <programme start="20240807113900" stop="20240807115900" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20240807120100" stop="20240807120600" channel="cctv1">
+    <programme start="20240807115900" stop="20240807120400" channel="cctv1">
         <title lang="zh">前情提要-梦想城-第39集</title>
     </programme>
-    <programme start="20240807120600" stop="20240807125700" channel="cctv1">
+    <programme start="20240807120400" stop="20240807125600" channel="cctv1">
         <title lang="zh">梦想城39/39</title>
     </programme>
-    <programme start="20240807125700" stop="20240807140000" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+    <programme start="20240807125600" stop="20240807140000" channel="cctv1">
+        <title lang="zh">国风超有戏-10</title>
     </programme>
     <programme start="20240807140000" stop="20240807144000" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -768,11 +768,14 @@
     <programme start="20240807040000" stop="20240807050600" channel="cctv2">
         <title lang="zh">天下财经</title>
     </programme>
-    <programme start="20240807050600" stop="20240807061000" channel="cctv2">
-        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 跳水女子双人3米板决赛（4K）</title>
+    <programme start="20240807050600" stop="20240807064200" channel="cctv2">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 网球比赛1（4K）</title>
     </programme>
-    <programme start="20240807061000" stop="20240807070000" channel="cctv2">
-        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 男女滑板街式决赛（4K）</title>
+    <programme start="20240807064200" stop="20240807065200" channel="cctv2">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 奥运典藏1（4K）</title>
+    </programme>
+    <programme start="20240807065200" stop="20240807070000" channel="cctv2">
+        <title lang="zh">周末特供2023-万物滋养2-6分版</title>
     </programme>
     <programme start="20240807070000" stop="20240807073000" channel="cctv2">
         <title lang="zh">正点财经</title>
@@ -1116,14 +1119,14 @@
     <programme start="20240807155700" stop="20240807155900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-856鸣龙少年 20/30</title>
     </programme>
-    <programme start="20240807164300" stop="20240807172900" channel="cctv3">
+    <programme start="20240807164400" stop="20240807173000" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-857鸣龙少年 21/30</title>
     </programme>
-    <programme start="20240807172900" stop="20240807184600" channel="cctv3">
+    <programme start="20240807173000" stop="20240807184700" channel="cctv3">
         <title lang="zh">开门大吉-2024-19</title>
     </programme>
-    <programme start="20240807184600" stop="20240807193700" channel="cctv3">
-        <title lang="zh">艺览天下-2024-15</title>
+    <programme start="20240807184700" stop="20240807193700" channel="cctv3">
+        <title lang="zh">我爱满堂彩-2024-50一笑一周</title>
     </programme>
     <programme start="20240807193700" stop="20240807210400" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-106</title>
@@ -2473,13 +2476,13 @@
         <title lang="zh">小夫妻第14集</title>
     </programme>
     <programme start="20240806132000" stop="20240806132400" channel="cctv8">
-        <title lang="zh">本集提要-海天雄鹰-15/35</title>
+        <title lang="zh">本集提要-海天雄鹰-第15集</title>
     </programme>
     <programme start="20240806132400" stop="20240806141300" channel="cctv8">
         <title lang="zh">海天雄鹰第15集</title>
     </programme>
     <programme start="20240806141300" stop="20240806141600" channel="cctv8">
-        <title lang="zh">本集提要-海天雄鹰-16/35</title>
+        <title lang="zh">本集提要-海天雄鹰-第16集</title>
     </programme>
     <programme start="20240806141600" stop="20240806150600" channel="cctv8">
         <title lang="zh">海天雄鹰第16集</title>
@@ -2596,7 +2599,7 @@
         <title lang="zh">本集提要-小夫妻-第16集</title>
     </programme>
     <programme start="20240807122800" stop="20240807132000" channel="cctv8">
-        <title lang="zh">小夫妻16/36</title>
+        <title lang="zh">小夫妻第16集</title>
     </programme>
     <programme start="20240807132000" stop="20240807132400" channel="cctv8">
         <title lang="zh">本集提要-海天雄鹰-17/35</title>
