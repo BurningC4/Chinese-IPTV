@@ -897,16 +897,16 @@
     <programme start="20240809080000" stop="20240809090000" channel="cctv2">
         <title lang="zh">正点财经</title>
     </programme>
-    <programme start="20240809090000" stop="20240809093100" channel="cctv2">
+    <programme start="20240809090000" stop="20240809093200" channel="cctv2">
         <title lang="zh">正点财经</title>
     </programme>
-    <programme start="20240809093100" stop="20240809094400" channel="cctv2">
+    <programme start="20240809093200" stop="20240809094500" channel="cctv2">
         <title lang="zh">周末特供2023-乡野有真味2-13分版</title>
     </programme>
-    <programme start="20240809094400" stop="20240809100600" channel="cctv2">
+    <programme start="20240809094500" stop="20240809100700" channel="cctv2">
         <title lang="zh">2024精品财经纪录-八闽奇味-3</title>
     </programme>
-    <programme start="20240809100600" stop="20240809103000" channel="cctv2">
+    <programme start="20240809100700" stop="20240809103000" channel="cctv2">
         <title lang="zh">2024精品财经纪录-八闽奇味-4</title>
     </programme>
     <programme start="20240809103000" stop="20240809110000" channel="cctv2">
@@ -1656,11 +1656,11 @@
     <programme start="20240807040000" stop="20240807050500" channel="cctv5">
         <title lang="zh">体坛快讯-巴黎最前沿</title>
     </programme>
-    <programme start="20240807050500" stop="20240807055500" channel="cctv5">
+    <programme start="20240807050500" stop="20240807053000" channel="cctv5">
         <title lang="zh">录像：巴黎奥运会-女排1/4决赛</title>
     </programme>
-    <programme start="20240807055500" stop="20240807062000" channel="cctv5">
-        <title lang="zh">2024年巴黎奥运会报道-巴黎会客厅-9</title>
+    <programme start="20240807053000" stop="20240807062000" channel="cctv5">
+        <title lang="zh">直播：巴黎奥运会-田径马拉松竞走混合接力决赛</title>
     </programme>
     <programme start="20240807062000" stop="20240807064500" channel="cctv5">
         <title lang="zh">2024年巴黎奥运会报道-巴黎会客厅-10</title>
@@ -4548,8 +4548,11 @@
     <programme start="20240807162000" stop="20240807174000" channel="cctv16">
         <title lang="zh">直播：巴黎奥运会-场地自行车 男子团体追逐决赛、女子团体追逐决赛</title>
     </programme>
-    <programme start="20240807174000" stop="20240807191500" channel="cctv16">
+    <programme start="20240807174000" stop="20240807180000" channel="cctv16">
         <title lang="zh">直播：巴黎奥运会-花样游泳集体技巧自选</title>
+    </programme>
+    <programme start="20240807180000" stop="20240807191500" channel="cctv16">
+        <title lang="zh">直播：巴黎奥运会-乒乓球男子团体半决赛 日本-瑞典</title>
     </programme>
     <programme start="20240807191500" stop="20240807195500" channel="cctv16">
         <title lang="zh">直播：巴黎奥运会-跆拳道女子-49公斤级、男子-58公斤级决赛</title>
