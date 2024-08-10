@@ -1587,17 +1587,23 @@
     <programme start="20240810220000" stop="20240810230000" channel="cctv5">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 跳水女子3米板决赛（4K）</title>
     </programme>
-    <programme start="20240810230000" stop="20240811010500" channel="cctv5">
+    <programme start="20240810230000" stop="20240811010000" channel="cctv5">
         <title lang="zh">体坛晨报-巴黎晨报</title>
     </programme>
-    <programme start="20240811010500" stop="20240811040000" channel="cctv5">
-        <title lang="zh">巴黎奥运会-赛事录播8.11-1</title>
+    <programme start="20240811010000" stop="20240811020000" channel="cctv5">
+        <title lang="zh">录像：巴黎奥运会-女子曲棍球决赛 荷兰-中国</title>
+    </programme>
+    <programme start="20240811020000" stop="20240811030000" channel="cctv5">
+        <title lang="zh">录像：巴黎奥运会-男篮决赛 法国-美国</title>
+    </programme>
+    <programme start="20240811030000" stop="20240811040000" channel="cctv5">
+        <title lang="zh">录像：巴黎奥运会-田径多项决赛</title>
     </programme>
     <programme start="20240811040000" stop="20240811050500" channel="cctv5">
         <title lang="zh">体坛快讯-巴黎最前沿</title>
     </programme>
     <programme start="20240811050500" stop="20240811065500" channel="cctv5">
-        <title lang="zh">巴黎奥运会-赛事录播8.11-2</title>
+        <title lang="zh">录像：巴黎奥运会-乒乓球女团决赛 中国-日本</title>
     </programme>
     <programme start="20240811065500" stop="20240811072000" channel="cctv5">
         <title lang="zh">2024年巴黎奥运会报道-巴黎会客厅-17</title>
@@ -1609,13 +1615,19 @@
         <title lang="zh">2024年巴黎奥运会报道-遇见巴黎-30(4K)</title>
     </programme>
     <programme start="20240811080000" stop="20240811084500" channel="cctv5">
-        <title lang="zh">巴黎奥运会-赛事直播 8.11</title>
+        <title lang="zh">录像：巴黎奥运会-花样游泳双人自由自选决赛</title>
     </programme>
     <programme start="20240811084500" stop="20240811094500" channel="cctv5">
         <title lang="zh">体育新闻-全景奥运</title>
     </programme>
-    <programme start="20240811094500" stop="20240811153000" channel="cctv5">
-        <title lang="zh">巴黎奥运会-举重女子81公斤级决赛、女排决赛、女篮决赛等</title>
+    <programme start="20240811094500" stop="20240811120000" channel="cctv5">
+        <title lang="zh">直播：巴黎奥运会-举重女子81公斤以上级决赛</title>
+    </programme>
+    <programme start="20240811120000" stop="20240811133000" channel="cctv5">
+        <title lang="zh">直播：巴黎奥运会-男子水球决赛 塞尔维亚-克罗地亚</title>
+    </programme>
+    <programme start="20240811133000" stop="20240811153000" channel="cctv5">
+        <title lang="zh">直播：巴黎奥运会-女篮决赛 法国-美国</title>
     </programme>
     <programme start="20240811153000" stop="20240811155900" channel="cctv5">
         <title lang="zh">体育新闻-巴黎奥运会 闭幕式特别节目</title>
@@ -1758,8 +1770,32 @@
     <programme start="20240811000000" stop="20240811010000" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 跳水女子3米板决赛（4K）</title>
     </programme>
-    <programme start="20240811010000" stop="20240811133500" channel="cctv5plus">
-        <title lang="zh">巴黎奥运会-赛事直播19</title>
+    <programme start="20240811010000" stop="20240811020000" channel="cctv5plus">
+        <title lang="zh">录像：巴黎奥运会-男子举重102公斤级决赛</title>
+    </programme>
+    <programme start="20240811020000" stop="20240811033000" channel="cctv5plus">
+        <title lang="zh">录像：巴黎奥运会-女子曲棍球决赛 荷兰-中国</title>
+    </programme>
+    <programme start="20240811033000" stop="20240811050000" channel="cctv5plus">
+        <title lang="zh">录像：巴黎奥运会-乒乓球女团决赛 中国-日本</title>
+    </programme>
+    <programme start="20240811050000" stop="20240811060000" channel="cctv5plus">
+        <title lang="zh">录像：巴黎奥运会-田径多项决赛</title>
+    </programme>
+    <programme start="20240811060000" stop="20240811083000" channel="cctv5plus">
+        <title lang="zh">直播：巴黎奥运会-女子马拉松决赛</title>
+    </programme>
+    <programme start="20240811083000" stop="20240811093000" channel="cctv5plus">
+        <title lang="zh">录像：巴黎奥运会-霹雳舞男子决赛</title>
+    </programme>
+    <programme start="20240811093000" stop="20240811110000" channel="cctv5plus">
+        <title lang="zh">录像：巴黎奥运会-男篮决赛 法国-美国</title>
+    </programme>
+    <programme start="20240811110000" stop="20240811130000" channel="cctv5plus">
+        <title lang="zh">直播：巴黎奥运会-女排决赛 美国-意大利</title>
+    </programme>
+    <programme start="20240811130000" stop="20240811133500" channel="cctv5plus">
+        <title lang="zh">录像：巴黎奥运会-现代五项女子激光跑</title>
     </programme>
     <programme start="20240811133500" stop="20240811153500" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 乒乓球男团决赛（4K）</title>
@@ -4452,8 +4488,26 @@
     <programme start="20240811060100" stop="20240811070000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 跳水女子3米板决赛</title>
     </programme>
-    <programme start="20240811070000" stop="20240811133500" channel="cctv16">
-        <title lang="zh">2024年巴黎奥运会-赛事直播 8.11</title>
+    <programme start="20240811070000" stop="20240811073000" channel="cctv16">
+        <title lang="zh">录像：巴黎奥运会-花样游泳双人自由自选决赛</title>
+    </programme>
+    <programme start="20240811073000" stop="20240811090000" channel="cctv16">
+        <title lang="zh">录像：巴黎奥运会-男排决赛 法国-波兰</title>
+    </programme>
+    <programme start="20240811090000" stop="20240811100000" channel="cctv16">
+        <title lang="zh">录像：巴黎奥运会-田径多项决赛</title>
+    </programme>
+    <programme start="20240811100000" stop="20240811104000" channel="cctv16">
+        <title lang="zh">录像：巴黎奥运会-霹雳舞男子决赛</title>
+    </programme>
+    <programme start="20240811104000" stop="20240811111500" channel="cctv16">
+        <title lang="zh">直播：巴黎奥运会-现代五项女子激光跑</title>
+    </programme>
+    <programme start="20240811111500" stop="20240811123000" channel="cctv16">
+        <title lang="zh">直播：巴黎奥运会-场地自行车（男子凯琳赛、女子个人竞速、女子全能之计分赛）</title>
+    </programme>
+    <programme start="20240811123000" stop="20240811133500" channel="cctv16">
+        <title lang="zh">录像：巴黎奥运会-女子马拉松决赛</title>
     </programme>
     <programme start="20240811133500" stop="20240811143000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 游泳比赛1</title>
