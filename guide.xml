@@ -414,35 +414,32 @@
     <programme start="20240905171200" stop="20240905174100" channel="cctv1">
         <title lang="zh">人与自然-2024-182</title>
     </programme>
-    <programme start="20240905174100" stop="20240905181300" channel="cctv1">
+    <programme start="20240905174100" stop="20240905181100" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20240905181300" stop="20240905181700" channel="cctv1">
+    <programme start="20240905181100" stop="20240905181500" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
-    <programme start="20240905181700" stop="20240905182200" channel="cctv1">
-        <title lang="zh">泱泱中华-2</title>
-    </programme>
-    <programme start="20240905182200" stop="20240905183200" channel="cctv1">
+    <programme start="20240905181500" stop="20240905182500" channel="cctv1">
         <title lang="zh">2024秘境之眼-熊猫森林(4K）</title>
     </programme>
-    <programme start="20240905183200" stop="20240905184200" channel="cctv1">
+    <programme start="20240905182500" stop="20240905183500" channel="cctv1">
         <title lang="zh">2024秘境之眼-世界珍禽朱鹮(4K)</title>
     </programme>
-    <programme start="20240905184200" stop="20240905185500" channel="cctv1">
+    <programme start="20240905183500" stop="20240905184800" channel="cctv1">
         <title lang="zh">非遗里的中国-秀演精编1</title>
     </programme>
-    <programme start="20240905185500" stop="20240905202300" channel="cctv1">
+    <programme start="20240905184800" stop="20240905201600" channel="cctv1">
         <title lang="zh">三餐四季-11</title>
     </programme>
-    <programme start="20240905202300" stop="20240905202500" channel="cctv1">
+    <programme start="20240905201600" stop="20240905202100" channel="cctv1">
         <title lang="zh">泱泱中华-美丽湿地2</title>
     </programme>
-    <programme start="20240905202500" stop="20240905205600" channel="cctv1">
-        <title lang="zh">今日说法-2024-225</title>
-    </programme>
-    <programme start="20240905205600" stop="20240905220000" channel="cctv1">
+    <programme start="20240905202100" stop="20240905213000" channel="cctv1">
         <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20240905213000" stop="20240905220000" channel="cctv1">
+        <title lang="zh">人与自然-2024-134</title>
     </programme>
     <programme start="20240905220000" stop="20240906003600" channel="cctv1">
         <title lang="zh">朝闻天下</title>
@@ -1389,20 +1386,26 @@
     <programme start="20240905165400" stop="20240905174100" channel="cctv4">
         <title lang="zh">大牧歌第24集</title>
     </programme>
-    <programme start="20240905174100" stop="20240905180000" channel="cctv4">
-        <title lang="zh">中国文艺-2024-179</title>
+    <programme start="20240905174100" stop="20240905174900" channel="cctv4">
+        <title lang="zh">国家公园精彩片段-12</title>
     </programme>
-    <programme start="20240905180000" stop="20240905190000" channel="cctv4">
+    <programme start="20240905174900" stop="20240905175700" channel="cctv4">
+        <title lang="zh">国家公园精彩片段-13</title>
+    </programme>
+    <programme start="20240905175700" stop="20240905180000" channel="cctv4">
+        <title lang="zh">记住乡愁-片段展播-2024-43</title>
+    </programme>
+    <programme start="20240905180000" stop="20240905191000" channel="cctv4">
         <title lang="zh">新闻联播</title>
-    </programme>
-    <programme start="20240905190000" stop="20240905191000" channel="cctv4">
-        <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20240905191000" stop="20240905200000" channel="cctv4">
         <title lang="zh">远方的家2024-117</title>
     </programme>
-    <programme start="20240905200000" stop="20240905203000" channel="cctv4">
-        <title lang="zh">中国新闻</title>
+    <programme start="20240905200000" stop="20240905202700" channel="cctv4">
+        <title lang="zh">中国文艺-2024-179</title>
+    </programme>
+    <programme start="20240905202700" stop="20240905203000" channel="cctv4">
+        <title lang="zh">记住乡愁-片段展播-2024-44</title>
     </programme>
     <programme start="20240905203000" stop="20240905210000" channel="cctv4">
         <title lang="zh">今日关注</title>
@@ -1749,8 +1752,11 @@
     <programme start="20240905230000" stop="20240906010500" channel="cctv5">
         <title lang="zh">体坛晨报</title>
     </programme>
-    <programme start="20240906010500" stop="20240906030500" channel="cctv5">
-        <title lang="zh">2024年美国网球公开赛-女单半决赛</title>
+    <programme start="20240906010500" stop="20240906020500" channel="cctv5">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎残奥会 游泳比赛2（4K）</title>
+    </programme>
+    <programme start="20240906020500" stop="20240906030500" channel="cctv5">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎残奥会 场地自行车比赛（4K）</title>
     </programme>
     <programme start="20240906030500" stop="20240906040000" channel="cctv5">
         <title lang="zh">实况录像-2024年世界职业拳王争霸赛 11</title>
@@ -1773,38 +1779,41 @@
     <programme start="20240906064500" stop="20240906070000" channel="cctv5">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 奥运典藏7（4K）</title>
     </programme>
-    <programme start="20240906070000" stop="20240906083000" channel="cctv5">
+    <programme start="20240906070000" stop="20240906073000" channel="cctv5">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 花样游泳集体技巧自选（4K）</title>
+    </programme>
+    <programme start="20240906073000" stop="20240906085500" channel="cctv5">
         <title lang="zh">实况录像-2024年世界田联钻石联赛 苏黎世站（录播）</title>
     </programme>
-    <programme start="20240906083000" stop="20240906100000" channel="cctv5">
-        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 男篮决赛（4K）</title>
+    <programme start="20240906085500" stop="20240906090500" channel="cctv5">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 奥运典藏20（4K）</title>
+    </programme>
+    <programme start="20240906090500" stop="20240906100000" channel="cctv5">
+        <title lang="zh">篮球公园-2024-30</title>
     </programme>
     <programme start="20240906100000" stop="20240906103500" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20240906103500" stop="20240906113000" channel="cctv5">
-        <title lang="zh">篮球公园</title>
+    <programme start="20240906103500" stop="20240906113500" channel="cctv5">
+        <title lang="zh">实况录像-2024年巴黎残奥会 乒乓球决赛（录播）</title>
     </programme>
-    <programme start="20240906113000" stop="20240906120000" channel="cctv5">
-        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 竞走女子20公里（4K）</title>
+    <programme start="20240906113500" stop="20240906123500" channel="cctv5">
+        <title lang="zh">巴黎残奥会-举重女子61公斤级决赛</title>
     </programme>
-    <programme start="20240906120000" stop="20240906131500" channel="cctv5">
-        <title lang="zh">巴黎残奥会-乒乓球决赛1</title>
-    </programme>
-    <programme start="20240906131500" stop="20240906140000" channel="cctv5">
+    <programme start="20240906123500" stop="20240906133000" channel="cctv5">
         <title lang="zh">实况录像-2024年巴黎残奥会 坐式排球 女子半决赛（录播）</title>
     </programme>
-    <programme start="20240906140000" stop="20240906143500" channel="cctv5">
-        <title lang="zh">体育世界</title>
+    <programme start="20240906133000" stop="20240906140500" channel="cctv5">
+        <title lang="zh">体育世界-2024.9.6</title>
     </programme>
-    <programme start="20240906143500" stop="20240906155900" channel="cctv5">
+    <programme start="20240906140500" stop="20240906155900" channel="cctv5">
         <title lang="zh">实况录像-2024年巴黎残奥会 田径决赛、游泳决赛（录播）7</title>
     </programme>
-    <programme start="20240906163500" stop="20240906170800" channel="cctv5">
-        <title lang="zh">顶级赛事-象棋</title>
+    <programme start="20240906160000" stop="20240906180500" channel="cctv5">
+        <title lang="zh">2024年美国网球公开赛-女双决赛</title>
     </programme>
-    <programme start="20240906170800" stop="20240906183500" channel="cctv5">
-        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 羽毛球女双决赛（4K）</title>
+    <programme start="20240906180500" stop="20240906183500" channel="cctv5">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 竞走女子20公里（4K）</title>
     </programme>
     <programme start="20240906183500" stop="20240906200000" channel="cctv5">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 体操单项决赛2（4K）</title>
