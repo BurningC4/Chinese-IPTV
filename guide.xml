@@ -946,7 +946,7 @@
         <title lang="zh">职场健康课-2024-36</title>
     </programme>
     <programme start="20240915120000" stop="20240915133000" channel="cctv2">
-        <title lang="zh">9.15 中国质量 品质生活-1</title>
+        <title lang="zh">9.15中国质量品质生活-1</title>
     </programme>
     <programme start="20240915133000" stop="20240915141500" channel="cctv2">
         <title lang="zh">中国经济大讲堂-2024-35</title>
@@ -3750,8 +3750,11 @@
     <programme start="20240914171100" stop="20240914175400" channel="cctv12">
         <title lang="zh">现场-2023-41</title>
     </programme>
-    <programme start="20240914175400" stop="20240914220300" channel="cctv12">
+    <programme start="20240914175400" stop="20240914183800" channel="cctv12">
         <title lang="zh">心理访谈-2024-37</title>
+    </programme>
+    <programme start="20240914183800" stop="20240914220300" channel="cctv12">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20240914220300" stop="20240914223600" channel="cctv12">
         <title lang="zh">法律讲堂-2024-15</title>
@@ -4236,6 +4239,9 @@
     <programme start="20240914152800" stop="20240914155900" channel="cctvchild">
         <title lang="zh">电影-地下少先队</title>
     </programme>
+    <programme start="20240914170300" stop="20240914220000" channel="cctvchild">
+        <title lang="zh">再见</title>
+    </programme>
     <programme start="20240914220000" stop="20240914230000" channel="cctvchild">
         <title lang="zh">英雄出少年-2024-36</title>
     </programme>
@@ -4566,17 +4572,23 @@
     <programme start="20240914074000" stop="20240914094000" channel="cctv16">
         <title lang="zh">2024年美国网球公开赛-男单决赛</title>
     </programme>
-    <programme start="20240914094000" stop="20240914110000" channel="cctv16">
+    <programme start="20240914094000" stop="20240914105500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 女篮决赛</title>
     </programme>
-    <programme start="20240914110000" stop="20240914111000" channel="cctv16">
+    <programme start="20240914105500" stop="20240914115000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎残奥会 游泳比赛</title>
+    </programme>
+    <programme start="20240914115000" stop="20240914120000" channel="cctv16">
         <title lang="zh">从北京到巴黎 中国艺术大展行-67</title>
     </programme>
-    <programme start="20240914111000" stop="20240914113000" channel="cctv16">
+    <programme start="20240914120000" stop="20240914122000" channel="cctv16">
         <title lang="zh">艺术里的奥林匹克-2024-67</title>
     </programme>
-    <programme start="20240914113000" stop="20240914134500" channel="cctv16">
-        <title lang="zh">2024年中国足协超级联赛-第25轮 成都蓉城-北京国安</title>
+    <programme start="20240914122000" stop="20240914131700" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎残奥会 轮椅篮球女子比赛</title>
+    </programme>
+    <programme start="20240914131700" stop="20240914134500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 花样游泳集体技巧自选</title>
     </programme>
     <programme start="20240914134500" stop="20240914151500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年世界二十岁以下田径锦标赛1</title>
