@@ -492,10 +492,10 @@
     <programme start="20240915113800" stop="20240915120100" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20240915120100" stop="20240915122600" channel="cctv1">
+    <programme start="20240915120100" stop="20240915122400" channel="cctv1">
         <title lang="zh">淬火-5</title>
     </programme>
-    <programme start="20240915122600" stop="20240915140500" channel="cctv1">
+    <programme start="20240915122400" stop="20240915140500" channel="cctv1">
         <title lang="zh">山水间的家（第三季）-3</title>
     </programme>
     <programme start="20240915140500" stop="20240915144100" channel="cctv1">
@@ -1087,7 +1087,7 @@
         <title lang="zh">会唱歌的院子-1</title>
     </programme>
     <programme start="20240915073800" stop="20240915085900" channel="cctv3">
-        <title lang="zh">星光大道-2024-36（这一站星光12）</title>
+        <title lang="zh">星光大道-2024-37（这一站星光13）</title>
     </programme>
     <programme start="20240915085900" stop="20240915090400" channel="cctv3">
         <title lang="zh">悦读一夏-旅行的艺术</title>
@@ -1776,14 +1776,14 @@
     <programme start="20240916050000" stop="20240916060000" channel="cctv5">
         <title lang="zh">赛事集锦-2024年世界山地自行车锦标赛1（4K）</title>
     </programme>
-    <programme start="20240916060000" stop="20240916073200" channel="cctv5">
+    <programme start="20240916060000" stop="20240916073000" channel="cctv5">
         <title lang="zh">2024/2025德国足球甲级联赛-第3轮（霍芬海姆—勒沃库森）</title>
     </programme>
-    <programme start="20240916073200" stop="20240916083000" channel="cctv5">
-        <title lang="zh">实况录像-2024年世界职业拳王争霸赛 11</title>
+    <programme start="20240916073000" stop="20240916090000" channel="cctv5">
+        <title lang="zh">实况录像-2024年世界一级方程式锦标赛 阿塞拜疆大奖赛 正赛（录播）</title>
     </programme>
-    <programme start="20240916083000" stop="20240916100000" channel="cctv5">
-        <title lang="zh">实况录像-2024年世界田联钻石联赛 罗马站</title>
+    <programme start="20240916090000" stop="20240916100000" channel="cctv5">
+        <title lang="zh">实况录像-2024年第二届中国北京金海湖帆船赛 多项决赛（录播）1</title>
     </programme>
     <programme start="20240916100000" stop="20240916103500" channel="cctv5">
         <title lang="zh">体育新闻</title>
@@ -2653,13 +2653,13 @@
         <title lang="zh">本集提要-凡人歌-31/37</title>
     </programme>
     <programme start="20240915113000" stop="20240915122400" channel="cctv8">
-        <title lang="zh">凡人歌31/37</title>
+        <title lang="zh">凡人歌第31集</title>
     </programme>
     <programme start="20240915122400" stop="20240915122900" channel="cctv8">
         <title lang="zh">本集提要-凡人歌-32/37</title>
     </programme>
     <programme start="20240915122900" stop="20240915132000" channel="cctv8">
-        <title lang="zh">凡人歌32/37</title>
+        <title lang="zh">凡人歌第32集</title>
     </programme>
     <programme start="20240915132000" stop="20240915132500" channel="cctv8">
         <title lang="zh">本集提要-雪迷宫-第18集</title>
@@ -4557,20 +4557,17 @@
     <programme start="20240915042000" stop="20240915054500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年世界田联钻石联赛 洛桑站</title>
     </programme>
-    <programme start="20240915054500" stop="20240915061500" channel="cctv16">
+    <programme start="20240915054500" stop="20240915061000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 小轮车女子自由式决赛</title>
     </programme>
-    <programme start="20240915061500" stop="20240915074000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 体操男子个人全能决赛</title>
+    <programme start="20240915061000" stop="20240915073500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2024/2025西班牙足球甲级联赛第5轮 马略卡—比利亚雷亚尔 录播（4K）</title>
     </programme>
-    <programme start="20240915074000" stop="20240915080000" channel="cctv16">
-        <title lang="zh">艺术里的奥林匹克-2024-29</title>
+    <programme start="20240915073500" stop="20240915090000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2024/2025法国足球甲级联赛第4轮 巴黎圣日耳曼—布雷斯特 录播（4K）</title>
     </programme>
-    <programme start="20240915080000" stop="20240915083000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 女子霹雳舞比赛</title>
-    </programme>
-    <programme start="20240915083000" stop="20240915092500" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 男女滑板街式决赛</title>
+    <programme start="20240915090000" stop="20240915092500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 女子霹雳舞比赛（4K）</title>
     </programme>
     <programme start="20240915092500" stop="20240915105500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 网球比赛1</title>
