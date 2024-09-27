@@ -555,11 +555,8 @@
     <programme start="20240928220000" stop="20240929003000" channel="cctv1">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme start="20240929003000" stop="20240929020300" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
-    </programme>
-    <programme start="20240929020300" stop="20240929030000" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+    <programme start="20240929003000" stop="20240929030000" channel="cctv1">
+        <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20240929030000" stop="20240929030100" channel="cctv1">
         <title lang="zh">山水间的家-主题曲</title>
@@ -855,11 +852,14 @@
     <programme start="20240928103000" stop="20240928113000" channel="cctv2">
         <title lang="zh">欢乐大猜想-2024-39</title>
     </programme>
-    <programme start="20240928113000" stop="20240928120500" channel="cctv2">
-        <title lang="zh">能源浪潮-1</title>
+    <programme start="20240928113000" stop="20240928114500" channel="cctv2">
+        <title lang="zh">2023精品财经纪录-雕琢岁月-2</title>
     </programme>
-    <programme start="20240928120500" stop="20240928123000" channel="cctv2">
-        <title lang="zh">2023精品财经纪录-祁连山-1</title>
+    <programme start="20240928114500" stop="20240928122500" channel="cctv2">
+        <title lang="zh">中国式现代化之路-1</title>
+    </programme>
+    <programme start="20240928122500" stop="20240928123000" channel="cctv2">
+        <title lang="zh">周末特供2022-万物之生1-5分版</title>
     </programme>
     <programme start="20240928123000" stop="20240928133000" channel="cctv2">
         <title lang="zh">经济信息联播</title>
@@ -873,17 +873,20 @@
     <programme start="20240928151800" stop="20240928155900" channel="cctv2">
         <title lang="zh">欢乐大猜想-2024-39</title>
     </programme>
-    <programme start="20240928162100" stop="20240928170800" channel="cctv2">
+    <programme start="20240928162100" stop="20240928170300" channel="cctv2">
+        <title lang="zh">中国式现代化之路-1</title>
+    </programme>
+    <programme start="20240928170300" stop="20240928174800" channel="cctv2">
         <title lang="zh">对话-2024-38</title>
     </programme>
-    <programme start="20240928170800" stop="20240928180800" channel="cctv2">
+    <programme start="20240928174800" stop="20240928184800" channel="cctv2">
         <title lang="zh">澳门双行线-10</title>
     </programme>
-    <programme start="20240928180800" stop="20240928183800" channel="cctv2">
+    <programme start="20240928184800" stop="20240928191800" channel="cctv2">
         <title lang="zh">2021精品财经纪录-万物滋养第一季-4</title>
     </programme>
-    <programme start="20240928183800" stop="20240928192300" channel="cctv2">
-        <title lang="zh">栋梁之材-4</title>
+    <programme start="20240928191800" stop="20240928192300" channel="cctv2">
+        <title lang="zh">周末特供2022-万物之生1-5分版</title>
     </programme>
     <programme start="20240928192300" stop="20240928194900" channel="cctv2">
         <title lang="zh">2024精品财经纪录-人类记忆中国的世界遗产-1</title>
@@ -930,38 +933,41 @@
     <programme start="20240929050100" stop="20240929052500" channel="cctv2">
         <title lang="zh">活力·源2023-369  鲜生史（第二季）4</title>
     </programme>
-    <programme start="20240929052500" stop="20240929055200" channel="cctv2">
+    <programme start="20240929052500" stop="20240929053300" channel="cctv2">
+        <title lang="zh">周末特供2023-乡野有真味8-8分版</title>
+    </programme>
+    <programme start="20240929053300" stop="20240929060000" channel="cctv2">
         <title lang="zh">2021精品财经纪录-味道中原-4</title>
     </programme>
-    <programme start="20240929055200" stop="20240929065300" channel="cctv2">
+    <programme start="20240929060000" stop="20240929064100" channel="cctv2">
+        <title lang="zh">中国式现代化之路-1</title>
+    </programme>
+    <programme start="20240929064100" stop="20240929074400" channel="cctv2">
         <title lang="zh">欢乐大猜想-2024-39</title>
     </programme>
-    <programme start="20240929065300" stop="20240929075400" channel="cctv2">
-        <title lang="zh">巅峰食刻——中法厨王竞技-1</title>
+    <programme start="20240929074400" stop="20240929075800" channel="cctv2">
+        <title lang="zh">周末特供2024-677</title>
     </programme>
-    <programme start="20240929075400" stop="20240929082500" channel="cctv2">
-        <title lang="zh">2021精品财经纪录-万物滋养第一季-3</title>
+    <programme start="20240929075800" stop="20240929081400" channel="cctv2">
+        <title lang="zh">周末特供2024-679</title>
     </programme>
-    <programme start="20240929082500" stop="20240929084100" channel="cctv2">
-        <title lang="zh">周末特供2024-689</title>
-    </programme>
-    <programme start="20240929084100" stop="20240929085900" channel="cctv2">
-        <title lang="zh">周末特供2024-690</title>
-    </programme>
-    <programme start="20240929085900" stop="20240929092900" channel="cctv2">
+    <programme start="20240929081400" stop="20240929084400" channel="cctv2">
         <title lang="zh">2023精品财经纪录-圈粉食刻-1</title>
     </programme>
-    <programme start="20240929092900" stop="20240929095300" channel="cctv2">
+    <programme start="20240929084400" stop="20240929090800" channel="cctv2">
         <title lang="zh">2021精品财经纪录-千年陕菜-6</title>
     </programme>
-    <programme start="20240929095300" stop="20240929103000" channel="cctv2">
+    <programme start="20240929090800" stop="20240929094500" channel="cctv2">
         <title lang="zh">2020精品财经纪录-老广的味道第五季-2</title>
     </programme>
-    <programme start="20240929103000" stop="20240929113000" channel="cctv2">
+    <programme start="20240929094500" stop="20240929104500" channel="cctv2">
         <title lang="zh">一槌定音-2024-44</title>
     </programme>
-    <programme start="20240929113000" stop="20240929123000" channel="cctv2">
+    <programme start="20240929104500" stop="20240929114500" channel="cctv2">
         <title lang="zh">职场健康课-2024-38</title>
+    </programme>
+    <programme start="20240929114500" stop="20240929123000" channel="cctv2">
+        <title lang="zh">中国式现代化之路-2</title>
     </programme>
     <programme start="20240929123000" stop="20240929133000" channel="cctv2">
         <title lang="zh">经济信息联播</title>
@@ -1162,7 +1168,7 @@
         <title lang="zh">绽放吧！妈妈-14</title>
     </programme>
     <programme start="20240928220100" stop="20240928225200" channel="cctv3">
-        <title lang="zh">艺览天下-2024-25</title>
+        <title lang="zh">艺览天下-2024-22</title>
     </programme>
     <programme start="20240928225200" stop="20240928234900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-635</title>
@@ -1215,19 +1221,19 @@
     <programme start="20240929113000" stop="20240929125000" channel="cctv3">
         <title lang="zh">灯火中国-重庆篇-1</title>
     </programme>
-    <programme start="20240929125000" stop="20240929131400" channel="cctv3">
-        <title lang="zh">国之颂-2（播出版）</title>
-    </programme>
-    <programme start="20240929131400" stop="20240929140900" channel="cctv3">
+    <programme start="20240929125000" stop="20240929134700" channel="cctv3">
         <title lang="zh">幸福账单-勇者之战-2024-6</title>
     </programme>
-    <programme start="20240929140900" stop="20240929144100" channel="cctv3">
+    <programme start="20240929134700" stop="20240929141900" channel="cctv3">
         <title lang="zh">黄金100秒-TOP音乐咖-15</title>
     </programme>
-    <programme start="20240929144100" stop="20240929153700" channel="cctv3">
+    <programme start="20240929141900" stop="20240929144700" channel="cctv3">
+        <title lang="zh">舞蹈世界-2024-7</title>
+    </programme>
+    <programme start="20240929144700" stop="20240929154200" channel="cctv3">
         <title lang="zh">我爱满堂彩-2024-32一笑一周</title>
     </programme>
-    <programme start="20240929153700" stop="20240929155900" channel="cctv3">
+    <programme start="20240929154200" stop="20240929155900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2024-978 爱情而已34/38</title>
     </programme>
     <programme start="20240926163600" stop="20240926172300" channel="cctv4">
