@@ -1641,10 +1641,10 @@
     <programme start="20240929033500" stop="20240929040500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20240929040500" stop="20240929070000" channel="cctv5">
+    <programme start="20240929040500" stop="20240929050000" channel="cctv5">
         <title lang="zh">2024年世乒联大满贯赛（北京站）-第1轮1</title>
     </programme>
-    <programme start="20240929070000" stop="20240929090000" channel="cctv5">
+    <programme start="20240929050000" stop="20240929090000" channel="cctv5">
         <title lang="zh">2024年中国网球公开赛-女单第3轮1</title>
     </programme>
     <programme start="20240929090000" stop="20240929093000" channel="cctv5">
@@ -1815,8 +1815,11 @@
     <programme start="20240929013000" stop="20240929030000" channel="cctv5plus">
         <title lang="zh">2024/2025西班牙足球甲级联赛-第7轮（巴塞罗那-赫塔费）</title>
     </programme>
-    <programme start="20240929030000" stop="20240929070500" channel="cctv5plus">
+    <programme start="20240929030000" stop="20240929045400" channel="cctv5plus">
         <title lang="zh">2024年中国网球公开赛-男单第二轮、女单第三轮</title>
+    </programme>
+    <programme start="20240929045400" stop="20240929070500" channel="cctv5plus">
+        <title lang="zh">2024年世乒联大满贯赛（北京站）-第1轮</title>
     </programme>
     <programme start="20240929070500" stop="20240929080000" channel="cctv5plus">
         <title lang="zh">实况录像-2024年世界职业拳王争霸赛 12</title>
