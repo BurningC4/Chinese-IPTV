@@ -540,16 +540,19 @@
     <programme start="20241001220000" stop="20241002003500" channel="cctv1">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme start="20241002003500" stop="20241002011300" channel="cctv1">
+    <programme start="20241002003500" stop="20241002011200" channel="cctv1">
         <title lang="zh">生活早参考-特别节目（生活圈）2024-206</title>
     </programme>
-    <programme start="20241002011300" stop="20241002020000" channel="cctv1">
+    <programme start="20241002011200" stop="20241002020000" channel="cctv1">
         <title lang="zh">雪迷宫18/31</title>
     </programme>
-    <programme start="20241002020000" stop="20241002030400" channel="cctv1">
+    <programme start="20241002020000" stop="20241002025700" channel="cctv1">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20241002030400" stop="20241002035600" channel="cctv1">
+    <programme start="20241002025700" stop="20241002030600" channel="cctv1">
+        <title lang="zh">精彩一刻-共和国之恋</title>
+    </programme>
+    <programme start="20241002030600" stop="20241002035600" channel="cctv1">
         <title lang="zh">雪迷宫19/31</title>
     </programme>
     <programme start="20241002035600" stop="20241002040000" channel="cctv1">
@@ -1377,14 +1380,17 @@
     <programme start="20240930180000" stop="20240930183000" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20240930183000" stop="20240930190000" channel="cctv4">
+    <programme start="20240930183000" stop="20240930190200" channel="cctv4">
         <title lang="zh">走遍中国-2024-157</title>
     </programme>
-    <programme start="20240930190000" stop="20240930191000" channel="cctv4">
-        <title lang="zh">中国新闻</title>
+    <programme start="20240930190200" stop="20240930190500" channel="cctv4">
+        <title lang="zh">国家公园精彩片段-2</title>
     </programme>
-    <programme start="20240930191000" stop="20240930200000" channel="cctv4">
+    <programme start="20240930190500" stop="20240930195000" channel="cctv4">
         <title lang="zh">远方的家2024-79(4K)</title>
+    </programme>
+    <programme start="20240930195000" stop="20240930200000" channel="cctv4">
+        <title lang="zh">国家公园精彩片段-6</title>
     </programme>
     <programme start="20240930200000" stop="20240930203000" channel="cctv4">
         <title lang="zh">中国新闻</title>
@@ -1506,14 +1512,17 @@
     <programme start="20241001180000" stop="20241001183000" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20241001183000" stop="20241001190000" channel="cctv4">
+    <programme start="20241001183000" stop="20241001190200" channel="cctv4">
         <title lang="zh">走遍中国-2024-158</title>
     </programme>
-    <programme start="20241001190000" stop="20241001191000" channel="cctv4">
-        <title lang="zh">中国新闻</title>
+    <programme start="20241001190200" stop="20241001190500" channel="cctv4">
+        <title lang="zh">国家公园精彩片段-3</title>
     </programme>
-    <programme start="20241001191000" stop="20241001200000" channel="cctv4">
+    <programme start="20241001190500" stop="20241001195000" channel="cctv4">
         <title lang="zh">远方的家2024-80(4K)</title>
+    </programme>
+    <programme start="20241001195000" stop="20241001200000" channel="cctv4">
+        <title lang="zh">国家公园精彩片段-7</title>
     </programme>
     <programme start="20241001200000" stop="20241001203000" channel="cctv4">
         <title lang="zh">中国新闻</title>
@@ -2662,13 +2671,13 @@
         <title lang="zh">本集提要-破密-第1集</title>
     </programme>
     <programme start="20241001132400" stop="20241001141400" channel="cctv8">
-        <title lang="zh">破密1/20</title>
+        <title lang="zh">破密第1集</title>
     </programme>
     <programme start="20241001141400" stop="20241001141600" channel="cctv8">
         <title lang="zh">本集提要-破密-第2集</title>
     </programme>
     <programme start="20241001141600" stop="20241001150500" channel="cctv8">
-        <title lang="zh">破密2/20</title>
+        <title lang="zh">破密第2集</title>
     </programme>
     <programme start="20241001150500" stop="20241001155100" channel="cctv8">
         <title lang="zh">繁花第18集</title>
@@ -4411,7 +4420,7 @@
         <title lang="zh">万物声动-寻声赤峰</title>
     </programme>
     <programme start="20240930143200" stop="20240930152100" channel="cctv15">
-        <title lang="zh">风华国乐-2024-古韵千秋-清新隽永中国情1</title>
+        <title lang="zh">风华国乐-2024-古韵千秋-清新隽永中国情6</title>
     </programme>
     <programme start="20240930152100" stop="20240930155900" channel="cctv15">
         <title lang="zh">中国节拍-2024-12-舞韵华章1</title>
@@ -4419,10 +4428,10 @@
     <programme start="20240930160100" stop="20240930173900" channel="cctv15">
         <title lang="zh">中国·保定乡村音乐大会-盛典篇1</title>
     </programme>
-    <programme start="20240930173900" stop="20240930183400" channel="cctv15">
+    <programme start="20240930173900" stop="20240930183600" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2024-178-名家名曲（82）</title>
     </programme>
-    <programme start="20240930183400" stop="20240930220000" channel="cctv15">
+    <programme start="20240930183600" stop="20240930220000" channel="cctv15">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20240930220000" stop="20240930231200" channel="cctv15">
@@ -4521,20 +4530,17 @@
     <programme start="20241002101400" stop="20241002113000" channel="cctv15">
         <title lang="zh">合唱先锋-2024-33</title>
     </programme>
-    <programme start="20241002113000" stop="20241002125500" channel="cctv15">
+    <programme start="20241002113000" stop="20241002131500" channel="cctv15">
         <title lang="zh">2024江山如画国庆系列音乐会-黄河的交响</title>
     </programme>
-    <programme start="20241002125500" stop="20241002134500" channel="cctv15">
+    <programme start="20241002131500" stop="20241002140500" channel="cctv15">
         <title lang="zh">风华国乐-2024-古韵千秋-清新隽永中国情3</title>
     </programme>
-    <programme start="20241002134500" stop="20241002142400" channel="cctv15">
+    <programme start="20241002140500" stop="20241002144400" channel="cctv15">
         <title lang="zh">中国节拍-2024-14-舞韵华章3</title>
     </programme>
-    <programme start="20241002142400" stop="20241002155800" channel="cctv15">
+    <programme start="20241002144400" stop="20241002155900" channel="cctv15">
         <title lang="zh">中国·保定乡村音乐大会-万博广场2</title>
-    </programme>
-    <programme start="20241002155800" stop="20241002155900" channel="cctv15">
-        <title lang="zh">CCTV音乐厅-2024-188-“金秋的旋律”系列音乐会（二）</title>
     </programme>
     <programme start="20240929163000" stop="20240929170000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 男子霹雳舞比赛</title>
