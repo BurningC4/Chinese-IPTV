@@ -1753,16 +1753,19 @@
         <title lang="zh">从北京到巴黎 中国艺术大展行-85(4K)</title>
     </programme>
     <programme start="20241002030000" stop="20241002040000" channel="cctv5">
-        <title lang="zh">2024年世乒联大满贯赛(北京站)-混双1/4决赛1等</title>
+        <title lang="zh">2024年世乒联大满贯赛(北京站)-单打第二轮等</title>
     </programme>
     <programme start="20241002040000" stop="20241002043000" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20241002043000" stop="20241002070000" channel="cctv5">
-        <title lang="zh">2024年世乒联大满贯赛(北京站)-混双1/4决赛1等</title>
+    <programme start="20241002043000" stop="20241002070500" channel="cctv5">
+        <title lang="zh">2024年世乒联大满贯赛(北京站)-单打第二轮等</title>
     </programme>
-    <programme start="20241002070000" stop="20241002090000" channel="cctv5">
-        <title lang="zh">2024年中国网球公开赛-女单第4轮2</title>
+    <programme start="20241002070500" stop="20241002073300" channel="cctv5">
+        <title lang="zh">实况录像-2024年世界健美操锦标赛 1</title>
+    </programme>
+    <programme start="20241002073300" stop="20241002090000" channel="cctv5">
+        <title lang="zh">实况录像-2024年中国羽毛球公开赛 2</title>
     </programme>
     <programme start="20241002090000" stop="20241002110000" channel="cctv5">
         <title lang="zh">2024年中国网球公开赛-男单决赛</title>
@@ -1771,7 +1774,7 @@
         <title lang="zh">体育新闻</title>
     </programme>
     <programme start="20241002113000" stop="20241002140000" channel="cctv5">
-        <title lang="zh">2024年世乒联大满贯赛(北京站)-混双1/4决赛2等</title>
+        <title lang="zh">2024年中国网球公开赛-女单第4轮</title>
     </programme>
     <programme start="20241002140000" stop="20241002143500" channel="cctv5">
         <title lang="zh">体育世界</title>
@@ -1926,8 +1929,11 @@
     <programme start="20241002030000" stop="20241002040000" channel="cctv5plus">
         <title lang="zh">实况录像-2024年世界公路自行车锦标赛 女子决赛</title>
     </programme>
-    <programme start="20241002040000" stop="20241002070500" channel="cctv5plus">
+    <programme start="20241002040000" stop="20241002060500" channel="cctv5plus">
         <title lang="zh">2024年中国网球公开赛-女单第四轮3</title>
+    </programme>
+    <programme start="20241002060500" stop="20241002070500" channel="cctv5plus">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 跳水男子3米板决赛（4K）</title>
     </programme>
     <programme start="20241002070500" stop="20241002080000" channel="cctv5plus">
         <title lang="zh">实况录像-2024年世界职业拳王争霸赛 11</title>
@@ -1938,11 +1944,8 @@
     <programme start="20241002083000" stop="20241002100000" channel="cctv5plus">
         <title lang="zh">国际足球赛场-24-25赛季法甲联赛第6轮 巴黎圣日耳曼—雷恩</title>
     </programme>
-    <programme start="20241002100000" stop="20241002113000" channel="cctv5plus">
+    <programme start="20241002100000" stop="20241002140500" channel="cctv5plus">
         <title lang="zh">2024年世乒联大满贯赛（北京站）-男双1/8决赛、单打第2轮、混双1/4决赛</title>
-    </programme>
-    <programme start="20241002113000" stop="20241002140500" channel="cctv5plus">
-        <title lang="zh">2024年中国网球公开赛-女单第四轮4</title>
     </programme>
     <programme start="20241002140500" stop="20241002150500" channel="cctv5plus">
         <title lang="zh">实况录像-2024年皮划艇激流回旋世界杯 西班牙站 1</title>
@@ -4683,8 +4686,14 @@
     <programme start="20241002051500" stop="20241002063000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 女篮半决赛</title>
     </programme>
-    <programme start="20241002063000" stop="20241002083500" channel="cctv16">
-        <title lang="zh">2024年中国网球公开赛-女单第四轮、女双比赛</title>
+    <programme start="20241002063000" stop="20241002075500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 田径比赛1（4K）</title>
+    </programme>
+    <programme start="20241002075500" stop="20241002082000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 射击比赛1（4K）</title>
+    </programme>
+    <programme start="20241002082000" stop="20241002083500" channel="cctv16">
+        <title lang="zh">奥秘无穷-2024-32（4K）</title>
     </programme>
     <programme start="20241002083500" stop="20241002085500" channel="cctv16">
         <title lang="zh">艺术里的奥林匹克-2024-70</title>
