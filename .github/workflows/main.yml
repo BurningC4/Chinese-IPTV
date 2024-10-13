@@ -40,6 +40,27 @@ jobs:
         run: |
           sudo pip3 install -r getepg/requirements.txt
           sudo python3 getepg/getepg.py --file release/guide.xml
+
+      - name: Upload epgfile to R2
+        uses: magicwallet/r2-upload@main
+        with:
+          endpoint: ${{ secrets.R2_ENDPOINT }}
+          access_key_id: ${{ secrets.R2_ACCESS_KEY_ID }}
+          secret_access_key: ${{ secrets.R2_ACCESS_SECRET_KEY }}
+          bucket: ${{ secrets.R2_BUCKET }}
+          file: release/guide.xml
+          destination: '/guide.xml'
+
+      - name: Upload playlist to R2
+        uses: magicwallet/r2-upload@main
+        with:
+          endpoint: ${{ secrets.R2_ENDPOINT }}
+          access_key_id: ${{ secrets.R2_ACCESS_KEY_ID }}
+          secret_access_key: ${{ secrets.R2_ACCESS_SECRET_KEY }}
+          bucket: ${{ secrets.R2_BUCKET }}
+          file: release/TV-IPV4.m3u
+          destination: '/TV-IPV4.m3u'
+        
       - name: push release
         run: |
           git -C release config --local user.name github-actions
