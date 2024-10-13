@@ -49,7 +49,7 @@ jobs:
           secret_access_key: ${{ secrets.R2_ACCESS_SECRET_KEY }}
           bucket: ${{ secrets.R2_BUCKET }}
           file: release/guide.xml
-          destination: '/guide.xml'
+          destination: 'guide.xml'
 
       - name: Upload playlist to R2
         uses: magicwallet/r2-upload@main
@@ -59,7 +59,7 @@ jobs:
           secret_access_key: ${{ secrets.R2_ACCESS_SECRET_KEY }}
           bucket: ${{ secrets.R2_BUCKET }}
           file: release/TV-IPV4.m3u
-          destination: '/TV-IPV4.m3u'
+          destination: 'TV-IPV4.m3u'
         
       - name: push release
         run: |
