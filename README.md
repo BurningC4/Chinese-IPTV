@@ -13,18 +13,18 @@ guide.xml will be refreshed per hour .
       ```
       https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
       ```
-   * **jsDelivr CDN** (optimized for mainland users) 
+   * **Cloudflare R2** (optimized for mainland users) 
       ```
-      https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/TV-IPV4.m3u
+      https://iptv.burningc4.com/TV-IPV4.m3u
       ```
 ### Guide file (EPG):
    * **Github**
       ```
       https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/guide.xml
       ```
-   * **jsDelivr CDN** (optimized for mainland users) 
+   * **Cloudflare R2** (optimized for mainland users) 
       ```
-      https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml
+      https://iptv.burningc4.com/guide.xml
       ```
 ## 求打赏
    ![1635786625166](https://user-images.githubusercontent.com/30040912/141647179-f4bc6848-96ed-4ada-8bdb-ae84e2de88ec.jpg)
