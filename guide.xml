@@ -1428,14 +1428,14 @@
     <programme start="20241022180000" stop="20241022183000" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20241022183000" stop="20241022190000" channel="cctv4">
+    <programme start="20241022183000" stop="20241022190200" channel="cctv4">
         <title lang="zh">走遍中国-2024-170</title>
     </programme>
-    <programme start="20241022190000" stop="20241022191000" channel="cctv4">
-        <title lang="zh">中国新闻</title>
-    </programme>
-    <programme start="20241022191000" stop="20241022200000" channel="cctv4">
+    <programme start="20241022190200" stop="20241022194700" channel="cctv4">
         <title lang="zh">远方的家2024-125</title>
+    </programme>
+    <programme start="20241022194700" stop="20241022200000" channel="cctv4">
+        <title lang="zh">国家公园精彩片段-12</title>
     </programme>
     <programme start="20241022200000" stop="20241022203000" channel="cctv4">
         <title lang="zh">中国新闻</title>
@@ -2193,47 +2193,59 @@
     <programme start="20241023175400" stop="20241023192100" channel="cctv6">
         <title lang="zh">神勇双星</title>
     </programme>
-    <programme start="20241023192100" stop="20241023224400" channel="cctv6">
+    <programme start="20241023192100" stop="20241023205200" channel="cctv6">
         <title lang="zh">红尘客栈</title>
     </programme>
-    <programme start="20241023224400" stop="20241024002300" channel="cctv6">
+    <programme start="20241023205200" stop="20241023220800" channel="cctv6">
+        <title lang="zh">大进军--席卷大西南（上）</title>
+    </programme>
+    <programme start="20241023220800" stop="20241023232100" channel="cctv6">
+        <title lang="zh">大进军--席卷大西南（下）</title>
+    </programme>
+    <programme start="20241023232100" stop="20241024005800" channel="cctv6">
         <title lang="zh">妈妈去哪儿</title>
     </programme>
-    <programme start="20241024002300" stop="20241024022200" channel="cctv6">
+    <programme start="20241024005800" stop="20241024024900" channel="cctv6">
         <title lang="zh">那时风华</title>
     </programme>
-    <programme start="20241024022200" stop="20241024040300" channel="cctv6">
+    <programme start="20241024024900" stop="20241024043000" channel="cctv6">
         <title lang="zh">遇见崆峒</title>
     </programme>
-    <programme start="20241024040300" stop="20241024041000" channel="cctv6">
+    <programme start="20241024043000" stop="20241024043600" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20241024041000" stop="20241024060700" channel="cctv6">
+    <programme start="20241024043600" stop="20241024063100" channel="cctv6">
         <title lang="zh">缉枪</title>
     </programme>
-    <programme start="20241024060700" stop="20241024064700" channel="cctv6">
+    <programme start="20241024063100" stop="20241024070700" channel="cctv6">
         <title lang="zh">跳舞吧！爸爸（上）</title>
     </programme>
-    <programme start="20241024064700" stop="20241024082800" channel="cctv6">
+    <programme start="20241024070700" stop="20241024084800" channel="cctv6">
         <title lang="zh">跳舞吧！爸爸（下）</title>
     </programme>
-    <programme start="20241024082800" stop="20241024102800" channel="cctv6">
+    <programme start="20241024084800" stop="20241024104700" channel="cctv6">
         <title lang="zh">中国功夫</title>
     </programme>
-    <programme start="20241024102800" stop="20241024120700" channel="cctv6">
+    <programme start="20241024104700" stop="20241024121900" channel="cctv6">
         <title lang="zh">特殊使命</title>
     </programme>
-    <programme start="20241024120700" stop="20241024121900" channel="cctv6">
+    <programme start="20241024121900" stop="20241024122900" channel="cctv6">
         <title lang="zh">今日影评2024-298</title>
     </programme>
-    <programme start="20241024121900" stop="20241024140000" channel="cctv6">
+    <programme start="20241024122900" stop="20241024140000" channel="cctv6">
         <title lang="zh">红色裁判</title>
     </programme>
-    <programme start="20241024140000" stop="20241024142200" channel="cctv6">
+    <programme start="20241024140000" stop="20241024142300" channel="cctv6">
         <title lang="zh">中国电影报道2024-298</title>
     </programme>
-    <programme start="20241024142200" stop="20241024155900" channel="cctv6">
-        <title lang="zh">舞出我人生5：全员上阵</title>
+    <programme start="20241024142300" stop="20241024150000" channel="cctv6">
+        <title lang="zh">舞出我人生5：全员上阵（上）</title>
+    </programme>
+    <programme start="20241024150000" stop="20241024150200" channel="cctv6">
+        <title lang="zh">中国体育彩票阳光开奖2024-10-24</title>
+    </programme>
+    <programme start="20241024150200" stop="20241024155900" channel="cctv6">
+        <title lang="zh">舞出我人生5：全员上阵（下）</title>
     </programme>
     <programme start="20241021161900" stop="20241021165700" channel="cctv7">
         <title lang="zh">兵器面面观-2024-211</title>
@@ -2800,7 +2812,7 @@
         <title lang="zh">本集提要-人民警察-第32集</title>
     </programme>
     <programme start="20241023113000" stop="20241023122500" channel="cctv8">
-        <title lang="zh">人民警察32/38</title>
+        <title lang="zh">人民警察第32集</title>
     </programme>
     <programme start="20241023122500" stop="20241023123000" channel="cctv8">
         <title lang="zh">本集提要-人民警察-第33集</title>
