@@ -411,7 +411,13 @@
     <programme start="20241029164400" stop="20241029170000" channel="cctv1">
         <title lang="zh">2024秘境之眼-攀雀筑巢记(4K)</title>
     </programme>
-    <programme start="20241029170000" stop="20241029220000" channel="cctv1">
+    <programme start="20241029170000" stop="20241029212700" channel="cctv1">
+        <title lang="zh">新闻直播间</title>
+    </programme>
+    <programme start="20241029212700" stop="20241029215900" channel="cctv1">
+        <title lang="zh">新闻直播间</title>
+    </programme>
+    <programme start="20241029215900" stop="20241029220000" channel="cctv1">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20241029220000" stop="20241030003700" channel="cctv1">
@@ -1326,17 +1332,11 @@
     <programme start="20241029065400" stop="20241029073600" channel="cctv4">
         <title lang="zh">区小队-（四套）-6/37</title>
     </programme>
-    <programme start="20241029073600" stop="20241029082000" channel="cctv4">
+    <programme start="20241029073600" stop="20241029082500" channel="cctv4">
         <title lang="zh">区小队-（四套）-7/37</title>
     </programme>
-    <programme start="20241029082000" stop="20241029090200" channel="cctv4">
-        <title lang="zh">区小队-（四套）-8/37</title>
-    </programme>
-    <programme start="20241029090200" stop="20241029091000" channel="cctv4">
-        <title lang="zh">国家公园精彩片段-13</title>
-    </programme>
-    <programme start="20241029091000" stop="20241029091500" channel="cctv4">
-        <title lang="zh">记住乡愁-片段展播-2024-43</title>
+    <programme start="20241029082500" stop="20241029091500" channel="cctv4">
+        <title lang="zh">2024年国新办发布会-55</title>
     </programme>
     <programme start="20241029091500" stop="20241029100000" channel="cctv4">
         <title lang="zh">远方的家2024-130</title>
@@ -1489,13 +1489,13 @@
         <title lang="zh">人类的记忆-中国的世界遗产-108</title>
     </programme>
     <programme start="20241030153000" stop="20241030155900" channel="cctv4">
-        <title lang="zh">江河之上第27集</title>
+        <title lang="zh">江河之上第24集</title>
     </programme>
     <programme start="20241030161600" stop="20241030170200" channel="cctv4">
-        <title lang="zh">江河之上第28集</title>
+        <title lang="zh">江河之上第25集</title>
     </programme>
     <programme start="20241030170200" stop="20241030175000" channel="cctv4">
-        <title lang="zh">江河之上第29集</title>
+        <title lang="zh">江河之上第26集</title>
     </programme>
     <programme start="20241030175000" stop="20241030175300" channel="cctv4">
         <title lang="zh">国家公园精彩片段-2</title>
@@ -1627,7 +1627,7 @@
         <title lang="zh">人类的记忆-中国的世界遗产-104</title>
     </programme>
     <programme start="20241031153000" stop="20241031155900" channel="cctv4">
-        <title lang="zh">江河之上30/34</title>
+        <title lang="zh">江河之上27/34</title>
     </programme>
     <programme start="20241028164500" stop="20241028195000" channel="cctv5">
         <title lang="zh">顶级赛事-高尔夫</title>
@@ -2575,7 +2575,7 @@
         <title lang="zh">本集提要-好团圆-第7集</title>
     </programme>
     <programme start="20241029123000" stop="20241029132200" channel="cctv8">
-        <title lang="zh">好团圆7/36</title>
+        <title lang="zh">好团圆第7集</title>
     </programme>
     <programme start="20241029132200" stop="20241029132600" channel="cctv8">
         <title lang="zh">本集提要- 《追风者》第35集</title>
