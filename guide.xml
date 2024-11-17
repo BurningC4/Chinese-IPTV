@@ -378,16 +378,16 @@
     <programme start="20241117090900" stop="20241117110000" channel="cctv1">
         <title lang="zh">宗师列传·大唐诗人传-3</title>
     </programme>
-    <programme start="20241117110000" stop="20241117114000" channel="cctv1">
+    <programme start="20241117110000" stop="20241117114500" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20241117114000" stop="20241117120600" channel="cctv1">
+    <programme start="20241117114500" stop="20241117120700" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20241117120600" stop="20241117134700" channel="cctv1">
+    <programme start="20241117120700" stop="20241117134800" channel="cctv1">
         <title lang="zh">山水间的家（第三季）-11</title>
     </programme>
-    <programme start="20241117134700" stop="20241117140000" channel="cctv1">
+    <programme start="20241117134800" stop="20241117140000" channel="cctv1">
         <title lang="zh">大唐诗人传-初唐四杰MV</title>
     </programme>
     <programme start="20241117140000" stop="20241117143500" channel="cctv1">
@@ -402,25 +402,25 @@
     <programme start="20241117164900" stop="20241117171700" channel="cctv1">
         <title lang="zh">今日说法-2024-291</title>
     </programme>
-    <programme start="20241117171700" stop="20241117174600" channel="cctv1">
+    <programme start="20241117171700" stop="20241117174400" channel="cctv1">
         <title lang="zh">人与自然-2024-225</title>
     </programme>
-    <programme start="20241117174600" stop="20241117181600" channel="cctv1">
+    <programme start="20241117174400" stop="20241117181400" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20241117181600" stop="20241117185000" channel="cctv1">
+    <programme start="20241117181400" stop="20241117184500" channel="cctv1">
         <title lang="zh">寻宝-文脉春秋-8</title>
     </programme>
-    <programme start="20241117185000" stop="20241117202300" channel="cctv1">
+    <programme start="20241117184500" stop="20241117201800" channel="cctv1">
         <title lang="zh">简牍探中华-8</title>
     </programme>
-    <programme start="20241117202300" stop="20241117202500" channel="cctv1">
+    <programme start="20241117201800" stop="20241117202000" channel="cctv1">
         <title lang="zh">泱泱中华-美丽湿地2</title>
     </programme>
-    <programme start="20241117202500" stop="20241117205600" channel="cctv1">
+    <programme start="20241117202000" stop="20241117205100" channel="cctv1">
         <title lang="zh">今日说法-2024-291</title>
     </programme>
-    <programme start="20241117205600" stop="20241117213000" channel="cctv1">
+    <programme start="20241117205100" stop="20241117213000" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
     <programme start="20241117213000" stop="20241117220000" channel="cctv1">
@@ -1107,8 +1107,11 @@
     <programme start="20241118051400" stop="20241118060900" channel="cctv3">
         <title lang="zh">我爱满堂彩-2024-24一笑一周</title>
     </programme>
-    <programme start="20241118060900" stop="20241118074300" channel="cctv3">
-        <title lang="zh">乐在旅途第二季-5</title>
+    <programme start="20241118060900" stop="20241118073900" channel="cctv3">
+        <title lang="zh">会唱歌的院子-5</title>
+    </programme>
+    <programme start="20241118073900" stop="20241118074300" channel="cctv3">
+        <title lang="zh">黄金100秒-TOP音乐咖-候鸟的短歌</title>
     </programme>
     <programme start="20241118074300" stop="20241118090500" channel="cctv3">
         <title lang="zh">向幸福出发-2024-37</title>
@@ -1335,23 +1338,20 @@
     <programme start="20241117140000" stop="20241117143000" channel="cctv4">
         <title lang="zh">中国缘-2024-46</title>
     </programme>
-    <programme start="20241117143000" stop="20241117150400" channel="cctv4">
+    <programme start="20241117143000" stop="20241117150900" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20241117150400" stop="20241117153000" channel="cctv4">
+    <programme start="20241117150900" stop="20241117153500" channel="cctv4">
         <title lang="zh">国宝发现-2024-46</title>
     </programme>
-    <programme start="20241117153000" stop="20241117155900" channel="cctv4">
+    <programme start="20241117153500" stop="20241117155900" channel="cctv4">
         <title lang="zh">灵与肉-（四套）-3/42</title>
     </programme>
-    <programme start="20241117161200" stop="20241117165400" channel="cctv4">
+    <programme start="20241117161700" stop="20241117165900" channel="cctv4">
         <title lang="zh">灵与肉-（四套）-4/42</title>
     </programme>
-    <programme start="20241117165400" stop="20241117173800" channel="cctv4">
+    <programme start="20241117165900" stop="20241117174300" channel="cctv4">
         <title lang="zh">灵与肉-（四套）-5/42</title>
-    </programme>
-    <programme start="20241117173800" stop="20241117174300" channel="cctv4">
-        <title lang="zh">记住乡愁-片段展播-2024-13</title>
     </programme>
     <programme start="20241117174300" stop="20241117174800" channel="cctv4">
         <title lang="zh">国家公园精彩片段-7</title>
@@ -1362,17 +1362,14 @@
     <programme start="20241117175300" stop="20241117180000" channel="cctv4">
         <title lang="zh">国家公园精彩片段-9</title>
     </programme>
-    <programme start="20241117180000" stop="20241117183000" channel="cctv4">
+    <programme start="20241117180000" stop="20241117183500" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20241117183000" stop="20241117184500" channel="cctv4">
+    <programme start="20241117183500" stop="20241117185000" channel="cctv4">
         <title lang="zh">平凡匠心-2024-93</title>
     </programme>
-    <programme start="20241117184500" stop="20241117194500" channel="cctv4">
+    <programme start="20241117185000" stop="20241117195000" channel="cctv4">
         <title lang="zh">中国文艺-致敬经典2024-46</title>
-    </programme>
-    <programme start="20241117194500" stop="20241117195000" channel="cctv4">
-        <title lang="zh">记住乡愁-片段展播-2024-14</title>
     </programme>
     <programme start="20241117195000" stop="20241117195400" channel="cctv4">
         <title lang="zh">记住乡愁-片段展播-2024-15</title>
@@ -2235,31 +2232,31 @@
     <programme start="20241117095400" stop="20241117110000" channel="cctv7">
         <title lang="zh">讲武堂-2024-46</title>
     </programme>
-    <programme start="20241117110000" stop="20241117113300" channel="cctv7">
+    <programme start="20241117110000" stop="20241117113800" channel="cctv7">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20241117113300" stop="20241117120300" channel="cctv7">
+    <programme start="20241117113800" stop="20241117120800" channel="cctv7">
         <title lang="zh">军事报道</title>
     </programme>
-    <programme start="20241117120300" stop="20241117121000" channel="cctv7">
+    <programme start="20241117120800" stop="20241117121500" channel="cctv7">
         <title lang="zh">国防微视频-军歌嘹亮-强军集合号（2024年）</title>
     </programme>
-    <programme start="20241117121000" stop="20241117124600" channel="cctv7">
+    <programme start="20241117121500" stop="20241117125100" channel="cctv7">
         <title lang="zh">防务新观察-2024-293</title>
     </programme>
-    <programme start="20241117124600" stop="20241117135400" channel="cctv7">
+    <programme start="20241117125100" stop="20241117135900" channel="cctv7">
         <title lang="zh">谁是终极英雄-2024-46</title>
     </programme>
-    <programme start="20241117135400" stop="20241117144200" channel="cctv7">
+    <programme start="20241117135900" stop="20241117144700" channel="cctv7">
         <title lang="zh">潜行者3/37</title>
     </programme>
-    <programme start="20241117144200" stop="20241117153500" channel="cctv7">
+    <programme start="20241117144700" stop="20241117154000" channel="cctv7">
         <title lang="zh">潜行者4/37</title>
     </programme>
-    <programme start="20241117153500" stop="20241117155900" channel="cctv7">
+    <programme start="20241117154000" stop="20241117155900" channel="cctv7">
         <title lang="zh">军营的味道-2024-46</title>
     </programme>
-    <programme start="20241117161300" stop="20241117220300" channel="cctv7">
+    <programme start="20241117161800" stop="20241117220300" channel="cctv7">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20241117220300" stop="20241117223100" channel="cctv7">
