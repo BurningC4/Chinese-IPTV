@@ -828,11 +828,8 @@
     <programme start="20241119063000" stop="20241119070000" channel="cctv2">
         <title lang="zh">消费主张</title>
     </programme>
-    <programme start="20241119070000" stop="20241119073000" channel="cctv2">
+    <programme start="20241119070000" stop="20241119080000" channel="cctv2">
         <title lang="zh">正点财经</title>
-    </programme>
-    <programme start="20241119073000" stop="20241119080000" channel="cctv2">
-        <title lang="zh">生财有道-2024-11-18</title>
     </programme>
     <programme start="20241119080000" stop="20241119090000" channel="cctv2">
         <title lang="zh">正点财经</title>
@@ -1134,11 +1131,14 @@
     <programme start="20241119034900" stop="20241119051100" channel="cctv3">
         <title lang="zh">向幸福出发-2024-38</title>
     </programme>
-    <programme start="20241119051100" stop="20241119060500" channel="cctv3">
-        <title lang="zh">幸福账单-勇者之战-2024-13</title>
+    <programme start="20241119051100" stop="20241119063100" channel="cctv3">
+        <title lang="zh">星光大道-2024-43（这一站星光19）</title>
     </programme>
-    <programme start="20241119060500" stop="20241119073900" channel="cctv3">
-        <title lang="zh">乐在旅途第二季-6</title>
+    <programme start="20241119063100" stop="20241119063400" channel="cctv3">
+        <title lang="zh">悦读一夏-望星空</title>
+    </programme>
+    <programme start="20241119063400" stop="20241119073900" channel="cctv3">
+        <title lang="zh">中国·保定乡村音乐大会-东湖公园1</title>
     </programme>
     <programme start="20241119073900" stop="20241119085900" channel="cctv3">
         <title lang="zh">越战越勇-2024-36</title>
@@ -2445,29 +2445,26 @@
     <programme start="20241119233000" stop="20241119235800" channel="cctv7">
         <title lang="zh">国防军事早报</title>
     </programme>
-    <programme start="20241119235800" stop="20241120002800" channel="cctv7">
-        <title lang="zh">军事科技-2024-47</title>
-    </programme>
-    <programme start="20241120002800" stop="20241120010000" channel="cctv7">
-        <title lang="zh">第二战场-2024-39</title>
-    </programme>
-    <programme start="20241120010000" stop="20241120013200" channel="cctv7">
-        <title lang="zh">防务新观察-2024-295</title>
-    </programme>
-    <programme start="20241120013200" stop="20241120015700" channel="cctv7">
+    <programme start="20241119235800" stop="20241120002300" channel="cctv7">
         <title lang="zh">军营的味道-2024-29</title>
     </programme>
-    <programme start="20241120015700" stop="20241120022600" channel="cctv7">
+    <programme start="20241120002300" stop="20241120005000" channel="cctv7">
         <title lang="zh">兵器面面观-2024-232</title>
     </programme>
-    <programme start="20241120022600" stop="20241120025600" channel="cctv7">
+    <programme start="20241120005000" stop="20241120012200" channel="cctv7">
+        <title lang="zh">防务新观察-2024-295</title>
+    </programme>
+    <programme start="20241120012200" stop="20241120015600" channel="cctv7">
         <title lang="zh">军事科技-2024-36</title>
     </programme>
-    <programme start="20241120025600" stop="20241120032500" channel="cctv7">
+    <programme start="20241120015600" stop="20241120022300" channel="cctv7">
         <title lang="zh">军事科技-2024-39</title>
     </programme>
-    <programme start="20241120032500" stop="20241120040000" channel="cctv7">
+    <programme start="20241120022300" stop="20241120025500" channel="cctv7">
         <title lang="zh">军事科技-2024-41</title>
+    </programme>
+    <programme start="20241120025500" stop="20241120040000" channel="cctv7">
+        <title lang="zh">第十五届中国航展-3</title>
     </programme>
     <programme start="20241120040000" stop="20241120043300" channel="cctv7">
         <title lang="zh">正午国防军事</title>
