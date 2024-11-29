@@ -615,10 +615,10 @@
     <programme start="20241201113800" stop="20241201120600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20241201120600" stop="20241201134700" channel="cctv1">
+    <programme start="20241201120600" stop="20241201134600" channel="cctv1">
         <title lang="zh">城市风华录-1</title>
     </programme>
-    <programme start="20241201134700" stop="20241201140000" channel="cctv1">
+    <programme start="20241201134600" stop="20241201140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20241201140000" stop="20241201143400" channel="cctv1">
@@ -1059,11 +1059,17 @@
     <programme start="20241129181200" stop="20241129191200" channel="cctv3">
         <title lang="zh">综艺盛典-2024-26选对健康26</title>
     </programme>
-    <programme start="20241129191200" stop="20241129203500" channel="cctv3">
+    <programme start="20241129191200" stop="20241129202900" channel="cctv3">
         <title lang="zh">此生要去的100个地方-8</title>
     </programme>
-    <programme start="20241129203500" stop="20241129221500" channel="cctv3">
+    <programme start="20241129202900" stop="20241129203000" channel="cctv3">
+        <title lang="zh">悦读一夏-从前慢</title>
+    </programme>
+    <programme start="20241129203000" stop="20241129221100" channel="cctv3">
         <title lang="zh">开播吧！国潮-1</title>
+    </programme>
+    <programme start="20241129221100" stop="20241129221500" channel="cctv3">
+        <title lang="zh">黄金100秒-TOP音乐咖-不要再去担心那些问题</title>
     </programme>
     <programme start="20241129221500" stop="20241129225100" channel="cctv3">
         <title lang="zh">国之颂-5（播出版）</title>
