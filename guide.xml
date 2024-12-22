@@ -3981,26 +3981,23 @@
     <programme start="20241222194000" stop="20241222200000" channel="cctv13">
         <title lang="zh">每周质量报告</title>
     </programme>
-    <programme start="20241222200000" stop="20241222201500" channel="cctv13">
+    <programme start="20241222200000" stop="20241222204100" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20241222201500" stop="20241222210000" channel="cctv13">
-        <title lang="zh">世界周刊</title>
+    <programme start="20241222204100" stop="20241222210000" channel="cctv13">
+        <title lang="zh">每周质量报告</title>
     </programme>
-    <programme start="20241222210000" stop="20241222211600" channel="cctv13">
+    <programme start="20241222210000" stop="20241222211200" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20241222211600" stop="20241222220000" channel="cctv13">
+    <programme start="20241222211200" stop="20241222220000" channel="cctv13">
         <title lang="zh">面对面</title>
     </programme>
     <programme start="20241222220000" stop="20241223010000" channel="cctv13">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme start="20241223010000" stop="20241223011200" channel="cctv13">
+    <programme start="20241223010000" stop="20241223020000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme start="20241223011200" stop="20241223020000" channel="cctv13">
-        <title lang="zh">世界周刊</title>
     </programme>
     <programme start="20241223020000" stop="20241223030000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
@@ -4008,19 +4005,19 @@
     <programme start="20241223030000" stop="20241223040000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20241223040000" stop="20241223043300" channel="cctv13">
+    <programme start="20241223040000" stop="20241223043400" channel="cctv13">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme start="20241223043300" stop="20241223050000" channel="cctv13">
+    <programme start="20241223043400" stop="20241223050000" channel="cctv13">
         <title lang="zh">法治在线</title>
     </programme>
     <programme start="20241223050000" stop="20241223060000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20241223060000" stop="20241223061600" channel="cctv13">
+    <programme start="20241223060000" stop="20241223061200" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20241223061600" stop="20241223070000" channel="cctv13">
+    <programme start="20241223061200" stop="20241223070000" channel="cctv13">
         <title lang="zh">面对面</title>
     </programme>
     <programme start="20241223070000" stop="20241223080000" channel="cctv13">
@@ -4035,8 +4032,11 @@
     <programme start="20241223100000" stop="20241223110000" channel="cctv13">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme start="20241223110000" stop="20241223114000" channel="cctv13">
+    <programme start="20241223110000" stop="20241223113200" channel="cctv13">
         <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20241223113200" stop="20241223114000" channel="cctv13">
+        <title lang="zh">天气预报</title>
     </programme>
     <programme start="20241223114000" stop="20241223120000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
@@ -4062,13 +4062,13 @@
     <programme start="20241223160000" stop="20241223170000" channel="cctv13">
         <title lang="zh">午夜新闻</title>
     </programme>
-    <programme start="20241223170000" stop="20241223172000" channel="cctv13">
+    <programme start="20241223170000" stop="20241223172100" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20241223172000" stop="20241223173600" channel="cctv13">
+    <programme start="20241223172100" stop="20241223173700" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20241223173600" stop="20241223180000" channel="cctv13">
+    <programme start="20241223173700" stop="20241223180000" channel="cctv13">
         <title lang="zh">法治在线</title>
     </programme>
     <programme start="20241223180000" stop="20241223183300" channel="cctv13">
@@ -4089,13 +4089,13 @@
     <programme start="20241223203300" stop="20241223210000" channel="cctv13">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme start="20241223210000" stop="20241223211700" channel="cctv13">
+    <programme start="20241223210000" stop="20241223211800" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20241223211700" stop="20241223213300" channel="cctv13">
+    <programme start="20241223211800" stop="20241223213400" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20241223213300" stop="20241223220000" channel="cctv13">
+    <programme start="20241223213400" stop="20241223220000" channel="cctv13">
         <title lang="zh">法治在线</title>
     </programme>
     <programme start="20241223220000" stop="20241224010000" channel="cctv13">
@@ -4110,10 +4110,10 @@
     <programme start="20241224030000" stop="20241224040000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20241224040000" stop="20241224043300" channel="cctv13">
+    <programme start="20241224040000" stop="20241224043400" channel="cctv13">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme start="20241224043300" stop="20241224050000" channel="cctv13">
+    <programme start="20241224043400" stop="20241224050000" channel="cctv13">
         <title lang="zh">法治在线</title>
     </programme>
     <programme start="20241224050000" stop="20241224060000" channel="cctv13">
@@ -4134,10 +4134,13 @@
     <programme start="20241224100000" stop="20241224110000" channel="cctv13">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme start="20241224110000" stop="20241224114000" channel="cctv13">
+    <programme start="20241224110000" stop="20241224113200" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20241224114000" stop="20241224120000" channel="cctv13">
+    <programme start="20241224113200" stop="20241224113800" channel="cctv13">
+        <title lang="zh">天气预报</title>
+    </programme>
+    <programme start="20241224113800" stop="20241224120000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20241224120000" stop="20241224130000" channel="cctv13">
