@@ -1638,13 +1638,13 @@
     <programme start="20250204223000" stop="20250204230000" channel="cctv5">
         <title lang="zh">健身动起来</title>
     </programme>
-    <programme start="20250204230000" stop="20250205000000" channel="cctv5">
+    <programme start="20250204230000" stop="20250205003000" channel="cctv5">
         <title lang="zh">体坛晨报</title>
     </programme>
-    <programme start="20250205000000" stop="20250205023500" channel="cctv5">
+    <programme start="20250205003000" stop="20250205030000" channel="cctv5">
         <title lang="zh">2024/2025赛季美国职业篮球联赛-常规赛（凯尔特人-骑士）</title>
     </programme>
-    <programme start="20250205023500" stop="20250205040000" channel="cctv5">
+    <programme start="20250205030000" stop="20250205040000" channel="cctv5">
         <title lang="zh">哈尔滨2025年亚冬会-冰壶混合双人循环赛（日本队-中国香港队）</title>
     </programme>
     <programme start="20250205040000" stop="20250205050500" channel="cctv5">
@@ -1668,16 +1668,16 @@
     <programme start="20250205110000" stop="20250205113000" channel="cctv5">
         <title lang="zh">赛事集锦-2024/2025英格兰足球超级联赛第24轮集锦</title>
     </programme>
-    <programme start="20250205113000" stop="20250205123000" channel="cctv5">
-        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 花样滑冰双人滑（4K）</title>
+    <programme start="20250205113000" stop="20250205120000" channel="cctv5">
+        <title lang="zh">赛事集锦（奥林匹克）-北京冬奥会短道速滑混合接力、短道速滑男子1000米、速度滑冰男子500米（4K）</title>
     </programme>
-    <programme start="20250205123000" stop="20250205133000" channel="cctv5">
-        <title lang="zh">实况录像（奥林匹克）-北京冬奥会 自由式滑雪女子空中技巧决赛、自由式滑雪男子空中技巧决赛（4K）</title>
+    <programme start="20250205120000" stop="20250205143000" channel="cctv5">
+        <title lang="zh">哈尔滨2025年亚冬会-男子冰球A组（哈萨克斯坦队—中国队）</title>
     </programme>
-    <programme start="20250205133000" stop="20250205143500" channel="cctv5">
+    <programme start="20250205143000" stop="20250205153600" channel="cctv5">
         <title lang="zh">体育世界</title>
     </programme>
-    <programme start="20250205143500" stop="20250205155900" channel="cctv5">
+    <programme start="20250205153600" stop="20250205155900" channel="cctv5">
         <title lang="zh">2024/2025西班牙足球甲级联赛-第22轮（西班牙人—皇家马德里）（4K）</title>
     </programme>
     <programme start="20250205160500" stop="20250205170500" channel="cctv5">
@@ -1839,8 +1839,14 @@
     <programme start="20250205103000" stop="20250205120000" channel="cctv5plus">
         <title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 第34轮 山东高速—宁波町渥</title>
     </programme>
-    <programme start="20250205120000" stop="20250205143500" channel="cctv5plus">
-        <title lang="zh">哈尔滨2025年亚冬会-男子冰球A组（哈萨克斯坦队—中国队）</title>
+    <programme start="20250205120000" stop="20250205125800" channel="cctv5plus">
+        <title lang="zh">实况录像-2024/2025赛季短道速滑世界巡回赛 中国队比赛</title>
+    </programme>
+    <programme start="20250205125800" stop="20250205130800" channel="cctv5plus">
+        <title lang="zh">赛事集锦（奥林匹克）-2024/2025赛季国际雪联U型场地世界杯 自由式滑雪决赛 10分钟版（4K）</title>
+    </programme>
+    <programme start="20250205130800" stop="20250205143500" channel="cctv5plus">
+        <title lang="zh">2025年澳大利亚网球公开赛-女单比赛2（4K）</title>
     </programme>
     <programme start="20250205143500" stop="20250205155900" channel="cctv5plus">
         <title lang="zh">实况录像-2024/2025赛季斯诺克大师赛  决赛</title>
