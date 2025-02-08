@@ -474,10 +474,10 @@
     <programme start="20250209120100" stop="20250209120600" channel="cctv1">
         <title lang="zh">前情提要-六姊妹-第11集</title>
     </programme>
-    <programme start="20250209120600" stop="20250209130000" channel="cctv1">
+    <programme start="20250209120600" stop="20250209125900" channel="cctv1">
         <title lang="zh">六姊妹11/38</title>
     </programme>
-    <programme start="20250209130000" stop="20250209140000" channel="cctv1">
+    <programme start="20250209125900" stop="20250209140000" channel="cctv1">
         <title lang="zh">舌尖上的中国 第四季-7</title>
     </programme>
     <programme start="20250209140000" stop="20250209143600" channel="cctv1">
@@ -990,7 +990,10 @@
     <programme start="20250208185200" stop="20250208194200" channel="cctv3">
         <title lang="zh">绽放吧！妈妈-40</title>
     </programme>
-    <programme start="20250208194200" stop="20250208205600" channel="cctv3">
+    <programme start="20250208194200" stop="20250208194700" channel="cctv3">
+        <title lang="zh">2025年春节联欢晚会-山鹰和兰花花（4K）</title>
+    </programme>
+    <programme start="20250208194700" stop="20250208205600" channel="cctv3">
         <title lang="zh">开门迎春晚-4</title>
     </programme>
     <programme start="20250208205600" stop="20250208221300" channel="cctv3">
@@ -1021,7 +1024,7 @@
         <title lang="zh">文化十分-2025-34</title>
     </programme>
     <programme start="20250209045100" stop="20250209045600" channel="cctv3">
-        <title lang="zh">悦读一夏-古村·古俗</title>
+        <title lang="zh">悦读一夏-它们在下雪</title>
     </programme>
     <programme start="20250209045600" stop="20250209062300" channel="cctv3">
         <title lang="zh">开门大吉-2024-36</title>
@@ -1608,28 +1611,34 @@
     <programme start="20250209010000" stop="20250209020000" channel="cctv5">
         <title lang="zh">哈尔滨2025年亚冬会-赛事回顾2-1</title>
     </programme>
-    <programme start="20250209020000" stop="20250209050000" channel="cctv5">
+    <programme start="20250209020000" stop="20250209051500" channel="cctv5">
         <title lang="zh">哈尔滨2025年亚冬会-赛事转播报道2-1</title>
     </programme>
-    <programme start="20250209050000" stop="20250209055500" channel="cctv5">
+    <programme start="20250209051500" stop="20250209055500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20250209055500" stop="20250209083500" channel="cctv5">
+    <programme start="20250209055500" stop="20250209062900" channel="cctv5">
         <title lang="zh">哈尔滨2025年亚冬会-赛事转播报道2-2</title>
     </programme>
-    <programme start="20250209083500" stop="20250209100000" channel="cctv5">
-        <title lang="zh">2025年世界职业拳王争霸赛</title>
-    </programme>
-    <programme start="20250209100000" stop="20250209110500" channel="cctv5">
-        <title lang="zh">体育新闻-全景亚冬会</title>
-    </programme>
-    <programme start="20250209110500" stop="20250209133300" channel="cctv5">
+    <programme start="20250209062900" stop="20250209070900" channel="cctv5">
         <title lang="zh">哈尔滨2025年亚冬会-赛事回顾2-2</title>
     </programme>
-    <programme start="20250209133300" stop="20250209150500" channel="cctv5">
-        <title lang="zh">2025年澳大利亚网球公开赛-女单决赛（4K）</title>
+    <programme start="20250209070900" stop="20250209071600" channel="cctv5">
+        <title lang="zh">哈尔滨2025年亚冬会-赛事转播报道2-3</title>
     </programme>
-    <programme start="20250209150500" stop="20250209155900" channel="cctv5">
+    <programme start="20250209071600" stop="20250209100000" channel="cctv5">
+        <title lang="zh">哈尔滨2025年亚冬会-赛事回顾2-3</title>
+    </programme>
+    <programme start="20250209100000" stop="20250209110000" channel="cctv5">
+        <title lang="zh">体育新闻-全景亚冬会</title>
+    </programme>
+    <programme start="20250209110000" stop="20250209130000" channel="cctv5">
+        <title lang="zh">哈尔滨2025年亚冬会-赛事回顾2-2</title>
+    </programme>
+    <programme start="20250209130000" stop="20250209151500" channel="cctv5">
+        <title lang="zh">哈尔滨2025年亚冬会-赛事转播报道2-4</title>
+    </programme>
+    <programme start="20250209151500" stop="20250209155900" channel="cctv5">
         <title lang="zh">2024/2025西班牙足球甲级联赛-第23轮（巴伦西亚—莱加内斯）</title>
     </programme>
     <programme start="20250209172500" stop="20250209174000" channel="cctv5">
@@ -1767,8 +1776,17 @@
     <programme start="20250209120500" stop="20250209130000" channel="cctv5plus">
         <title lang="zh">实况录像-2025年世界职业拳王争霸赛 3</title>
     </programme>
-    <programme start="20250209130000" stop="20250209155900" channel="cctv5plus">
-        <title lang="zh">哈尔滨2025年亚冬会-冰壶男子B组（中国队—沙特队）</title>
+    <programme start="20250209130000" stop="20250209142000" channel="cctv5plus">
+        <title lang="zh">实况录像-2024年世界女子排球俱乐部锦标赛 2</title>
+    </programme>
+    <programme start="20250209142000" stop="20250209152000" channel="cctv5plus">
+        <title lang="zh">实况录像-2024/2025赛季自由式滑雪世界杯 加拿大玻波特湖站 空中技巧第一场</title>
+    </programme>
+    <programme start="20250209152000" stop="20250209152500" channel="cctv5plus">
+        <title lang="zh">赛事集锦（奥林匹克）-2024/2025赛季短道速滑世界巡回赛 中国站 10分钟版（4K）</title>
+    </programme>
+    <programme start="20250209152500" stop="20250209155900" channel="cctv5plus">
+        <title lang="zh">实况录像-2024/2025赛季速度滑冰世界杯 加拿大站 25分钟版</title>
     </programme>
     <programme start="20250209160500" stop="20250209170600" channel="cctv5plus">
         <title lang="zh">实况录像-2024/2025赛季自由式滑雪世界杯 美国阿斯彭站 U型场地</title>
@@ -4389,10 +4407,10 @@
     <programme start="20250208223000" stop="20250208233000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024/2025赛季速度滑冰世界杯 美国站2</title>
     </programme>
-    <programme start="20250208233000" stop="20250209005500" channel="cctv16">
+    <programme start="20250208233000" stop="20250209005200" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 男篮决赛</title>
     </programme>
-    <programme start="20250209005500" stop="20250209080500" channel="cctv16">
+    <programme start="20250209005200" stop="20250209080500" channel="cctv16">
         <title lang="zh">哈尔滨2025年亚冬会-赛事报道 3</title>
     </programme>
     <programme start="20250209080500" stop="20250209090000" channel="cctv16">
