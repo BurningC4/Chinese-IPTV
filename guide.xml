@@ -1644,23 +1644,38 @@
     <programme start="20250209230000" stop="20250210010000" channel="cctv5">
         <title lang="zh">体坛晨报</title>
     </programme>
-    <programme start="20250210010000" stop="20250210030000" channel="cctv5">
-        <title lang="zh">哈尔滨2025年亚冬会-赛事回顾3-1</title>
+    <programme start="20250210010000" stop="20250210020000" channel="cctv5">
+        <title lang="zh">实况录像（奥林匹克）-哈尔滨2025年亚冬会 自由式滑雪U型场地决赛（4K）</title>
     </programme>
-    <programme start="20250210030000" stop="20250210043000" channel="cctv5">
-        <title lang="zh">哈尔滨2025年亚冬会-赛事转播报道3-1</title>
+    <programme start="20250210020000" stop="20250210025500" channel="cctv5">
+        <title lang="zh">实况录像（奥林匹克）-哈尔滨2025年亚冬会 单板滑雪坡面障碍技巧决赛（4K）</title>
+    </programme>
+    <programme start="20250210025500" stop="20250210032000" channel="cctv5">
+        <title lang="zh">哈尔滨2025年亚冬会自由式滑雪空中技巧 混合团体决赛</title>
+    </programme>
+    <programme start="20250210032000" stop="20250210043000" channel="cctv5">
+        <title lang="zh">哈尔滨2025年亚冬会-赛事回顾3-1</title>
     </programme>
     <programme start="20250210043000" stop="20250210053000" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20250210053000" stop="20250210100000" channel="cctv5">
-        <title lang="zh">哈尔滨2025年亚冬会-赛事转播报道3-2</title>
+    <programme start="20250210053000" stop="20250210061400" channel="cctv5">
+        <title lang="zh">哈尔滨2025年亚冬会-赛事回顾3-2</title>
+    </programme>
+    <programme start="20250210061400" stop="20250210062500" channel="cctv5">
+        <title lang="zh">哈尔滨2025年亚冬会速度滑冰男子短距离团体追逐赛</title>
+    </programme>
+    <programme start="20250210062500" stop="20250210100000" channel="cctv5">
+        <title lang="zh">哈尔滨2025年亚冬会-赛事回顾3-3</title>
     </programme>
     <programme start="20250210100000" stop="20250210110000" channel="cctv5">
         <title lang="zh">体育新闻  全景亚冬会</title>
     </programme>
-    <programme start="20250210110000" stop="20250210140000" channel="cctv5">
-        <title lang="zh">哈尔滨2025年亚冬会-赛事转播报道3-3</title>
+    <programme start="20250210110000" stop="20250210120000" channel="cctv5">
+        <title lang="zh">哈尔滨2025年亚冬会-赛事回顾3-4</title>
+    </programme>
+    <programme start="20250210120000" stop="20250210140000" channel="cctv5">
+        <title lang="zh">哈尔滨2025年亚冬会男子冰球A组 日本VS中国</title>
     </programme>
     <programme start="20250210140000" stop="20250210150500" channel="cctv5">
         <title lang="zh">体育世界</title>
@@ -1809,8 +1824,14 @@
     <programme start="20250210100000" stop="20250210120000" channel="cctv5plus">
         <title lang="zh">2024/2025赛季斯诺克威尔士公开赛-第一轮1</title>
     </programme>
-    <programme start="20250210120000" stop="20250210143500" channel="cctv5plus">
-        <title lang="zh">哈尔滨2025年亚冬会-男子冰球A组（中国队-日本队）</title>
+    <programme start="20250210120000" stop="20250210130500" channel="cctv5plus">
+        <title lang="zh">哈尔滨2025年亚冬会-赛事精选2（录播）</title>
+    </programme>
+    <programme start="20250210130500" stop="20250210133500" channel="cctv5plus">
+        <title lang="zh">赛事集锦（奥林匹克）-2024/2025赛季雪车世界杯 德国温特贝格站 混合团体钢架雪车决赛（4K）</title>
+    </programme>
+    <programme start="20250210133500" stop="20250210143500" channel="cctv5plus">
+        <title lang="zh">实况录像-2024/2025赛季自由式滑雪世界杯 加拿大玻波特湖站 空中技巧第二场</title>
     </programme>
     <programme start="20250210143500" stop="20250210150500" channel="cctv5plus">
         <title lang="zh">实况录像-2024/2025赛季雪车世界杯 挪威利勒哈默尔站 男子钢架雪车</title>
@@ -4494,8 +4515,11 @@
     <programme start="20250209235500" stop="20250210005500" channel="cctv16">
         <title lang="zh">2024/2025赛季自由式滑雪世界杯-奥地利克拉根福站 大跳台决赛</title>
     </programme>
-    <programme start="20250210005500" stop="20250210054000" channel="cctv16">
+    <programme start="20250210005500" stop="20250210045500" channel="cctv16">
         <title lang="zh">哈尔滨2025年亚冬会冰壶女子单循环赛 卡塔尔VS中国</title>
+    </programme>
+    <programme start="20250210045500" stop="20250210054000" channel="cctv16">
+        <title lang="zh">哈尔滨2025年亚冬会速度滑冰女子3000米、男子短距离团体追逐赛等</title>
     </programme>
     <programme start="20250210054000" stop="20250210061000" channel="cctv16">
         <title lang="zh">奥林匹克典藏-东京奥运会射击女子10米气步枪决赛</title>
