@@ -1707,8 +1707,14 @@
     <programme start="20250212100000" stop="20250212110000" channel="cctv5">
         <title lang="zh">哈尔滨2025年亚冬会-赛事转播报道5-3</title>
     </programme>
-    <programme start="20250212110000" stop="20250212133000" channel="cctv5">
+    <programme start="20250212110000" stop="20250212113000" channel="cctv5">
         <title lang="zh">哈尔滨2025年亚冬会-赛事回顾5-3</title>
+    </programme>
+    <programme start="20250212113000" stop="20250212123000" channel="cctv5">
+        <title lang="zh">哈尔滨2025年亚冬会-赛事转播报道5-4</title>
+    </programme>
+    <programme start="20250212123000" stop="20250212133000" channel="cctv5">
+        <title lang="zh">哈尔滨2025年亚冬会-赛事回顾5-4</title>
     </programme>
     <programme start="20250212133000" stop="20250212143500" channel="cctv5">
         <title lang="zh">体育世界</title>
@@ -2052,8 +2058,14 @@
     <programme start="20250212175200" stop="20250212191900" channel="cctv6">
         <title lang="zh">阿然</title>
     </programme>
-    <programme start="20250212191900" stop="20250212230000" channel="cctv6">
+    <programme start="20250212191900" stop="20250212204900" channel="cctv6">
         <title lang="zh">安家</title>
+    </programme>
+    <programme start="20250212204900" stop="20250212224400" channel="cctv6">
+        <title lang="zh">谈判专家</title>
+    </programme>
+    <programme start="20250212224400" stop="20250212230000" channel="cctv6">
+        <title lang="zh">七人乐队：迷路</title>
     </programme>
     <programme start="20250212230000" stop="20250213004900" channel="cctv6">
         <title lang="zh">走走停停</title>
@@ -2061,43 +2073,43 @@
     <programme start="20250213004900" stop="20250213021800" channel="cctv6">
         <title lang="zh">一切如你</title>
     </programme>
-    <programme start="20250213021800" stop="20250213035300" channel="cctv6">
+    <programme start="20250213021800" stop="20250213035400" channel="cctv6">
         <title lang="zh">怒海浩劫</title>
     </programme>
-    <programme start="20250213035300" stop="20250213035900" channel="cctv6">
+    <programme start="20250213035400" stop="20250213040000" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20250213035900" stop="20250213060000" channel="cctv6">
+    <programme start="20250213040000" stop="20250213060000" channel="cctv6">
         <title lang="zh">第八个嫌疑人</title>
     </programme>
-    <programme start="20250213060000" stop="20250213074600" channel="cctv6">
+    <programme start="20250213060000" stop="20250213074500" channel="cctv6">
         <title lang="zh">惊涛迷局</title>
     </programme>
-    <programme start="20250213074600" stop="20250213092800" channel="cctv6">
+    <programme start="20250213074500" stop="20250213093200" channel="cctv6">
         <title lang="zh">一个人的突围</title>
     </programme>
-    <programme start="20250213092800" stop="20250213093900" channel="cctv6">
+    <programme start="20250213093200" stop="20250213094200" channel="cctv6">
         <title lang="zh">今日影评2025-032</title>
     </programme>
-    <programme start="20250213093900" stop="20250213115700" channel="cctv6">
+    <programme start="20250213094200" stop="20250213115800" channel="cctv6">
         <title lang="zh">你好，李焕英</title>
     </programme>
-    <programme start="20250213115700" stop="20250213140000" channel="cctv6">
+    <programme start="20250213115800" stop="20250213140000" channel="cctv6">
         <title lang="zh">警察故事2013</title>
     </programme>
-    <programme start="20250213140000" stop="20250213142200" channel="cctv6">
+    <programme start="20250213140000" stop="20250213142100" channel="cctv6">
         <title lang="zh">中国电影报道2025-044</title>
     </programme>
-    <programme start="20250213142200" stop="20250213150000" channel="cctv6">
+    <programme start="20250213142100" stop="20250213150000" channel="cctv6">
         <title lang="zh">疾速营救（上）</title>
     </programme>
-    <programme start="20250213150000" stop="20250213150200" channel="cctv6">
+    <programme start="20250213150000" stop="20250213150100" channel="cctv6">
         <title lang="zh">中国体育彩票阳光开奖2025-02-13</title>
     </programme>
-    <programme start="20250213150200" stop="20250213155300" channel="cctv6">
+    <programme start="20250213150100" stop="20250213155100" channel="cctv6">
         <title lang="zh">疾速营救（下）</title>
     </programme>
-    <programme start="20250213155300" stop="20250213155900" channel="cctv6">
+    <programme start="20250213155100" stop="20250213155900" channel="cctv6">
         <title lang="zh">今日影评2025-032</title>
     </programme>
     <programme start="20250210160400" stop="20250210164200" channel="cctv7">
@@ -4584,10 +4596,10 @@
     <programme start="20250212011000" stop="20250212012500" channel="cctv16">
         <title lang="zh">赛事集锦（奥林匹克）-2024/2025赛季短道速滑世界巡回赛 中国站 10分钟版</title>
     </programme>
-    <programme start="20250212012500" stop="20250212015500" channel="cctv16">
+    <programme start="20250212012500" stop="20250212015000" channel="cctv16">
         <title lang="zh">赛事集锦（奥林匹克）-2024/2025赛季雪车世界杯 挪威利勒哈默尔站 女子钢架雪车</title>
     </programme>
-    <programme start="20250212015500" stop="20250212040500" channel="cctv16">
+    <programme start="20250212015000" stop="20250212040500" channel="cctv16">
         <title lang="zh">哈尔滨2025年亚冬会-赛事报道 6</title>
     </programme>
     <programme start="20250212040500" stop="20250212042500" channel="cctv16">
