@@ -375,8 +375,11 @@
     <programme start="20250214110000" stop="20250214113800" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20250214113800" stop="20250214130000" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+    <programme start="20250214113800" stop="20250214125000" channel="cctv1">
+        <title lang="zh">新闻直播间</title>
+    </programme>
+    <programme start="20250214125000" stop="20250214130000" channel="cctv1">
+        <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20250214130000" stop="20250214130600" channel="cctv1">
         <title lang="zh">非遗里的中国（第二季）-京韵风华</title>
@@ -979,7 +982,7 @@
         <title lang="zh">综艺盛典-2025-7选对健康7</title>
     </programme>
     <programme start="20250214135800" stop="20250214143300" channel="cctv3">
-        <title lang="zh">中国文艺报道-2025-6</title>
+        <title lang="zh">中国文艺报道-2025-7</title>
     </programme>
     <programme start="20250214143300" stop="20250214152400" channel="cctv3">
         <title lang="zh">我爱满堂彩-2025-1一笑一周</title>
@@ -1048,10 +1051,10 @@
         <title lang="zh">越战越勇-2025-2</title>
     </programme>
     <programme start="20250215113000" stop="20250215125200" channel="cctv3">
-        <title lang="zh">开门大吉-2024-50</title>
+        <title lang="zh">开门大吉-2025-1</title>
     </programme>
     <programme start="20250215125200" stop="20250215134900" channel="cctv3">
-        <title lang="zh">我爱满堂彩-2025-5一笑一周</title>
+        <title lang="zh">我爱满堂彩-2025-3一笑一周</title>
     </programme>
     <programme start="20250215134900" stop="20250215144500" channel="cctv3">
         <title lang="zh">绽放吧！妈妈-41</title>
@@ -4095,11 +4098,14 @@
     <programme start="20250215105000" stop="20250215111000" channel="cctvchild">
         <title lang="zh">名师有名堂（第二季）-19</title>
     </programme>
-    <programme start="20250215111000" stop="20250215120500" channel="cctvchild">
+    <programme start="20250215111000" stop="20250215120000" channel="cctvchild">
         <title lang="zh">动画大放映（周末黄金版）-2025-20</title>
     </programme>
-    <programme start="20250215120500" stop="20250215135000" channel="cctvchild">
-        <title lang="zh">新大头儿子和小头爸爸大电影-秘密计划</title>
+    <programme start="20250215120000" stop="20250215133000" channel="cctvchild">
+        <title lang="zh">2025新春动漫之夜-1</title>
+    </programme>
+    <programme start="20250215133000" stop="20250215135000" channel="cctvchild">
+        <title lang="zh">新闻袋袋裤</title>
     </programme>
     <programme start="20250215135000" stop="20250215143800" channel="cctvchild">
         <title lang="zh">大江大河-23/47</title>
