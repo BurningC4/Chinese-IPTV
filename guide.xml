@@ -735,11 +735,8 @@
     <programme start="20250305120000" stop="20250305123000" channel="cctv2">
         <title lang="zh">经济半小时</title>
     </programme>
-    <programme start="20250305123000" stop="20250305133000" channel="cctv2">
-        <title lang="zh">经济信息联播</title>
-    </programme>
-    <programme start="20250305133000" stop="20250305135500" channel="cctv2">
-        <title lang="zh">央视财经评论-2025-3-5</title>
+    <programme start="20250305123000" stop="20250305135500" channel="cctv2">
+        <title lang="zh">大家读报告</title>
     </programme>
     <programme start="20250305135500" stop="20250305135800" channel="cctv2">
         <title lang="zh">中国福利彩票公益开奖-2025-48</title>
@@ -771,14 +768,17 @@
     <programme start="20250305203300" stop="20250305210100" channel="cctv2">
         <title lang="zh">回家吃饭-2025-54</title>
     </programme>
-    <programme start="20250305210100" stop="20250305213100" channel="cctv2">
+    <programme start="20250305210100" stop="20250305211600" channel="cctv2">
+        <title lang="zh">新质生产力中国行-新质生产力中国时刻6</title>
+    </programme>
+    <programme start="20250305211600" stop="20250305214600" channel="cctv2">
         <title lang="zh">消费主张</title>
     </programme>
-    <programme start="20250305213100" stop="20250305215900" channel="cctv2">
+    <programme start="20250305214600" stop="20250305221400" channel="cctv2">
         <title lang="zh">生财有道-2025-3-5</title>
     </programme>
-    <programme start="20250305215900" stop="20250305230000" channel="cctv2">
-        <title lang="zh">经济信息联播</title>
+    <programme start="20250305221400" stop="20250305230000" channel="cctv2">
+        <title lang="zh">大国建造(第二季)-重播-1</title>
     </programme>
     <programme start="20250305230000" stop="20250306010000" channel="cctv2">
         <title lang="zh">第一时间</title>
@@ -1336,10 +1336,10 @@
         <title lang="zh">遇鉴文明（第二季）-4</title>
     </programme>
     <programme start="20250305163200" stop="20250305171500" channel="cctv4">
-        <title lang="zh">爱在平凡第5集</title>
+        <title lang="zh">爱在平凡第4集</title>
     </programme>
     <programme start="20250305171500" stop="20250305180000" channel="cctv4">
-        <title lang="zh">爱在平凡第6集</title>
+        <title lang="zh">爱在平凡第5集</title>
     </programme>
     <programme start="20250305180000" stop="20250305183000" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -1459,10 +1459,10 @@
         <title lang="zh">遇鉴文明（第二季）-8</title>
     </programme>
     <programme start="20250306163200" stop="20250306171500" channel="cctv4">
-        <title lang="zh">爱在平凡第7集</title>
+        <title lang="zh">爱在平凡第6集</title>
     </programme>
     <programme start="20250306171500" stop="20250306180000" channel="cctv4">
-        <title lang="zh">爱在平凡第8集</title>
+        <title lang="zh">爱在平凡第7集</title>
     </programme>
     <programme start="20250306180000" stop="20250306183000" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -2656,13 +2656,13 @@
         <title lang="zh">星推荐-2025年3月-6</title>
     </programme>
     <programme start="20250306112800" stop="20250306113000" channel="cctv8">
-        <title lang="zh">本集提要-大河之水-13/36</title>
+        <title lang="zh">本集提要-大河之水-第13集</title>
     </programme>
     <programme start="20250306113000" stop="20250306122400" channel="cctv8">
-        <title lang="zh">大河之水13/36</title>
+        <title lang="zh">大河之水第13集</title>
     </programme>
     <programme start="20250306122400" stop="20250306122900" channel="cctv8">
-        <title lang="zh">本集提要-大河之水-14/36</title>
+        <title lang="zh">本集提要-大河之水-第14集</title>
     </programme>
     <programme start="20250306122900" stop="20250306132100" channel="cctv8">
         <title lang="zh">大河之水14/36</title>
