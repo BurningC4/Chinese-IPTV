@@ -357,17 +357,11 @@
     <programme start="20250430073000" stop="20250430082000" channel="cctv1">
         <title lang="zh">驻站第3集</title>
     </programme>
-    <programme start="20250430082000" stop="20250430090700" channel="cctv1">
+    <programme start="20250430082000" stop="20250430090800" channel="cctv1">
         <title lang="zh">驻站第4集</title>
     </programme>
-    <programme start="20250430090700" stop="20250430094800" channel="cctv1">
+    <programme start="20250430090800" stop="20250430095800" channel="cctv1">
         <title lang="zh">驻站第5集</title>
-    </programme>
-    <programme start="20250430094800" stop="20250430094900" channel="cctv1">
-        <title lang="zh">第一动画乐园-2025-166</title>
-    </programme>
-    <programme start="20250430094900" stop="20250430095800" channel="cctv1">
-        <title lang="zh">第一动画乐园-2025-163</title>
     </programme>
     <programme start="20250430095800" stop="20250430101900" channel="cctv1">
         <title lang="zh">第一动画乐园-2025-164</title>
@@ -1074,11 +1068,14 @@
     <programme start="20250430231000" stop="20250501000300" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2025-299</title>
     </programme>
-    <programme start="20250501000300" stop="20250501000800" channel="cctv3">
+    <programme start="20250501000300" stop="20250501000700" channel="cctv3">
         <title lang="zh">中国文艺报道-2025-60 艺瞬间 大宅门</title>
     </programme>
-    <programme start="20250501000800" stop="20250501020600" channel="cctv3">
-        <title lang="zh">和美之夜-完整版</title>
+    <programme start="20250501000700" stop="20250501001600" channel="cctv3">
+        <title lang="zh">有礼走遍天下-1</title>
+    </programme>
+    <programme start="20250501001600" stop="20250501020600" channel="cctv3">
+        <title lang="zh">音乐周刊-和美之夜</title>
     </programme>
     <programme start="20250501020600" stop="20250501032900" channel="cctv3">
         <title lang="zh">越战越勇-2025-16</title>
@@ -1086,11 +1083,14 @@
     <programme start="20250501032900" stop="20250501035300" channel="cctv3">
         <title lang="zh">文化十分-2025-93</title>
     </programme>
-    <programme start="20250501035300" stop="20250501051500" channel="cctv3">
+    <programme start="20250501035300" stop="20250501051300" channel="cctv3">
         <title lang="zh">开门大吉-2025-9</title>
     </programme>
-    <programme start="20250501051500" stop="20250501065400" channel="cctv3">
-        <title lang="zh">2023太湖美音乐会-2</title>
+    <programme start="20250501051300" stop="20250501051900" channel="cctv3">
+        <title lang="zh">中国文艺报道-2025-60 艺瞬间 大宅门</title>
+    </programme>
+    <programme start="20250501051900" stop="20250501065400" channel="cctv3">
+        <title lang="zh">音乐周刊-中国·保定乡村音乐大会-生态大草坪</title>
     </programme>
     <programme start="20250501065400" stop="20250501071900" channel="cctv3">
         <title lang="zh">五一综艺栏目剧·吉聚欢喜-1</title>
@@ -1761,14 +1761,14 @@
     <programme start="20250502043000" stop="20250502053500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20250502053500" stop="20250502055800" channel="cctv5">
-        <title lang="zh">艺术里的奥林匹克(4K)</title>
-    </programme>
-    <programme start="20250502055800" stop="20250502063000" channel="cctv5">
-        <title lang="zh">实况录像-2025年射箭世界杯 美国站 4</title>
-    </programme>
-    <programme start="20250502063000" stop="20250502083000" channel="cctv5">
+    <programme start="20250502053500" stop="20250502065500" channel="cctv5">
         <title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 半决赛（录播）1</title>
+    </programme>
+    <programme start="20250502065500" stop="20250502080000" channel="cctv5">
+        <title lang="zh">2025年世界泳联跳水世界杯超级决赛- 女子双人10米跳台决赛</title>
+    </programme>
+    <programme start="20250502080000" stop="20250502083000" channel="cctv5">
+        <title lang="zh">实况录像-2025年射箭世界杯 美国站 4</title>
     </programme>
     <programme start="20250502083000" stop="20250502100000" channel="cctv5">
         <title lang="zh">运动一起赢</title>
@@ -1780,7 +1780,7 @@
         <title lang="zh">篮球公园</title>
     </programme>
     <programme start="20250502113000" stop="20250502134500" channel="cctv5">
-        <title lang="zh">2024/2025赛季中国男子篮球职业联赛-半决赛 北京北汽VS山西汾酒</title>
+        <title lang="zh">2024/2025赛季中国男子篮球职业联赛-半决赛 北京北汽VS山西汾酒 第三场</title>
     </programme>
     <programme start="20250502134500" stop="20250502145000" channel="cctv5">
         <title lang="zh">体育世界</title>
@@ -1830,8 +1830,14 @@
     <programme start="20250430123300" stop="20250430140000" channel="cctv5plus">
         <title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 4</title>
     </programme>
-    <programme start="20250430140000" stop="20250430155900" channel="cctv5plus">
-        <title lang="zh">2025年ATP1000男子网球大师赛-马德里站 1/4决赛1</title>
+    <programme start="20250430140000" stop="20250430153000" channel="cctv5plus">
+        <title lang="zh">实况录像-2025年世界男子冰壶锦标赛 1</title>
+    </programme>
+    <programme start="20250430153000" stop="20250430155500" channel="cctv5plus">
+        <title lang="zh">实况录像-2025年射箭世界杯 美国站 1</title>
+    </programme>
+    <programme start="20250430155500" stop="20250430155900" channel="cctv5plus">
+        <title lang="zh">实况录像-2025年世界泳联花样游泳世界杯埃及站 男子单人自由自选决赛</title>
     </programme>
     <programme start="20250430160500" stop="20250430170600" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2025年世界自由式滑雪锦标赛 空中技巧混合团体决赛（4K）</title>
@@ -1902,17 +1908,20 @@
     <programme start="20250501230000" stop="20250502003000" channel="cctv5plus">
         <title lang="zh">实况录像-2025年世界男子冰壶锦标赛 2</title>
     </programme>
-    <programme start="20250502003000" stop="20250502020000" channel="cctv5plus">
+    <programme start="20250502003000" stop="20250502015500" channel="cctv5plus">
         <title lang="zh">实况录像-2025年世界花样滑冰锦标赛 双人自由滑</title>
     </programme>
-    <programme start="20250502020000" stop="20250502033000" channel="cctv5plus">
-        <title lang="zh">国际足球赛场-24-25赛季英超联赛第34轮 纽卡斯尔联—伊普斯维奇（4K）</title>
+    <programme start="20250502015500" stop="20250502030500" channel="cctv5plus">
+        <title lang="zh">2025年世界泳联跳水世界杯超级决赛- 男子双人3米跳板决赛</title>
     </programme>
-    <programme start="20250502033000" stop="20250502043000" channel="cctv5plus">
-        <title lang="zh">实况录像（奥林匹克）-2025年全国举重锦标赛 女子比赛1（4K）</title>
+    <programme start="20250502030500" stop="20250502035500" channel="cctv5plus">
+        <title lang="zh">实况录像-2025年世界短道速滑锦标赛 1</title>
     </programme>
-    <programme start="20250502043000" stop="20250502060000" channel="cctv5plus">
-        <title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 5</title>
+    <programme start="20250502035500" stop="20250502050000" channel="cctv5plus">
+        <title lang="zh">2025年世界泳联跳水世界杯超级决赛- 女子双人3米跳板决赛</title>
+    </programme>
+    <programme start="20250502050000" stop="20250502060000" channel="cctv5plus">
+        <title lang="zh">实况录像-2025年全国举重锦标赛 女子比赛1（4K）</title>
     </programme>
     <programme start="20250502060000" stop="20250502072500" channel="cctv5plus">
         <title lang="zh">国际足球赛场-24-25赛季法甲联赛第31轮 勒阿弗尔—摩纳哥（4K）</title>
