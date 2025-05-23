@@ -1089,10 +1089,7 @@
     <programme start="20250525031100" stop="20250525043500" channel="cctv3">
         <title lang="zh">星光大道-2025-20（这一站星光13）</title>
     </programme>
-    <programme start="20250525043500" stop="20250525055900" channel="cctv3">
-        <title lang="zh">乐在旅途第三季-8</title>
-    </programme>
-    <programme start="20250525055900" stop="20250525063100" channel="cctv3">
+    <programme start="20250525043500" stop="20250525063100" channel="cctv3">
         <title lang="zh">乐在旅途第三季-8</title>
     </programme>
     <programme start="20250525063100" stop="20250525075600" channel="cctv3">
@@ -1443,26 +1440,29 @@
     <programme start="20250524233000" stop="20250525000000" channel="cctv4">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme start="20250525000000" stop="20250525010200" channel="cctv4">
+    <programme start="20250525000000" stop="20250525010000" channel="cctv4">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme start="20250525010200" stop="20250525012900" channel="cctv4">
+    <programme start="20250525010000" stop="20250525012800" channel="cctv4">
+        <title lang="zh">今日亚洲</title>
+    </programme>
+    <programme start="20250525012800" stop="20250525015500" channel="cctv4">
         <title lang="zh">国家记忆-2025-36</title>
     </programme>
-    <programme start="20250525012900" stop="20250525015600" channel="cctv4">
+    <programme start="20250525015500" stop="20250525022200" channel="cctv4">
         <title lang="zh">国家记忆-2025-37</title>
     </programme>
-    <programme start="20250525015600" stop="20250525022300" channel="cctv4">
-        <title lang="zh">国家记忆-2025-38</title>
-    </programme>
-    <programme start="20250525022300" stop="20250525025000" channel="cctv4">
-        <title lang="zh">国家记忆-2025-39</title>
-    </programme>
-    <programme start="20250525025000" stop="20250525032000" channel="cctv4">
+    <programme start="20250525022200" stop="20250525025200" channel="cctv4">
         <title lang="zh">国家记忆-2025-40</title>
     </programme>
-    <programme start="20250525032000" stop="20250525032600" channel="cctv4">
+    <programme start="20250525025200" stop="20250525031800" channel="cctv4">
+        <title lang="zh">鲁健访谈-2025-21</title>
+    </programme>
+    <programme start="20250525031800" stop="20250525032100" channel="cctv4">
         <title lang="zh">记住乡愁-片段展播-2024-9</title>
+    </programme>
+    <programme start="20250525032100" stop="20250525032600" channel="cctv4">
+        <title lang="zh">记住乡愁-片段展播-2024-44</title>
     </programme>
     <programme start="20250525032600" stop="20250525040000" channel="cctv4">
         <title lang="zh">海峡两岸-2025-144</title>
