@@ -507,10 +507,10 @@
     <programme start="20250628113900" stop="20250628120300" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20250628120300" stop="20250628134200" channel="cctv1">
+    <programme start="20250628120300" stop="20250628134100" channel="cctv1">
         <title lang="zh">城市风华录-7</title>
     </programme>
-    <programme start="20250628134200" stop="20250628134800" channel="cctv1">
+    <programme start="20250628134100" stop="20250628134800" channel="cctv1">
         <title lang="zh">山水间的家-主题曲</title>
     </programme>
     <programme start="20250628134800" stop="20250628140000" channel="cctv1">
@@ -1621,7 +1621,7 @@
         <title lang="zh">实况录像-2025年世界泳联花样游泳世界杯 总决赛5</title>
     </programme>
     <programme start="20250628013300" stop="20250628030000" channel="cctv5">
-        <title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 5</title>
+        <title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 12进8 第一场1</title>
     </programme>
     <programme start="20250628030000" stop="20250628040000" channel="cctv5">
         <title lang="zh">实况录像-2025年世界乒乓球锦标赛 女单比赛</title>
@@ -1635,23 +1635,23 @@
     <programme start="20250628052800" stop="20250628070000" channel="cctv5">
         <title lang="zh">实况录像-2025年法国网球公开赛  女单决赛</title>
     </programme>
-    <programme start="20250628070000" stop="20250628080000" channel="cctv5">
-        <title lang="zh">实况录像（奥林匹克）-2025年亚洲举重锦标赛 男子102公斤级决赛（4K）</title>
-    </programme>
-    <programme start="20250628080000" stop="20250628100000" channel="cctv5">
+    <programme start="20250628070000" stop="20250628090000" channel="cctv5">
         <title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 半决赛</title>
     </programme>
-    <programme start="20250628100000" stop="20250628110500" channel="cctv5">
+    <programme start="20250628090000" stop="20250628105000" channel="cctv5">
+        <title lang="zh">2025年三人篮球世界杯-1/4决赛</title>
+    </programme>
+    <programme start="20250628105000" stop="20250628112000" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20250628110500" stop="20250628112000" channel="cctv5">
-        <title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 第二轮 马克·艾伦的147</title>
-    </programme>
-    <programme start="20250628112000" stop="20250628133000" channel="cctv5">
+    <programme start="20250628112000" stop="20250628115000" channel="cctv5">
         <title lang="zh">2025年三人篮球世界杯-女子1/4决赛1</title>
     </programme>
-    <programme start="20250628133000" stop="20250628143000" channel="cctv5">
-        <title lang="zh">实况录像-2025年世界泳联花样游泳世界杯 中国队比赛</title>
+    <programme start="20250628115000" stop="20250628140000" channel="cctv5">
+        <title lang="zh">2025年国际篮联U19男子世界杯-小组赛（中国队-加拿大队）</title>
+    </programme>
+    <programme start="20250628140000" stop="20250628143000" channel="cctv5">
+        <title lang="zh">实况录像-2025年世界泳联花样游泳世界杯 总决赛1</title>
     </programme>
     <programme start="20250628143000" stop="20250628155900" channel="cctv5">
         <title lang="zh">实况录像-2025年苏迪曼杯羽毛球赛 中国队夺冠之路</title>
@@ -1684,7 +1684,7 @@
         <title lang="zh">实况录像-2025年世界田联钻石联赛 巴黎站25分钟版</title>
     </programme>
     <programme start="20250629013300" stop="20250629030000" channel="cctv5">
-        <title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 6</title>
+        <title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 12进8第三场 1</title>
     </programme>
     <programme start="20250629030000" stop="20250629040000" channel="cctv5">
         <title lang="zh">实况录像-2025年世界乒乓球锦标赛 男单比赛</title>
@@ -1701,14 +1701,17 @@
     <programme start="20250629070000" stop="20250629080000" channel="cctv5">
         <title lang="zh">2025年赛艇世界杯-瓦雷泽站</title>
     </programme>
-    <programme start="20250629080000" stop="20250629100000" channel="cctv5">
-        <title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 决赛</title>
+    <programme start="20250629080000" stop="20250629091500" channel="cctv5">
+        <title lang="zh">实况录像-2025年中国女篮热身赛 合肥站 中国队—日本队</title>
     </programme>
-    <programme start="20250629100000" stop="20250629110000" channel="cctv5">
+    <programme start="20250629091500" stop="20250629094500" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20250629110000" stop="20250629130000" channel="cctv5">
-        <title lang="zh">2025年三人篮球世界杯-三四名决赛、决赛</title>
+    <programme start="20250629094500" stop="20250629120000" channel="cctv5">
+        <title lang="zh">2025年国际篮联U19男子世界杯-小组赛（德国队-中国队）</title>
+    </programme>
+    <programme start="20250629120000" stop="20250629130000" channel="cctv5">
+        <title lang="zh">2025年三人篮球世界杯-决赛</title>
     </programme>
     <programme start="20250629130000" stop="20250629150500" channel="cctv5">
         <title lang="zh">2025年世界一级方程式锦标赛-奥地利大奖赛 正赛</title>
@@ -1806,17 +1809,20 @@
     <programme start="20250628080000" stop="20250628090000" channel="cctv5plus">
         <title lang="zh">实况录像-2025年世界乒乓球锦标赛 男单比赛</title>
     </programme>
-    <programme start="20250628090000" stop="20250628110000" channel="cctv5plus">
-        <title lang="zh">2025年三人篮球世界杯-1/4决赛</title>
-    </programme>
-    <programme start="20250628110000" stop="20250628113000" channel="cctv5plus">
-        <title lang="zh">实况录像-2025年攀岩世界杯 中国吴江站 速度赛决赛</title>
-    </programme>
-    <programme start="20250628113000" stop="20250628130000" channel="cctv5plus">
+    <programme start="20250628090000" stop="20250628103000" channel="cctv5plus">
         <title lang="zh">实况录像-2025年世界田联钻石联赛  巴黎站</title>
     </programme>
-    <programme start="20250628130000" stop="20250628140000" channel="cctv5plus">
+    <programme start="20250628103000" stop="20250628113000" channel="cctv5plus">
         <title lang="zh">2025年赛艇世界杯-瓦雷泽站</title>
+    </programme>
+    <programme start="20250628113000" stop="20250628114500" channel="cctv5plus">
+        <title lang="zh">实况录像-2025年世界泳联花样游泳世界杯埃及站 男子单人技术自选决赛</title>
+    </programme>
+    <programme start="20250628114500" stop="20250628133000" channel="cctv5plus">
+        <title lang="zh">2025年三人篮球世界杯-1/4决赛</title>
+    </programme>
+    <programme start="20250628133000" stop="20250628140000" channel="cctv5plus">
+        <title lang="zh">实况录像-2025年攀岩世界杯 中国吴江站 速度赛决赛</title>
     </programme>
     <programme start="20250628140000" stop="20250628151500" channel="cctv5plus">
         <title lang="zh">2025年世界一级方程式锦标赛-奥地利大奖赛 排位赛</title>
@@ -4464,32 +4470,26 @@
     <programme start="20250628045500" stop="20250628061500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 女篮决赛</title>
     </programme>
-    <programme start="20250628061500" stop="20250628071500" channel="cctv16">
-        <title lang="zh">2025年赛艇世界杯-瓦雷泽站</title>
+    <programme start="20250628061500" stop="20250628063000" channel="cctv16">
+        <title lang="zh">奥林匹克荣光-巴黎奥运会 乒乓球男子团体决赛</title>
     </programme>
-    <programme start="20250628071500" stop="20250628081000" channel="cctv16">
-        <title lang="zh">奥林匹克典藏-2022年北京冬奥会 花样滑冰双人滑</title>
+    <programme start="20250628063000" stop="20250628090500" channel="cctv16">
+        <title lang="zh">2025年中国-上海合作组织冰雪体育示范区国际冰壶邀请赛-男子第一轮 中国重庆青年冰壶俱乐部-哈萨克斯坦冰壶俱乐部</title>
     </programme>
-    <programme start="20250628081000" stop="20250628083000" channel="cctv16">
-        <title lang="zh">艺术里的奥林匹克2025-25</title>
+    <programme start="20250628090500" stop="20250628093500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 小轮车女子自由式决赛（4K）</title>
     </programme>
-    <programme start="20250628083000" stop="20250628100000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2025年世界田联钻石联赛  斯德哥尔摩站</title>
-    </programme>
-    <programme start="20250628100000" stop="20250628113000" channel="cctv16">
+    <programme start="20250628093500" stop="20250628110000" channel="cctv16">
         <title lang="zh">2025中国之队国际足球锦标赛- 中国U16—澳大利亚U16</title>
     </programme>
-    <programme start="20250628113000" stop="20250628120000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 小轮车女子自由式决赛</title>
+    <programme start="20250628110000" stop="20250628133500" channel="cctv16">
+        <title lang="zh">2025年中国-上海合作组织冰雪体育示范区国际冰壶邀请赛-女子第二轮 白俄罗斯冰壶俱乐部-中国青海冰壶俱乐部</title>
     </programme>
-    <programme start="20250628120000" stop="20250628122000" channel="cctv16">
-        <title lang="zh">艺术里的奥林匹克2025-29</title>
+    <programme start="20250628133500" stop="20250628135500" channel="cctv16">
+        <title lang="zh">艺术里的奥林匹克2025-29(4K)</title>
     </programme>
-    <programme start="20250628122000" stop="20250628131000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 乒乓球男单决赛 43分30秒版</title>
-    </programme>
-    <programme start="20250628131000" stop="20250628144000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2025年法国网球公开赛4</title>
+    <programme start="20250628135500" stop="20250628144000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 乒乓球男单决赛 43分30秒版（4K）</title>
     </programme>
     <programme start="20250628144000" stop="20250628155900" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024/2025赛季欧洲篮球联赛 第32轮 奥林匹亚科斯—摩纳哥</title>
