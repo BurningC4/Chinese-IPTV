@@ -1686,26 +1686,29 @@
     <programme start="20250822070000" stop="20250822080000" channel="cctv5">
         <title lang="zh">实况录像-2025年WTT欧洲大满贯 瑞典站 单打第三轮等（录播）</title>
     </programme>
-    <programme start="20250822080000" stop="20250822100000" channel="cctv5">
+    <programme start="20250822080000" stop="20250822090000" channel="cctv5">
         <title lang="zh">运动一起赢</title>
     </programme>
-    <programme start="20250822100000" stop="20250822103500" channel="cctv5">
-        <title lang="zh">体育新闻</title>
-    </programme>
-    <programme start="20250822103500" stop="20250822113500" channel="cctv5">
+    <programme start="20250822090000" stop="20250822100000" channel="cctv5">
         <title lang="zh">篮球公园</title>
     </programme>
-    <programme start="20250822113500" stop="20250822134500" channel="cctv5">
-        <title lang="zh">2025年WTT欧洲大满贯(瑞典站)-单打1/4决赛等</title>
+    <programme start="20250822100000" stop="20250822102000" channel="cctv5">
+        <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20250822134500" stop="20250822145000" channel="cctv5">
+    <programme start="20250822102000" stop="20250822122500" channel="cctv5">
+        <title lang="zh">2025年WTT欧洲大满贯（瑞典站）-单打1/4决赛等</title>
+    </programme>
+    <programme start="20250822122500" stop="20250822143000" channel="cctv5">
+        <title lang="zh">2025年世界女排锦标赛-小组赛（美国队-斯洛文尼亚队）</title>
+    </programme>
+    <programme start="20250822143000" stop="20250822153700" channel="cctv5">
         <title lang="zh">体育世界</title>
     </programme>
-    <programme start="20250822145000" stop="20250822155900" channel="cctv5">
+    <programme start="20250822153700" stop="20250822155900" channel="cctv5">
         <title lang="zh">实况录像-2025年女篮亚洲杯 三四名决赛</title>
     </programme>
-    <programme start="20250822160500" stop="20250822170500" channel="cctv5">
-        <title lang="zh">2025年赛艇世界杯-卢塞恩站</title>
+    <programme start="20250822165000" stop="20250822170500" channel="cctv5">
+        <title lang="zh">实况录像-2025年世界泳联世锦赛 花样游泳比赛10分钟版 1</title>
     </programme>
     <programme start="20250822170500" stop="20250822183600" channel="cctv5">
         <title lang="zh">实况录像-2025年世界田联钻石联赛  斯德哥尔摩站</title>
@@ -1854,8 +1857,11 @@
     <programme start="20250822070000" stop="20250822083000" channel="cctv5plus">
         <title lang="zh">实况录像-2025年世界田联钻石联赛 洛桑站</title>
     </programme>
-    <programme start="20250822083000" stop="20250822100000" channel="cctv5plus">
-        <title lang="zh">国际足球赛场-25-26赛季法甲联赛第1轮 南特—巴黎圣日耳曼</title>
+    <programme start="20250822083000" stop="20250822090000" channel="cctv5plus">
+        <title lang="zh">2025/2026法国足球甲级联赛-第1轮集锦</title>
+    </programme>
+    <programme start="20250822090000" stop="20250822100000" channel="cctv5plus">
+        <title lang="zh">2025年世界女排锦标赛-小组赛（波多黎各队—法国队）</title>
     </programme>
     <programme start="20250822100000" stop="20250822113500" channel="cctv5plus">
         <title lang="zh">2025年WTT欧洲大满贯（瑞典站）-单打1/4决赛，双打半决赛</title>
@@ -3870,10 +3876,10 @@
     <programme start="20250821100000" stop="20250821110000" channel="cctv13">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme start="20250821110000" stop="20250821113800" channel="cctv13">
+    <programme start="20250821110000" stop="20250821113600" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20250821113800" stop="20250821114400" channel="cctv13">
+    <programme start="20250821113600" stop="20250821114400" channel="cctv13">
         <title lang="zh">天气预报</title>
     </programme>
     <programme start="20250821114400" stop="20250821120000" channel="cctv13">
@@ -3882,13 +3888,13 @@
     <programme start="20250821120000" stop="20250821130000" channel="cctv13">
         <title lang="zh">东方时空</title>
     </programme>
-    <programme start="20250821130000" stop="20250821133000" channel="cctv13">
+    <programme start="20250821130000" stop="20250821133500" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20250821133000" stop="20250821140000" channel="cctv13">
+    <programme start="20250821133500" stop="20250821140500" channel="cctv13">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme start="20250821140000" stop="20250821143000" channel="cctv13">
+    <programme start="20250821140500" stop="20250821143000" channel="cctv13">
         <title lang="zh">国际时讯</title>
     </programme>
     <programme start="20250821143000" stop="20250821150000" channel="cctv13">
