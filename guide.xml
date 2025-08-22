@@ -495,16 +495,16 @@
     <programme start="20250823110000" stop="20250823113900" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20250823113900" stop="20250823115900" channel="cctv1">
+    <programme start="20250823113900" stop="20250823120100" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20250823115900" stop="20250823120400" channel="cctv1">
+    <programme start="20250823120100" stop="20250823120400" channel="cctv1">
         <title lang="zh">前情提要-我们的河山-第8集</title>
     </programme>
-    <programme start="20250823120400" stop="20250823125900" channel="cctv1">
+    <programme start="20250823120400" stop="20250823130000" channel="cctv1">
         <title lang="zh">我们的河山第8集</title>
     </programme>
-    <programme start="20250823125900" stop="20250823134900" channel="cctv1">
+    <programme start="20250823130000" stop="20250823134900" channel="cctv1">
         <title lang="zh">习近平生态文明思想系列讲读-8</title>
     </programme>
     <programme start="20250823134900" stop="20250823140000" channel="cctv1">
@@ -1665,11 +1665,14 @@
     <programme start="20250823100000" stop="20250823110000" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20250823110000" stop="20250823133000" channel="cctv5">
-        <title lang="zh">2025年WTT欧洲大满贯(瑞典站)-男双决赛等</title>
+    <programme start="20250823110000" stop="20250823113000" channel="cctv5">
+        <title lang="zh">2025年世乒联大满贯赛(瑞典站)-男双决赛</title>
     </programme>
-    <programme start="20250823133000" stop="20250823140000" channel="cctv5">
-        <title lang="zh">实况录像-2025年WTT欧洲大满贯 瑞典站 混双决赛（录播）</title>
+    <programme start="20250823113000" stop="20250823122500" channel="cctv5">
+        <title lang="zh">实况录像-2025年世界女排锦标赛 小组赛比赛（录播）</title>
+    </programme>
+    <programme start="20250823122500" stop="20250823140000" channel="cctv5">
+        <title lang="zh">2025年世界女排锦标赛-小组赛（中国队-墨西哥队）</title>
     </programme>
     <programme start="20250823140000" stop="20250823155900" channel="cctv5">
         <title lang="zh">2025/2026英格兰足球超级联赛-第2轮（布伦特福德—阿斯顿维拉）</title>
@@ -1699,7 +1702,7 @@
         <title lang="zh">国际足球赛场-25-26赛季英超联赛第1轮 切尔西—水晶宫</title>
     </programme>
     <programme start="20250824023200" stop="20250824040000" channel="cctv5">
-        <title lang="zh">实况录像-2025年ATP1000男子网球大师赛 辛辛那提站 决赛</title>
+        <title lang="zh">实况录像-2025年世界田联钻石联赛 洛桑站</title>
     </programme>
     <programme start="20250824040000" stop="20250824050500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
@@ -1707,23 +1710,26 @@
     <programme start="20250824050500" stop="20250824052500" channel="cctv5">
         <title lang="zh">艺术里的奥林匹克(4K)</title>
     </programme>
-    <programme start="20250824052500" stop="20250824060000" channel="cctv5">
-        <title lang="zh">2025年世界职业拳王争霸赛</title>
+    <programme start="20250824052500" stop="20250824055500" channel="cctv5">
+        <title lang="zh">体坛零距离-2025-34(4K)</title>
     </programme>
-    <programme start="20250824060000" stop="20250824083000" channel="cctv5">
+    <programme start="20250824055500" stop="20250824090000" channel="cctv5">
         <title lang="zh">2025/2026赛季斯诺克武汉公开赛-第1轮、第2轮</title>
     </programme>
-    <programme start="20250824083000" stop="20250824100000" channel="cctv5">
-        <title lang="zh">实况录像-2025年WTT欧洲大满贯 瑞典站 单打半决赛、女双决赛（录播）</title>
+    <programme start="20250824090000" stop="20250824100000" channel="cctv5">
+        <title lang="zh">2025年世界职业拳王争霸赛-2025.8.24</title>
     </programme>
     <programme start="20250824100000" stop="20250824110000" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20250824110000" stop="20250824130000" channel="cctv5">
-        <title lang="zh">2025中国足球超级联赛-第22轮（梅州客家-浙江俱乐部）</title>
+    <programme start="20250824110000" stop="20250824122500" channel="cctv5">
+        <title lang="zh">实况录像-2025年世乒联欧洲大满贯 单打半决赛（录播）</title>
     </programme>
-    <programme start="20250824130000" stop="20250824150000" channel="cctv5">
-        <title lang="zh">2025/2026英格兰足球超级联赛-第2轮（水晶宫—诺丁汉森林）</title>
+    <programme start="20250824122500" stop="20250824140000" channel="cctv5">
+        <title lang="zh">2025年世界女排锦标赛-小组赛（巴西队-法国队）</title>
+    </programme>
+    <programme start="20250824140000" stop="20250824150000" channel="cctv5">
+        <title lang="zh">实况录像-2025年世乒联欧洲大满贯 女双决赛等（录播）</title>
     </programme>
     <programme start="20250824150000" stop="20250824155900" channel="cctv5">
         <title lang="zh">2025年WTT欧洲大满贯(瑞典站)-单打决赛</title>
@@ -1801,7 +1807,7 @@
         <title lang="zh">实况录像-2025年世界田联钻石联赛 伦敦站</title>
     </programme>
     <programme start="20250822233000" stop="20250823010000" channel="cctv5plus">
-        <title lang="zh">实况录像-2025年ATP1000男子网球大师赛 辛辛那提站 决赛</title>
+        <title lang="zh">2025/2026西班牙足球甲级联赛-第1轮（塞尔塔—赫塔费）</title>
     </programme>
     <programme start="20250823010000" stop="20250823020000" channel="cctv5plus">
         <title lang="zh">2025年环法自行车赛-第17赛段</title>
@@ -1819,22 +1825,25 @@
         <title lang="zh">实况录像-2025年世界泳联世锦赛 跳水 男子3米板决赛</title>
     </programme>
     <programme start="20250823063000" stop="20250823070000" channel="cctv5plus">
-        <title lang="zh">2025/2026西班牙足球甲级联赛-第1轮集锦</title>
+        <title lang="zh">2025/2026英格兰足球超级联赛-第1轮集锦</title>
     </programme>
     <programme start="20250823070000" stop="20250823083000" channel="cctv5plus">
         <title lang="zh">实况录像-2025年世界田联钻石联赛 西里西亚站</title>
     </programme>
-    <programme start="20250823083000" stop="20250823100000" channel="cctv5plus">
-        <title lang="zh">2025/2026西班牙足球甲级联赛-第1轮（塞尔塔—赫塔费）</title>
+    <programme start="20250823083000" stop="20250823090000" channel="cctv5plus">
+        <title lang="zh">实况录像-2025年世界泳联世锦赛 游泳中国队比赛</title>
     </programme>
-    <programme start="20250823100000" stop="20250823110000" channel="cctv5plus">
-        <title lang="zh">实况录像-2025年世界泳联世锦赛 花样游泳集体技术自选 决赛</title>
+    <programme start="20250823090000" stop="20250823110000" channel="cctv5plus">
+        <title lang="zh">2025年世界女排锦标赛-小组赛（多米尼加队—哥伦比亚队）</title>
     </programme>
-    <programme start="20250823110000" stop="20250823115500" channel="cctv5plus">
-        <title lang="zh">实况录像-2025年世界职业拳王争霸赛 12</title>
+    <programme start="20250823110000" stop="20250823113000" channel="cctv5plus">
+        <title lang="zh">实况录像-2025年成都世界运动会 2</title>
     </programme>
-    <programme start="20250823115500" stop="20250823140500" channel="cctv5plus">
-        <title lang="zh">2025中国足球超级联赛-第22轮（北京国安—武汉三镇）</title>
+    <programme start="20250823113000" stop="20250823133500" channel="cctv5plus">
+        <title lang="zh">2025年世乒联大满贯赛（瑞典站）-单打半决赛</title>
+    </programme>
+    <programme start="20250823133500" stop="20250823140500" channel="cctv5plus">
+        <title lang="zh">实况录像-2025年世界田联钻石联赛 西里西亚站25分钟版</title>
     </programme>
     <programme start="20250823140500" stop="20250823150000" channel="cctv5plus">
         <title lang="zh">实况录像-2025年世界泳联世锦赛 游泳比赛1</title>
@@ -1881,17 +1890,14 @@
     <programme start="20250824083000" stop="20250824100000" channel="cctv5plus">
         <title lang="zh">国际足球赛场-25-26赛季英超联赛第1轮 托特纳姆—伯恩利</title>
     </programme>
-    <programme start="20250824100000" stop="20250824110000" channel="cctv5plus">
+    <programme start="20250824100000" stop="20250824120000" channel="cctv5plus">
+        <title lang="zh">2025年世界女排锦标赛-小组赛（意大利队—古巴队）</title>
+    </programme>
+    <programme start="20250824120000" stop="20250824125500" channel="cctv5plus">
         <title lang="zh">实况录像-2025年世界泳联世锦赛 花样游泳集体自由自选 决赛</title>
     </programme>
-    <programme start="20250824110000" stop="20250824113000" channel="cctv5plus">
-        <title lang="zh">实况录像-2025年世界泳联世锦赛 游泳中国队比赛</title>
-    </programme>
-    <programme start="20250824113000" stop="20250824143300" channel="cctv5plus">
-        <title lang="zh">2025/2026赛季斯诺克武汉公开赛- 第1轮、第2轮</title>
-    </programme>
-    <programme start="20250824143300" stop="20250824150000" channel="cctv5plus">
-        <title lang="zh">实况录像-2025年成都世界运动会 2</title>
+    <programme start="20250824125500" stop="20250824150000" channel="cctv5plus">
+        <title lang="zh">2025/2026英格兰足球超级联赛第2轮-（水晶宫-诺丁汉森林）</title>
     </programme>
     <programme start="20250824150000" stop="20250824155900" channel="cctv5plus">
         <title lang="zh">2025/2026西班牙足球甲级联赛-第2轮（奥萨苏纳—巴伦西亚）</title>
