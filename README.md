@@ -1,3 +1,6 @@
+经测试最近（2025年9月3日）直播地址的ipv4又不好使了，请切到ipv6
+
+
 # Chinese-IPTV
 
 Chinese CCTV List
