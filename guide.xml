@@ -1611,14 +1611,17 @@
     <programme start="20251003020000" stop="20251003030000" channel="cctv5">
         <title lang="zh">实况录像-2025年世界举重锦标赛 女子48公斤级决赛（录播）</title>
     </programme>
-    <programme start="20251003030000" stop="20251003040000" channel="cctv5">
+    <programme start="20251003030000" stop="20251003033500" channel="cctv5">
         <title lang="zh">WTT大满贯中国站-单打1/4决赛等</title>
     </programme>
-    <programme start="20251003040000" stop="20251003043000" channel="cctv5">
+    <programme start="20251003033500" stop="20251003040500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20251003043000" stop="20251003070000" channel="cctv5">
+    <programme start="20251003040500" stop="20251003050000" channel="cctv5">
         <title lang="zh">WTT大满贯中国站-单打1/4决赛等</title>
+    </programme>
+    <programme start="20251003050000" stop="20251003070000" channel="cctv5">
+        <title lang="zh">2025年中国网球公开赛-女双1/4决赛3</title>
     </programme>
     <programme start="20251003070000" stop="20251003090000" channel="cctv5">
         <title lang="zh">2025年中国网球公开赛-女单1/4决赛3</title>
@@ -1765,7 +1768,7 @@
         <title lang="zh">实况录像-2025年国际滑联花样滑冰奥运资格赛 冰舞自由舞</title>
     </programme>
     <programme start="20251003050000" stop="20251003070500" channel="cctv5plus">
-        <title lang="zh">2025年中国网球公开赛-女双1/4决赛3</title>
+        <title lang="zh">2025年世乒联大满贯赛（中国站）-单打1/4决赛等</title>
     </programme>
     <programme start="20251003070500" stop="20251003083200" channel="cctv5plus">
         <title lang="zh">国际足球赛场-25-26赛季法甲联赛第6轮 里尔—里昂</title>
@@ -1818,8 +1821,17 @@
     <programme start="20251004083300" stop="20251004100000" channel="cctv5plus">
         <title lang="zh">实况录像-2025年世界田径锦标赛 1</title>
     </programme>
-    <programme start="20251004100000" stop="20251004140500" channel="cctv5plus">
-        <title lang="zh">2025年中国网球公开赛-女单、女双半决赛2</title>
+    <programme start="20251004100000" stop="20251004110000" channel="cctv5plus">
+        <title lang="zh">实况录像-2025年皮划艇激流回旋世界杯 德国站</title>
+    </programme>
+    <programme start="20251004110000" stop="20251004113000" channel="cctv5plus">
+        <title lang="zh">实况录像-2025年世界泳联青少年游泳世锦赛 杨佩琪揽五金</title>
+    </programme>
+    <programme start="20251004113000" stop="20251004133500" channel="cctv5plus">
+        <title lang="zh">2025年江苏省城市足球联赛-1/4决赛（南京—连云港）</title>
+    </programme>
+    <programme start="20251004133500" stop="20251004140500" channel="cctv5plus">
+        <title lang="zh">2025/2026法国足球甲级联赛-第6轮集锦（4K）</title>
     </programme>
     <programme start="20251004140500" stop="20251004150000" channel="cctv5plus">
         <title lang="zh">实况录像-2025年世界职业拳王争霸赛 15</title>
@@ -4476,29 +4488,23 @@
     <programme start="20251004073000" stop="20251004075000" channel="cctv16">
         <title lang="zh">艺术里的奥林匹克2025-56</title>
     </programme>
-    <programme start="20251004075000" stop="20251004084000" channel="cctv16">
+    <programme start="20251004075000" stop="20251004083500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 游泳比赛4</title>
     </programme>
-    <programme start="20251004084000" stop="20251004100500" channel="cctv16">
-        <title lang="zh">2025/2026西班牙足球甲级联赛-第7轮（马德里竞技—皇家马德里）</title>
+    <programme start="20251004083500" stop="20251004100000" channel="cctv16">
+        <title lang="zh">2025/2026西班牙足球甲级联赛-第7轮（马德里竞技—皇家马德里）（4K）</title>
     </programme>
-    <programme start="20251004100500" stop="20251004103500" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2025年世界田径锦标赛 25分钟版1</title>
+    <programme start="20251004100000" stop="20251004140000" channel="cctv16">
+        <title lang="zh">2025年中国网球公开赛-女单、女双半决赛2</title>
     </programme>
-    <programme start="20251004103500" stop="20251004120000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2025年男篮亚洲杯 1/4决赛2</title>
+    <programme start="20251004140000" stop="20251004141500" channel="cctv16">
+        <title lang="zh">艺术里的奥林匹克2025-57(4K)</title>
     </programme>
-    <programme start="20251004120000" stop="20251004122000" channel="cctv16">
-        <title lang="zh">艺术里的奥林匹克2025-57</title>
+    <programme start="20251004141500" stop="20251004154500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 乒乓球女团决赛（4K）</title>
     </programme>
-    <programme start="20251004122000" stop="20251004134500" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2025年世界男排锦标赛 决赛</title>
-    </programme>
-    <programme start="20251004134500" stop="20251004151000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 乒乓球女团决赛</title>
-    </programme>
-    <programme start="20251004151000" stop="20251004155900" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2025年世界赛艇锦标赛2</title>
+    <programme start="20251004154500" stop="20251004155900" channel="cctv16">
+        <title lang="zh">奥林匹克典藏-北京奥运会体操男子双杠决赛</title>
     </programme>
     <programme start="20251001162100" stop="20251001164800" channel="cctv17">
         <title lang="zh">共富经-2025-190</title>
