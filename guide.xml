@@ -1605,17 +1605,17 @@
     <programme start="20251004033000" stop="20251004040000" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme start="20251004040000" stop="20251004070000" channel="cctv5">
-        <title lang="zh">WTT大满贯中国站-女双决赛等</title>
+    <programme start="20251004040000" stop="20251004050000" channel="cctv5">
+        <title lang="zh">2025年世乒联大满贯赛(中国站)-女双决赛</title>
     </programme>
-    <programme start="20251004070000" stop="20251004090000" channel="cctv5">
-        <title lang="zh">2025年中国网球公开赛-女单半决赛</title>
+    <programme start="20251004050000" stop="20251004090000" channel="cctv5">
+        <title lang="zh">2025年中国网球公开赛-女双、女单半决赛</title>
     </programme>
     <programme start="20251004090000" stop="20251004120000" channel="cctv5">
-        <title lang="zh">WTT大满贯中国站-男双决赛等</title>
+        <title lang="zh">2025年世乒联大满贯赛(中国站)-男双决赛等</title>
     </programme>
     <programme start="20251004120000" stop="20251004130000" channel="cctv5">
-        <title lang="zh">体育新闻</title>
+        <title lang="zh">体育新闻-2025.10.4</title>
     </programme>
     <programme start="20251004130000" stop="20251004140000" channel="cctv5">
         <title lang="zh">2025年世界一级方程式锦标赛-新加坡大奖赛 排位赛</title>
@@ -1759,7 +1759,7 @@
         <title lang="zh">实况录像-2025年世界男排锦标赛 1/8决赛 2</title>
     </programme>
     <programme start="20251004050000" stop="20251004070500" channel="cctv5plus">
-        <title lang="zh">2025年中国网球公开赛-女双半决赛1</title>
+        <title lang="zh">2025年世乒联大满贯赛(中国站)-男单1/4决赛</title>
     </programme>
     <programme start="20251004070500" stop="20251004083300" channel="cctv5plus">
         <title lang="zh">2025/2026西班牙足球甲级联赛-第7轮（皇家贝蒂斯—奥萨苏纳）（4K）</title>
@@ -4401,11 +4401,17 @@
     <programme start="20251004083500" stop="20251004100000" channel="cctv16">
         <title lang="zh">2025/2026西班牙足球甲级联赛-第7轮（马德里竞技—皇家马德里）（4K）</title>
     </programme>
-    <programme start="20251004100000" stop="20251004140000" channel="cctv16">
-        <title lang="zh">2025年中国网球公开赛-女单、女双半决赛2</title>
+    <programme start="20251004100000" stop="20251004120000" channel="cctv16">
+        <title lang="zh">2025年中国网球公开赛-女单半决赛</title>
     </programme>
-    <programme start="20251004140000" stop="20251004141500" channel="cctv16">
+    <programme start="20251004120000" stop="20251004122000" channel="cctv16">
         <title lang="zh">艺术里的奥林匹克2025-57(4K)</title>
+    </programme>
+    <programme start="20251004122000" stop="20251004135000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2025年男篮亚洲杯 1/4决赛2（4K）</title>
+    </programme>
+    <programme start="20251004135000" stop="20251004141500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2025年世界田径锦标赛 25分钟版1（4K）</title>
     </programme>
     <programme start="20251004141500" stop="20251004154500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 乒乓球女团决赛（4K）</title>
