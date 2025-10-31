@@ -399,10 +399,10 @@
     <programme start="20251031140400" stop="20251031143600" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20251031143600" stop="20251031144600" channel="cctv1">
+    <programme start="20251031143600" stop="20251031144800" channel="cctv1">
         <title lang="zh">中华古树-绿色国宝（4K）</title>
     </programme>
-    <programme start="20251031144600" stop="20251031150000" channel="cctv1">
+    <programme start="20251031144800" stop="20251031150000" channel="cctv1">
         <title lang="zh">中华古树-黄帝手植柏（4K）</title>
     </programme>
     <programme start="20251031150000" stop="20251031155900" channel="cctv1">
@@ -1374,17 +1374,20 @@
     <programme start="20251031203000" stop="20251031210000" channel="cctv4">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme start="20251031210000" stop="20251031213000" channel="cctv4">
-        <title lang="zh">国家记忆-2025-157</title>
+    <programme start="20251031210000" stop="20251031211700" channel="cctv4">
+        <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20251031213000" stop="20251031220000" channel="cctv4">
-        <title lang="zh">鲁健访谈-2025-44</title>
+    <programme start="20251031211700" stop="20251031220000" channel="cctv4">
+        <title lang="zh">远方的家2025-78</title>
     </programme>
-    <programme start="20251031220000" stop="20251031223000" channel="cctv4">
-        <title lang="zh">海峡两岸-2025-304</title>
+    <programme start="20251031220000" stop="20251031221700" channel="cctv4">
+        <title lang="zh">中国新闻</title>
+    </programme>
+    <programme start="20251031221700" stop="20251031223000" channel="cctv4">
+        <title lang="zh">远方的家-传世古建-6</title>
     </programme>
     <programme start="20251031223000" stop="20251031230000" channel="cctv4">
-        <title lang="zh">今日亚洲</title>
+        <title lang="zh">海峡两岸-2025-304</title>
     </programme>
     <programme start="20251031230000" stop="20251031233000" channel="cctv4">
         <title lang="zh">中国新闻</title>
@@ -1395,16 +1398,31 @@
     <programme start="20251101000000" stop="20251101010000" channel="cctv4">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme start="20251101010000" stop="20251101012600" channel="cctv4">
-        <title lang="zh">今日亚洲</title>
+    <programme start="20251101010000" stop="20251101011700" channel="cctv4">
+        <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20251101012600" stop="20251101022600" channel="cctv4">
-        <title lang="zh">中国文艺-致敬经典2025-43</title>
+    <programme start="20251101011700" stop="20251101014300" channel="cctv4">
+        <title lang="zh">国宝发现-2025-29</title>
     </programme>
-    <programme start="20251101022600" stop="20251101032600" channel="cctv4">
-        <title lang="zh">环球综艺秀-2025-43</title>
+    <programme start="20251101014300" stop="20251101020000" channel="cctv4">
+        <title lang="zh">平凡匠心-2025-63</title>
     </programme>
-    <programme start="20251101032600" stop="20251101040000" channel="cctv4">
+    <programme start="20251101020000" stop="20251101022000" channel="cctv4">
+        <title lang="zh">中国新闻</title>
+    </programme>
+    <programme start="20251101022000" stop="20251101024600" channel="cctv4">
+        <title lang="zh">走遍中国-2025-130</title>
+    </programme>
+    <programme start="20251101024600" stop="20251101030000" channel="cctv4">
+        <title lang="zh">平凡匠心-2025-64</title>
+    </programme>
+    <programme start="20251101030000" stop="20251101031700" channel="cctv4">
+        <title lang="zh">中国新闻</title>
+    </programme>
+    <programme start="20251101031700" stop="20251101033000" channel="cctv4">
+        <title lang="zh">远方的家-传世古建-6</title>
+    </programme>
+    <programme start="20251101033000" stop="20251101040000" channel="cctv4">
         <title lang="zh">海峡两岸-2025-304</title>
     </programme>
     <programme start="20251101040000" stop="20251101050000" channel="cctv4">
@@ -4269,25 +4287,25 @@
     <programme start="20251101111500" stop="20251101130500" channel="cctv15">
         <title lang="zh">国风超有戏·寻风季-11</title>
     </programme>
-    <programme start="20251101130500" stop="20251101142500" channel="cctv15">
-        <title lang="zh">中国唱将-1</title>
+    <programme start="20251101130500" stop="20251101141900" channel="cctv15">
+        <title lang="zh">聆听时刻-《知音湖北·楚韵荆州——金秋先锋歌会》</title>
     </programme>
-    <programme start="20251101142500" stop="20251101145100" channel="cctv15">
+    <programme start="20251101141900" stop="20251101144500" channel="cctv15">
         <title lang="zh">音乐周刊-TOP音乐日志2025-36</title>
     </programme>
-    <programme start="20251101145100" stop="20251101154900" channel="cctv15">
+    <programme start="20251101144500" stop="20251101154300" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2025-163-《时代交响》系列音乐会（34）</title>
     </programme>
-    <programme start="20251101154900" stop="20251101155900" channel="cctv15">
+    <programme start="20251101154300" stop="20251101155900" channel="cctv15">
         <title lang="zh">风华国乐-2025-318</title>
     </programme>
-    <programme start="20251101162400" stop="20251101173500" channel="cctv15">
+    <programme start="20251101161800" stop="20251101172900" channel="cctv15">
         <title lang="zh">精彩音乐汇-我的爱对你说-2025-253</title>
     </programme>
-    <programme start="20251101173500" stop="20251101182200" channel="cctv15">
+    <programme start="20251101172900" stop="20251101181600" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2025-163-《时代交响》系列音乐会（34）</title>
     </programme>
-    <programme start="20251101182200" stop="20251101220000" channel="cctv15">
+    <programme start="20251101181600" stop="20251101220000" channel="cctv15">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20251101220000" stop="20251101230600" channel="cctv15">
