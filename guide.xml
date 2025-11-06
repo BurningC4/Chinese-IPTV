@@ -687,10 +687,10 @@
     <programme start="20251106063000" stop="20251106070000" channel="cctv2">
         <title lang="zh">消费主张</title>
     </programme>
-    <programme start="20251106070000" stop="20251106074500" channel="cctv2">
+    <programme start="20251106070000" stop="20251106073500" channel="cctv2">
         <title lang="zh">正点财经</title>
     </programme>
-    <programme start="20251106074500" stop="20251106090000" channel="cctv2">
+    <programme start="20251106073500" stop="20251106090000" channel="cctv2">
         <title lang="zh">2025世界互联网大会领先科技成果发布</title>
     </programme>
     <programme start="20251106090000" stop="20251106093200" channel="cctv2">
@@ -1657,13 +1657,13 @@
         <title lang="zh">第十五届全国运动会 公路自行车男子个人计时赛</title>
     </programme>
     <programme start="20251107030000" stop="20251107040000" channel="cctv5">
-        <title lang="zh">第十五届全国运动会 赛艇女子八人单浆等</title>
+        <title lang="zh">第十五届全国运动会 赛艇女子八人单桨等</title>
     </programme>
     <programme start="20251107040000" stop="20251107050000" channel="cctv5">
         <title lang="zh">体坛快讯</title>
     </programme>
     <programme start="20251107050000" stop="20251107060000" channel="cctv5">
-        <title lang="zh">第十五届全国运动会 跳水女子双人10米台决赛</title>
+        <title lang="zh">实况录像-第十五届全国运动会 跳水女子双人10米台决赛</title>
     </programme>
     <programme start="20251107060000" stop="20251107080000" channel="cctv5">
         <title lang="zh">第十五届全国运动会 拳击女子50、66公斤级1/4决赛</title>
@@ -1816,7 +1816,7 @@
         <title lang="zh">第十五届全国运动会 排球女子成年组小组赛：北京VS四川</title>
     </programme>
     <programme start="20251107070000" stop="20251107080000" channel="cctv5plus">
-        <title lang="zh">第十五届全国运动会 跳水女子双人1-米台决赛</title>
+        <title lang="zh">实况录像-第十五届全国运动会 跳水女子双人10米台决赛</title>
     </programme>
     <programme start="20251107080000" stop="20251107100000" channel="cctv5plus">
         <title lang="zh">第十五届全国运动会 篮球男子成年组小组赛：吉林VS北京</title>
@@ -4443,8 +4443,17 @@
     <programme start="20251107012500" stop="20251107025500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2025/2026赛季花样滑冰大奖赛 加拿大站1</title>
     </programme>
-    <programme start="20251107025500" stop="20251107130500" channel="cctv16">
+    <programme start="20251107025500" stop="20251107060000" channel="cctv16">
         <title lang="zh">第十五届全国运动会 沙滩排球男子1/4决赛</title>
+    </programme>
+    <programme start="20251107060000" stop="20251107100000" channel="cctv16">
+        <title lang="zh">第十五届全国运动会 羽毛球团体第一轮</title>
+    </programme>
+    <programme start="20251107100000" stop="20251107110000" channel="cctv16">
+        <title lang="zh">第十五届全国运动会 跳水男子双人3米板决赛</title>
+    </programme>
+    <programme start="20251107110000" stop="20251107130500" channel="cctv16">
+        <title lang="zh">第十五届全国运动会 排球女子成年组小组赛：河南VS天津</title>
     </programme>
     <programme start="20251107130500" stop="20251107143000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2025年WTT蒙彼利埃冠军赛 3</title>
