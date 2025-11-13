@@ -387,23 +387,20 @@
     <programme start="20251113110000" stop="20251113113900" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20251113113900" stop="20251113120100" channel="cctv1">
+    <programme start="20251113113900" stop="20251113120500" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20251113120100" stop="20251113120600" channel="cctv1">
+    <programme start="20251113120500" stop="20251113121000" channel="cctv1">
         <title lang="zh">前情提要-乌蒙深处-第3集</title>
     </programme>
-    <programme start="20251113120600" stop="20251113125600" channel="cctv1">
+    <programme start="20251113121000" stop="20251113130000" channel="cctv1">
         <title lang="zh">乌蒙深处第3集</title>
     </programme>
-    <programme start="20251113125600" stop="20251113130000" channel="cctv1">
+    <programme start="20251113130000" stop="20251113130400" channel="cctv1">
         <title lang="zh">前情提要-乌蒙深处-第4集</title>
     </programme>
-    <programme start="20251113130000" stop="20251113134900" channel="cctv1">
-        <title lang="zh">乌蒙深处4/28</title>
-    </programme>
-    <programme start="20251113134900" stop="20251113140000" channel="cctv1">
-        <title lang="zh">山水间的家-主题曲</title>
+    <programme start="20251113130400" stop="20251113140000" channel="cctv1">
+        <title lang="zh">乌蒙深处第4集</title>
     </programme>
     <programme start="20251113140000" stop="20251113143500" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -498,10 +495,10 @@
     <programme start="20251114110000" stop="20251114113900" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20251114113900" stop="20251114120600" channel="cctv1">
+    <programme start="20251114113900" stop="20251114120800" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20251114120600" stop="20251114134500" channel="cctv1">
+    <programme start="20251114120800" stop="20251114134500" channel="cctv1">
         <title lang="zh">专题节目-1</title>
     </programme>
     <programme start="20251114134500" stop="20251114140000" channel="cctv1">
@@ -1065,10 +1062,10 @@
     <programme start="20251114112200" stop="20251114113000" channel="cctv3">
         <title lang="zh">国家宝藏-周游季-54</title>
     </programme>
-    <programme start="20251114113000" stop="20251114143000" channel="cctv3">
+    <programme start="20251114113000" stop="20251114142900" channel="cctv3">
         <title lang="zh">中国唱将-4</title>
     </programme>
-    <programme start="20251114143000" stop="20251114150600" channel="cctv3">
+    <programme start="20251114142900" stop="20251114150600" channel="cctv3">
         <title lang="zh">慕名而来-2</title>
     </programme>
     <programme start="20251114150600" stop="20251114155200" channel="cctv3">
@@ -1686,8 +1683,14 @@
     <programme start="20251115133000" stop="20251115143500" channel="cctv5">
         <title lang="zh">体育世界-全景全运会</title>
     </programme>
-    <programme start="20251115143500" stop="20251115153500" channel="cctv5">
-        <title lang="zh">实况录像-2025/2026赛季速度滑冰世界杯 美国站（录播）1</title>
+    <programme start="20251115143500" stop="20251115145500" channel="cctv5">
+        <title lang="zh">2025年第十五届全运会转播报道-全运大湾区-2(4K)</title>
+    </programme>
+    <programme start="20251115145500" stop="20251115152000" channel="cctv5">
+        <title lang="zh">2025/2026法国足球甲级联赛-第11轮集锦</title>
+    </programme>
+    <programme start="20251115152000" stop="20251115153500" channel="cctv5">
+        <title lang="zh">实况录像-2025年世界体操锦标赛 男子双杠金牌邹敬园</title>
     </programme>
     <programme start="20251115153500" stop="20251115155900" channel="cctv5">
         <title lang="zh">实况录像-2025年世乒联冠军赛 法兰克福站 1</title>
@@ -1801,7 +1804,7 @@
         <title lang="zh">2025年ATP1000男子网球大师赛-总决赛 单打半决赛</title>
     </programme>
     <programme start="20251115153600" stop="20251115155900" channel="cctv5plus">
-        <title lang="zh">国际足球赛场-25-26英超联赛第11轮 水晶宫—布赖顿（4K）</title>
+        <title lang="zh">国际足球赛场-25-26赛季英超联赛第11轮 托特纳姆—曼联</title>
     </programme>
     <programme start="20251112161200" stop="20251112174200" channel="cctv6">
         <title lang="zh">喜剧明星</title>
@@ -2566,13 +2569,13 @@
         <title lang="zh">四喜16/36</title>
     </programme>
     <programme start="20251114132100" stop="20251114132600" channel="cctv8">
-        <title lang="zh">本集提要-隐锋-9/37</title>
+        <title lang="zh">本集提要-隐锋-第9集</title>
     </programme>
     <programme start="20251114132600" stop="20251114141600" channel="cctv8">
         <title lang="zh">隐锋9/37</title>
     </programme>
     <programme start="20251114141600" stop="20251114141800" channel="cctv8">
-        <title lang="zh">本集提要-隐锋-10/37</title>
+        <title lang="zh">本集提要-隐锋-第10集</title>
     </programme>
     <programme start="20251114141800" stop="20251114150700" channel="cctv8">
         <title lang="zh">隐锋10/37</title>
