@@ -369,32 +369,14 @@
     <programme start="20251114073000" stop="20251114092900" channel="cctv1">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20251114092900" stop="20251114093200" channel="cctv1">
+    <programme start="20251114092900" stop="20251114093000" channel="cctv1">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20251114093200" stop="20251114094000" channel="cctv1">
+    <programme start="20251114093000" stop="20251114093600" channel="cctv1">
+        <title lang="zh">非遗里的中国-MV</title>
+    </programme>
+    <programme start="20251114093600" stop="20251114094700" channel="cctv1">
         <title lang="zh">第一动画乐园-2025-379</title>
-    </programme>
-    <programme start="20251114094000" stop="20251114094100" channel="cctv1">
-        <title lang="zh">第一动画乐园-2025-408</title>
-    </programme>
-    <programme start="20251114094100" stop="20251114094200" channel="cctv1">
-        <title lang="zh">第一动画乐园-2025-409</title>
-    </programme>
-    <programme start="20251114094200" stop="20251114094300" channel="cctv1">
-        <title lang="zh">第一动画乐园-2025-410</title>
-    </programme>
-    <programme start="20251114094300" stop="20251114094400" channel="cctv1">
-        <title lang="zh">第一动画乐园-2025-411</title>
-    </programme>
-    <programme start="20251114094400" stop="20251114094500" channel="cctv1">
-        <title lang="zh">本草流芳（精品展播）-益母草</title>
-    </programme>
-    <programme start="20251114094500" stop="20251114094600" channel="cctv1">
-        <title lang="zh">中华古树-黄山迎客松（4K）</title>
-    </programme>
-    <programme start="20251114094600" stop="20251114094700" channel="cctv1">
-        <title lang="zh">中华古树-阳朔古榕树（4K）</title>
     </programme>
     <programme start="20251114094700" stop="20251114101900" channel="cctv1">
         <title lang="zh">国家荣光-2025-14</title>
@@ -1465,19 +1447,19 @@
         <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20251116050100" stop="20251116054700" channel="cctv4">
-        <title lang="zh">黄河在咆哮5/32</title>
+        <title lang="zh">黄河在咆哮4/32</title>
     </programme>
     <programme start="20251116054700" stop="20251116063300" channel="cctv4">
-        <title lang="zh">黄河在咆哮6/32</title>
+        <title lang="zh">黄河在咆哮5/32</title>
     </programme>
     <programme start="20251116063300" stop="20251116072000" channel="cctv4">
-        <title lang="zh">黄河在咆哮7/32</title>
+        <title lang="zh">黄河在咆哮6/32</title>
     </programme>
     <programme start="20251116072000" stop="20251116080600" channel="cctv4">
-        <title lang="zh">黄河在咆哮8/32</title>
+        <title lang="zh">黄河在咆哮7/32</title>
     </programme>
     <programme start="20251116080600" stop="20251116085500" channel="cctv4">
-        <title lang="zh">黄河在咆哮9/32</title>
+        <title lang="zh">黄河在咆哮8/32</title>
     </programme>
     <programme start="20251116085500" stop="20251116090000" channel="cctv4">
         <title lang="zh">国家公园精彩片段-9</title>
@@ -1617,8 +1599,11 @@
     <programme start="20251115100000" stop="20251115110000" channel="cctv5">
         <title lang="zh">体育新闻-全运进行时</title>
     </programme>
-    <programme start="20251115110000" stop="20251115133000" channel="cctv5">
+    <programme start="20251115110000" stop="20251115130500" channel="cctv5">
         <title lang="zh">第十五届全国运动会-游泳（女子100米自由泳决赛、男子100米蝶泳半决赛、女子200米仰泳半决赛、男子50米自由泳半决赛、男子200米蛙泳决赛、男子200米仰泳决赛、女子200米蛙泳决赛、女子50米蝶泳半决赛、男子4*200米自由泳接力决赛）</title>
+    </programme>
+    <programme start="20251115130500" stop="20251115133000" channel="cctv5">
+        <title lang="zh">第十五届全国运动会-乒乓球女单半决赛</title>
     </programme>
     <programme start="20251115133000" stop="20251115143500" channel="cctv5">
         <title lang="zh">体育世界-全景全运会</title>
@@ -1761,8 +1746,35 @@
     <programme start="20251114232800" stop="20251114235500" channel="cctv5plus">
         <title lang="zh">实况录像-2025/2026赛季短道速滑世界巡回赛 加拿大站25分钟版</title>
     </programme>
-    <programme start="20251114235500" stop="20251115140000" channel="cctv5plus">
-        <title lang="zh">第十五届全国运动会-赛事直播10</title>
+    <programme start="20251114235500" stop="20251115020000" channel="cctv5plus">
+        <title lang="zh">第十五届全国运动会-铁人三项女子个人</title>
+    </programme>
+    <programme start="20251115020000" stop="20251115030000" channel="cctv5plus">
+        <title lang="zh">实况录像-第十五届全国运动会花样游泳集体技巧自选</title>
+    </programme>
+    <programme start="20251115030000" stop="20251115040000" channel="cctv5plus">
+        <title lang="zh">第十五届全国运动会-花样游泳双人技术自选</title>
+    </programme>
+    <programme start="20251115040000" stop="20251115050000" channel="cctv5plus">
+        <title lang="zh">第十五届全国运动会-7人制橄榄球男子、女子决赛</title>
+    </programme>
+    <programme start="20251115050000" stop="20251115070000" channel="cctv5plus">
+        <title lang="zh">第十五届全国运动会-排球女子成人组小组赛：天津-江苏</title>
+    </programme>
+    <programme start="20251115070000" stop="20251115080000" channel="cctv5plus">
+        <title lang="zh">实况录像-第十五届全国运动会举重女子87公斤以上级</title>
+    </programme>
+    <programme start="20251115080000" stop="20251115093000" channel="cctv5plus">
+        <title lang="zh">实况录像-第十五届全国运动会游泳决赛</title>
+    </programme>
+    <programme start="20251115093000" stop="20251115113000" channel="cctv5plus">
+        <title lang="zh">第十五届全国运动会-击剑女子重剑个人半决赛、铜牌赛、决赛、男子佩剑个人半决赛、铜牌赛、决赛</title>
+    </programme>
+    <programme start="20251115113000" stop="20251115133000" channel="cctv5plus">
+        <title lang="zh">第十五届全国运动会-女篮决赛</title>
+    </programme>
+    <programme start="20251115133000" stop="20251115140000" channel="cctv5plus">
+        <title lang="zh">延播：第十五届全国运动会-花样游泳双人自由自选</title>
     </programme>
     <programme start="20251115140000" stop="20251115153600" channel="cctv5plus">
         <title lang="zh">2025年ATP1000男子网球大师赛-总决赛 单打半决赛</title>
@@ -4338,8 +4350,29 @@
     <programme start="20251115003000" stop="20251115020000" channel="cctv16">
         <title lang="zh">国际足球赛场-25-26赛季法甲联赛第12轮  里昂—巴黎圣日耳曼</title>
     </programme>
-    <programme start="20251115020000" stop="20251115133500" channel="cctv16">
-        <title lang="zh">第十五届全国运动会-赛事报道 9</title>
+    <programme start="20251115020000" stop="20251115033000" channel="cctv16">
+        <title lang="zh">第十五届全国运动会-游泳预赛</title>
+    </programme>
+    <programme start="20251115033000" stop="20251115043000" channel="cctv16">
+        <title lang="zh">实况录像-第十五届全国运动会举重女子87公斤以上级</title>
+    </programme>
+    <programme start="20251115043000" stop="20251115070000" channel="cctv16">
+        <title lang="zh">实况录像-第十五届全国运动会羽毛球女团决赛</title>
+    </programme>
+    <programme start="20251115070000" stop="20251115080000" channel="cctv16">
+        <title lang="zh">第十五届全国运动会-飞碟混合团体铜牌赛、决赛</title>
+    </programme>
+    <programme start="20251115080000" stop="20251115094000" channel="cctv16">
+        <title lang="zh">第十五届全国运动会-攀岩男子攀石决赛</title>
+    </programme>
+    <programme start="20251115094000" stop="20251115103000" channel="cctv16">
+        <title lang="zh">实况录像-第十五届全国运动会曲棍球女子决赛</title>
+    </programme>
+    <programme start="20251115103000" stop="20251115130000" channel="cctv16">
+        <title lang="zh">第十五届全国运动会-体操女子个人全能决赛</title>
+    </programme>
+    <programme start="20251115130000" stop="20251115133500" channel="cctv16">
+        <title lang="zh">实况录像-第十五届全国运动会三人篮球女子决赛</title>
     </programme>
     <programme start="20251115133500" stop="20251115150000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2025/2026赛季欧洲篮球联赛 第11轮 皇家马德里—帕纳辛纳科斯</title>
