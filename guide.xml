@@ -480,11 +480,14 @@
     <programme start="20251122113800" stop="20251122120400" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20251122120400" stop="20251122134000" channel="cctv1">
+    <programme start="20251122120400" stop="20251122134100" channel="cctv1">
         <title lang="zh">宗师列传·大宋词人传-陆游</title>
     </programme>
-    <programme start="20251122134000" stop="20251122140000" channel="cctv1">
+    <programme start="20251122134100" stop="20251122134700" channel="cctv1">
         <title lang="zh">山水间的家-主题曲</title>
+    </programme>
+    <programme start="20251122134700" stop="20251122140000" channel="cctv1">
+        <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20251122140000" stop="20251122143500" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -1317,11 +1320,14 @@
     <programme start="20251122100000" stop="20251122110000" channel="cctv4">
         <title lang="zh">中国文艺-致敬经典2025-47</title>
     </programme>
-    <programme start="20251122110000" stop="20251122113400" channel="cctv4">
+    <programme start="20251122110000" stop="20251122113000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20251122113400" stop="20251122123000" channel="cctv4">
-        <title lang="zh">目的地：中国！-4</title>
+    <programme start="20251122113000" stop="20251122120000" channel="cctv4">
+        <title lang="zh">今日亚洲</title>
+    </programme>
+    <programme start="20251122120000" stop="20251122123000" channel="cctv4">
+        <title lang="zh">深度国际-2025年11月-4</title>
     </programme>
     <programme start="20251122123000" stop="20251122130000" channel="cctv4">
         <title lang="zh">海峡两岸-2025-326</title>
@@ -1333,7 +1339,7 @@
         <title lang="zh">今日关注</title>
     </programme>
     <programme start="20251122140000" stop="20251122143000" channel="cctv4">
-        <title lang="zh">深度国际-2025年11月-4</title>
+        <title lang="zh">走遍中国-2025-227</title>
     </programme>
     <programme start="20251122143000" stop="20251122150200" channel="cctv4">
         <title lang="zh">新闻联播</title>
