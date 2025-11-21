@@ -573,20 +573,23 @@
     <programme start="20251123113800" stop="20251123120300" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20251123120300" stop="20251123134600" channel="cctv1">
+    <programme start="20251123120300" stop="20251123134200" channel="cctv1">
         <title lang="zh">中华考工记-6</title>
     </programme>
-    <programme start="20251123134600" stop="20251123140000" channel="cctv1">
+    <programme start="20251123134200" stop="20251123134800" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
+    </programme>
+    <programme start="20251123134800" stop="20251123140000" channel="cctv1">
+        <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
     <programme start="20251123140000" stop="20251123143500" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20251123143500" stop="20251123150400" channel="cctv1">
-        <title lang="zh">百年守护-10</title>
+    <programme start="20251123143500" stop="20251123150900" channel="cctv1">
+        <title lang="zh">国家荣光-2025-8</title>
     </programme>
-    <programme start="20251123150400" stop="20251123155900" channel="cctv1">
-        <title lang="zh">山水间的家（第四季）-9</title>
+    <programme start="20251123150900" stop="20251123155900" channel="cctv1">
+        <title lang="zh">中华考工记-6</title>
     </programme>
     <programme start="20251120162100" stop="20251120170600" channel="cctv2">
         <title lang="zh">中国经济大讲堂-2025-45</title>
@@ -1084,7 +1087,7 @@
         <title lang="zh">综艺喜乐汇-2025-1305  紧急公关31/38</title>
     </programme>
     <programme start="20251123153600" stop="20251123153700" channel="cctv3">
-        <title lang="zh">劲舞开跳吧！-1</title>
+        <title lang="zh">艺熠生辉-1</title>
     </programme>
     <programme start="20251123153700" stop="20251123155900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2025-1306  紧急公关32/38</title>
@@ -2521,13 +2524,13 @@
         <title lang="zh">本集提要-隐锋-第24集</title>
     </programme>
     <programme start="20251122132700" stop="20251122141500" channel="cctv8">
-        <title lang="zh">隐锋24/37</title>
+        <title lang="zh">隐锋第24集</title>
     </programme>
     <programme start="20251122141500" stop="20251122141700" channel="cctv8">
         <title lang="zh">本集提要-隐锋-第25集</title>
     </programme>
     <programme start="20251122141700" stop="20251122150700" channel="cctv8">
-        <title lang="zh">隐锋25/37</title>
+        <title lang="zh">隐锋第25集</title>
     </programme>
     <programme start="20251122150700" stop="20251122155300" channel="cctv8">
         <title lang="zh">高兴的酸甜苦辣第3集</title>
@@ -4345,7 +4348,7 @@
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 男子曲棍球决赛 荷兰队-德国队</title>
     </programme>
     <programme start="20251121230000" stop="20251122003000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2025/2026赛季花样滑冰大奖赛 中国站 男单自由滑</title>
+        <title lang="zh">实况录像（奥林匹克）-2025年世乒联冠军赛 蒙彼利埃站1（4K）</title>
     </programme>
     <programme start="20251122003000" stop="20251122020000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2025年ATP1000男子网球大师赛 巴黎站 决赛</title>
@@ -4354,13 +4357,13 @@
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 乒乓球 陈梦比赛</title>
     </programme>
     <programme start="20251122030000" stop="20251122040000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2025年世界蹦床锦标赛2</title>
+        <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 跳水男子10米台决赛（4K）</title>
     </programme>
     <programme start="20251122040000" stop="20251122042000" channel="cctv16">
         <title lang="zh">艺术里的奥林匹克2025-65</title>
     </programme>
     <programme start="20251122042000" stop="20251122055000" channel="cctv16">
-        <title lang="zh">2025/2026赛季花样滑冰大奖赛（美国站）-2</title>
+        <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 足球男子20岁以下组决赛（4K）</title>
     </programme>
     <programme start="20251122055000" stop="20251122062000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 射击比赛2</title>
@@ -4378,7 +4381,7 @@
         <title lang="zh">2025年ATP1000男子网球大师赛总决赛-单打半决赛</title>
     </programme>
     <programme start="20251122093500" stop="20251122103000" channel="cctv16">
-        <title lang="zh">奥林匹克典藏-2022年北京冬奥会 速度滑冰男子500米</title>
+        <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 水球男子金牌赛（4K）</title>
     </programme>
     <programme start="20251122103000" stop="20251122120000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 篮球男子决赛</title>
@@ -4390,13 +4393,13 @@
         <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 游泳比赛1</title>
     </programme>
     <programme start="20251122132000" stop="20251122135000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2025年世界体操锦标赛 单项决赛3</title>
+        <title lang="zh">实况录像（奥林匹克）-2025年世界跆拳道锦标赛1（4K）</title>
     </programme>
     <programme start="20251122135000" stop="20251122142000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 自由式小轮车女子决赛</title>
     </programme>
     <programme start="20251122142000" stop="20251122151500" channel="cctv16">
-        <title lang="zh">奥林匹克典藏-东京奥运会举重男子73公斤级决赛</title>
+        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 七人制橄榄球 男子铜牌赛、决赛（4K）</title>
     </programme>
     <programme start="20251122151500" stop="20251122155900" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 拳击比赛1</title>
@@ -4408,7 +4411,7 @@
         <title lang="zh">实况录像（奥林匹克）-2025年世乒联冠军赛 蒙彼利埃站3</title>
     </programme>
     <programme start="20251122190500" stop="20251122200000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 男女滑板街式决赛</title>
+        <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 女子手球 金牌决赛（4K）</title>
     </programme>
     <programme start="20251122200000" stop="20251122213000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2025年男篮亚洲杯 半决赛2</title>
@@ -4420,7 +4423,7 @@
         <title lang="zh">艺术里的奥林匹克2025-62</title>
     </programme>
     <programme start="20251122222000" stop="20251122235000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2025/2026赛季花样滑冰大奖赛 中国站 女单自由滑</title>
+        <title lang="zh">2025/2026西班牙足球甲级联赛-第12轮（巴列卡诺—皇家马德里）（4K）</title>
     </programme>
     <programme start="20251122235000" stop="20251123004500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 七人制橄榄球 男子铜牌赛、决赛</title>
@@ -4441,7 +4444,7 @@
         <title lang="zh">2025年ATP1000男子网球大师赛总决赛-单打决赛</title>
     </programme>
     <programme start="20251123054500" stop="20251123061500" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 女子霹雳舞比赛</title>
+        <title lang="zh">实况录像（奥林匹克）-2025年世界跆拳道锦标赛2（4K）</title>
     </programme>
     <programme start="20251123061500" stop="20251123071500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 游泳比赛1</title>
