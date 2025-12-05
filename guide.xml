@@ -1425,11 +1425,14 @@
     <programme start="20251206200000" stop="20251206203000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20251206203000" stop="20251206210000" channel="cctv4">
+    <programme start="20251206203000" stop="20251206210400" channel="cctv4">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme start="20251206210000" stop="20251206220000" channel="cctv4">
-        <title lang="zh">中国文艺-致敬经典2025-49</title>
+    <programme start="20251206210400" stop="20251206213200" channel="cctv4">
+        <title lang="zh">走遍中国-2025-192</title>
+    </programme>
+    <programme start="20251206213200" stop="20251206220000" channel="cctv4">
+        <title lang="zh">走遍中国-2025-193</title>
     </programme>
     <programme start="20251206220000" stop="20251206223000" channel="cctv4">
         <title lang="zh">走遍中国-2025-194</title>
