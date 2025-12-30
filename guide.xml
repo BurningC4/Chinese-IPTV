@@ -3333,10 +3333,10 @@
     <programme start="20260101105400" stop="20260101115200" channel="cctv10">
         <title lang="zh">味道-2026-1（精编）</title>
     </programme>
-    <programme start="20260101115200" stop="20260101125100" channel="cctv10">
+    <programme start="20260101115200" stop="20260101125200" channel="cctv10">
         <title lang="zh">自然传奇-2026-1</title>
     </programme>
-    <programme start="20260101125100" stop="20260101134000" channel="cctv10">
+    <programme start="20260101125200" stop="20260101134000" channel="cctv10">
         <title lang="zh">探索·发现-2026-1</title>
     </programme>
     <programme start="20260101134000" stop="20260101140800" channel="cctv10">
@@ -4602,14 +4602,17 @@
     <programme start="20251231234500" stop="20260101004500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2025/2026赛季短道速滑世界巡回赛 荷兰站2</title>
     </programme>
-    <programme start="20260101004500" stop="20260101013500" channel="cctv16">
+    <programme start="20260101004500" stop="20260101013000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 艺术体操集体全能决赛</title>
     </programme>
-    <programme start="20260101013500" stop="20260101015000" channel="cctv16">
-        <title lang="zh">赛事集锦（奥林匹克）-荣耀十分 自由式滑雪世界杯卢卡站空中技巧 徐梦桃陈梅婷获金铜牌</title>
+    <programme start="20260101013000" stop="20260101014000" channel="cctv16">
+        <title lang="zh">赛事集锦（奥林匹克）-荣耀十分 自由式滑雪世界杯卢卡站空中技巧 徐梦桃陈梅婷获金铜牌（4K）</title>
     </programme>
-    <programme start="20260101015000" stop="20260101040000" channel="cctv16">
+    <programme start="20260101014000" stop="20260101035000" channel="cctv16">
         <title lang="zh">2025/2026赛季全国短道速滑锦标赛-女子、男子500米预赛等</title>
+    </programme>
+    <programme start="20260101035000" stop="20260101040000" channel="cctv16">
+        <title lang="zh">赛事集锦（奥林匹克）-全运名将录1（4K）</title>
     </programme>
     <programme start="20260101040000" stop="20260101042000" channel="cctv16">
         <title lang="zh">艺术里的奥林匹克2025-48</title>
