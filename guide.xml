@@ -1662,11 +1662,11 @@
     <programme start="20260105100000" stop="20260105103000" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20260105103000" stop="20260105113000" channel="cctv5">
+    <programme start="20260105103000" stop="20260105120500" channel="cctv5">
         <title lang="zh">天下足球</title>
     </programme>
-    <programme start="20260105113000" stop="20260105134500" channel="cctv5">
-        <title lang="zh">2025/2026赛季中国男子篮球职业联赛常规赛- 第11轮（上海久事 - 浙江方兴渡）</title>
+    <programme start="20260105120500" stop="20260105134500" channel="cctv5">
+        <title lang="zh">2025CMG体坛荣耀之夜-1</title>
     </programme>
     <programme start="20260105134500" stop="20260105145000" channel="cctv5">
         <title lang="zh">体育世界</title>
@@ -2878,7 +2878,7 @@
         <title lang="zh">活力·源2026-4</title>
     </programme>
     <programme start="20260105003100" stop="20260105012700" channel="cctvjilu">
-        <title lang="zh">特别呈现2025-4</title>
+        <title lang="zh">特别呈现2026-4</title>
     </programme>
     <programme start="20260105012700" stop="20260105022600" channel="cctvjilu">
         <title lang="zh">全景自然2026-4</title>
@@ -2890,7 +2890,7 @@
         <title lang="zh">寰宇视野2026-4</title>
     </programme>
     <programme start="20260105042700" stop="20260105053100" channel="cctvjilu">
-        <title lang="zh">特别呈现2025-4</title>
+        <title lang="zh">特别呈现2026-4</title>
     </programme>
     <programme start="20260105053100" stop="20260105063000" channel="cctvjilu">
         <title lang="zh">全景自然2026-4</title>
@@ -2914,7 +2914,7 @@
         <title lang="zh">活力·源2026-5</title>
     </programme>
     <programme start="20260105120000" stop="20260105130000" channel="cctvjilu">
-        <title lang="zh">特别呈现2025-5</title>
+        <title lang="zh">特别呈现2026-5</title>
     </programme>
     <programme start="20260105130000" stop="20260105140400" channel="cctvjilu">
         <title lang="zh">寰宇视野2026-5</title>
@@ -2938,7 +2938,7 @@
         <title lang="zh">活力·源2026-5</title>
     </programme>
     <programme start="20260105185300" stop="20260105195400" channel="cctvjilu">
-        <title lang="zh">特别呈现2025-5</title>
+        <title lang="zh">特别呈现2026-5</title>
     </programme>
     <programme start="20260105195400" stop="20260105201100" channel="cctvjilu">
         <title lang="zh">9视频2026-5</title>
@@ -2962,7 +2962,7 @@
         <title lang="zh">活力·源2026-5</title>
     </programme>
     <programme start="20260106003100" stop="20260106012700" channel="cctvjilu">
-        <title lang="zh">特别呈现2025-5</title>
+        <title lang="zh">特别呈现2026-5</title>
     </programme>
     <programme start="20260106012700" stop="20260106022600" channel="cctvjilu">
         <title lang="zh">全景自然2026-5</title>
@@ -2974,7 +2974,7 @@
         <title lang="zh">寰宇视野2026-5</title>
     </programme>
     <programme start="20260106042700" stop="20260106053100" channel="cctvjilu">
-        <title lang="zh">特别呈现2025-5</title>
+        <title lang="zh">特别呈现2026-5</title>
     </programme>
     <programme start="20260106053100" stop="20260106063000" channel="cctvjilu">
         <title lang="zh">全景自然2026-5</title>
@@ -2998,7 +2998,7 @@
         <title lang="zh">活力·源2026-6</title>
     </programme>
     <programme start="20260106120000" stop="20260106130000" channel="cctvjilu">
-        <title lang="zh">特别呈现2025-6</title>
+        <title lang="zh">特别呈现2026-6</title>
     </programme>
     <programme start="20260106130000" stop="20260106140400" channel="cctvjilu">
         <title lang="zh">寰宇视野2026-6</title>
@@ -11394,8 +11394,164 @@
     <programme start="20260104180500" stop="20260104185500" channel="xiamen">
         <title lang="zh">斗阵来看戏（重）</title>
     </programme>
-    <programme start="20260104185500" stop="20260105155900" channel="xiamen">
+    <programme start="20260104185500" stop="20260104220000" channel="xiamen">
         <title lang="zh">姐妹姐妹（闽）32-33</title>
+    </programme>
+    <programme start="20260104220000" stop="20260104230000" channel="xiamen">
+        <title lang="zh">斗阵来看戏（重）</title>
+    </programme>
+    <programme start="20260104230000" stop="20260104230500" channel="xiamen">
+        <title lang="zh">国歌</title>
+    </programme>
+    <programme start="20260104230500" stop="20260104233500" channel="xiamen">
+        <title lang="zh">两岸新新闻（重）</title>
+    </programme>
+    <programme start="20260104233500" stop="20260105001000" channel="xiamen">
+        <title lang="zh">闽南通（重）</title>
+    </programme>
+    <programme start="20260105001000" stop="20260105004000" channel="xiamen">
+        <title lang="zh">玲听两岸（重）</title>
+    </programme>
+    <programme start="20260105004000" stop="20260105012000" channel="xiamen">
+        <title lang="zh">印象中国（闽）</title>
+    </programme>
+    <programme start="20260105012000" stop="20260105040000" channel="xiamen">
+        <title lang="zh">百万新娘之爱无悔（闽）14-16</title>
+    </programme>
+    <programme start="20260105040000" stop="20260105050000" channel="xiamen">
+        <title lang="zh">斗阵来看戏（首）</title>
+    </programme>
+    <programme start="20260105050000" stop="20260105054000" channel="xiamen">
+        <title lang="zh">斗阵来讲古（首）</title>
+    </programme>
+    <programme start="20260105054000" stop="20260105072500" channel="xiamen">
+        <title lang="zh">镖门（闽）23-24</title>
+    </programme>
+    <programme start="20260105072500" stop="20260105091500" channel="xiamen">
+        <title lang="zh">兄弟营 21-22</title>
+    </programme>
+    <programme start="20260105091500" stop="20260105093000" channel="xiamen">
+        <title lang="zh">国宝时刻 36；缤纷生灵 5</title>
+    </programme>
+    <programme start="20260105093000" stop="20260105100000" channel="xiamen">
+        <title lang="zh">小海豚（首）</title>
+    </programme>
+    <programme start="20260105100000" stop="20260105103000" channel="xiamen">
+        <title lang="zh">新闻斗阵讲（首）</title>
+    </programme>
+    <programme start="20260105103000" stop="20260105110000" channel="xiamen">
+        <title lang="zh">厦视新闻</title>
+    </programme>
+    <programme start="20260105110000" stop="20260105113000" channel="xiamen">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20260105113000" stop="20260105131500" channel="xiamen">
+        <title lang="zh">双刺 16-17</title>
+    </programme>
+    <programme start="20260105131500" stop="20260105133000" channel="xiamen">
+        <title lang="zh">国宝时刻  36；缤纷生灵 5</title>
+    </programme>
+    <programme start="20260105133000" stop="20260105140000" channel="xiamen">
+        <title lang="zh">两岸新新闻（首）</title>
+    </programme>
+    <programme start="20260105140000" stop="20260105143500" channel="xiamen">
+        <title lang="zh">两岸直航（首）</title>
+    </programme>
+    <programme start="20260105143500" stop="20260105151500" channel="xiamen">
+        <title lang="zh">两岸秘档</title>
+    </programme>
+    <programme start="20260105151500" stop="20260105155900" channel="xiamen">
+        <title lang="zh">鹿鼎记（闽）4-5</title>
+    </programme>
+    <programme start="20260105170000" stop="20260105173000" channel="xiamen">
+        <title lang="zh">印象中国（闽）</title>
+    </programme>
+    <programme start="20260105173000" stop="20260105175500" channel="xiamen">
+        <title lang="zh">新闻斗阵讲（重）</title>
+    </programme>
+    <programme start="20260105175500" stop="20260105182500" channel="xiamen">
+        <title lang="zh">斗阵来讲古（重）</title>
+    </programme>
+    <programme start="20260105182500" stop="20260105191500" channel="xiamen">
+        <title lang="zh">斗阵来看戏（重）</title>
+    </programme>
+    <programme start="20260105191500" stop="20260105204500" channel="xiamen">
+        <title lang="zh">姐妹姐妹（闽）34-35</title>
+    </programme>
+    <programme start="20260105204500" stop="20260105211500" channel="xiamen">
+        <title lang="zh">印象中国（闽）</title>
+    </programme>
+    <programme start="20260105211500" stop="20260105214500" channel="xiamen">
+        <title lang="zh">斗阵来讲古（重）</title>
+    </programme>
+    <programme start="20260105214500" stop="20260105220000" channel="xiamen">
+        <title lang="zh">新闻斗阵讲（重）</title>
+    </programme>
+    <programme start="20260105220000" stop="20260105230000" channel="xiamen">
+        <title lang="zh">斗阵来看戏（重）</title>
+    </programme>
+    <programme start="20260105230000" stop="20260105230500" channel="xiamen">
+        <title lang="zh">国歌</title>
+    </programme>
+    <programme start="20260105230500" stop="20260105233500" channel="xiamen">
+        <title lang="zh">两岸新新闻（重）</title>
+    </programme>
+    <programme start="20260105233500" stop="20260106001000" channel="xiamen">
+        <title lang="zh">两岸直航（重）</title>
+    </programme>
+    <programme start="20260106001000" stop="20260106004000" channel="xiamen">
+        <title lang="zh">新闻斗阵讲（重）</title>
+    </programme>
+    <programme start="20260106004000" stop="20260106012000" channel="xiamen">
+        <title lang="zh">斗阵来讲古（首）</title>
+    </programme>
+    <programme start="20260106012000" stop="20260106040000" channel="xiamen">
+        <title lang="zh">百万新娘之爱无悔（闽）17-19</title>
+    </programme>
+    <programme start="20260106040000" stop="20260106050000" channel="xiamen">
+        <title lang="zh">斗阵来看戏（首）</title>
+    </programme>
+    <programme start="20260106050000" stop="20260106054000" channel="xiamen">
+        <title lang="zh">斗阵来讲古（首）</title>
+    </programme>
+    <programme start="20260106054000" stop="20260106072500" channel="xiamen">
+        <title lang="zh">镖门（闽）25-26</title>
+    </programme>
+    <programme start="20260106072500" stop="20260106091500" channel="xiamen">
+        <title lang="zh">兄弟营 23-24</title>
+    </programme>
+    <programme start="20260106091500" stop="20260106093000" channel="xiamen">
+        <title lang="zh">国宝时刻 37；海上生明月――丝路华人故事 1</title>
+    </programme>
+    <programme start="20260106093000" stop="20260106100000" channel="xiamen">
+        <title lang="zh">小海豚（首）</title>
+    </programme>
+    <programme start="20260106100000" stop="20260106103000" channel="xiamen">
+        <title lang="zh">新闻斗阵讲（首）</title>
+    </programme>
+    <programme start="20260106103000" stop="20260106110000" channel="xiamen">
+        <title lang="zh">厦视新闻</title>
+    </programme>
+    <programme start="20260106110000" stop="20260106113000" channel="xiamen">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20260106113000" stop="20260106131500" channel="xiamen">
+        <title lang="zh">双刺 18-19</title>
+    </programme>
+    <programme start="20260106131500" stop="20260106133000" channel="xiamen">
+        <title lang="zh">国宝时刻 37；海上生明月――丝路华人故事 1</title>
+    </programme>
+    <programme start="20260106133000" stop="20260106140000" channel="xiamen">
+        <title lang="zh">两岸新新闻（首）</title>
+    </programme>
+    <programme start="20260106140000" stop="20260106143500" channel="xiamen">
+        <title lang="zh">两岸直航（首）</title>
+    </programme>
+    <programme start="20260106143500" stop="20260106151500" channel="xiamen">
+        <title lang="zh">两岸秘档</title>
+    </programme>
+    <programme start="20260106151500" stop="20260106155900" channel="xiamen">
+        <title lang="zh">鹿鼎记（闽）6-7</title>
     </programme>
     <programme start="20260103194000" stop="20260103202900" channel="xinjiang">
         <title lang="zh">好大一个家</title>
