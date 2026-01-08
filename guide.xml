@@ -504,8 +504,11 @@
     <programme start="20260109113900" stop="20260109120600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260109120600" stop="20260109140000" channel="cctv1">
+    <programme start="20260109120600" stop="20260109134300" channel="cctv1">
         <title lang="zh">宗师列传·大宋词人传-辛弃疾上</title>
+    </programme>
+    <programme start="20260109134300" stop="20260109140000" channel="cctv1">
+        <title lang="zh">中华古树-明清石榴园古树群（4K）</title>
     </programme>
     <programme start="20260109140000" stop="20260109143500" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -1026,16 +1029,19 @@
     <programme start="20260108192100" stop="20260108210100" channel="cctv3">
         <title lang="zh">和美之夜2025-播出版</title>
     </programme>
-    <programme start="20260108210100" stop="20260108220100" channel="cctv3">
-        <title lang="zh">综艺盛典-2025-18选对健康18</title>
+    <programme start="20260108210100" stop="20260108210100" channel="cctv3">
+        <title lang="zh">精彩艺瞬间-29</title>
     </programme>
-    <programme start="20260108220100" stop="20260108231900" channel="cctv3">
+    <programme start="20260108210100" stop="20260108215600" channel="cctv3">
+        <title lang="zh">中国乡村音乐大会-月满乡音篇</title>
+    </programme>
+    <programme start="20260108215600" stop="20260108231400" channel="cctv3">
         <title lang="zh">向幸福出发-2025-14</title>
     </programme>
-    <programme start="20260108231900" stop="20260108234100" channel="cctv3">
+    <programme start="20260108231400" stop="20260108233600" channel="cctv3">
         <title lang="zh">文化十分-2026-6</title>
     </programme>
-    <programme start="20260108234100" stop="20260109001100" channel="cctv3">
+    <programme start="20260108233600" stop="20260109001100" channel="cctv3">
         <title lang="zh">艺熠生辉-7</title>
     </programme>
     <programme start="20260109001100" stop="20260109011900" channel="cctv3">
@@ -1071,23 +1077,14 @@
     <programme start="20260109112300" stop="20260109113000" channel="cctv3">
         <title lang="zh">国家宝藏-周游季-110</title>
     </programme>
-    <programme start="20260109113000" stop="20260109134000" channel="cctv3">
+    <programme start="20260109113000" stop="20260109142300" channel="cctv3">
         <title lang="zh">中国唱将-10</title>
     </programme>
-    <programme start="20260109134000" stop="20260109144300" channel="cctv3">
-        <title lang="zh">中国唱将-10</title>
-    </programme>
-    <programme start="20260109144300" stop="20260109151800" channel="cctv3">
-        <title lang="zh">慕名而来-6</title>
+    <programme start="20260109142300" stop="20260109151800" channel="cctv3">
+        <title lang="zh">绽放吧！妈妈-55</title>
     </programme>
     <programme start="20260109151800" stop="20260109155900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2025-228 小满生活29/38</title>
-    </programme>
-    <programme start="20260109160400" stop="20260109160400" channel="cctv3">
-        <title lang="zh">启航2026——中央广播电视总台跨年晚会-纯享版 上</title>
-    </programme>
-    <programme start="20260109160400" stop="20260109160500" channel="cctv3">
-        <title lang="zh">启航2026——中央广播电视总台跨年晚会-纯享版 下</title>
     </programme>
     <programme start="20260109160500" stop="20260109165100" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2025-229 小满生活30/38</title>
@@ -4335,11 +4332,11 @@
     <programme start="20260109101400" stop="20260109113000" channel="cctv15">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-9</title>
     </programme>
-    <programme start="20260109113000" stop="20260109133200" channel="cctv15">
-        <title lang="zh">金声玉振——中国器乐大会-第五期</title>
-    </programme>
-    <programme start="20260109133200" stop="20260109145800" channel="cctv15">
+    <programme start="20260109113000" stop="20260109125700" channel="cctv15">
         <title lang="zh">唱享中国——智造美好品质 通达幸福生活-精编版</title>
+    </programme>
+    <programme start="20260109125700" stop="20260109145800" channel="cctv15">
+        <title lang="zh">金声玉振——中国器乐大会-第五期</title>
     </programme>
     <programme start="20260109145800" stop="20260109150600" channel="cctv15">
         <title lang="zh">中国节拍-品味古典48</title>
