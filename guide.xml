@@ -921,25 +921,25 @@
     <programme start="20260215015400" stop="20260215032700" channel="cctv3">
         <title lang="zh">越战越勇-2025-42</title>
     </programme>
-    <programme start="20260215032700" stop="20260215045500" channel="cctv3">
+    <programme start="20260215032700" stop="20260215050200" channel="cctv3">
         <title lang="zh">2026年开门迎春晚-10</title>
     </programme>
-    <programme start="20260215045500" stop="20260215050500" channel="cctv3">
+    <programme start="20260215050200" stop="20260215051000" channel="cctv3">
         <title lang="zh">国家宝藏-周游季-149</title>
     </programme>
-    <programme start="20260215050500" stop="20260215070900" channel="cctv3">
+    <programme start="20260215051000" stop="20260215071400" channel="cctv3">
         <title lang="zh">笑有新生-5</title>
     </programme>
-    <programme start="20260215070900" stop="20260215084300" channel="cctv3">
+    <programme start="20260215071400" stop="20260215084800" channel="cctv3">
         <title lang="zh">越战越勇-2026-6</title>
     </programme>
-    <programme start="20260215084300" stop="20260215094800" channel="cctv3">
+    <programme start="20260215084800" stop="20260215095200" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2025-1098</title>
     </programme>
-    <programme start="20260215094800" stop="20260215111900" channel="cctv3">
+    <programme start="20260215095200" stop="20260215112300" channel="cctv3">
         <title lang="zh">开门大吉-2025-37</title>
     </programme>
-    <programme start="20260215111900" stop="20260215113000" channel="cctv3">
+    <programme start="20260215112300" stop="20260215113000" channel="cctv3">
         <title lang="zh">国家宝藏-周游季-150</title>
     </programme>
     <programme start="20260215113000" stop="20260215143500" channel="cctv3">
@@ -1710,8 +1710,23 @@
     <programme start="20260216073000" stop="20260216080000" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 男子钢架雪车（4K）</title>
     </programme>
-    <programme start="20260216080000" stop="20260216155900" channel="cctv5plus">
-        <title lang="zh">2026年米兰科尔蒂纳冬奥会-赛事直播12</title>
+    <programme start="20260216080000" stop="20260216110000" channel="cctv5plus">
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会冰壶女子 中国-加拿大</title>
+    </programme>
+    <programme start="20260216110000" stop="20260216123000" channel="cctv5plus">
+        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会花样滑冰 双人短节目</title>
+    </programme>
+    <programme start="20260216123000" stop="20260216140500" channel="cctv5plus">
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会高山滑雪 男子回转2</title>
+    </programme>
+    <programme start="20260216140500" stop="20260216150500" channel="cctv5plus">
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会单板滑雪 男子坡面障碍技巧资格赛2</title>
+    </programme>
+    <programme start="20260216150500" stop="20260216154000" channel="cctv5plus">
+        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会短道速滑</title>
+    </programme>
+    <programme start="20260216154000" stop="20260216155900" channel="cctv5plus">
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会冰球女子半决赛</title>
     </programme>
     <programme start="20260213161100" stop="20260213162400" channel="cctv6">
         <title lang="zh">今日影评2026-032</title>
@@ -4173,8 +4188,20 @@
     <programme start="20260216073000" stop="20260216090000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 花样滑冰男子单人滑</title>
     </programme>
-    <programme start="20260216090000" stop="20260216140500" channel="cctv16">
-        <title lang="zh">2026年米兰科尔蒂纳冬奥会-赛事报道 10-1</title>
+    <programme start="20260216090000" stop="20260216100000" channel="cctv16">
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会雪车男子双人1</title>
+    </programme>
+    <programme start="20260216100000" stop="20260216105700" channel="cctv16">
+        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会速度滑冰 女子500米</title>
+    </programme>
+    <programme start="20260216105700" stop="20260216120000" channel="cctv16">
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会雪车男子双人2</title>
+    </programme>
+    <programme start="20260216120000" stop="20260216130000" channel="cctv16">
+        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会速度滑冰 女子500米</title>
+    </programme>
+    <programme start="20260216130000" stop="20260216140500" channel="cctv16">
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会单板滑雪男子坡面障碍技巧资格赛1</title>
     </programme>
     <programme start="20260216140500" stop="20260216150200" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 短道速滑比赛1</title>
