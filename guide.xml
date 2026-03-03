@@ -1338,37 +1338,46 @@
     <programme start="20260303113000" stop="20260303120000" channel="cctv4">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme start="20260303120000" stop="20260303133000" channel="cctv4">
-        <title lang="zh">2026年元宵晚会-1</title>
+    <programme start="20260303120000" stop="20260303122800" channel="cctv4">
+        <title lang="zh">2026年元宵晚会-1/4</title>
     </programme>
-    <programme start="20260303133000" stop="20260303140000" channel="cctv4">
+    <programme start="20260303122800" stop="20260303125900" channel="cctv4">
+        <title lang="zh">2026年元宵晚会-2/4</title>
+    </programme>
+    <programme start="20260303125900" stop="20260303132400" channel="cctv4">
+        <title lang="zh">2026年元宵晚会-3/4</title>
+    </programme>
+    <programme start="20260303132400" stop="20260303135500" channel="cctv4">
+        <title lang="zh">2026年元宵晚会-4/4</title>
+    </programme>
+    <programme start="20260303135500" stop="20260303143000" channel="cctv4">
         <title lang="zh">今日关注</title>
-    </programme>
-    <programme start="20260303140000" stop="20260303143000" channel="cctv4">
-        <title lang="zh">走遍中国-2026-35</title>
     </programme>
     <programme start="20260303143000" stop="20260303150300" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260303150300" stop="20260303155900" channel="cctv4">
-        <title lang="zh">2026年元宵晚会-1</title>
+    <programme start="20260303150300" stop="20260303153100" channel="cctv4">
+        <title lang="zh">2026年元宵晚会-1/4</title>
     </programme>
-    <programme start="20260303163400" stop="20260303170200" channel="cctv4">
+    <programme start="20260303153100" stop="20260303155900" channel="cctv4">
+        <title lang="zh">2026年元宵晚会-2/4</title>
+    </programme>
+    <programme start="20260303160200" stop="20260303162700" channel="cctv4">
+        <title lang="zh">2026年元宵晚会-3/4</title>
+    </programme>
+    <programme start="20260303162700" stop="20260303165800" channel="cctv4">
+        <title lang="zh">2026年元宵晚会-4/4</title>
+    </programme>
+    <programme start="20260303165800" stop="20260303172600" channel="cctv4">
         <title lang="zh">记住乡愁2026-6</title>
     </programme>
-    <programme start="20260303170200" stop="20260303172900" channel="cctv4">
+    <programme start="20260303172600" stop="20260303175300" channel="cctv4">
         <title lang="zh">中国文艺-2026-44</title>
     </programme>
-    <programme start="20260303172900" stop="20260303174300" channel="cctv4">
-        <title lang="zh">平凡匠心-2025-5</title>
-    </programme>
-    <programme start="20260303174300" stop="20260303174700" channel="cctv4">
+    <programme start="20260303175300" stop="20260303175700" channel="cctv4">
         <title lang="zh">记住乡愁-片段展播-2024-5</title>
     </programme>
-    <programme start="20260303174700" stop="20260303175100" channel="cctv4">
-        <title lang="zh">记住乡愁-片段展播-2024-6</title>
-    </programme>
-    <programme start="20260303175100" stop="20260303180000" channel="cctv4">
+    <programme start="20260303175700" stop="20260303180000" channel="cctv4">
         <title lang="zh">记住乡愁-片段展播-2024-44</title>
     </programme>
     <programme start="20260303180000" stop="20260303183000" channel="cctv4">
@@ -1386,14 +1395,14 @@
     <programme start="20260303200000" stop="20260303203000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260303203000" stop="20260303210000" channel="cctv4">
-        <title lang="zh">今日关注</title>
-    </programme>
-    <programme start="20260303210000" stop="20260303212800" channel="cctv4">
-        <title lang="zh">走遍中国-2025-208</title>
-    </programme>
-    <programme start="20260303212800" stop="20260303220000" channel="cctv4">
+    <programme start="20260303203000" stop="20260303205800" channel="cctv4">
         <title lang="zh">走遍中国-2026-35</title>
+    </programme>
+    <programme start="20260303205800" stop="20260303213000" channel="cctv4">
+        <title lang="zh">中国文艺-2026-44</title>
+    </programme>
+    <programme start="20260303213000" stop="20260303220000" channel="cctv4">
+        <title lang="zh">记住乡愁2026-7</title>
     </programme>
     <programme start="20260303220000" stop="20260303223000" channel="cctv4">
         <title lang="zh">海峡两岸-2026-62</title>
@@ -1401,11 +1410,8 @@
     <programme start="20260303223000" stop="20260303230000" channel="cctv4">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme start="20260303230000" stop="20260303233000" channel="cctv4">
+    <programme start="20260303230000" stop="20260304000000" channel="cctv4">
         <title lang="zh">中国新闻</title>
-    </programme>
-    <programme start="20260303233000" stop="20260304000000" channel="cctv4">
-        <title lang="zh">今日关注</title>
     </programme>
     <programme start="20260304000000" stop="20260304010000" channel="cctv4">
         <title lang="zh">今日环球</title>
@@ -1414,19 +1420,13 @@
         <title lang="zh">今日亚洲</title>
     </programme>
     <programme start="20260304012800" stop="20260304020000" channel="cctv4">
-        <title lang="zh">走遍中国-2026-3</title>
+        <title lang="zh">走遍中国-2026-35</title>
     </programme>
     <programme start="20260304020000" stop="20260304023100" channel="cctv4">
         <title lang="zh">2026年国台办发布会-7</title>
     </programme>
-    <programme start="20260304023100" stop="20260304024400" channel="cctv4">
-        <title lang="zh">平凡匠心-2025-65</title>
-    </programme>
-    <programme start="20260304024400" stop="20260304024700" channel="cctv4">
-        <title lang="zh">记住乡愁-片段展播-2024-12</title>
-    </programme>
-    <programme start="20260304024700" stop="20260304031800" channel="cctv4">
-        <title lang="zh">走遍中国-2026-4</title>
+    <programme start="20260304023100" stop="20260304031800" channel="cctv4">
+        <title lang="zh">远方的家2025-生态中国11</title>
     </programme>
     <programme start="20260304031800" stop="20260304035000" channel="cctv4">
         <title lang="zh">海峡两岸-2026-62</title>
@@ -1444,7 +1444,7 @@
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20260304080200" stop="20260304083000" channel="cctv4">
-        <title lang="zh">走遍中国-2026-5</title>
+        <title lang="zh">走遍中国-2025-208</title>
     </programme>
     <programme start="20260304083000" stop="20260304085800" channel="cctv4">
         <title lang="zh">记住乡愁2026-4</title>
@@ -1483,7 +1483,7 @@
         <title lang="zh">新闻联播</title>
     </programme>
     <programme start="20260304150300" stop="20260304153100" channel="cctv4">
-        <title lang="zh">记住乡愁2026-34</title>
+        <title lang="zh">记住乡愁2026-7</title>
     </programme>
     <programme start="20260304153100" stop="20260304155900" channel="cctv4">
         <title lang="zh">海之谣第21集</title>
@@ -1497,8 +1497,11 @@
     <programme start="20260304174900" stop="20260304175200" channel="cctv4">
         <title lang="zh">记住乡愁-片段展播-2024-10</title>
     </programme>
-    <programme start="20260304175200" stop="20260304180000" channel="cctv4">
+    <programme start="20260304175200" stop="20260304175500" channel="cctv4">
         <title lang="zh">记住乡愁-片段展播-2025-2</title>
+    </programme>
+    <programme start="20260304175500" stop="20260304180000" channel="cctv4">
+        <title lang="zh">记住乡愁-片段展播-2024-44</title>
     </programme>
     <programme start="20260304180000" stop="20260304183000" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -3996,10 +3999,10 @@
     <programme start="20260303063300" stop="20260303064500" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20260303064500" stop="20260303083000" channel="cctv13">
+    <programme start="20260303064500" stop="20260303081600" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20260303083000" stop="20260303090000" channel="cctv13">
+    <programme start="20260303081600" stop="20260303090000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20260303090000" stop="20260303100000" channel="cctv13">
