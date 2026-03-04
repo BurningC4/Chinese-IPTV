@@ -831,11 +831,8 @@
     <programme start="20260305120000" stop="20260305123000" channel="cctv2">
         <title lang="zh">经济半小时</title>
     </programme>
-    <programme start="20260305123000" stop="20260305133000" channel="cctv2">
-        <title lang="zh">经济信息联播</title>
-    </programme>
-    <programme start="20260305133000" stop="20260305135600" channel="cctv2">
-        <title lang="zh">央视财经评论-2026-3-5</title>
+    <programme start="20260305123000" stop="20260305135600" channel="cctv2">
+        <title lang="zh">专家读报告</title>
     </programme>
     <programme start="20260305135600" stop="20260305144100" channel="cctv2">
         <title lang="zh">江城浩歌-2</title>
@@ -876,8 +873,11 @@
     <programme start="20260305213100" stop="20260305215900" channel="cctv2">
         <title lang="zh">生财有道-2026-3-5</title>
     </programme>
-    <programme start="20260305215900" stop="20260305230000" channel="cctv2">
-        <title lang="zh">经济信息联播</title>
+    <programme start="20260305215900" stop="20260305221400" channel="cctv2">
+        <title lang="zh">2024精品财经纪录-雨林之子-1</title>
+    </programme>
+    <programme start="20260305221400" stop="20260305230000" channel="cctv2">
+        <title lang="zh">梧桐树下老房子-2</title>
     </programme>
     <programme start="20260305230000" stop="20260306010000" channel="cctv2">
         <title lang="zh">第一时间</title>
@@ -3817,10 +3817,10 @@
         <title lang="zh">夕阳红-2026-64</title>
     </programme>
     <programme start="20260305011000" stop="20260305020400" channel="cctv12">
-        <title lang="zh">方圆剧阵2026-25</title>
+        <title lang="zh">方圆剧阵2024-145</title>
     </programme>
     <programme start="20260305020400" stop="20260305025800" channel="cctv12">
-        <title lang="zh">方圆剧阵2026-26</title>
+        <title lang="zh">方圆剧阵2024-146</title>
     </programme>
     <programme start="20260305025800" stop="20260305033000" channel="cctv12">
         <title lang="zh">法律讲堂-2026-63</title>
