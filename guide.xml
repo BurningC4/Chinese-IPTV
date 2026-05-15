@@ -1389,32 +1389,32 @@
     <programme start="20260516033000" stop="20260516040000" channel="cctv4">
         <title lang="zh">海峡两岸-2026-135</title>
     </programme>
-    <programme start="20260516040000" stop="20260516050200" channel="cctv4">
+    <programme start="20260516040000" stop="20260516050300" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260516050200" stop="20260516053100" channel="cctv4">
-        <title lang="zh">华人故事-2026-21</title>
-    </programme>
-    <programme start="20260516053100" stop="20260516061700" channel="cctv4">
+    <programme start="20260516050300" stop="20260516054900" channel="cctv4">
         <title lang="zh">太行之脊第23集</title>
     </programme>
-    <programme start="20260516061700" stop="20260516070300" channel="cctv4">
+    <programme start="20260516054900" stop="20260516063500" channel="cctv4">
         <title lang="zh">太行之脊第24集</title>
     </programme>
-    <programme start="20260516070300" stop="20260516075200" channel="cctv4">
+    <programme start="20260516063500" stop="20260516072400" channel="cctv4">
         <title lang="zh">太行之脊第25集</title>
     </programme>
-    <programme start="20260516075200" stop="20260516083900" channel="cctv4">
+    <programme start="20260516072400" stop="20260516081100" channel="cctv4">
         <title lang="zh">太行之脊第26集</title>
     </programme>
-    <programme start="20260516083900" stop="20260516092800" channel="cctv4">
+    <programme start="20260516081100" stop="20260516090000" channel="cctv4">
         <title lang="zh">太行之脊第27集</title>
     </programme>
-    <programme start="20260516092800" stop="20260516094300" channel="cctv4">
+    <programme start="20260516090000" stop="20260516091500" channel="cctv4">
         <title lang="zh">平凡匠心-2026-41</title>
     </programme>
-    <programme start="20260516094300" stop="20260516100000" channel="cctv4">
+    <programme start="20260516091500" stop="20260516093200" channel="cctv4">
         <title lang="zh">平凡匠心-2026-42</title>
+    </programme>
+    <programme start="20260516093200" stop="20260516100000" channel="cctv4">
+        <title lang="zh">国宝发现-2026-17</title>
     </programme>
     <programme start="20260516100000" stop="20260516110000" channel="cctv4">
         <title lang="zh">中国文艺-致敬经典2026-20</title>
@@ -1525,28 +1525,25 @@
         <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20260517050300" stop="20260517054900" channel="cctv4">
-        <title lang="zh">猎豺狼8/42</title>
+        <title lang="zh">太行之脊28/30</title>
     </programme>
     <programme start="20260517054900" stop="20260517063500" channel="cctv4">
-        <title lang="zh">猎豺狼9/42</title>
+        <title lang="zh">太行之脊29/30</title>
     </programme>
     <programme start="20260517063500" stop="20260517072400" channel="cctv4">
-        <title lang="zh">猎豺狼10/42</title>
+        <title lang="zh">太行之脊30/30</title>
     </programme>
     <programme start="20260517072400" stop="20260517081100" channel="cctv4">
-        <title lang="zh">猎豺狼11/42</title>
+        <title lang="zh">海天雄鹰1/35</title>
     </programme>
     <programme start="20260517081100" stop="20260517090000" channel="cctv4">
-        <title lang="zh">猎豺狼12/42</title>
+        <title lang="zh">海天雄鹰2/35</title>
     </programme>
-    <programme start="20260517090000" stop="20260517100000" channel="cctv4">
+    <programme start="20260517090000" stop="20260517100200" channel="cctv4">
         <title lang="zh">健康中国-2026-20</title>
     </programme>
-    <programme start="20260517100000" stop="20260517110000" channel="cctv4">
-        <title lang="zh">环球综艺秀-2026-20</title>
-    </programme>
-    <programme start="20260517110000" stop="20260517113000" channel="cctv4">
-        <title lang="zh">中国新闻</title>
+    <programme start="20260517100200" stop="20260517113000" channel="cctv4">
+        <title lang="zh">中国中医药大会（第三季）-3(四套)</title>
     </programme>
     <programme start="20260517113000" stop="20260517123000" channel="cctv4">
         <title lang="zh">中国舆论场-2026-20</title>
@@ -1650,8 +1647,11 @@
     <programme start="20260515143500" stop="20260515155900" channel="cctv5">
         <title lang="zh">实况录像-2026年世界乒乓球团体锦标赛 男团1/4决赛</title>
     </programme>
-    <programme start="20260515160500" stop="20260515170500" channel="cctv5">
+    <programme start="20260515160500" stop="20260515170000" channel="cctv5">
         <title lang="zh">实况录像-2026年艺术体操世界杯 巴库站2</title>
+    </programme>
+    <programme start="20260515170000" stop="20260515170500" channel="cctv5">
+        <title lang="zh">健身动起来-2026-129</title>
     </programme>
     <programme start="20260515170500" stop="20260515183600" channel="cctv5">
         <title lang="zh">实况录像-2025年世界田联钻石联赛  奥斯陆站</title>
@@ -1677,17 +1677,11 @@
     <programme start="20260516000300" stop="20260516013000" channel="cctv5">
         <title lang="zh">国际足球赛场-25-26赛季法甲联赛第33轮1（4K）</title>
     </programme>
-    <programme start="20260516013000" stop="20260516040000" channel="cctv5">
-        <title lang="zh">2025/2026赛季美国职业篮球联赛-季后赛8</title>
+    <programme start="20260516013000" stop="20260516043000" channel="cctv5">
+        <title lang="zh">2025/2026赛季美国职业篮球联赛-西部半决赛（马刺-森林狼）第六场</title>
     </programme>
-    <programme start="20260516040000" stop="20260516043500" channel="cctv5">
-        <title lang="zh">体坛快讯</title>
-    </programme>
-    <programme start="20260516043500" stop="20260516045800" channel="cctv5">
-        <title lang="zh">艺术里的奥林匹克(4K)</title>
-    </programme>
-    <programme start="20260516045800" stop="20260516063000" channel="cctv5">
-        <title lang="zh">实况录像-2026年世界乒乓球团体锦标赛 女团1/4决赛</title>
+    <programme start="20260516043000" stop="20260516063000" channel="cctv5">
+        <title lang="zh">体坛快讯-2026.5.16</title>
     </programme>
     <programme start="20260516063000" stop="20260516070000" channel="cctv5">
         <title lang="zh">2025/2026西班牙足球甲级联赛-第35轮集锦（4K）</title>
@@ -1701,23 +1695,32 @@
     <programme start="20260516100000" stop="20260516103000" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20260516103000" stop="20260516113000" channel="cctv5">
+    <programme start="20260516103000" stop="20260516105500" channel="cctv5">
+        <title lang="zh">2025/2026英格兰足球超级联赛-第36轮集锦（4K）</title>
+    </programme>
+    <programme start="20260516105500" stop="20260516130000" channel="cctv5">
+        <title lang="zh">2026年长三角国际田径钻石赛-上海/绍兴柯桥</title>
+    </programme>
+    <programme start="20260516130000" stop="20260516135500" channel="cctv5">
         <title lang="zh">实况录像-2026年世界泳联跳水世界杯总决赛 3</title>
     </programme>
-    <programme start="20260516113000" stop="20260516133000" channel="cctv5">
-        <title lang="zh">2025/2026赛季中国男子篮球职业联赛-半决赛2</title>
+    <programme start="20260516135500" stop="20260516155900" channel="cctv5">
+        <title lang="zh">2025/2026英格兰足总杯-决赛（切尔西-曼城）</title>
     </programme>
-    <programme start="20260516133000" stop="20260516153500" channel="cctv5">
-        <title lang="zh">2025/2026德国足球甲级联赛-第34轮（拜仁慕尼黑—科隆）</title>
+    <programme start="20260516160000" stop="20260516163000" channel="cctv5">
+        <title lang="zh">实况录像-2026年射箭世界杯 中国站 1</title>
     </programme>
-    <programme start="20260516153500" stop="20260516155900" channel="cctv5">
-        <title lang="zh">2026年ATP1000男子网球大师赛-蒙特卡洛站 决赛（4K）</title>
+    <programme start="20260516163000" stop="20260516170500" channel="cctv5">
+        <title lang="zh">实况录像-精品赛事记录-2026年世界泳联跳水世界杯总决赛 中国队金牌</title>
     </programme>
     <programme start="20260516170500" stop="20260516183600" channel="cctv5">
         <title lang="zh">实况录像-2025年世界田联钻石联赛  斯德哥尔摩站</title>
     </programme>
-    <programme start="20260516183600" stop="20260516200000" channel="cctv5">
+    <programme start="20260516183600" stop="20260516190000" channel="cctv5">
         <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 季后赛12进8 第三场 2</title>
+    </programme>
+    <programme start="20260516190000" stop="20260516200000" channel="cctv5">
+        <title lang="zh">实况录像-2026年世界乒乓球团体锦标赛 女团1/4决赛</title>
     </programme>
     <programme start="20260516200000" stop="20260516213000" channel="cctv5">
         <title lang="zh">国际足球赛场-25-26赛季英超联赛第36轮 诺丁汉森林—纽卡斯尔联（4K）</title>
@@ -1858,19 +1861,22 @@
         <title lang="zh">实况录像-2025/2026赛季世界斯诺克锦标赛 决赛</title>
     </programme>
     <programme start="20260516103000" stop="20260516110000" channel="cctv5plus">
-        <title lang="zh">2025/2026英格兰足球超级联赛-第36轮集锦（4K）</title>
+        <title lang="zh">实况录像-精品赛事记录-2026年射箭世界杯墨西哥站 中国队金牌1</title>
     </programme>
-    <programme start="20260516110000" stop="20260516130500" channel="cctv5plus">
-        <title lang="zh">2026年长三角国际田径钻石赛-（上海/绍兴柯桥）</title>
+    <programme start="20260516110000" stop="20260516113000" channel="cctv5plus">
+        <title lang="zh">2025/2026西班牙足球甲级联赛-第35轮集锦（4K）</title>
     </programme>
-    <programme start="20260516130500" stop="20260516140500" channel="cctv5plus">
-        <title lang="zh">实况录像-2026年全国举重锦标赛 女子比赛1</title>
+    <programme start="20260516113000" stop="20260516132500" channel="cctv5plus">
+        <title lang="zh">2025/2026赛季中国男子篮球职业联赛-半决赛(浙江浙商证券-深圳马可波罗)第1场</title>
     </programme>
-    <programme start="20260516140500" stop="20260516142000" channel="cctv5plus">
-        <title lang="zh">实况录像-2025/2026赛季斯诺克世界公开赛 决赛 塔猜亚的147</title>
+    <programme start="20260516132500" stop="20260516153500" channel="cctv5plus">
+        <title lang="zh">2025/2026德国足球甲级联赛-第34轮（拜仁慕尼黑—科隆）</title>
     </programme>
-    <programme start="20260516142000" stop="20260516155900" channel="cctv5plus">
-        <title lang="zh">2026年国际冰联男子冰球世界锦标赛-顶级组A组（匈牙利队—芬兰队）</title>
+    <programme start="20260516153500" stop="20260516155900" channel="cctv5plus">
+        <title lang="zh">实况录像-2026年世界泳联跳水世界杯总决赛 1</title>
+    </programme>
+    <programme start="20260516163500" stop="20260516170600" channel="cctv5plus">
+        <title lang="zh">2025/2026法国足球甲级联赛-第33轮集锦（4K）</title>
     </programme>
     <programme start="20260516170600" stop="20260516183600" channel="cctv5plus">
         <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 1/4决赛 第一场 1</title>
@@ -1881,17 +1887,20 @@
     <programme start="20260516200000" stop="20260516220000" channel="cctv5plus">
         <title lang="zh">实况录像-2025/2026赛季斯诺克西安大奖赛 决赛</title>
     </programme>
-    <programme start="20260516220000" stop="20260516232600" channel="cctv5plus">
+    <programme start="20260516220000" stop="20260516232500" channel="cctv5plus">
         <title lang="zh">实况录像-2025年世界田联钻石联赛 伦敦站</title>
     </programme>
-    <programme start="20260516232600" stop="20260517002600" channel="cctv5plus">
-        <title lang="zh">实况录像-2026年艺术体操世界杯 塔什干站 2</title>
+    <programme start="20260516232500" stop="20260516233500" channel="cctv5plus">
+        <title lang="zh">实况录像-2025/2026赛季斯诺克世界公开赛 决赛 塔猜亚的147</title>
     </programme>
-    <programme start="20260517002600" stop="20260517015700" channel="cctv5plus">
-        <title lang="zh">实况录像-2026年世界花样滑冰锦标赛 双人滑</title>
+    <programme start="20260516233500" stop="20260517000000" channel="cctv5plus">
+        <title lang="zh">实况录像-精品赛事记录-2026年射箭世界杯墨西哥站 中国队金牌2</title>
     </programme>
-    <programme start="20260517015700" stop="20260517032800" channel="cctv5plus">
-        <title lang="zh">2025/2026西班牙足球甲级联赛-第36轮（阿拉维斯—巴塞罗那）（4K）</title>
+    <programme start="20260517000000" stop="20260517030000" channel="cctv5plus">
+        <title lang="zh">2025/2026赛季北美冰球职业联赛斯坦利杯季后赛6-（布法罗军刀-蒙特利尔加拿大人）第6场</title>
+    </programme>
+    <programme start="20260517030000" stop="20260517032800" channel="cctv5plus">
+        <title lang="zh">2025/2026英格兰足球超级联赛-第36轮集锦（4K）</title>
     </programme>
     <programme start="20260517032800" stop="20260517042900" channel="cctv5plus">
         <title lang="zh">实况录像-2026年全国举重锦标赛 男子比赛1</title>
