@@ -514,21 +514,21 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20260603115900" stop="20260603120300" channel="cctv1">
-        <title lang="zh">前情提要-主角-40/48</title>
+        <title lang="zh">前情提要-主角-第40集</title>
     </programme>
     <programme start="20260603120300" stop="20260603125400" channel="cctv1">
         <title lang="zh">主角40/48</title>
     </programme>
     <programme start="20260603125400" stop="20260603125600" channel="cctv1">
-        <title lang="zh">前情提要-主角-41/48</title>
+        <title lang="zh">前情提要-主角-第41集</title>
     </programme>
     <programme start="20260603125600" stop="20260603134500" channel="cctv1">
         <title lang="zh">主角41/48</title>
     </programme>
-    <programme start="20260603134500" stop="20260603135100" channel="cctv1">
+    <programme start="20260603134500" stop="20260603135200" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
-    <programme start="20260603135100" stop="20260603140000" channel="cctv1">
+    <programme start="20260603135200" stop="20260603140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260603140000" stop="20260603143600" channel="cctv1">
@@ -1111,7 +1111,7 @@
         <title lang="zh">越战越勇-2026-20</title>
     </programme>
     <programme start="20260603050000" stop="20260603052000" channel="cctv3">
-        <title lang="zh">文化十分-2026-112</title>
+        <title lang="zh">文化十分-2026-111</title>
     </programme>
     <programme start="20260603052000" stop="20260603052800" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-1032 咏春</title>
@@ -2707,7 +2707,7 @@
         <title lang="zh">本集提要-太行谣-第8集</title>
     </programme>
     <programme start="20260603142100" stop="20260603151100" channel="cctv8">
-        <title lang="zh">太行谣8/24</title>
+        <title lang="zh">太行谣第8集</title>
     </programme>
     <programme start="20260603151100" stop="20260603155700" channel="cctv8">
         <title lang="zh">护宝寻踪第24集</title>
@@ -3340,7 +3340,7 @@
         <title lang="zh">欣赏-2025年30秒-3</title>
     </programme>
     <programme start="20260604000000" stop="20260604004800" channel="cctv10">
-        <title lang="zh">探索·发现-2026-154</title>
+        <title lang="zh">探索·发现-2026-155</title>
     </programme>
     <programme start="20260604004800" stop="20260604014500" channel="cctv10">
         <title lang="zh">奥秘（精编）-27</title>
@@ -3373,7 +3373,7 @@
         <title lang="zh">欣赏-2025年30秒-3</title>
     </programme>
     <programme start="20260604063900" stop="20260604072800" channel="cctv10">
-        <title lang="zh">探索·发现-2026-154</title>
+        <title lang="zh">探索·发现-2026-155</title>
     </programme>
     <programme start="20260604072800" stop="20260604082600" channel="cctv10">
         <title lang="zh">奥秘（精编）-28</title>
@@ -4407,32 +4407,35 @@
     <programme start="20260603173400" stop="20260603220000" channel="cctv15">
         <title lang="zh">再见</title>
     </programme>
-    <programme start="20260603220000" stop="20260603231200" channel="cctv15">
+    <programme start="20260603220000" stop="20260603231000" channel="cctv15">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-254</title>
     </programme>
-    <programme start="20260603231200" stop="20260604002800" channel="cctv15">
-        <title lang="zh">全球中文音乐榜上榜-2025-29</title>
-    </programme>
-    <programme start="20260604002800" stop="20260604010500" channel="cctv15">
-        <title lang="zh">风华国乐-2026-158</title>
-    </programme>
-    <programme start="20260604010500" stop="20260604012200" channel="cctv15">
+    <programme start="20260603231000" stop="20260603233000" channel="cctv15">
         <title lang="zh">中国节拍-品味古典39</title>
     </programme>
-    <programme start="20260604012200" stop="20260604023800" channel="cctv15">
+    <programme start="20260603233000" stop="20260604004500" channel="cctv15">
+        <title lang="zh">民歌·中国-2026-26</title>
+    </programme>
+    <programme start="20260604004500" stop="20260604012500" channel="cctv15">
+        <title lang="zh">风华国乐-2026-158</title>
+    </programme>
+    <programme start="20260604012500" stop="20260604024000" channel="cctv15">
         <title lang="zh">民歌·中国-2026-56跨越山海来相聚8</title>
     </programme>
-    <programme start="20260604023800" stop="20260604035300" channel="cctv15">
+    <programme start="20260604024000" stop="20260604035600" channel="cctv15">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-64</title>
     </programme>
-    <programme start="20260604035300" stop="20260604052700" channel="cctv15">
+    <programme start="20260604035600" stop="20260604052900" channel="cctv15">
         <title lang="zh">CCTV音乐厅-和美之夜（2）-</title>
     </programme>
-    <programme start="20260604052700" stop="20260604074300" channel="cctv15">
-        <title lang="zh">影视留声机-2026-72-经典电影欣赏《白莲花》</title>
+    <programme start="20260604052900" stop="20260604070400" channel="cctv15">
+        <title lang="zh">影视留声机-2026-3-经典电影欣赏《柳堡的故事》</title>
+    </programme>
+    <programme start="20260604070400" stop="20260604074300" channel="cctv15">
+        <title lang="zh">乐游天下-2026-21 夏语新韵3</title>
     </programme>
     <programme start="20260604074300" stop="20260604085900" channel="cctv15">
-        <title lang="zh">全球中文音乐榜上榜-2025-29</title>
+        <title lang="zh">民歌·中国-2026-27</title>
     </programme>
     <programme start="20260604085900" stop="20260604101400" channel="cctv15">
         <title lang="zh">民歌·中国-2026-57跨越山海来相聚9</title>
