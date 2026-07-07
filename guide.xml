@@ -1608,11 +1608,8 @@
     <programme start="20260710154900" stop="20260710155900" channel="cctv4">
         <title lang="zh">灿烂的季节14/40</title>
     </programme>
-    <programme start="20260707183000" stop="20260707223000" channel="cctv5">
+    <programme start="20260707183000" stop="20260707230000" channel="cctv5">
         <title lang="zh">2026世界杯-1/8决赛（瑞士—哥伦比亚）</title>
-    </programme>
-    <programme start="20260707223000" stop="20260707230000" channel="cctv5">
-        <title lang="zh">燃动金杯-2026年世界杯小组赛第一轮进球集锦</title>
     </programme>
     <programme start="20260707230000" stop="20260707233000" channel="cctv5">
         <title lang="zh">燃动金杯-2026年世界杯小组赛第二轮进球集锦</title>
@@ -1620,8 +1617,11 @@
     <programme start="20260707233000" stop="20260708000000" channel="cctv5">
         <title lang="zh">燃动金杯-2026年世界杯1/16决赛进球集锦</title>
     </programme>
-    <programme start="20260708000000" stop="20260708013000" channel="cctv5">
+    <programme start="20260708000000" stop="20260708012500" channel="cctv5">
         <title lang="zh">实况录像-2026世界杯 1/8决赛 葡萄牙队-西班牙队</title>
+    </programme>
+    <programme start="20260708012500" stop="20260708013000" channel="cctv5">
+        <title lang="zh">健身动起来-2026-126</title>
     </programme>
     <programme start="20260708013000" stop="20260708030000" channel="cctv5">
         <title lang="zh">2027年国际篮联世界杯预选赛-中国队—中国台北队（4K）</title>
@@ -1701,8 +1701,11 @@
     <programme start="20260709070500" stop="20260709083000" channel="cctv5">
         <title lang="zh">实况录像-2026世界杯 1/8决赛 巴西队-挪威队</title>
     </programme>
-    <programme start="20260709083000" stop="20260709100000" channel="cctv5">
+    <programme start="20260709083000" stop="20260709095500" channel="cctv5">
         <title lang="zh">实况录像-2026世界杯 1/8决赛 墨西哥队-英格兰队</title>
+    </programme>
+    <programme start="20260709095500" stop="20260709100000" channel="cctv5">
+        <title lang="zh">健身动起来-2026-162</title>
     </programme>
     <programme start="20260709100000" stop="20260709110500" channel="cctv5">
         <title lang="zh">体育新闻</title>
@@ -1729,7 +1732,7 @@
         <title lang="zh">燃动金杯-2026年世界杯1/16决赛进球集锦</title>
     </programme>
     <programme start="20260709183000" stop="20260709223000" channel="cctv5">
-        <title lang="zh">2026世界杯-1/4决赛（W89—W90）</title>
+        <title lang="zh">2026世界杯-1/4决赛（法国—摩洛哥）</title>
     </programme>
     <programme start="20260709223000" stop="20260709230000" channel="cctv5">
         <title lang="zh">燃动金杯-2026世界杯1/8决赛进球集锦</title>
@@ -1777,7 +1780,7 @@
         <title lang="zh">2026年美加墨世界杯报道-如约而至-29</title>
     </programme>
     <programme start="20260710150000" stop="20260710155900" channel="cctv5">
-        <title lang="zh">实况录像-2026世界杯 1/4决赛 1</title>
+        <title lang="zh">实况录像-2026世界杯 1/4决赛 法国队-摩洛哥队</title>
     </programme>
     <programme start="20260707163500" stop="20260707170500" channel="cctv5plus">
         <title lang="zh">2026年射箭世界杯-土耳其站1（4K）</title>
