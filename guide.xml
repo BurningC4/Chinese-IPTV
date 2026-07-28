@@ -1341,8 +1341,11 @@
     <programme start="20260728130000" stop="20260728133000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260728133000" stop="20260728143000" channel="cctv4">
+    <programme start="20260728133000" stop="20260728140000" channel="cctv4">
         <title lang="zh">今日关注</title>
+    </programme>
+    <programme start="20260728140000" stop="20260728143000" channel="cctv4">
+        <title lang="zh">走遍中国-2026-119</title>
     </programme>
     <programme start="20260728143000" stop="20260728150300" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -1383,26 +1386,17 @@
     <programme start="20260728200000" stop="20260728203000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260728203000" stop="20260728204400" channel="cctv4">
-        <title lang="zh">平凡匠心-2026-34</title>
-    </programme>
-    <programme start="20260728204400" stop="20260728204700" channel="cctv4">
-        <title lang="zh">记住乡愁-片段展播-2024-12</title>
-    </programme>
-    <programme start="20260728204700" stop="20260728205100" channel="cctv4">
-        <title lang="zh">记住乡愁-片段展播-2024-15</title>
-    </programme>
-    <programme start="20260728205100" stop="20260728210000" channel="cctv4">
-        <title lang="zh">记住乡愁-片段展播-2024-16</title>
+    <programme start="20260728203000" stop="20260728210000" channel="cctv4">
+        <title lang="zh">今日关注</title>
     </programme>
     <programme start="20260728210000" stop="20260728213000" channel="cctv4">
-        <title lang="zh">中国文艺-2026-149</title>
-    </programme>
-    <programme start="20260728213000" stop="20260728220000" channel="cctv4">
         <title lang="zh">国家记忆-2026-76</title>
     </programme>
-    <programme start="20260728220000" stop="20260728223000" channel="cctv4">
+    <programme start="20260728213000" stop="20260728220000" channel="cctv4">
         <title lang="zh">走遍中国-2026-119</title>
+    </programme>
+    <programme start="20260728220000" stop="20260728223000" channel="cctv4">
+        <title lang="zh">海峡两岸-2026-209</title>
     </programme>
     <programme start="20260728223000" stop="20260728230000" channel="cctv4">
         <title lang="zh">今日亚洲</title>
@@ -1411,7 +1405,7 @@
         <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20260728233000" stop="20260729000000" channel="cctv4">
-        <title lang="zh">海峡两岸-2026-209</title>
+        <title lang="zh">今日关注</title>
     </programme>
     <programme start="20260729000000" stop="20260729010000" channel="cctv4">
         <title lang="zh">今日环球</title>
@@ -1915,7 +1909,7 @@
         <title lang="zh">燃动金杯-2026年世界杯小组赛第一轮进球集锦</title>
     </programme>
     <programme start="20260729010000" stop="20260729020100" channel="cctv5plus">
-        <title lang="zh">2026年静水皮划艇世界杯-蒙特利尔站 1</title>
+        <title lang="zh">2026年世界泳联水球世界杯- 女子决赛</title>
     </programme>
     <programme start="20260729020100" stop="20260729033200" channel="cctv5plus">
         <title lang="zh">实况录像-2026年世界男排联赛 美国站 中国队—巴西队</title>
