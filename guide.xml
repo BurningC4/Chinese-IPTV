@@ -489,13 +489,13 @@
     <programme start="20260815120300" stop="20260815124800" channel="cctv1">
         <title lang="zh">江泽民-9</title>
     </programme>
-    <programme start="20260815124800" stop="20260815134200" channel="cctv1">
+    <programme start="20260815124800" stop="20260815134000" channel="cctv1">
         <title lang="zh">江泽民-10</title>
     </programme>
-    <programme start="20260815134200" stop="20260815135000" channel="cctv1">
+    <programme start="20260815134000" stop="20260815134900" channel="cctv1">
         <title lang="zh">三餐四季-宣传片</title>
     </programme>
-    <programme start="20260815135000" stop="20260815140000" channel="cctv1">
+    <programme start="20260815134900" stop="20260815140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260815140000" stop="20260815143500" channel="cctv1">
@@ -1401,8 +1401,14 @@
     <programme start="20260815094300" stop="20260815100000" channel="cctv4">
         <title lang="zh">平凡匠心-2026-67</title>
     </programme>
-    <programme start="20260815100000" stop="20260815110000" channel="cctv4">
-        <title lang="zh">中国文艺-致敬经典2026-33</title>
+    <programme start="20260815100000" stop="20260815102700" channel="cctv4">
+        <title lang="zh">国家记忆-2026-30</title>
+    </programme>
+    <programme start="20260815102700" stop="20260815105400" channel="cctv4">
+        <title lang="zh">国家记忆-2026-31</title>
+    </programme>
+    <programme start="20260815105400" stop="20260815110000" channel="cctv4">
+        <title lang="zh">记住乡愁-片段展播-2024-19</title>
     </programme>
     <programme start="20260815110000" stop="20260815113000" channel="cctv4">
         <title lang="zh">中国新闻</title>
