@@ -1395,17 +1395,32 @@
     <programme start="20260823230000" stop="20260823233000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260823233000" stop="20260824013000" channel="cctv4">
-        <title lang="zh">2026中国航天报道-4</title>
+    <programme start="20260823233000" stop="20260824000000" channel="cctv4">
+        <title lang="zh">今日关注</title>
     </programme>
-    <programme start="20260824013000" stop="20260824023100" channel="cctv4">
+    <programme start="20260824000000" stop="20260824010000" channel="cctv4">
+        <title lang="zh">今日环球</title>
+    </programme>
+    <programme start="20260824010000" stop="20260824020100" channel="cctv4">
         <title lang="zh">中国舆论场-2026-34</title>
     </programme>
-    <programme start="20260824023100" stop="20260824025700" channel="cctv4">
-        <title lang="zh">走遍中国-2026-130</title>
+    <programme start="20260824020100" stop="20260824020400" channel="cctv4">
+        <title lang="zh">记住乡愁-片段展播-2024-41</title>
     </programme>
-    <programme start="20260824025700" stop="20260824033000" channel="cctv4">
+    <programme start="20260824020400" stop="20260824020600" channel="cctv4">
+        <title lang="zh">记住乡愁-片段展播-2024-42</title>
+    </programme>
+    <programme start="20260824020600" stop="20260824025100" channel="cctv4">
+        <title lang="zh">远方的家2026-172</title>
+    </programme>
+    <programme start="20260824025100" stop="20260824025400" channel="cctv4">
+        <title lang="zh">国家公园精彩片段-2</title>
+    </programme>
+    <programme start="20260824025400" stop="20260824032400" channel="cctv4">
         <title lang="zh">国家记忆-2026-94</title>
+    </programme>
+    <programme start="20260824032400" stop="20260824033000" channel="cctv4">
+        <title lang="zh">记住乡愁-片段展播-2024-27</title>
     </programme>
     <programme start="20260824033000" stop="20260824040000" channel="cctv4">
         <title lang="zh">海峡两岸-2026-235</title>
