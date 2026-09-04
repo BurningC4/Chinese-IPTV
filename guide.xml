@@ -388,7 +388,7 @@
         <title lang="zh">新闻联播</title>
     </programme>
     <programme start="20260904113700" stop="20260904120400" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+        <title lang="zh">专题片</title>
     </programme>
     <programme start="20260904120400" stop="20260904120600" channel="cctv1">
         <title lang="zh">前情提要-生逢其时-第2集</title>
@@ -3133,7 +3133,7 @@
         <title lang="zh">味道-2026-75</title>
     </programme>
     <programme start="20260905113200" stop="20260905123200" channel="cctv10">
-        <title lang="zh">自然传奇-2026-248</title>
+        <title lang="zh">自然传奇-2026-173</title>
     </programme>
     <programme start="20260905123200" stop="20260905132000" channel="cctv10">
         <title lang="zh">探索·发现-2026-248</title>
@@ -3172,7 +3172,7 @@
         <title lang="zh">时尚科技秀-2026-249</title>
     </programme>
     <programme start="20260905223000" stop="20260905232300" channel="cctv10">
-        <title lang="zh">自然传奇-2026-248</title>
+        <title lang="zh">自然传奇-2026-173</title>
     </programme>
     <programme start="20260905232300" stop="20260906000700" channel="cctv10">
         <title lang="zh">科幻地带-2026-36</title>
@@ -3190,7 +3190,7 @@
         <title lang="zh">地理·中国-2026-248</title>
     </programme>
     <programme start="20260906022200" stop="20260906032200" channel="cctv10">
-        <title lang="zh">自然传奇-2026-248</title>
+        <title lang="zh">自然传奇-2026-173</title>
     </programme>
     <programme start="20260906032200" stop="20260906040000" channel="cctv10">
         <title lang="zh">味道-2026-75</title>
@@ -3220,7 +3220,7 @@
         <title lang="zh">探索·发现-2026-248</title>
     </programme>
     <programme start="20260906082600" stop="20260906092600" channel="cctv10">
-        <title lang="zh">自然传奇-2026-248</title>
+        <title lang="zh">自然传奇-2026-173</title>
     </programme>
     <programme start="20260906092600" stop="20260906100500" channel="cctv10">
         <title lang="zh">地理·中国-2026-249</title>
@@ -3789,11 +3789,11 @@
     <programme start="20260904110000" stop="20260904113200" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260904113200" stop="20260904114000" channel="cctv13">
+    <programme start="20260904113200" stop="20260904113700" channel="cctv13">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme start="20260904114000" stop="20260904120000" channel="cctv13">
-        <title lang="zh">焦点访谈</title>
+    <programme start="20260904113700" stop="20260904120000" channel="cctv13">
+        <title lang="zh">专题片</title>
     </programme>
     <programme start="20260904120000" stop="20260904130000" channel="cctv13">
         <title lang="zh">东方时空</title>
@@ -3819,11 +3819,8 @@
     <programme start="20260904163000" stop="20260904170000" channel="cctv13">
         <title lang="zh">高端访谈</title>
     </programme>
-    <programme start="20260904170000" stop="20260904172100" channel="cctv13">
+    <programme start="20260904170000" stop="20260904173700" channel="cctv13">
         <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme start="20260904172100" stop="20260904173700" channel="cctv13">
-        <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20260904173700" stop="20260904180000" channel="cctv13">
         <title lang="zh">法治在线</title>
