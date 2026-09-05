@@ -483,13 +483,13 @@
     <programme start="20260906110000" stop="20260906113900" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260906113900" stop="20260906120100" channel="cctv1">
+    <programme start="20260906113900" stop="20260906120200" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260906120100" stop="20260906133400" channel="cctv1">
+    <programme start="20260906120200" stop="20260906133500" channel="cctv1">
         <title lang="zh">金石探文明-大盂鼎</title>
     </programme>
-    <programme start="20260906133400" stop="20260906134400" channel="cctv1">
+    <programme start="20260906133500" stop="20260906134400" channel="cctv1">
         <title lang="zh">三餐四季-宣传片</title>
     </programme>
     <programme start="20260906134400" stop="20260906140000" channel="cctv1">
@@ -1599,14 +1599,17 @@
     <programme start="20260905113000" stop="20260905140000" channel="cctv5">
         <title lang="zh">2026中国羽毛球大师赛-半决赛</title>
     </programme>
-    <programme start="20260905140000" stop="20260905155900" channel="cctv5">
-        <title lang="zh">2026/2027英格兰足球超级联赛-第3轮（曼城—考文垂城）</title>
+    <programme start="20260905140000" stop="20260905151000" channel="cctv5">
+        <title lang="zh">2026年世界一级方程式锦标赛-意大利大奖赛  排位赛</title>
     </programme>
-    <programme start="20260905160500" stop="20260905162500" channel="cctv5">
-        <title lang="zh">实况录像-精彩一刻-2025/2026斯诺克世界公开赛 奥沙利文的153</title>
+    <programme start="20260905151000" stop="20260905155900" channel="cctv5">
+        <title lang="zh">2026年美国网球公开赛-第三轮（郑钦文-凯斯）</title>
     </programme>
-    <programme start="20260905162500" stop="20260905183600" channel="cctv5">
-        <title lang="zh">2026/2027德国足球甲级联赛-第2轮（沙尔克04—拜仁慕尼黑）</title>
+    <programme start="20260905170500" stop="20260905173500" channel="cctv5">
+        <title lang="zh">体坛零距离-2026-26(4K)</title>
+    </programme>
+    <programme start="20260905173500" stop="20260905183600" channel="cctv5">
+        <title lang="zh">实况录像-WTT欧洲大满贯2026 比赛 1</title>
     </programme>
     <programme start="20260905183600" stop="20260905200000" channel="cctv5">
         <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛  半决赛 3</title>
@@ -1752,11 +1755,11 @@
     <programme start="20260905120000" stop="20260905140000" channel="cctv5plus">
         <title lang="zh">2026中国足球超级联赛-第26轮（山东泰山—深圳新鹏城）</title>
     </programme>
-    <programme start="20260905140000" stop="20260905151000" channel="cctv5plus">
-        <title lang="zh">2026年世界一级方程式锦标赛-意大利大奖赛 排位赛</title>
+    <programme start="20260905140000" stop="20260905155900" channel="cctv5plus">
+        <title lang="zh">2026/2027英格兰足球超级联赛-第3轮 （曼城—考文垂城）</title>
     </programme>
-    <programme start="20260905151000" stop="20260905155900" channel="cctv5plus">
-        <title lang="zh">2026年美国网球公开赛-第三轮2</title>
+    <programme start="20260905162500" stop="20260905170600" channel="cctv5plus">
+        <title lang="zh">2026/2027德国足球甲级联赛-第2轮 （沙尔克04—拜仁慕尼黑）</title>
     </programme>
     <programme start="20260905170600" stop="20260905183600" channel="cctv5plus">
         <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 总决赛 4</title>
