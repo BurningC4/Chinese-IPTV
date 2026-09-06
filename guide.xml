@@ -480,22 +480,22 @@
     <programme start="20260907110000" stop="20260907114000" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260907114000" stop="20260907120000" channel="cctv1">
+    <programme start="20260907114000" stop="20260907120100" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260907120000" stop="20260907120500" channel="cctv1">
+    <programme start="20260907120100" stop="20260907120500" channel="cctv1">
         <title lang="zh">前情提要-生逢其时-第4集</title>
     </programme>
-    <programme start="20260907120500" stop="20260907125400" channel="cctv1">
+    <programme start="20260907120500" stop="20260907125500" channel="cctv1">
         <title lang="zh">生逢其时4/26</title>
     </programme>
-    <programme start="20260907125400" stop="20260907125700" channel="cctv1">
+    <programme start="20260907125500" stop="20260907130000" channel="cctv1">
         <title lang="zh">前情提要-生逢其时-第5集</title>
     </programme>
-    <programme start="20260907125700" stop="20260907135100" channel="cctv1">
+    <programme start="20260907130000" stop="20260907135200" channel="cctv1">
         <title lang="zh">生逢其时5/26</title>
     </programme>
-    <programme start="20260907135100" stop="20260907140000" channel="cctv1">
+    <programme start="20260907135200" stop="20260907140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260907140000" stop="20260907143600" channel="cctv1">
@@ -1020,8 +1020,14 @@
     <programme start="20260906100600" stop="20260906113000" channel="cctv3">
         <title lang="zh">开门大吉-2026-35</title>
     </programme>
-    <programme start="20260906113000" stop="20260906132500" channel="cctv3">
-        <title lang="zh">第二届丝路之星国际音乐大赛-1</title>
+    <programme start="20260906113000" stop="20260906120900" channel="cctv3">
+        <title lang="zh">第二届丝路之星国际音乐大赛-1-1/3</title>
+    </programme>
+    <programme start="20260906120900" stop="20260906124000" channel="cctv3">
+        <title lang="zh">第二届丝路之星国际音乐大赛-1-2/3</title>
+    </programme>
+    <programme start="20260906124000" stop="20260906132500" channel="cctv3">
+        <title lang="zh">第二届丝路之星国际音乐大赛-1-3/3</title>
     </programme>
     <programme start="20260906132500" stop="20260906142100" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-590</title>
@@ -1041,11 +1047,14 @@
     <programme start="20260906174400" stop="20260906183400" channel="cctv3">
         <title lang="zh">远山之约（蜀山篇）-2</title>
     </programme>
-    <programme start="20260906183400" stop="20260906223300" channel="cctv3">
+    <programme start="20260906183400" stop="20260906213500" channel="cctv3">
         <title lang="zh">中国唱将-7</title>
     </programme>
-    <programme start="20260906223300" stop="20260906225500" channel="cctv3">
-        <title lang="zh">国宝音乐会-故宫篇-重播版1</title>
+    <programme start="20260906213500" stop="20260906213800" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2026-1133 真善美</title>
+    </programme>
+    <programme start="20260906213800" stop="20260906225500" channel="cctv3">
+        <title lang="zh">你好时光（第二季）-1</title>
     </programme>
     <programme start="20260906225500" stop="20260907000100" channel="cctv3">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-514</title>
@@ -3810,19 +3819,19 @@
     <programme start="20260906130000" stop="20260906133000" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260906133000" stop="20260906141500" channel="cctv13">
+    <programme start="20260906133000" stop="20260906140500" channel="cctv13">
         <title lang="zh">面对面</title>
     </programme>
-    <programme start="20260906141500" stop="20260906150000" channel="cctv13">
+    <programme start="20260906140500" stop="20260906145000" channel="cctv13">
         <title lang="zh">世界周刊</title>
     </programme>
-    <programme start="20260906150000" stop="20260906155900" channel="cctv13">
+    <programme start="20260906145000" stop="20260906155900" channel="cctv13">
         <title lang="zh">24小时</title>
     </programme>
-    <programme start="20260906160000" stop="20260906161500" channel="cctv13">
+    <programme start="20260906160000" stop="20260906162500" channel="cctv13">
         <title lang="zh">午夜新闻</title>
     </programme>
-    <programme start="20260906161500" stop="20260906170000" channel="cctv13">
+    <programme start="20260906162500" stop="20260906170000" channel="cctv13">
         <title lang="zh">面对面</title>
     </programme>
     <programme start="20260906170000" stop="20260906171500" channel="cctv13">
@@ -3831,10 +3840,10 @@
     <programme start="20260906171500" stop="20260906180000" channel="cctv13">
         <title lang="zh">世界周刊</title>
     </programme>
-    <programme start="20260906180000" stop="20260906181500" channel="cctv13">
+    <programme start="20260906180000" stop="20260906182500" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20260906181500" stop="20260906190000" channel="cctv13">
+    <programme start="20260906182500" stop="20260906190000" channel="cctv13">
         <title lang="zh">面对面</title>
     </programme>
     <programme start="20260906190000" stop="20260906192400" channel="cctv13">
@@ -3852,10 +3861,10 @@
     <programme start="20260906201500" stop="20260906210000" channel="cctv13">
         <title lang="zh">世界周刊</title>
     </programme>
-    <programme start="20260906210000" stop="20260906211200" channel="cctv13">
+    <programme start="20260906210000" stop="20260906212200" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20260906211200" stop="20260906220000" channel="cctv13">
+    <programme start="20260906212200" stop="20260906220000" channel="cctv13">
         <title lang="zh">面对面</title>
     </programme>
     <programme start="20260906220000" stop="20260907010000" channel="cctv13">
@@ -3882,10 +3891,10 @@
     <programme start="20260907050000" stop="20260907060000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20260907060000" stop="20260907061200" channel="cctv13">
+    <programme start="20260907060000" stop="20260907062200" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20260907061200" stop="20260907070000" channel="cctv13">
+    <programme start="20260907062200" stop="20260907070000" channel="cctv13">
         <title lang="zh">面对面</title>
     </programme>
     <programme start="20260907070000" stop="20260907080000" channel="cctv13">
@@ -4230,8 +4239,14 @@
     <programme start="20260906101400" stop="20260906113000" channel="cctv15">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-344</title>
     </programme>
-    <programme start="20260906113000" stop="20260906133000" channel="cctv15">
-        <title lang="zh">第二届丝路之星国际音乐大赛-1</title>
+    <programme start="20260906113000" stop="20260906120900" channel="cctv15">
+        <title lang="zh">第二届丝路之星国际音乐大赛-1-1/3</title>
+    </programme>
+    <programme start="20260906120900" stop="20260906124000" channel="cctv15">
+        <title lang="zh">第二届丝路之星国际音乐大赛-1-2/3</title>
+    </programme>
+    <programme start="20260906124000" stop="20260906133000" channel="cctv15">
+        <title lang="zh">第二届丝路之星国际音乐大赛-1-3/3</title>
     </programme>
     <programme start="20260906133000" stop="20260906143000" channel="cctv15">
         <title lang="zh">音乐公开课-2026-15</title>
@@ -4266,8 +4281,14 @@
     <programme start="20260907024400" stop="20260907035900" channel="cctv15">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-404</title>
     </programme>
-    <programme start="20260907035900" stop="20260907060300" channel="cctv15">
-        <title lang="zh">第二届丝路之星国际音乐大赛-1</title>
+    <programme start="20260907035900" stop="20260907043900" channel="cctv15">
+        <title lang="zh">第二届丝路之星国际音乐大赛-1-1/3</title>
+    </programme>
+    <programme start="20260907043900" stop="20260907051000" channel="cctv15">
+        <title lang="zh">第二届丝路之星国际音乐大赛-1-2/3</title>
+    </programme>
+    <programme start="20260907051000" stop="20260907060300" channel="cctv15">
+        <title lang="zh">第二届丝路之星国际音乐大赛-1-3/3</title>
     </programme>
     <programme start="20260907060300" stop="20260907074300" channel="cctv15">
         <title lang="zh">影视留声机-2026-21-经典电影欣赏《古刹钟声》</title>
