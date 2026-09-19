@@ -378,13 +378,13 @@
     <programme start="20260919110000" stop="20260919114000" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260919114000" stop="20260919120600" channel="cctv1">
+    <programme start="20260919114000" stop="20260919120500" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260919120600" stop="20260919131900" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+    <programme start="20260919120500" stop="20260919131800" channel="cctv1">
+        <title lang="zh">国防公开课（2026）-第26个全民国防教育日特别节目</title>
     </programme>
-    <programme start="20260919131900" stop="20260919133700" channel="cctv1">
+    <programme start="20260919131800" stop="20260919133700" channel="cctv1">
         <title lang="zh">中华古树-内蒙古准格尔油松王（4K）</title>
     </programme>
     <programme start="20260919133700" stop="20260919135100" channel="cctv1">
@@ -601,7 +601,7 @@
         <title lang="zh">晚间新闻</title>
     </programme>
     <programme start="20260921143500" stop="20260921151000" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+        <title lang="zh">石榴花开-铸牢中华民族共同体意识-1</title>
     </programme>
     <programme start="20260921151000" stop="20260921155900" channel="cctv1">
         <title lang="zh">宗师列传▪唐宋八大家-韩愈上</title>
@@ -2043,22 +2043,28 @@
     <programme start="20260919120300" stop="20260919120900" channel="cctv7">
         <title lang="zh">国防微视频-军歌嘹亮-光荣奔赴（2026）</title>
     </programme>
-    <programme start="20260919120900" stop="20260919124500" channel="cctv7">
+    <programme start="20260919120900" stop="20260919123900" channel="cctv7">
         <title lang="zh">防务新观察-2026-262</title>
     </programme>
-    <programme start="20260919124500" stop="20260919135300" channel="cctv7">
+    <programme start="20260919123900" stop="20260919131500" channel="cctv7">
+        <title lang="zh">兵器面面观-2026-163</title>
+    </programme>
+    <programme start="20260919131500" stop="20260919142800" channel="cctv7">
+        <title lang="zh">国防公开课（2026）-第26个全民国防教育日特别节目</title>
+    </programme>
+    <programme start="20260919142800" stop="20260919153300" channel="cctv7">
         <title lang="zh">老兵你好-2026-38</title>
     </programme>
-    <programme start="20260919135300" stop="20260919144300" channel="cctv7">
+    <programme start="20260919153300" stop="20260919155900" channel="cctv7">
         <title lang="zh">潜行者27/37</title>
     </programme>
-    <programme start="20260919144300" stop="20260919154000" channel="cctv7">
+    <programme start="20260919162300" stop="20260919172000" channel="cctv7">
         <title lang="zh">潜行者28/37</title>
     </programme>
-    <programme start="20260919154000" stop="20260919155900" channel="cctv7">
+    <programme start="20260919172000" stop="20260919180300" channel="cctv7">
         <title lang="zh">第二战场-2026-38</title>
     </programme>
-    <programme start="20260919162300" stop="20260919220300" channel="cctv7">
+    <programme start="20260919180300" stop="20260919220300" channel="cctv7">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20260919220300" stop="20260919223300" channel="cctv7">
@@ -2073,50 +2079,47 @@
     <programme start="20260919233000" stop="20260919235800" channel="cctv7">
         <title lang="zh">国防军事早报</title>
     </programme>
-    <programme start="20260919235800" stop="20260920010100" channel="cctv7">
-        <title lang="zh">老兵你好-2026-38</title>
-    </programme>
-    <programme start="20260920010100" stop="20260920013300" channel="cctv7">
-        <title lang="zh">防务新观察-2026-262</title>
-    </programme>
-    <programme start="20260920013300" stop="20260920015500" channel="cctv7">
-        <title lang="zh">军营的味道-2026-5</title>
-    </programme>
-    <programme start="20260920015500" stop="20260920021700" channel="cctv7">
+    <programme start="20260919235800" stop="20260920002600" channel="cctv7">
         <title lang="zh">军营的味道-2026-27</title>
     </programme>
-    <programme start="20260920021700" stop="20260920022300" channel="cctv7">
-        <title lang="zh">国防微视频-军歌嘹亮-东风东风</title>
+    <programme start="20260920002600" stop="20260920010100" channel="cctv7">
+        <title lang="zh">防务新观察-2026-262</title>
     </programme>
-    <programme start="20260920022300" stop="20260920025200" channel="cctv7">
+    <programme start="20260920010100" stop="20260920020700" channel="cctv7">
+        <title lang="zh">五星剧场-奇袭(高清文件)</title>
+    </programme>
+    <programme start="20260920020700" stop="20260920032700" channel="cctv7">
+        <title lang="zh">国防公开课（2026）-第26个全民国防教育日特别节目</title>
+    </programme>
+    <programme start="20260920032700" stop="20260920035200" channel="cctv7">
         <title lang="zh">军营的味道-2026-33</title>
     </programme>
-    <programme start="20260920025200" stop="20260920040000" channel="cctv7">
-        <title lang="zh">五星剧场-奇袭(高清文件)</title>
+    <programme start="20260920035200" stop="20260920040000" channel="cctv7">
+        <title lang="zh">国防微视频-军歌嘹亮-东风东风</title>
     </programme>
     <programme start="20260920040000" stop="20260920043600" channel="cctv7">
         <title lang="zh">正午国防军事</title>
     </programme>
-    <programme start="20260920043600" stop="20260920051300" channel="cctv7">
+    <programme start="20260920043600" stop="20260920052800" channel="cctv7">
         <title lang="zh">防务新观察-2026-262</title>
     </programme>
-    <programme start="20260920051300" stop="20260920054600" channel="cctv7">
-        <title lang="zh">第二战场-2025-5</title>
-    </programme>
-    <programme start="20260920054600" stop="20260920071600" channel="cctv7">
-        <title lang="zh">五星剧场-边寨烽火（长影展播）</title>
-    </programme>
-    <programme start="20260920071600" stop="20260920080600" channel="cctv7">
+    <programme start="20260920052800" stop="20260920061700" channel="cctv7">
         <title lang="zh">大决战38/49</title>
     </programme>
-    <programme start="20260920080600" stop="20260920085500" channel="cctv7">
+    <programme start="20260920061700" stop="20260920070700" channel="cctv7">
         <title lang="zh">大决战39/49</title>
     </programme>
-    <programme start="20260920085500" stop="20260920094600" channel="cctv7">
+    <programme start="20260920070700" stop="20260920075600" channel="cctv7">
         <title lang="zh">大决战40/49</title>
     </programme>
-    <programme start="20260920094600" stop="20260920095300" channel="cctv7">
-        <title lang="zh">国防微视频-军歌嘹亮-东风东风</title>
+    <programme start="20260920075600" stop="20260920091700" channel="cctv7">
+        <title lang="zh">国防公开课（2026）-第26个全民国防教育日特别节目</title>
+    </programme>
+    <programme start="20260920091700" stop="20260920094700" channel="cctv7">
+        <title lang="zh">第二战场-2025-12</title>
+    </programme>
+    <programme start="20260920094700" stop="20260920095300" channel="cctv7">
+        <title lang="zh">国防微视频-军歌嘹亮-有咱就有发言权（2026全民国防）</title>
     </programme>
     <programme start="20260920095300" stop="20260920110000" channel="cctv7">
         <title lang="zh">讲武堂-2026-38</title>
