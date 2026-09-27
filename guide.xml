@@ -376,7 +376,7 @@
         <title lang="zh">新闻联播</title>
     </programme>
     <programme start="20260927113700" stop="20260927120600" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+        <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20260927120600" stop="20260927133900" channel="cctv1">
         <title lang="zh">金石探文明-三星堆金杖</title>
@@ -3687,10 +3687,10 @@
     <programme start="20260927110000" stop="20260927113200" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260927113200" stop="20260927114000" channel="cctv13">
+    <programme start="20260927113200" stop="20260927113700" channel="cctv13">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme start="20260927114000" stop="20260927120000" channel="cctv13">
+    <programme start="20260927113700" stop="20260927120000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20260927120000" stop="20260927130000" channel="cctv13">
@@ -3726,11 +3726,8 @@
     <programme start="20260927181500" stop="20260927190000" channel="cctv13">
         <title lang="zh">面对面</title>
     </programme>
-    <programme start="20260927190000" stop="20260927192400" channel="cctv13">
+    <programme start="20260927190000" stop="20260927194000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme start="20260927192400" stop="20260927194000" channel="cctv13">
-        <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20260927194000" stop="20260927200000" channel="cctv13">
         <title lang="zh">每周质量报告</title>
