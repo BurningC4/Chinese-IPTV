@@ -1509,14 +1509,17 @@
     <programme start="20261001230000" stop="20261002000000" channel="cctv5">
         <title lang="zh">体坛晨报-亚运晨报</title>
     </programme>
-    <programme start="20261002000000" stop="20261002042000" channel="cctv5">
+    <programme start="20261002000000" stop="20261002035000" channel="cctv5">
         <title lang="zh">2026年亚运会-赛事转播报道13-1</title>
     </programme>
-    <programme start="20261002042000" stop="20261002045500" channel="cctv5">
+    <programme start="20261002035000" stop="20261002045500" channel="cctv5">
         <title lang="zh">体坛快讯-亚运最前沿</title>
     </programme>
-    <programme start="20261002045500" stop="20261002133000" channel="cctv5">
+    <programme start="20261002045500" stop="20261002113000" channel="cctv5">
         <title lang="zh">2026年亚运会-赛事转播报道13-2</title>
+    </programme>
+    <programme start="20261002113000" stop="20261002133000" channel="cctv5">
+        <title lang="zh">2026年中国网球公开赛</title>
     </programme>
     <programme start="20261002133000" stop="20261002143500" channel="cctv5">
         <title lang="zh">体育世界-全景亚运</title>
@@ -1632,13 +1635,13 @@
     <programme start="20261001233000" stop="20261002000000" channel="cctv5plus">
         <title lang="zh">2026/2027法国足球甲级联赛-第3轮集锦（4K）</title>
     </programme>
-    <programme start="20261002000000" stop="20261002053000" channel="cctv5plus">
+    <programme start="20261002000000" stop="20261002030000" channel="cctv5plus">
         <title lang="zh">2026年亚运会-赛事直播13</title>
     </programme>
-    <programme start="20261002053000" stop="20261002070000" channel="cctv5plus">
-        <title lang="zh">2026年中国网球公开赛-女单、男单第二轮1</title>
+    <programme start="20261002030000" stop="20261002050000" channel="cctv5plus">
+        <title lang="zh">2026年中国网球公开赛</title>
     </programme>
-    <programme start="20261002070000" stop="20261002113000" channel="cctv5plus">
+    <programme start="20261002050000" stop="20261002113000" channel="cctv5plus">
         <title lang="zh">2026年亚运会-赛事直播14</title>
     </programme>
     <programme start="20261002113000" stop="20261002134000" channel="cctv5plus">
@@ -2979,8 +2982,11 @@
     <programme start="20261003171500" stop="20261003180500" channel="cctv10">
         <title lang="zh">味道-2026-86</title>
     </programme>
-    <programme start="20261003180500" stop="20261003220000" channel="cctv10">
+    <programme start="20261003180500" stop="20261003184500" channel="cctv10">
         <title lang="zh">百家讲坛-2026-276</title>
+    </programme>
+    <programme start="20261003184500" stop="20261003220000" channel="cctv10">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20261003220000" stop="20261003221000" channel="cctv10">
         <title lang="zh">读书-2026-330</title>
@@ -3951,8 +3957,11 @@
     <programme start="20261003162600" stop="20261003171400" channel="cctvchild">
         <title lang="zh">我们的日子-11/38</title>
     </programme>
-    <programme start="20261003171400" stop="20261003220000" channel="cctvchild">
+    <programme start="20261003171400" stop="20261003180400" channel="cctvchild">
         <title lang="zh">我们的日子-12/38</title>
+    </programme>
+    <programme start="20261003180400" stop="20261003220000" channel="cctvchild">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20261003220000" stop="20261003234500" channel="cctvchild">
         <title lang="zh">动画大放映（周末早间版）-2026-83</title>
