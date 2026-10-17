@@ -922,7 +922,7 @@
         <title lang="zh">生财有道-2026-10-19</title>
     </programme>
     <programme start="20261019113000" stop="20261019120000" channel="cctv2">
-        <title lang="zh">消费主张</title>
+        <title lang="zh">消费新主张</title>
     </programme>
     <programme start="20261019120000" stop="20261019123000" channel="cctv2">
         <title lang="zh">经济半小时</title>
@@ -1447,19 +1447,19 @@
         <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20261019050300" stop="20261019055300" channel="cctv4">
-        <title lang="zh">破晓东方6/37</title>
-    </programme>
-    <programme start="20261019055300" stop="20261019064200" channel="cctv4">
-        <title lang="zh">破晓东方7/37</title>
-    </programme>
-    <programme start="20261019064200" stop="20261019073300" channel="cctv4">
         <title lang="zh">破晓东方8/37</title>
     </programme>
-    <programme start="20261019073300" stop="20261019082300" channel="cctv4">
+    <programme start="20261019055300" stop="20261019064200" channel="cctv4">
         <title lang="zh">破晓东方9/37</title>
     </programme>
-    <programme start="20261019082300" stop="20261019091500" channel="cctv4">
+    <programme start="20261019064200" stop="20261019073300" channel="cctv4">
         <title lang="zh">破晓东方10/37</title>
+    </programme>
+    <programme start="20261019073300" stop="20261019082300" channel="cctv4">
+        <title lang="zh">破晓东方11/37</title>
+    </programme>
+    <programme start="20261019082300" stop="20261019091500" channel="cctv4">
+        <title lang="zh">破晓东方12/37</title>
     </programme>
     <programme start="20261019091500" stop="20261019100000" channel="cctv4">
         <title lang="zh">远方的家2026-217</title>
@@ -1554,16 +1554,16 @@
     <programme start="20261017083000" stop="20261017090000" channel="cctv5">
         <title lang="zh">2026/2027西班牙足球甲级联赛-第8轮集锦（4K）</title>
     </programme>
-    <programme start="20261017090000" stop="20261017110000" channel="cctv5">
+    <programme start="20261017090000" stop="20261017112200" channel="cctv5">
         <title lang="zh">2026年武汉网球公开赛-单打半决赛</title>
     </programme>
-    <programme start="20261017110000" stop="20261017113000" channel="cctv5">
+    <programme start="20261017112200" stop="20261017113600" channel="cctv5">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme start="20261017113000" stop="20261017133000" channel="cctv5">
+    <programme start="20261017113600" stop="20261017135000" channel="cctv5">
         <title lang="zh">2026/2027赛季中国男子篮球职业联赛-第1轮（浙江浙商证券-山西汾酒）</title>
     </programme>
-    <programme start="20261017133000" stop="20261017153000" channel="cctv5">
+    <programme start="20261017135000" stop="20261017153000" channel="cctv5">
         <title lang="zh">2026/2027德国足球甲级联赛-第6轮（柏林联—多特蒙德）</title>
     </programme>
     <programme start="20261017153000" stop="20261017155900" channel="cctv5">
@@ -1800,14 +1800,17 @@
     <programme start="20261018023000" stop="20261018033100" channel="cctv5plus">
         <title lang="zh">实况录像-2026年亚运会 羽毛球比赛2</title>
     </programme>
-    <programme start="20261018033100" stop="20261018043200" channel="cctv5plus">
+    <programme start="20261018033100" stop="20261018043000" channel="cctv5plus">
         <title lang="zh">实况录像-2026年亚运会 田径比赛2</title>
     </programme>
-    <programme start="20261018043200" stop="20261018060000" channel="cctv5plus">
-        <title lang="zh">2026/2027西班牙足球甲级联赛-第8轮（巴塞罗那—赫塔费）（4K）</title>
+    <programme start="20261018043000" stop="20261018050000" channel="cctv5plus">
+        <title lang="zh">实况录像-2026年国际篮联三人篮球世界巡回赛 罗马尼亚布加勒斯特站</title>
     </programme>
-    <programme start="20261018060000" stop="20261018080500" channel="cctv5plus">
-        <title lang="zh">2026年LPGA锦标赛-第四轮</title>
+    <programme start="20261018050000" stop="20261018070500" channel="cctv5plus">
+        <title lang="zh">2026年别克LPGA锦标赛-第四轮</title>
+    </programme>
+    <programme start="20261018070500" stop="20261018080500" channel="cctv5plus">
+        <title lang="zh">实况录像-2026年亚运会 游泳比赛</title>
     </programme>
     <programme start="20261018080500" stop="20261018083000" channel="cctv5plus">
         <title lang="zh">2026/2027英格兰足球超级联赛-第6轮集锦（4K）</title>
