@@ -495,10 +495,10 @@
     <programme start="20261020113800" stop="20261020120600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20261020120600" stop="20261020130000" channel="cctv1">
+    <programme start="20261020120600" stop="20261020125900" channel="cctv1">
         <title lang="zh">伟大远征-6</title>
     </programme>
-    <programme start="20261020130000" stop="20261020130400" channel="cctv1">
+    <programme start="20261020125900" stop="20261020130400" channel="cctv1">
         <title lang="zh">前情提要-伟大的长征-第18集</title>
     </programme>
     <programme start="20261020130400" stop="20261020140000" channel="cctv1">
@@ -801,10 +801,10 @@
     <programme start="20261020040000" stop="20261020050000" channel="cctv2">
         <title lang="zh">天下财经</title>
     </programme>
-    <programme start="20261020050000" stop="20261020052900" channel="cctv2">
+    <programme start="20261020050000" stop="20261020053000" channel="cctv2">
         <title lang="zh">食安中国-2026-5</title>
     </programme>
-    <programme start="20261020052900" stop="20261020060000" channel="cctv2">
+    <programme start="20261020053000" stop="20261020060000" channel="cctv2">
         <title lang="zh">舆图探山河2-30分版</title>
     </programme>
     <programme start="20261020060000" stop="20261020063000" channel="cctv2">
@@ -1077,13 +1077,13 @@
     <programme start="20261020032600" stop="20261020050000" channel="cctv3">
         <title lang="zh">开门大吉-2026-42</title>
     </programme>
-    <programme start="20261020050000" stop="20261020052400" channel="cctv3">
+    <programme start="20261020050000" stop="20261020052600" channel="cctv3">
         <title lang="zh">文化十分-2026-211</title>
     </programme>
-    <programme start="20261020052400" stop="20261020065800" channel="cctv3">
+    <programme start="20261020052600" stop="20261020065500" channel="cctv3">
         <title lang="zh">2026重阳特别节目-江天秋光颂重阳</title>
     </programme>
-    <programme start="20261020065800" stop="20261020080400" channel="cctv3">
+    <programme start="20261020065500" stop="20261020080400" channel="cctv3">
         <title lang="zh">新花路放—最美的心愿之旅-9</title>
     </programme>
     <programme start="20261020080400" stop="20261020093500" channel="cctv3">
@@ -1369,19 +1369,19 @@
         <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20261020050300" stop="20261020055300" channel="cctv4">
-        <title lang="zh">破晓东方第11集</title>
-    </programme>
-    <programme start="20261020055300" stop="20261020064200" channel="cctv4">
-        <title lang="zh">破晓东方第12集</title>
-    </programme>
-    <programme start="20261020064200" stop="20261020073300" channel="cctv4">
         <title lang="zh">破晓东方第13集</title>
     </programme>
-    <programme start="20261020073300" stop="20261020082300" channel="cctv4">
+    <programme start="20261020055300" stop="20261020064200" channel="cctv4">
         <title lang="zh">破晓东方第14集</title>
     </programme>
-    <programme start="20261020082300" stop="20261020091500" channel="cctv4">
+    <programme start="20261020064200" stop="20261020073300" channel="cctv4">
         <title lang="zh">破晓东方第15集</title>
+    </programme>
+    <programme start="20261020073300" stop="20261020082300" channel="cctv4">
+        <title lang="zh">破晓东方第16集</title>
+    </programme>
+    <programme start="20261020082300" stop="20261020091500" channel="cctv4">
+        <title lang="zh">破晓东方第17集</title>
     </programme>
     <programme start="20261020091500" stop="20261020100000" channel="cctv4">
         <title lang="zh">远方的家2026-218</title>
@@ -1425,20 +1425,23 @@
     <programme start="20261020172300" stop="20261020175300" channel="cctv4">
         <title lang="zh">中国文艺-2026-209</title>
     </programme>
-    <programme start="20261020175300" stop="20261020180000" channel="cctv4">
-        <title lang="zh">记住乡愁-片段展播-2024-38</title>
+    <programme start="20261020175300" stop="20261020175700" channel="cctv4">
+        <title lang="zh">记住乡愁-片段展播-2024-15</title>
+    </programme>
+    <programme start="20261020175700" stop="20261020180000" channel="cctv4">
+        <title lang="zh">国家公园精彩片段-5</title>
     </programme>
     <programme start="20261020180000" stop="20261020183000" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20261020183000" stop="20261020190200" channel="cctv4">
+    <programme start="20261020183000" stop="20261020185800" channel="cctv4">
         <title lang="zh">走遍中国-2026-167</title>
     </programme>
-    <programme start="20261020190200" stop="20261020190700" channel="cctv4">
-        <title lang="zh">国家公园精彩片段-6</title>
+    <programme start="20261020185800" stop="20261020190200" channel="cctv4">
+        <title lang="zh">记住乡愁-片段展播-2024-19</title>
     </programme>
-    <programme start="20261020190700" stop="20261020191000" channel="cctv4">
-        <title lang="zh">国家公园精彩片段-5</title>
+    <programme start="20261020190200" stop="20261020191000" channel="cctv4">
+        <title lang="zh">记住乡愁-片段展播-2025-13</title>
     </programme>
     <programme start="20261020191000" stop="20261020200000" channel="cctv4">
         <title lang="zh">远方的家2026-218</title>
@@ -1492,19 +1495,19 @@
         <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20261021050300" stop="20261021055300" channel="cctv4">
-        <title lang="zh">破晓东方16/37</title>
-    </programme>
-    <programme start="20261021055300" stop="20261021064200" channel="cctv4">
-        <title lang="zh">破晓东方17/37</title>
-    </programme>
-    <programme start="20261021064200" stop="20261021073300" channel="cctv4">
         <title lang="zh">破晓东方18/37</title>
     </programme>
-    <programme start="20261021073300" stop="20261021082300" channel="cctv4">
+    <programme start="20261021055300" stop="20261021064200" channel="cctv4">
         <title lang="zh">破晓东方19/37</title>
     </programme>
-    <programme start="20261021082300" stop="20261021091500" channel="cctv4">
+    <programme start="20261021064200" stop="20261021073300" channel="cctv4">
         <title lang="zh">破晓东方20/37</title>
+    </programme>
+    <programme start="20261021073300" stop="20261021082300" channel="cctv4">
+        <title lang="zh">破晓东方21/37</title>
+    </programme>
+    <programme start="20261021082300" stop="20261021091500" channel="cctv4">
+        <title lang="zh">破晓东方22/37</title>
     </programme>
     <programme start="20261021091500" stop="20261021100000" channel="cctv4">
         <title lang="zh">远方的家2026-219</title>
@@ -4690,7 +4693,7 @@
         <title lang="zh">长征路上新乡村(10分钟版）-2</title>
     </programme>
     <programme start="20261019130700" stop="20261019133800" channel="cctv17">
-        <title lang="zh">三农群英汇-2026-333</title>
+        <title lang="zh">三农群英汇-2026-334</title>
     </programme>
     <programme start="20261019133800" stop="20261019150200" channel="cctv17">
         <title lang="zh">丰收中国之乡村趣味运动会-8</title>
@@ -4720,7 +4723,7 @@
         <title lang="zh">中国三农报道</title>
     </programme>
     <programme start="20261020002000" stop="20261020005100" channel="cctv17">
-        <title lang="zh">三农群英汇-2026-333</title>
+        <title lang="zh">三农群英汇-2026-334</title>
     </programme>
     <programme start="20261020005100" stop="20261020021600" channel="cctv17">
         <title lang="zh">丰收中国之乡村趣味运动会-8</title>
@@ -4774,7 +4777,7 @@
         <title lang="zh">长征路上新乡村(10分钟版）-4</title>
     </programme>
     <programme start="20261020130700" stop="20261020133800" channel="cctv17">
-        <title lang="zh">三农群英汇-2026-334</title>
+        <title lang="zh">三农群英汇-2026-333</title>
     </programme>
     <programme start="20261020133800" stop="20261020150200" channel="cctv17">
         <title lang="zh">共富经-2026-134-创富记4</title>
@@ -4783,7 +4786,7 @@
         <title lang="zh">乡理乡亲-2026-67</title>
     </programme>
     <programme start="20261020155300" stop="20261020155900" channel="cctv17">
-        <title lang="zh">三农群英汇-2026-334</title>
+        <title lang="zh">三农群英汇-2026-333</title>
     </programme>
     <programme start="20261020162300" stop="20261020174900" channel="cctv17">
         <title lang="zh">共富经-2026-134-创富记4</title>
@@ -4804,7 +4807,7 @@
         <title lang="zh">中国三农报道</title>
     </programme>
     <programme start="20261021002000" stop="20261021005100" channel="cctv17">
-        <title lang="zh">三农群英汇-2026-334</title>
+        <title lang="zh">三农群英汇-2026-333</title>
     </programme>
     <programme start="20261021005100" stop="20261021021600" channel="cctv17">
         <title lang="zh">共富经-2026-134-创富记4</title>
